@@ -18,8 +18,8 @@ export const randCrosTabBannerToEntry = (foba, { size = 4 } = {}) => {
 }
 export const simpleEntries = ({ h = 4 } = {}) => {
   const ob = {
-    numeric: FobaObN.flop({ size: Roulett.between(h - 1, h + 1) }),
-    string: FobaObS.flop({ size: Roulett.between(h - 1, h + 1) })
+    numeric: Object.entries(FobaObN.flop({ size: Roulett.between(h - 1, h + 1) })),
+    string: Object.entries(FobaObS.flop({ size: Roulett.between(h - 1, h + 1) }))
   }
   Object.assign(ob, randCrosTabBannerToEntry(FobaCrX, { size: Roulett.between(h - 1, h + 1) }))
   return ob
