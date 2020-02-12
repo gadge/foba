@@ -1,12 +1,12 @@
-## palma
+## foba
 
 [![github commit last][badge-github-last-commit]][url-github]
 [![github commit total][badge-github-commit-count]][url-github]
 
 [//]: <> (Shields)
-[badge-github-last-commit]: https://flat.badgen.net/github/last-commit/hoyeungw/palma
-[badge-github-commit-count]: https://flat.badgen.net/github/commits/hoyeungw/palma
-[url-github]: https://github.com/hoyeungw/palma
+[badge-github-last-commit]: https://flat.badgen.net/github/last-commit/hoyeungw/foba
+[badge-github-commit-count]: https://flat.badgen.net/github/commits/hoyeungw/foba
+[url-github]: https://github.com/hoyeungw/foba
 
 ##### A miscellaneous tool box.
 
