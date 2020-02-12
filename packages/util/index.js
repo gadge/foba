@@ -1,0 +1,8 @@
+export { SelectMode, RAND, HEAD, TAIL, LEAP } from './resources/enums/SelectMode'
+export { shuffleVector } from './src/shuffleVector'
+export { shuffleObject } from './src/shuffleObject'
+export { Shuffler, shuffle } from './src/shuffle'
+export { embed } from './src/embed'
+export { randProperty, randPropertyKey } from './src/randProperty'
+export { selectAndShuffle } from './src/selectAndShuffle'
+export { Flopper } from './src/Flopper'
