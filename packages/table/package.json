@@ -1,6 +1,6 @@
 {
   "name": "@foba/table",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "metavariables for testing",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -15,9 +15,8 @@
     "test": "node -r @babel/register test/vector.test.js"
   },
   "dependencies": {
-    "@foba/util": "^0.0.0"
+    "@foba/util": "^0.0.1"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hoyeungw/foba.git"

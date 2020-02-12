@@ -1,6 +1,6 @@
 {
   "name": "@foba/foo",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A debugging tool",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -15,13 +15,11 @@
     "test": "node -r @babel/register test/test.index.js"
   },
   "dependencies": {
-    "@foba/crostab": "^0.0.0",
-    "@foba/vector": "^0.0.0",
-    "@foba/util": "^0.0.0",
-    "roulett": "^0.0.5",
-    "crostab": "^0.3.9"
-  },
-  "devDependencies": {
+    "@foba/crostab": "^0.0.1",
+    "@foba/util": "^0.0.1",
+    "@foba/vector": "^0.0.1",
+    "crostab": "^0.3.9",
+    "roulett": "^0.0.5"
   },
   "repository": {
     "type": "git",
