@@ -1,7 +1,7 @@
-import { selectAndShuffle } from './selectAndShuffle'
+import { flopAndShuffle } from './flopAndShuffle'
 
 export class Flopper {
-  static flop ({ p, mode, size, start } = {}) {
-    return selectAndShuffle.call({ p, mode, size, start }, this)
+  static flop ({ p, mode, size, start, keyValuePair } = {}) {
+    return flopAndShuffle.call({ p, mode, size, start, keyValuePair }, this)
   }
 }

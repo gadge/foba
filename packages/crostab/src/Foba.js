@@ -15,6 +15,8 @@ import ManufacturingVA from '../resources/ManufacturingVA'
 import AgricultureForestryFishingVA from '../resources/AgricultureForestryFishingVA'
 import StocksTradedValue from '../resources/StocksTradedValue'
 import MarketCapListedDomestic from '../resources/MarketCapListedDomestic'
+import { flopEntriesByBanner } from '../util/flopEntriesByBanner'
+import { decoLog } from '@spare/deco'
 
 const MEAN_LEN = 4
 
@@ -45,6 +47,10 @@ export class Foba {
     const side = shuffleVector.call({ mode: LEAP, size: h }, ob.side)
     const banner = shuffleVector.call({ mode: RAND, size: w }, ob.banner)
     return CrosTab.from(ob).select({ side, banner }).toJson
+  }
+
+  static flopEntriesByBanner ({ size, keyValuePair = false } = {}) {
+    return flopEntriesByBanner.call({ size, keyValuePair }, Foba)
   }
 }
 

@@ -16,9 +16,10 @@
   },
   "dependencies": {
     "@foba/crostab": "^0.0.2",
+    "@foba/object-number": "^0.0.2",
+    "@foba/object-string": "^0.0.2",
     "@foba/util": "^0.0.2",
     "@foba/vector": "^0.0.2",
-    "crostab": "^0.3.9",
     "roulett": "^0.0.5"
   },
   "repository": {
