@@ -1,9 +1,9 @@
-import { randPropertyKey, Shuffler } from '@foba/util'
+import { flopPropKey, Shuffler } from '@foba/util'
 import { CrosTab } from 'crostab'
 
 export function flopEntriesByBanner (foba) {
   const { size, keyValuePair } = this
-  let key = foba |> randPropertyKey
+  let key = foba |> flopPropKey
   let crostab = foba[key],
     side = crostab.side |> Shuffler({ size: 1 }),
     banner = crostab.banner |> Shuffler({ size }),

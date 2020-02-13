@@ -1,28 +1,30 @@
 ## @foba/util
-A string colorant tool
 
-[![npm version][npm-image]][npm-url]
-[![npm quality][quality-image]][quality-url]
-[![npm download][download-image]][npm-url]
-[![npm total-download][total-download-image]][npm-url]
-[![size][size]][size-url]
-[![github commit activity][commit-image]][github-url]
-[![npm license][license-image]][npm-url]
+[![npm version][badge-npm-version]][url-npm]
+[![npm download monthly][badge-npm-download-monthly]][url-npm]
+[![npm download total][badge-npm-download-total]][url-npm]
+[![npm dependents][badge-npm-dependents]][url-github]
+[![npm license][badge-npm-license]][url-npm]
+[![pp install size][badge-pp-install-size]][url-pp]
+[![github commit last][badge-github-last-commit]][url-github]
+[![github commit total][badge-github-commit-count]][url-github]
 
 [//]: <> (Shields)
-[npm-image]: https://img.shields.io/npm/v/@foba/util.svg?style=flat-square
-[quality-image]: http://npm.packagequality.com/shield/@foba/util.svg?style=flat-square
-[download-image]: https://img.shields.io/npm/dm/@foba/util.svg?style=flat-square
-[total-download-image]:https://img.shields.io/npm/dt/@foba/util.svg?style=flat-square
-[license-image]: https://img.shields.io/npm/l/@foba/util.svg?style=flat-square
-[commit-image]: https://img.shields.io/github/commit-activity/y/hoyeungw/@foba/util?style=flat-square
-[size]: https://flat.badgen.net/packagephobia/install/@foba/util
+[badge-npm-version]: https://flat.badgen.net/npm/v/@foba/util
+[badge-npm-download-monthly]: https://flat.badgen.net/npm/dm/@foba/util
+[badge-npm-download-total]:https://flat.badgen.net/npm/dt/@foba/util
+[badge-npm-dependents]: https://flat.badgen.net/npm/dependents/@foba/util
+[badge-npm-license]: https://flat.badgen.net/npm/license/@foba/util
+[badge-pp-install-size]: https://flat.badgen.net/packagephobia/install/@foba/util
+[badge-github-last-commit]: https://flat.badgen.net/github/last-commit/hoyeungw/foba
+[badge-github-commit-count]: https://flat.badgen.net/github/commits/hoyeungw/foba
 
 [//]: <> (Link)
-[npm-url]: https://npmjs.org/package/@foba/util
-[quality-url]: http://packagequality.com/#?package=@foba/util
-[github-url]: https://github.com/hoyeungw/@foba/util
-[size-url]: https://packagephobia.now.sh/result?p=@foba/util
+[url-npm]: https://npmjs.org/package/@foba/util
+[url-pp]: https://packagephobia.now.sh/result?p=@foba/util
+[url-github]: https://github.com/hoyeungw/foba
+
+##### Internal util library for @foba
 
 ## Features
 

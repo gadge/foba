@@ -1,7 +1,7 @@
 import { Foba as FobaObN } from '@foba/object-number'
 import { Foba as FobaObS } from '@foba/object-string'
 import { Foba as FobaCrX } from '@foba/crostab'
-import { sizeOscillator } from '../util/sizeOscillator'
+import { sizeOscillator } from '@foba/util'
 
 export const simpleEntries = ({ h = 4 } = {}) => {
   const ob = {

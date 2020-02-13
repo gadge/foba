@@ -1,8 +1,8 @@
 import { Foba as FobaCX } from '@foba/crostab'
-import { randPropertyKey } from '@foba/util'
+import { flopPropKey } from '@foba/util'
 
 export const crosXMatricesRobust = ({ h, w } = {}) => {
-  let key = FobaCX|> randPropertyKey
+  let key = FobaCX|> flopPropKey
   const { side, banner, matrix } = FobaCX.flopShuffle({ p: key, h, w })
   return {
     null: null,

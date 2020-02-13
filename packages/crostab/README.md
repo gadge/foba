@@ -1,28 +1,30 @@
-## @foba/vector
-A string colorant tool
+## @foba/crostab
 
-[![npm version][npm-image]][npm-url]
-[![npm quality][quality-image]][quality-url]
-[![npm download][download-image]][npm-url]
-[![npm total-download][total-download-image]][npm-url]
-[![size][size]][size-url]
-[![github commit activity][commit-image]][github-url]
-[![npm license][license-image]][npm-url]
+[![npm version][badge-npm-version]][url-npm]
+[![npm download monthly][badge-npm-download-monthly]][url-npm]
+[![npm download total][badge-npm-download-total]][url-npm]
+[![npm dependents][badge-npm-dependents]][url-github]
+[![npm license][badge-npm-license]][url-npm]
+[![pp install size][badge-pp-install-size]][url-pp]
+[![github commit last][badge-github-last-commit]][url-github]
+[![github commit total][badge-github-commit-count]][url-github]
 
 [//]: <> (Shields)
-[npm-image]: https://img.shields.io/npm/v/@foba/vector.svg?style=flat-square
-[quality-image]: http://npm.packagequality.com/shield/@foba/vector.svg?style=flat-square
-[download-image]: https://img.shields.io/npm/dm/@foba/vector.svg?style=flat-square
-[total-download-image]:https://img.shields.io/npm/dt/@foba/vector.svg?style=flat-square
-[license-image]: https://img.shields.io/npm/l/@foba/vector.svg?style=flat-square
-[commit-image]: https://img.shields.io/github/commit-activity/y/hoyeungw/@foba/vector?style=flat-square
-[size]: https://flat.badgen.net/packagephobia/install/@foba/vector
+[badge-npm-version]: https://flat.badgen.net/npm/v/@foba/crostab
+[badge-npm-download-monthly]: https://flat.badgen.net/npm/dm/@foba/crostab
+[badge-npm-download-total]:https://flat.badgen.net/npm/dt/@foba/crostab
+[badge-npm-dependents]: https://flat.badgen.net/npm/dependents/@foba/crostab
+[badge-npm-license]: https://flat.badgen.net/npm/license/@foba/crostab
+[badge-pp-install-size]: https://flat.badgen.net/packagephobia/install/@foba/crostab
+[badge-github-last-commit]: https://flat.badgen.net/github/last-commit/hoyeungw/foba
+[badge-github-commit-count]: https://flat.badgen.net/github/commits/hoyeungw/foba
 
 [//]: <> (Link)
-[npm-url]: https://npmjs.org/package/@foba/vector
-[quality-url]: http://packagequality.com/#?package=@foba/vector
-[github-url]: https://github.com/hoyeungw/@foba/vector
-[size-url]: https://packagephobia.now.sh/result?p=@foba/vector
+[url-npm]: https://npmjs.org/package/@foba/crostab
+[url-pp]: https://packagephobia.now.sh/result?p=@foba/crostab
+[url-github]: https://github.com/hoyeungw/foba
+
+##### Crostab instances for testing
 
 ## Features
 
@@ -30,12 +32,12 @@ A string colorant tool
 
 ## Install
 ```console
-$ npm install @foba/vector
+$ npm install @foba/crostab
 ```
 
 ## Usage
 ```js
-import { Temp } from '@foba/vector'
+import { Temp } from '@foba/crostab'
 ```
 
 ## Meta

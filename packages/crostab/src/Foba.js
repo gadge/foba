@@ -1,4 +1,4 @@
-import { LEAP, RAND, randProperty, shuffleVector } from '@foba/util'
+import { LEAP, RAND, flopProp, shuffleVector } from '@foba/util'
 import { Roulett } from 'roulett'
 import { CrosTab } from 'crostab'
 import BigMacIndex from '../resources/BigMacIndex'
@@ -16,7 +16,6 @@ import AgricultureForestryFishingVA from '../resources/AgricultureForestryFishin
 import StocksTradedValue from '../resources/StocksTradedValue'
 import MarketCapListedDomestic from '../resources/MarketCapListedDomestic'
 import { flopEntriesByBanner } from '../util/flopEntriesByBanner'
-import { decoLog } from '@spare/deco'
 
 const MEAN_LEN = 4
 
@@ -37,11 +36,11 @@ export class Foba {
   static MarketCapListedDomestic = MarketCapListedDomestic
 
   static flop () {
-    return Foba |> randProperty
+    return Foba |> flopProp
   }
 
   static flopShuffle ({ p, h, w } = {}) {
-    const ob = p ? Foba[p] : (Foba|> randProperty)
+    const ob = p ? Foba[p] : (Foba|> flopProp)
     h = h || Roulett.rand(MEAN_LEN - 1, MEAN_LEN + 1)
     w = w || Roulett.rand(MEAN_LEN - 1, MEAN_LEN + 1)
     const side = shuffleVector.call({ mode: LEAP, size: h }, ob.side)

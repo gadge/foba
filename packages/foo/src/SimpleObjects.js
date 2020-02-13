@@ -1,4 +1,4 @@
-import { sizeOscillator } from '../util/sizeOscillator'
+import { sizeOscillator } from '@foba/util'
 import { Foba as FobaObN } from '@foba/object-number'
 import { Foba as FobaObS } from '@foba/object-string'
 import { Foba as FobaCrX } from '@foba/crostab'
@@ -11,6 +11,7 @@ export const objectify = (entriesByBannerInKeyValuePair) => {
   for (let [k, v] of entries) o[k] = v
   return (oneEntry = {}, oneEntry[k] = o, oneEntry)
 }
+
 export const simpleObjects = ({ h = 4 } = {}) => {
   return Object.assign({ empty: {}, },
     FobaObN.flop({ size: h |> sizeOscillator, keyValuePair }),

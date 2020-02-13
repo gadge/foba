@@ -1,5 +1,5 @@
-import { Foba as FobaVec } from '@foba/vector'
-import { randPropertyKey } from '@foba/util'
+import { FobaStr as FobaVec } from '@foba/vector'
+import { flopPropKey } from '@foba/util'
 import { simpleMatrices } from './SimpleMatrices'
 
 export const simpleMatricesRobust = ({ h = 3, w = 4, fn } = {}) => {
@@ -9,7 +9,7 @@ export const simpleMatricesRobust = ({ h = 3, w = 4, fn } = {}) => {
     null: null,
     undefined: undefined,
     numeric: 0xff,
-    string: key = FobaVec|> randPropertyKey,
+    string: key = FobaVec|> flopPropKey,
     emptyVector: [],
     emptyEntry: [,],
     stringVector: FobaVec.flop({ p: key, size: w }),
