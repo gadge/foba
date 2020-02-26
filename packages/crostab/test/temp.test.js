@@ -1,8 +1,8 @@
-import { decoLog } from '@spare/deco'
+import { delogger } from '@spare/logger'
 import { Foba } from '../src/Foba'
 
-Foba.flop() |> decoLog
+Foba.flop() |> delogger
 
-Foba.flopShuffle() |> decoLog
+Foba.flopShuffle() |> delogger
 
-Foba.flopEntriesByBanner() |>  decoLog
+Foba.flopEntriesByBanner() |>  delogger

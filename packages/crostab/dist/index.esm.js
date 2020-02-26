@@ -1,6 +1,6 @@
-import { flopPropKey, Shuffler, flopProp, shuffleVector, LEAP, RAND } from '@foba/util';
-import { Roulett } from 'roulett';
+import { flopPropKey, Shuffler, shuffleVector, LEAP, RAND, flopProp } from '@foba/util';
 import { CrosTab } from 'crostab';
+import { randIntBetw } from '@aryth/rand';
 
 function _defineProperty(obj, key, value) {
   if (key in obj) {
@@ -3911,6 +3911,35 @@ function flopEntriesByBanner(foba) {
 }
 
 const MEAN_LEN = 4;
+function shuffleCrostab({
+  side,
+  banner,
+  matrix,
+  h,
+  w
+} = {}) {
+  const oside = side,
+        obanner = banner;
+  h = h || randIntBetw(MEAN_LEN - 1, MEAN_LEN + 1);
+  w = w || randIntBetw(MEAN_LEN - 1, MEAN_LEN + 1);
+  side = shuffleVector.call({
+    mode: LEAP,
+    size: h
+  }, side);
+  banner = shuffleVector.call({
+    mode: RAND,
+    size: w
+  }, banner);
+  return CrosTab.from({
+    side: oside,
+    banner: obanner,
+    matrix
+  }).select({
+    side,
+    banner
+  }).toJson;
+}
+
 class Foba {
   static flop() {
     var _Foba;
@@ -3925,21 +3954,19 @@ class Foba {
   } = {}) {
     var _Foba2;
 
-    const ob = p ? Foba[p] : (_Foba2 = Foba, flopProp(_Foba2));
-    h = h || Roulett.rand(MEAN_LEN - 1, MEAN_LEN + 1);
-    w = w || Roulett.rand(MEAN_LEN - 1, MEAN_LEN + 1);
-    const side = shuffleVector.call({
-      mode: LEAP,
-      size: h
-    }, ob.side);
-    const banner = shuffleVector.call({
-      mode: RAND,
-      size: w
-    }, ob.banner);
-    return CrosTab.from(ob).select({
+    const {
       side,
-      banner
-    }).toJson;
+      banner,
+      matrix
+    } = p ? Foba[p] : (_Foba2 = Foba, flopProp(_Foba2));
+    return shuffleCrostab({
+      side,
+      banner,
+      matrix,
+      p,
+      h,
+      w
+    });
   }
 
   static flopEntriesByBanner({

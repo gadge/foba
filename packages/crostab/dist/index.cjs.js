@@ -3,8 +3,8 @@
 Object.defineProperty(exports, '__esModule', { value: true });
 
 var util = require('@foba/util');
-var roulett = require('roulett');
 var crostab = require('crostab');
+var rand = require('@aryth/rand');
 
 function _defineProperty(obj, key, value) {
   if (key in obj) {
@@ -3915,6 +3915,35 @@ function flopEntriesByBanner(foba) {
 }
 
 const MEAN_LEN = 4;
+function shuffleCrostab({
+  side,
+  banner,
+  matrix,
+  h,
+  w
+} = {}) {
+  const oside = side,
+        obanner = banner;
+  h = h || rand.randIntBetw(MEAN_LEN - 1, MEAN_LEN + 1);
+  w = w || rand.randIntBetw(MEAN_LEN - 1, MEAN_LEN + 1);
+  side = util.shuffleVector.call({
+    mode: util.LEAP,
+    size: h
+  }, side);
+  banner = util.shuffleVector.call({
+    mode: util.RAND,
+    size: w
+  }, banner);
+  return crostab.CrosTab.from({
+    side: oside,
+    banner: obanner,
+    matrix
+  }).select({
+    side,
+    banner
+  }).toJson;
+}
+
 class Foba {
   static flop() {
     var _Foba;
@@ -3929,21 +3958,19 @@ class Foba {
   } = {}) {
     var _Foba2;
 
-    const ob = p ? Foba[p] : (_Foba2 = Foba, util.flopProp(_Foba2));
-    h = h || roulett.Roulett.rand(MEAN_LEN - 1, MEAN_LEN + 1);
-    w = w || roulett.Roulett.rand(MEAN_LEN - 1, MEAN_LEN + 1);
-    const side = util.shuffleVector.call({
-      mode: util.LEAP,
-      size: h
-    }, ob.side);
-    const banner = util.shuffleVector.call({
-      mode: util.RAND,
-      size: w
-    }, ob.banner);
-    return crostab.CrosTab.from(ob).select({
+    const {
       side,
-      banner
-    }).toJson;
+      banner,
+      matrix
+    } = p ? Foba[p] : (_Foba2 = Foba, util.flopProp(_Foba2));
+    return shuffleCrostab({
+      side,
+      banner,
+      matrix,
+      p,
+      h,
+      w
+    });
   }
 
   static flopEntriesByBanner({

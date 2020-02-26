@@ -16,8 +16,8 @@
   },
   "dependencies": {
     "@foba/util": "^0.0.7",
-    "crostab": "^0.3.9",
-    "roulett": "^0.0.5"
+    "@aryth/rand": "^0.0.10",
+    "crostab": "^0.3.9"
   },
   "repository": {
     "type": "git",

@@ -1,6 +1,4 @@
-import { LEAP, RAND, flopProp, shuffleVector } from '@foba/util'
-import { Roulett } from 'roulett'
-import { CrosTab } from 'crostab'
+import { flopProp } from '@foba/util'
 import BigMacIndex from '../resources/BigMacIndex'
 import Gdp from '../resources/Gdp'
 import Population from '../resources/Population'
@@ -16,8 +14,7 @@ import AgricultureForestryFishingVA from '../resources/AgricultureForestryFishin
 import StocksTradedValue from '../resources/StocksTradedValue'
 import MarketCapListedDomestic from '../resources/MarketCapListedDomestic'
 import { flopEntriesByBanner } from '../util/flopEntriesByBanner'
-
-const MEAN_LEN = 4
+import { shuffleCrostab } from './shuffleCrostab'
 
 export class Foba {
   static BigMacIndex = BigMacIndex
@@ -40,12 +37,8 @@ export class Foba {
   }
 
   static flopShuffle ({ p, h, w } = {}) {
-    const ob = p ? Foba[p] : (Foba|> flopProp)
-    h = h || Roulett.rand(MEAN_LEN - 1, MEAN_LEN + 1)
-    w = w || Roulett.rand(MEAN_LEN - 1, MEAN_LEN + 1)
-    const side = shuffleVector.call({ mode: LEAP, size: h }, ob.side)
-    const banner = shuffleVector.call({ mode: RAND, size: w }, ob.banner)
-    return CrosTab.from(ob).select({ side, banner }).toJson
+    const { side, banner, matrix } = p ? Foba[p] : (Foba|> flopProp)
+    return shuffleCrostab({ side, banner, matrix, p, h, w })
   }
 
   static flopEntriesByBanner ({ size, keyValuePair = false } = {}) {
