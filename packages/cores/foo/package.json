@@ -1,0 +1,43 @@
+{
+  "name": "@foba/foo",
+  "version": "0.0.8",
+  "description": "A debugging tool",
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.esm.js",
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "pub": "npm publish",
+    "test": "node -r @babel/register test/foo.test.js"
+  },
+  "dependencies": {
+    "@aryth/rand": "^0.0.13",
+    "@aryth/math": "^0.0.13",
+    "@foba/crostab": "^0.0.8",
+    "@foba/object-number": "^0.0.8",
+    "@foba/object-string": "^0.0.8",
+    "@foba/util": "^0.0.8",
+    "@foba/vector": "^0.0.8",
+    "roulett": "^0.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoyeungw/foba.git"
+  },
+  "keywords": [
+    "array",
+    "fobaor",
+    "matrix",
+    "object"
+  ],
+  "author": "Hoyeung Wong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hoyeungw/foba"
+  },
+  "homepage": "https://github.com/hoyeungw/foba#readme"
+}
