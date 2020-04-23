@@ -1,8 +1,8 @@
-import { FlopShuffleMaker } from '@foba/util'
-import { briefName } from './util/briefName'
-import { actors, actresses, directors } from '../resources'
 import { ArmSales, CityPopulations, MortalityRates, PowerCars, Recessions } from '@foba/object-number'
-import { CarPlants, FilmActors, FilmActresses, FilmDirectors, Pastas } from '@foba/object-string'
+import { CarPlants, FilmActors, FilmActresses, FilmDirectors, Pastas }      from '@foba/object-string'
+import { FlopShuffleMaker }                                                 from '@foba/util'
+import { actors, actresses, directors }                                     from '../resources'
+import { briefName }                                                        from './util/briefName'
 
 /**
  * @property {Function|function(Object):*[]} flopShuffle

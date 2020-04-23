@@ -1,4 +1,4 @@
-import { sizeOscillator } from '@foba/util'
+import { sizeOscillator }                                 from '@foba/util'
 import { NumberVectorCollection, StringVectorCollection } from '@foba/vector'
 
 const keyed = true

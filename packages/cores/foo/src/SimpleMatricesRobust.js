@@ -1,6 +1,6 @@
+import { flopKey }          from '@aryth/rand'
 import { VectorCollection } from '@foba/vector-string'
-import { flopKey } from '@aryth/rand'
-import { simpleMatrices } from './SimpleMatrices'
+import { simpleMatrices }   from './SimpleMatrices'
 
 export const simpleMatricesRobust = ({ h = 3, w = 4, fn } = {}) => {
   let key
