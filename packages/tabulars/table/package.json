@@ -15,10 +15,10 @@
     "test": "node -r @babel/register test/vector.test.js"
   },
   "dependencies": {
-    "@analys/table-select": "^0.1.0",
-    "@aryth/rand": "0.0.13",
+    "@analys/table-select": "^0.3.0",
+    "@aryth/rand": "0.1.3",
     "@foba/util": "^0.1.0",
-    "@vect/object-init": "^0.1.15"
+    "@vect/object-init": "^0.2.3"
   },
   "repository": {
     "type": "git",

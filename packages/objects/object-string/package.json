@@ -15,7 +15,9 @@
     "test": "node -r @babel/register test/object-number.test.js"
   },
   "dependencies": {
-    "@foba/util": "^0.1.0"
+    "@spare/enum-chars": "^0.4.16",
+    "@foba/util": "^0.1.0",
+    "@vect/object-init": "^0.2.3"
   },
   "repository": {
     "type": "git",

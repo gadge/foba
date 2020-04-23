@@ -15,14 +15,14 @@
     "test": "node -r @babel/register test/foo.test.js"
   },
   "dependencies": {
-    "@aryth/math": "^0.0.13",
-    "@aryth/rand": "^0.0.13",
+    "@aryth/math": "^0.1.3",
+    "@aryth/rand": "^0.1.3",
     "@foba/crostab": "^0.1.0",
     "@foba/object-number": "^0.1.0",
     "@foba/object-string": "^0.1.0",
     "@foba/util": "^0.1.0",
     "@foba/vector": "^0.1.0",
-    "roulett": "^0.0.6"
+    "roulett": "^0.1.0"
   },
   "repository": {
     "type": "git",

@@ -15,13 +15,13 @@
     "test": "node -r @babel/register test/util.test.js"
   },
   "dependencies": {
-    "@aryth/comparer": "^0.0.13",
-    "@aryth/rand": "^0.0.13",
-    "@typen/enum-data-types": "^0.0.3",
-    "@vect/enum-select-styles": "^0.1.15",
-    "@vect/object-init": "^0.1.15",
-    "@vect/object-select": "^0.1.16",
-    "@vect/vector-select": "^0.1.16"
+    "@aryth/comparer": "^0.1.3",
+    "@aryth/rand": "^0.1.3",
+    "@typen/enum-data-types": "^0.1.0",
+    "@vect/enum-select-styles": "^0.2.3",
+    "@vect/object-init": "^0.2.3",
+    "@vect/object-select": "^0.2.3",
+    "@vect/vector-select": "^0.2.3"
   },
   "repository": {
     "type": "git",

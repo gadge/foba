@@ -1,10 +1,12 @@
 import { FlopShuffleMaker } from '@foba/util'
-import { CarPlants } from '../resources/CarPlants'
-import { FilmActors } from '../resources/FilmActors'
-import { FilmActresses } from '../resources/FilmActresses'
-import { FilmDirectors } from '../resources/FilmDirectors'
-import { MilitaryRobots } from '../resources/MilitaryRobots'
-import { Pastas } from '../resources/Pastas'
+import { CarPlants }        from '../resources/CarPlants'
+import { FilmActors }       from '../resources/FilmActors'
+import { FilmActresses }    from '../resources/FilmActresses'
+import { FilmDirectors }    from '../resources/FilmDirectors'
+import { MilitaryRobots }   from '../resources/MilitaryRobots'
+import { MovieQuotes }      from '../resources/MovieQuotes'
+import { Pastas }           from '../resources/Pastas'
+import { ShakesQuote }      from '../resources/ShakesQuote'
 
 /**
  * @property {Function|function(Object):*[]} flopShuffle
@@ -21,6 +23,8 @@ export const ObjectCollection = {
   get FilmDirectors () { return FilmDirectors },
   get MilitaryRobots () { return MilitaryRobots },
   get Pastas () { return Pastas },
+  get MovieQuotes () { return MovieQuotes},
+  get ShakesQuote () {return ShakesQuote},
 }
 
 FlopShuffleMaker.defineForObject(ObjectCollection)
