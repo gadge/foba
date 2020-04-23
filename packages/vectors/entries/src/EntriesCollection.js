@@ -1,6 +1,15 @@
 import { ArmSales, CityPopulations, MortalityRates, PowerCars, Recessions } from '@foba/object-number'
-import { CarPlants, FilmActors, FilmActresses, FilmDirectors, MilitaryRobots, Pastas } from '@foba/object-string'
-import { FlopShuffleMaker } from '@foba/util'
+import {
+  CarPlants,
+  FilmActors,
+  FilmActresses,
+  FilmDirectors,
+  MilitaryRobots,
+  MovieQuotes,
+  Pastas,
+  ShakesQuote
+}                                                                           from '@foba/object-string'
+import { FlopShuffleMaker }                                                 from '@foba/util'
 
 /**
  * @property {Function|function(Object):*[]} flopShuffle
@@ -24,6 +33,8 @@ export const EntriesCollection = {
   get FilmDirectors () { return Object.entries(FilmDirectors) },
   get MilitaryRobots () { return Object.entries(MilitaryRobots) },
   get Pastas () { return Object.entries(Pastas) },
+  get MovieQuotes () { return Object.entries(MovieQuotes) },
+  get ShakesQuote () { return Object.entries(ShakesQuote) },
 }
 
 FlopShuffleMaker.defineForVector(EntriesCollection)

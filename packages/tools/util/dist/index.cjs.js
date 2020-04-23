@@ -38,7 +38,7 @@ function shuffleObject(ob) {
 }
 
 function shuffleVector(vec) {
-  var _ref;
+  var _vec$length;
 
   let {
     size,
@@ -46,7 +46,7 @@ function shuffleVector(vec) {
     mode
   } = this;
   mode = mode || enumSelectStyles.RAND;
-  start = start || rand.rand((_ref = vec === null || vec === void 0 ? void 0 : vec.length) !== null && _ref !== void 0 ? _ref : 0), size = size || 3;
+  start = start || rand.rand((_vec$length = vec === null || vec === void 0 ? void 0 : vec.length) !== null && _vec$length !== void 0 ? _vec$length : 0), size = size || 3;
   if (mode === enumSelectStyles.RAND) return vectorSelect.shuffle(vec, size);
   if (mode === enumSelectStyles.LEAP) return vectorSelect.leap(vec, start, size);
   if (mode === enumSelectStyles.HEAD) return vec.slice(0, size);

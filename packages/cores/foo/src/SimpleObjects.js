@@ -1,7 +1,7 @@
-import { sizeOscillator } from '@foba/util'
+import { CrostabCollection }       from '@foba/crostab'
 import { ObjectCollection as OCN } from '@foba/object-number'
 import { ObjectCollection as OCS } from '@foba/object-string'
-import { CrostabCollection } from '@foba/crostab'
+import { sizeOscillator }          from '@foba/util'
 
 const keyed = true
 

@@ -1,6 +1,6 @@
 import { ObjectCollection } from '../src/ObjectCollection'
-import { deca } from '@spare/deco'
-import { logger, says } from '@spare/logger'
+import { deca }                     from '@spare/deco'
+import { decoObject, logger, says } from '@spare/logger'
 
 ObjectCollection.flopShuffle({
   size: 5,
@@ -11,4 +11,4 @@ ObjectCollection.flopShuffle({
 
 ObjectCollection.flopShuffle({
   size: 10
-}) |> deca() |> says['test ObjectCollection']
+}) |> decoObject |> says['test ObjectCollection']
