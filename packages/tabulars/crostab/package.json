@@ -17,7 +17,7 @@
   "dependencies": {
     "@analys/crostab": "^0.3.0",
     "@analys/crostab-select": "^0.3.0",
-    "@aryth/rand": "^0.1.3",
+    "@aryth/rand": "^0.1.4",
     "@foba/util": "^0.1.2",
     "@vect/entries-init": "^0.2.3",
     "@vect/object-init": "^0.2.3",

@@ -15,8 +15,8 @@
     "test": "node -r @babel/register test/util.test.js"
   },
   "dependencies": {
-    "@aryth/comparer": "^0.1.3",
-    "@aryth/rand": "^0.1.3",
+    "@aryth/comparer": "^0.1.4",
+    "@aryth/rand": "^0.1.4",
     "@typen/enum-data-types": "^0.1.0",
     "@vect/enum-select-styles": "^0.2.3",
     "@vect/object-init": "^0.2.3",
