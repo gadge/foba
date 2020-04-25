@@ -1,13 +1,13 @@
-import { FLOP_SHUFFLE } from '@foba/util'
-import { flopKey, randIntBetw } from '@aryth/rand'
-import { pair } from '@vect/object-init'
+import { flopKey, randIntBetw }  from '@aryth/rand'
+import { FLOP_SHUFFLE }          from '@foba/util'
+import { pair }                  from '@vect/object-init'
+import { absoluteMirror }        from './functions/absoluteMirror'
 import { balanceByCompInterest } from './functions/balanceByCompInterest'
-import { fibonacci } from './functions/fibonacci'
-import { hansenSamuelson } from './functions/hansenSamuelson'
-import { nonSquares } from './functions/nonSquares'
-import { primes } from './functions/primes'
-import { range } from './functions/range'
-import { absoluteMirror } from './functions/absoluteMirror'
+import { fibonacci }             from './functions/fibonacci'
+import { hansenSamuelson }       from './functions/hansenSamuelson'
+import { nonSquares }            from './functions/nonSquares'
+import { primes }                from './functions/primes'
+import { range }                 from './functions/range'
 
 /**
  * @property {Function|function(Object):*[]} flopShuffle
@@ -38,7 +38,7 @@ export const VectorCollection = {
 }
 
 Reflect.defineProperty(VectorCollection, FLOP_SHUFFLE, {
-  value (options) {
+  value (options = {}) {
     const p = options.p || flopKey(this)
     const size = options.size || 6
     const start = options.start || 0

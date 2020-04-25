@@ -190,7 +190,7 @@ export const ShakesQuote = init([
   ['Twelfth Night AIIS3L44', 'Journeys end in lovers meeting,' + LF + 'Every wise man\'s son doth know.'],
   ['Twelfth Night AIIS4L37', 'Then let thy love be younger than thyself,' + LF + 'Or thy affection cannot hold the bent.'],
   ['Twelfth Night AIIS4L114', 'She never told her love,' + LF + 'But let concealment, like a [worm] i\' the bud,' + LF + 'Feed on her damask cheek; she pin\'d in thought,' + LF + 'And with a green and yellow melancholy'+LF+'She sat like patience on a monument,' + LF + 'Smiling at grief.'],
-  ['Twelfth Night AIIISIL167', 'Love sought is good, but giv\'n unsought is better.'],
+  ['Twelfth Night AIIIS1L167', 'Love sought is good, but giv\'n unsought is better.'],
   ['The Two Gentlemen of Verona AIS1L23', 'For he was more than over shoes in love.'],
   ['The Two Gentlemen of Verona AIS1L39', 'Love is your master, for he masters you;' + LF + 'And he that is so yoked by a fool,' + LF + 'Methinks, should not be chronicled for wise.'],
   ['The Two Gentlemen of Verona AIS1L45', 'And writers say, as the most forward bud'+LF+'Is eaten by the canker ere it blow,' + LF + 'Even so by love the young and tender wit'+LF+'Is turn\'d to folly, blasting in the bud,' + LF + 'Losing his verdure even in the prime.'],
