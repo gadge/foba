@@ -1,6 +1,6 @@
 {
   "name": "@foba/entries",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "description": "metavariables for testing",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -15,9 +15,9 @@
     "test": "node -r @babel/register test/entries.test.js"
   },
   "dependencies": {
-    "@foba/object-number": "^0.1.3",
-    "@foba/object-string": "^0.1.3",
-    "@foba/util": "^0.1.3"
+    "@foba/object-number": "^0.2.0",
+    "@foba/object-string": "^0.2.0",
+    "@foba/util": "^0.2.0"
   },
   "repository": {
     "type": "git",
