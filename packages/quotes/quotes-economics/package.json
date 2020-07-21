@@ -1,7 +1,7 @@
 {
-  "name": "@foba/object-string",
+  "name": "@foba/quotes-economics",
   "version": "0.1.3",
-  "description": "metavariables for testing",
+  "description": "quotes on economics",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "files": [
@@ -12,22 +12,19 @@
   },
   "scripts": {
     "pub": "npm publish",
-    "test": "node -r @babel/register test/object-number.test.js"
+    "test": "node test"
   },
   "dependencies": {
-    "@foba/util": "^0.1.3",
-    "@spare/enum-chars": "^0.5.0",
-    "@vect/object-init": "^0.2.3"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hoyeungw/foba.git"
   },
   "keywords": [
-    "test",
-    "console",
-    "debug",
-    "print"
+    "quotes",
+    "quotes-economics",
+    "economics",
+    "wikiquote"
   ],
   "author": "Hoyeung Wong",
   "license": "MIT",

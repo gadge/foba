@@ -186,6 +186,36 @@ const {
 } = Math;
 
 const rand = l => ~~(random() * l);
+/**
+ * From [min, max) return a random integer.
+ * Of [min, max), min is inclusive but max is exclusive.
+ * @param {number} lo(inclusive) - int
+ * @param {number} hi(exclusive) - int
+ * @returns {number} int
+ */
+
+
+const randInt = (lo, hi) => rand(hi - lo) + lo;
+/**
+ * From [min, max] return a random integer.
+ * Of [min, max], both min and max are inclusive.
+ * @param {number} lo(inclusive) - int
+ * @param {number} hi(inclusive) - int
+ * @returns {number} int
+ */
+
+
+const randIntBetw = (lo, hi) => rand(++hi - lo) + lo;
+
+const flopIndex = ar => rand(ar.length);
+
+const flop = ar => ar[flopIndex(ar)];
+
+const flopKey = ob => {
+  var _Object$keys;
+
+  return _Object$keys = Object.keys(ob), flop(_Object$keys);
+};
 
 /**
  * Fisher–Yates shuffle, a.k.a Knuth shuffle
@@ -202,42 +232,6 @@ const shuffle = function (ve, size) {
   while (--l >= lo) swap.call(ve, l, rand(l));
 
   return lo ? (ve.splice(0, lo), ve) : ve;
-};
-
-const {
-  random: random$1
-} = Math;
-
-const rand$1 = l => ~~(random$1() * l);
-/**
- * From [min, max) return a random integer.
- * Of [min, max), min is inclusive but max is exclusive.
- * @param {number} lo(inclusive) - int
- * @param {number} hi(exclusive) - int
- * @returns {number} int
- */
-
-
-const randInt = (lo, hi) => rand$1(hi - lo) + lo;
-/**
- * From [min, max] return a random integer.
- * Of [min, max], both min and max are inclusive.
- * @param {number} lo(inclusive) - int
- * @param {number} hi(inclusive) - int
- * @returns {number} int
- */
-
-
-const randIntBetw = (lo, hi) => rand$1(++hi - lo) + lo;
-
-const flopIndex = ar => rand$1(ar.length);
-
-const flop = ar => ar[flopIndex(ar)];
-
-const flopKey = ob => {
-  var _Object$keys;
-
-  return _Object$keys = Object.keys(ob), flop(_Object$keys);
 };
 
 const Specials = {
