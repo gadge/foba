@@ -70,7 +70,7 @@ var Douglass_North = [{
   figure: 'Douglass North',
   mark: 'Violence and Social Orders (2009). Ch4. Open Access Orders',
   quote: 'A final aspect of all open access orders is Schumpeter’s notion of creative destruction, one of the most powerful descriptions of a competitive, open access economy. When Schumpeter wrote Capitalism, Socialism, and Democracy in the early 1940s, the economic theory of perfect competition among atomistic firms (i.e., firms too small to have market power) had come under sustained attack as unrealistic. Large and powerful economic organizations dominated the new economy, and their behavior did not match the textbooks. Despite this dominance, the economy produced historically unprecedented, sustained economic development. Schumpeter asked, How could large businesses that were supposed to choke off competition and growth nonetheless generate such spectacular productivity increases in a world that seemed ever more competitive?'
-}];
+}]
 
 var Francis_Fukuyama = [{
   figure: 'Francis Fukuyama',
@@ -96,7 +96,7 @@ var Francis_Fukuyama = [{
   figure: 'Francis Fukuyama',
   mark: '2010s. "Against Identity Politics" (20180814), Foreign Affairs',
   quote: 'The Left’s identity politics poses a threat to free speech and to the kind of rational discourse needed to sustain a democracy... The focus on lived experience by identity groups prioritizes the emotional world of the inner self over the rational examination of issues in the outside world and privileges sincerely held opinions over a process of reasoned deliberation that may force one to abandon prior opinions.'
-}];
+}]
 
 var Franco_Modigliani = [{
   figure: 'Franco Modigliani',
@@ -118,7 +118,7 @@ var Franco_Modigliani = [{
   figure: 'Franco Modigliani',
   mark: 'Conversations with Economists (1983)',
   quote: 'I believe people can solve complex problems eventually. By repeated trial and error they will get there; but they need a long time. At this point I agree with Herbert Simon. People do not learn immediately, as those rational expectations models seem to imply. I don\'t believe that.The statement that assumptions do not matter is nonsense. It is funny. Yes, I assume people are consistent in their behavior. I assume that not because I believe everybody actually is, but because I believe, on the average, you do not get too far from it.'
-}];
+}]
 
 var Gary_Becker = [{
   figure: 'Gary Becker',
@@ -152,7 +152,7 @@ var Gary_Becker = [{
   figure: 'Gary Becker',
   mark: 'A Treatise on the Family, 1981. p85',
   quote: '[Gale and Shapley assumed that each person has] a given ranking [among] potential mates that determines rather than is determined by the equilibrium sorting.'
-}];
+}]
 
 var J_Bradford_DeLong = [{
   figure: 'J. Bradford DeLong',
@@ -174,7 +174,7 @@ var J_Bradford_DeLong = [{
   figure: 'J. Bradford DeLong',
   mark: 'Making Sense of Friedrich A. von Hayek: Focus/The Honest Broker for the Week of 20140809 (2014)',
   quote: 'The Good Economist Hayek is the thinker who has mind-blowing insights into just why the competitive market system is such a marvelous societal device for coordinating our by now 7.2 billion-wide global division of labor. Few other economists imagined that Lenin’s centrally-planned economy behind the Iron Curtain was doomed to settle at a level of productivity 1/5 that of the capitalist industrial market economies outside. Hayek did so imagine. And Hayek had dazzling insights as to why. Explaining the thought of this Hayek requires not sociology or history of thought but rather appreciation, admiration, and respect for pure genius.The Bad Economist Hayek is the thinker who was certain that Keynes had to be wrong, and that the mass unemployment of the Great Depression had to have in some mysterious way been the fault of some excessively-profligate government entity (or perhaps of those people excessively clever with money–fractional-reserve bankers, and those who claim not the natural increase of flocks but rather the interest on barren gold). Why Hayek could not see with everybody else–including Milton Friedman–that the Great Depression proved that Say’s Law was false in theory, and that aggregate demand needed to be properly and delicately managed in order to make Say’s Law true in practice is largely a mystery. Nearly everyone else did: the Lionel Robbinses and the Arthur Burnses quickly marked their beliefs to market after the Great Depression and figured out how to translate what they thought into acceptable post-World War II Keynesian language. Hayek never did.My hypothesis is that the explanation is theology: For Hayek, the market could never fail. For Hayek, the market could only be failed. And the only way it could be failed was if its apostles were not pure enough.'
-}];
+}]
 
 var James_Tobin = [{
   figure: 'James Tobin',
@@ -264,7 +264,7 @@ var James_Tobin = [{
   figure: 'James Tobin',
   mark: '1990s. "Reflections on Japanese Political Economy" (1999)',
   quote: 'I suspect that many of the world\'s financial lords are somewhat embarrassed to tell Japan repeatedly at G-7 meetings and elsewhere to adopt a Keynesian solution. Within Europe, central banks and governments think Keynesian theories and policies are absolutely wrong. Despite the remarkable success of pragmatic policies in the United States, true believers in the Invisible Hand reject Keynesian diagnoses and prescriptions. Many observers of Japan have found it intellectually comforting to blame the slump on the plight of the banks, flooded with bad loans dated from the land and equity bubbles and their collapse. They hope that a governmentmanaged and -subsidized rectification of bank balance sheets will trigger overall economic recovery. I think this is a false hope. The bank problem is only a small part of the macroeconomic disaster. It has to be resolved, of course, but resolution that is no substitute for the needed fiscal and monetary stimuli.'
-}];
+}]
 
 var John_Maynard_Keynes = [{
   figure: 'John Maynard Keynes',
@@ -634,7 +634,7 @@ var John_Maynard_Keynes = [{
   figure: 'John Maynard Keynes',
   mark: 'How to Pay for the War (1940). Ch8. Rationing Price Control and Wage Control',
   quote: 'The mechanism of reaching equilibrium by means of a rising cost of living, which is vainly pursued by a rising level of wages, will be described in the next chapter. But it is admitted on all hands that this is the worst possible solution.'
-}];
+}]
 
 var John_von_Neumann = [{
   figure: 'John von Neumann',
@@ -708,7 +708,7 @@ var John_von_Neumann = [{
   figure: 'John von Neumann',
   mark: 'As quoted in "The Passing of a Great Mind" by Clay Blair, Jr., in LIFE Magazine (19570225), p96',
   quote: 'If you say why not bomb them tomorrow, I say why not today? If you say today at five o\' clock, I say why not one o\' clock?'
-}];
+}]
 
 var Joseph_Schumpeter = [{
   figure: 'Joseph Schumpeter',
@@ -754,7 +754,7 @@ var Joseph_Schumpeter = [{
   figure: 'Joseph Schumpeter',
   mark: 'The Theory of Economic Development (1934). Ch6. The Business Cycle',
   quote: 'The swarm-like appearance of new combinations easily and necessarily explains the fundamental features of periods of boom.'
-}];
+}]
 
 var Kenneth_Arrow = [{
   figure: 'Kenneth Arrow',
@@ -892,7 +892,7 @@ var Kenneth_Arrow = [{
   figure: 'Kenneth Arrow',
   mark: 'New millennium. Kenneth Arrow, "Some Developments in Economic Theory Since 1940: An Eyewitness Account" Annu. Rev. Econ. 2009',
   quote: 'I then follow up with four major aspects of economic research in the last 60 years, the period of my scholarly activity. One, econometric methodology and practice, is of such fundamental importance that it cannotgo unnoticed, although I played no role in it. With the other three, general equilibrium, dynamic processes, and uncertainty and information, I was more intimately involved.'
-}];
+}]
 
 var Milton_Friedman = [{
   figure: 'Milton Friedman',
@@ -1506,7 +1506,7 @@ var Milton_Friedman = [{
   figure: 'Milton Friedman',
   mark: 'Money Mischief (1992). Ch2. The Mystery of Money',
   quote: 'Over short periods, the relation between growth in money and growth in nominal income is often hard to see, partly because the relation is less close for short than for long periods, but mostly because it takes time for changes in monetary growth to affect income. And how long a time is itself variable. Today\'s income growth is not closely related to today\'s monetary growth; it depends on what has been happening to money in the past. What happens to money today affects what is going to happen to income in the future'
-}];
+}]
 
 var Paul_Krugman = [{
   figure: 'Paul Krugman',
@@ -2000,7 +2000,7 @@ var Paul_Krugman = [{
   figure: 'Paul Krugman',
   mark: 'The Conscience of a Liberal blog. 20190105, New York Times',
   quote: 'What does Alexandria Ocasio-Cortez know about tax policy? A lot.'
-}];
+}]
 
 var Paul_Romer = [{
   figure: 'Paul Romer',
@@ -2026,7 +2026,7 @@ var Paul_Romer = [{
   figure: 'Paul Romer',
   mark: 'At a news conference following the 2018 Nobel Memorial Prize in Economics announcement, as quoted in "2 Americans win econ Nobel for work on climate and growth" Associated Press. 20181008.',
   quote: 'Many people think that dealing with protecting the environment will be so costly and so hard that they just want to ignore the problem. I hope the prize today could help everyone see that humans are capable of amazing accomplishments when we set about trying to do something.'
-}];
+}]
 
 var Paul_Samuelson = [{
   figure: 'Paul Samuelson',
@@ -2216,7 +2216,7 @@ var Paul_Samuelson = [{
   figure: 'Paul Samuelson',
   mark: 'New millennium. An Enjoyable Life Puzzling Over Modern Finance Theory, 2009',
   quote: 'Markets are not perfect, which is true even for rationally regulated markets. Nevertheless, over the last thousand years every attempt to organize sizeable societies without important dependence on markets has generated its own failure ...'
-}];
+}]
 
 var Robert_Barro = [{
   figure: 'Robert Barro',
@@ -2286,7 +2286,7 @@ var Robert_Barro = [{
   figure: 'Robert Barro',
   mark: 'Nothing Is Sacred (2002). p65',
   quote: 'Things would have worked out a lot better if we had bought our first television set a year earlier, in 1950, so that I could have watched DiMaggio while he was still great. Then I could have shared with my father and other people the vision of the eternal baseball star. It might even have helped me to have more appreciation for some of my elders in the economics profession. But maybe I should be worrying instead about what the young hot shots in economics are thinking of me.'
-}];
+}]
 
 var Robert_J_Shiller = [{
   figure: 'Robert J. Shiller',
@@ -2296,7 +2296,7 @@ var Robert_J_Shiller = [{
   figure: 'Robert J. Shiller',
   mark: 'George Akerlof and Robert Shiller. Animal Spirits: How Human Psychology Drives the Economy, and Why It Matters for Global Capitalism, 2009, Preface',
   quote: 'To understand the economy then is to comprehend how it is driven by the animal spirits. Just as Adam Smith’s invisible hand is the keynote of classical economics, Keynes’ animal spirits are the keynote to a different view of the economy — a view that explains the underlying instabilities of capitalism.'
-}];
+}]
 
 var Robert_Lucas_Jr = [{
   figure: 'Robert Lucas Jr.',
@@ -2330,7 +2330,7 @@ var Robert_Lucas_Jr = [{
   figure: 'Robert Lucas Jr.',
   mark: '"After Keynesian macroeconomics" 1978',
   quote: 'A key element in all Keynesian models is a ‘trade-off between inflation and real output: the higher is the inflation rate; the higher is output (or equivalently, the lower is the rate of unemployment).'
-}];
+}]
 
 var Ronald_Coase = [{
   figure: 'Ronald Coase',
@@ -2408,7 +2408,7 @@ var Ronald_Coase = [{
   figure: 'Ronald Coase',
   mark: '1990s and later. "The Institutional Structure of Production" (1992)',
   quote: 'What is studied is a system which lives in the minds of economists but not on earth. I have called the result “blackboard economics.” The firm and the market appear by name but they lack any substance. The firm in mainstream economic theory has often been described as a “black box.” And so it is.'
-}];
+}]
 
 var Simon_Kuznets = [{
   figure: 'Simon Kuznets',
@@ -2454,7 +2454,7 @@ var Simon_Kuznets = [{
   figure: 'Simon Kuznets',
   mark: 'Modern economic growth,\'(1966). p487, as cited in: Peter Temin, ‎Gianni Toniolo (2008) The World Economy between the Wars. p7',
   quote: '[An] epochal innovation  [consisting of the] spreading application of science to processes of production and social organization.'
-}];
+}]
 
 var Thomas_J_Sargent = [{
   figure: 'Thomas J. Sargent',
@@ -2496,7 +2496,7 @@ var Thomas_J_Sargent = [{
   figure: 'Thomas J. Sargent',
   mark: '"Rational expectations and the dynamics of hyperinflation." 1973',
   quote: 'These ideas have implications not only for theoretical and econometric practices but also for the ways in which policymakers and their advisers think about the choices confronting them. In particular, the rational expectations approach directs attention away from particular isolated actions and toward choices among feasible rules of the game, or repeated strategies for choosing policy variables. While Keynesian and monetarists macroeconomic models have been used to try to analyze what the effects of isolated actions would be, it is now clear that the answers they have given have necessarily been bad, if only because such questions are ill-posed.'
-}];
+}]
 
 var Tjalling_Koopmans = [{
   figure: 'Tjalling Koopmans',
@@ -2558,7 +2558,7 @@ var Tjalling_Koopmans = [{
   figure: 'Tjalling Koopmans',
   mark: 'Concepts of Optimality and Their Uses, 1975. p244, as cited in: Vincent Martinet (2012) Economic Theory and Sustainable Development. p90',
   quote: 'The principal customers aimed for are other economists or members of other professions, who are somewhat closer to the making of policy recommendations... The question of the clientèle is even more baffling when the problem concerns growth paths for time spans covering several generations. What can at best be recommended in that case is the signal the present generation gives, the tradition it seeks to strengthen or establish, for succeeding generations to take off from.'
-}];
+}]
 
 var William_J_Bernstein = [{
   figure: 'William J. Bernstein',
@@ -2676,7 +2676,7 @@ var William_J_Bernstein = [{
   figure: 'William J. Bernstein',
   mark: 'The Four Pillars of Investing (2002). Ch15. A Final Word, p297.',
   quote: 'Investing is not a destination. It is an ongoing journey through its four continents - theory, history, psychology and business.'
-}];
+}]
 
 var William_Nordhaus = [{
   figure: 'William Nordhaus',
@@ -2698,7 +2698,7 @@ var William_Nordhaus = [{
   figure: 'William Nordhaus',
   mark: '"After Nobel in Economics, William Nordhaus Talks About Who’s Getting His Pollution-Tax Ideas Right: A few governments — notably, parts of Canada and South Korea — have adapted his ideas in ways that frame them as a financial windfall for taxpayers." The New York Times. 20181013.',
   quote: 'When I talk to people about how to design a carbon price, I think the model is  British Columbia. You raise electricity prices by $100 a year, but then the government gives back a dividend that lowers internet prices by $100 year. In real terms, you’re raising the price of  carbon goods but lowering the prices of non-carbon-intensive goods.'
-}];
+}]
 
 var Xavier_Sala_i_Martin = [{
   figure: 'Xavier Sala-i-Martin',
@@ -2708,7 +2708,7 @@ var Xavier_Sala_i_Martin = [{
   figure: 'Xavier Sala-i-Martin',
   mark: 'Xavier Sala-i-Martin, Xavier Sala-i-Martin\'s Home Page.',
   quote: 'It is commonly agreed that Keynes came up with the idea that public works are the best way to help the economy during a recession.As a result, Keynesian economists seem to have developed a blind faith in the government in general, and in the system of public works in particular.I do not share the same faith in the government.I do not share the same faith in public works.And this may help explain why.'
-}];
+}]
 
 const Quotes = {
   Douglass_North,
@@ -2735,6 +2735,6 @@ const Quotes = {
   William_J_Bernstein,
   William_Nordhaus,
   Xavier_Sala_i_Martin
-};
+}
 
-export { Quotes };
+export { Quotes }

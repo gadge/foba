@@ -1,6 +1,6 @@
-'use strict';
+'use strict'
 
-Object.defineProperty(exports, '__esModule', { value: true });
+Object.defineProperty(exports, '__esModule', { value: true })
 
 var Armand_V_Feigenbaum = [{
   figure: 'Armand V. Feigenbaum',
@@ -42,7 +42,7 @@ var Armand_V_Feigenbaum = [{
   figure: 'Armand V. Feigenbaum',
   mark: 'Total Quality Control, 1983. Cited in: D.H. Stamatis (1999) TQM Engineering Handbook, p12',
   quote: 'Total quality control is an effective system for integrating the quality development, quality maintenance, and quality improvement efforts of the various groups in an organization so as to enable production and service at the most economical levels which allow full customer satisfaction.'
-}];
+}]
 
 var Clayton_M_Christensen = [{
   figure: 'Clayton M. Christensen',
@@ -124,7 +124,7 @@ var Clayton_M_Christensen = [{
   figure: 'Clayton M. Christensen',
   mark: '2010s. "Harvard Management Legend Clay Christensen Defends His \'Disruption\' Theory, Explains The Only Way Apple Can Win" in BusinessInsider (20141028)',
   quote: 'All of the points that [Professor Lepore] raised were not just wrong, but they were lies. Ours is the only theory in business that actually has been tested in the marketplace over and over again. ... And for her to take that on, to take me on and the theory on – I don\'t know where the meanness came from.'
-}];
+}]
 
 var Francis_X_Sutton = [{
   figure: 'Francis X. Sutton',
@@ -170,7 +170,7 @@ var Francis_X_Sutton = [{
   figure: 'Francis X. Sutton',
   mark: 'The American Business Creed. 1956. p328; Cited in: Scott Andrew Shane (2002), The Foundations of Entrepreneurship - Vol1. . p525',
   quote: 'In contrast to such organizations as governments and universities, the prime criteria of business achievement are relatively definite and tangible. These standards include profitability, percentage control of the market, size of firm, and rate of growth.'
-}];
+}]
 
 var Peter_Drucker = [{
   figure: 'Peter Drucker',
@@ -728,7 +728,7 @@ var Peter_Drucker = [{
   figure: 'Peter Drucker',
   mark: '1990s and later. Managing in a Time of Great Change (1995). p351',
   quote: 'I would hope that American managers - indeed, managers worldwide - continue to appreciate what I have been saying almost from day one: that management is so much more than exercising rank and privilege, that it is much more than "making deals." Management affects people and their lives.'
-}];
+}]
 
 var W_Edwards_Deming = [{
   figure: 'W. Edwards Deming',
@@ -862,7 +862,7 @@ var W_Edwards_Deming = [{
   figure: 'W. Edwards Deming',
   mark: 'The New Economics for Industry, Government, Education (1993)',
   quote: 'Experience by itself teaches nothing...Without theory, experience has no meaning. Without theory, one has no questions to ask. Hence without theory there is no learning.'
-}];
+}]
 
 const Quotes = {
   Armand_V_Feigenbaum,
@@ -870,6 +870,6 @@ const Quotes = {
   Francis_X_Sutton,
   Peter_Drucker,
   W_Edwards_Deming
-};
+}
 
-exports.Quotes = Quotes;
+exports.Quotes = Quotes

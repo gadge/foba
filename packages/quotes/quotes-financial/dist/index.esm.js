@@ -58,7 +58,7 @@ var Aaron_Brown_financial_author = [{
   figure: 'Aaron Brown (financial author)',
   mark: 'The Poker Face of Wall Street (2006). Ch9. Who Got Game, p279',
   quote: 'Mathematical theory, tested in practice and constantly retested, is a valuable aid to play. Mathematics alone will blind you and let others rob you.'
-}];
+}]
 
 var Ben_Bernanke = [{
   figure: 'Ben Bernanke',
@@ -100,7 +100,7 @@ var Ben_Bernanke = [{
   figure: 'Ben Bernanke',
   mark: 'The Federal Reserve and the Financial Crisis (2012). Lecture 4: The Aftermath of the Crisis',
   quote: 'Obviously, based on the crisis and what happened and the effects that we\'re still feeling, it\'s now clear that maintaining financial stability is just as an important a responsibility as monetary and economic stability. And indeed, this is, you know, very much a return to the—where the Fed came from in the beginning. Remember the reason that Fed was created was to try to reduce the incidents of financial panics, so financial stability was the original goal of creation of the Fed. So now we sort of come full circle.'
-}];
+}]
 
 var Ben_Horowitz = [{
   figure: 'Ben Horowitz',
@@ -118,7 +118,7 @@ var Ben_Horowitz = [{
   figure: 'Ben Horowitz',
   mark: 'Ben Horowitz in: Maria Bartiromo, "Maria Bartiromo interviews tech investor Ben Horowitz," for USA TODAY, 2/20/2012.',
   quote: 'The important thing about mobile is, everybody has a computer in their pocket. The implications of so many people connected to the Internet all the time from the standpoint of education is incredible.'
-}];
+}]
 
 var Benjamin_Graham = [{
   figure: 'Benjamin Graham',
@@ -360,7 +360,7 @@ var Benjamin_Graham = [{
   figure: 'Benjamin Graham',
   mark: 'The Intelligent Investor (1973) (Fourth Revised Edition). Ch20. "Margin of Safety": The Central Concept, p287',
   quote: 'To achieve satisfactory investment results is easier than most people realize; to achieve superior results is harder than it looks.'
-}];
+}]
 
 var Ed_Seykota = [{
   figure: 'Ed Seykota',
@@ -426,7 +426,7 @@ var Ed_Seykota = [{
   figure: 'Ed Seykota',
   mark: 'Source: FAQ - Fri, 20031031 Thought Processes',
   quote: 'When a feeling dissolves, it ceases to be your enemy and begins to be one of your allies.'
-}];
+}]
 
 var George_Soros = [{
   figure: 'George Soros',
@@ -752,7 +752,7 @@ var George_Soros = [{
   figure: 'George Soros',
   mark: 'On China (2019)',
   quote: 'China isn’t the only authoritarian regime in the world, but it’s undoubtedly the wealthiest, strongest and most developed in machine learning and artificial intelligence. This makes Xi Jinping the most dangerous opponent of those who believe in the concept of open society.'
-}];
+}]
 
 var Henry_Kaufman = [{
   figure: 'Henry Kaufman',
@@ -854,7 +854,7 @@ var Henry_Kaufman = [{
   figure: 'Henry Kaufman',
   mark: 'On Money and Markets (2000)',
   quote: '[F]inancial markets are... a microcosm of the people and societies they serve. ...The extremes of market movements reflect the extremes of human nature and human emotion—from optimism and elation to pessimism and despair. In financial markets—as in life—rationality prevails most of the time.'
-}];
+}]
 
 var Henry_S_Haskins = [{
   figure: 'Henry S. Haskins',
@@ -1196,7 +1196,7 @@ var Henry_S_Haskins = [{
   figure: 'Henry S. Haskins',
   mark: 'Meditations in Wall Street (1940). p146',
   quote: 'For a competent audience, uncommon men must have other uncommon men.'
-}];
+}]
 
 var Kenneth_Griffin = [{
   figure: 'Kenneth Griffin',
@@ -1242,13 +1242,13 @@ var Kenneth_Griffin = [{
   figure: 'Kenneth Griffin',
   mark: '"A Wishlist for Fixing Wall Street," New York Times (20080513).',
   quote: 'The investment banks should either choose to be regulated as banks or should arrange to conduct their affairs to not require the stop-gap support of the Federal Reserve.'
-}];
+}]
 
 var Mary_Meeker = [{
   figure: 'Mary Meeker',
   mark: 'Newsweek: "Climbing Back Up" (20040829)',
   quote: 'One of the greatest investments of our lifetime has been New York City real estate, and investors made the highest returns when they bought stuff during the 1970s and 1980s when people were getting mugged. The lesson is that you make the most money when you buy stuff that\'s out of consensus.'
-}];
+}]
 
 var Nassim_Nicholas_Taleb = [{
   figure: 'Nassim Nicholas Taleb',
@@ -2002,7 +2002,7 @@ var Nassim_Nicholas_Taleb = [{
   figure: 'Nassim Nicholas Taleb',
   mark: 'Skin in the Game (2018)',
   quote: 'You can be an intellectual yet still be an idiot. \'Educated philistines\' have been wrong on everything from Stalinism to Iraq to low-carb diets.'
-}];
+}]
 
 var Robert_Haugen = [{
   figure: 'Robert Haugen',
@@ -2056,13 +2056,13 @@ var Robert_Haugen = [{
   figure: 'Robert Haugen',
   mark: 'The Inefficient Stock Market - What Pays Off And Why (1999). Ch15. The Wrong 20-yard Line, p148',
   quote: 'So you see, in the end, it is nearly certain that the power of prediction must triumph over the arrogance of elegance.'
-}];
+}]
 
 var The_Wolf_of_Wall_Street_2013_film = [{
   figure: 'The Wolf of Wall Street (2013 film)',
   mark: '',
   quote: 'Oh my God, the emperor of Fucksville came down from Fucksville to give me a pass! Hey, what are the citizens of Fucksville doing today when their emperor\'s gone? Is it, is it mayhem? Are people looting and raping? What are all the little fuckheads doing while you\'re here?'
-}];
+}]
 
 var Warren_Buffett = [{
   figure: 'Warren Buffett',
@@ -2484,7 +2484,7 @@ var Warren_Buffett = [{
   figure: 'Warren Buffett',
   mark: 'Other',
   quote: 'Confidence comes back one at a time, but fear, is instantaneous.'
-}];
+}]
 
 const Quotes = {
   Aaron_Brown_financial_author,
@@ -2501,6 +2501,6 @@ const Quotes = {
   Robert_Haugen,
   The_Wolf_of_Wall_Street_2013_film,
   Warren_Buffett
-};
+}
 
-export { Quotes };
+export { Quotes }

@@ -1,6 +1,6 @@
-'use strict';
+'use strict'
 
-Object.defineProperty(exports, '__esModule', { value: true });
+Object.defineProperty(exports, '__esModule', { value: true })
 
 var Anna_Sui = [{
   figure: 'Anna Sui',
@@ -154,7 +154,7 @@ var Anna_Sui = [{
   figure: 'Anna Sui',
   mark: 'Financial Times Interview (20170714)',
   quote: '...all the formulas have flown out of the window.'
-}];
+}]
 
 var Christian_Dior = [{
   figure: 'Christian Dior',
@@ -256,7 +256,7 @@ var Christian_Dior = [{
   figure: 'Christian Dior',
   mark: 'The Little Dictionary of Fashion, 1954. As cited in: Alison Behnke (2012) The Little Black Dress and Zoot Suits, p18',
   quote: 'Many people dismiss haute couture as being something that is only for those who are very wealthy... simplicity, good taste, and grooming are the three fundamentals of good dressing and these do not cost money.'
-}];
+}]
 
 var Coco_Chanel = [{
   figure: 'Coco Chanel',
@@ -338,7 +338,7 @@ var Coco_Chanel = [{
   figure: 'Coco Chanel',
   mark: 'As quoted in Beauty in Bloom : A Collection of Beautiful Inspirations‎ (2009) by Natalie Bloom, p23',
   quote: 'The best colour in the whole world is the one that looks good on you.'
-}];
+}]
 
 var Jonathan_Ive = [{
   figure: 'Jonathan Ive',
@@ -400,7 +400,7 @@ var Jonathan_Ive = [{
   figure: 'Jonathan Ive',
   mark: 'Vanity Fair: "Jonathan Ives Shares Three Lessons He Learned From Steve Jobs" (20141009)',
   quote: 'I think a beautiful product that doesn\'t work very well is ugly.'
-}];
+}]
 
 var Marc_Jacobs = [{
   figure: 'Marc Jacobs',
@@ -442,7 +442,7 @@ var Marc_Jacobs = [{
   figure: 'Marc Jacobs',
   mark: 'Larocca, Amy (2005). "Marc Jacobs\' Paradoxial Triumph" NYMag.com (accessed 20070419)',
   quote: '...Everybody likes sex. The world would be a better place if people just engaged in sex and didn’t worry about it. But what I prefer is that even if someone feels hedonistic, they don’t look it. Curiosity about sex is much more interesting to me than domination. Like, Britney and Paris and Pamela might be someone’s definition of sexy, but they’re not mine. My clothes are not hot. Never. Never.'
-}];
+}]
 
 var Raymond_Loewy = [{
   figure: 'Raymond Loewy',
@@ -472,7 +472,7 @@ var Raymond_Loewy = [{
   figure: 'Raymond Loewy',
   mark: 'Never Leave Well Enough Alone (1951). Ch1',
   quote: 'I never expected that one could fall so completely in love with a nation and a people. I already knew that very soon I would thrill at everything American, love everything American, perhaps blindly, but fervently and forever. I still remember how thrilled I was at the sight of the flag.  After all these years, every time I see the Stars and Stripes in the breeze, I get the same emotional feeling. Aesthetically speaking, it is perfect. One of the outstanding "designs" of all times. It may be that a nation gets the flag it deserves.'
-}];
+}]
 
 var Steven_Spielberg = [{
   figure: 'Steven Spielberg',
@@ -514,7 +514,7 @@ var Steven_Spielberg = [{
   figure: 'Steven Spielberg',
   mark: 'In an interview by the Brazilian magazine Veja (1993). Spielberg adds that so far he has not permitted his young son to watch some of his well-known movies (Jaws, the Indiana Jones series) because of the amount of blood and violence shown.',
   quote: 'Watching violence in movies or TV programs stimulates the spectators to imitate what they see much more than if seen live or on TV news. In movies, violence is filmed with perfect illumination, spectacular scenery, and in slow motion, making it even romantic. However, in the news, the public has a much better perception of how horrible violence can be, and it is used with objectives that do not exist in the movies.'
-}];
+}]
 
 var Tom_Ford = [{
   figure: 'Tom Ford',
@@ -532,7 +532,7 @@ var Tom_Ford = [{
   figure: 'Tom Ford',
   mark: 'Vogue Voices: Tom Ford. Vogue (20140110). Retrieved on 20160418.',
   quote: 'I believe in a parallel universe of image and fantasy that isn\'t so much fantasy as it is forever sealed in films and things that have entertained us for years. This parallel universe has influenced me perhaps even more than the real world or the physical world. Because when I think of certain things, like a beautiful woman, its most likely someone I saw on film... these are things I\'ve been taking from film or television and applying it to real life.'
-}];
+}]
 
 var Yohji_Yamamoto = [{
   figure: 'Yohji Yamamoto',
@@ -558,7 +558,7 @@ var Yohji_Yamamoto = [{
   figure: 'Yohji Yamamoto',
   mark: 'Yohji Yamamoto. May I Help You? in Talking to Myself (2002), Ch12. The Expressions "Excuse-me" and "I\'m sorry".',
   quote: 'My whole life is made up of: "I\'m sorry". I feel like I have to apologize to people, to things, to life itself. It\'s like, "I\'m sorry to be here". I don\'t want to disturb anyone. But in my work, in the clothes I create, I\'m actually telling people that I\'m here. So, I guess I\'m disturbing them, after all.'
-}];
+}]
 
 var Yves_Saint_Laurent = [{
   figure: 'Yves Saint-Laurent',
@@ -576,7 +576,7 @@ var Yves_Saint_Laurent = [{
   figure: 'Yves Saint-Laurent',
   mark: 'Reported in Gaille, Brandon (20130723). "List of 38 Famous Fashion Quotes and Sayings". BrandonGaille.com. Retrieved 20131115.',
   quote: 'The most beautiful makeup of a woman is passion. But cosmetics are easier to buy.'
-}];
+}]
 
 const Quotes = {
   Anna_Sui,
@@ -589,6 +589,6 @@ const Quotes = {
   Tom_Ford,
   Yohji_Yamamoto,
   Yves_Saint_Laurent
-};
+}
 
-exports.Quotes = Quotes;
+exports.Quotes = Quotes
