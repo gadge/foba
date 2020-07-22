@@ -4,6 +4,8 @@ import Guy_de_Maupassant   from '../resources/Guy.de.Maupassant'
 import Honor_de_Balzac     from '../resources/Honor.de.Balzac'
 import Leo_Tolstoy         from '../resources/Leo.Tolstoy'
 import Lin_Yutang          from '../resources/Lin.Yutang'
+import Nicholas_Sparks     from '../resources/Nicholas.Sparks'
+import Rod_Serling         from '../resources/Rod.Serling'
 import Victor_Hugo         from '../resources/Victor.Hugo'
 import William_Shakespeare from '../resources/William.Shakespeare'
 
@@ -14,6 +16,8 @@ export const Quotes = {
   Honor_de_Balzac,
   Leo_Tolstoy,
   Lin_Yutang,
+  Nicholas_Sparks,
+  Rod_Serling,
   Victor_Hugo,
   William_Shakespeare,
 }

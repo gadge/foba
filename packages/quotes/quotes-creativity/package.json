@@ -1,7 +1,7 @@
 {
-  "name": "@foba/quotes-design",
+  "name": "@foba/quotes-creativity",
   "version": "0.2.0",
-  "description": "quotes on design",
+  "description": "quotes on creativity",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "files": [
@@ -20,8 +20,8 @@
   },
   "keywords": [
     "quotes",
-    "quotes-design",
-    "design",
+    "quotes-creativity",
+    "creativity",
     "wikiquote"
   ],
   "author": "Hoyeung Wong",

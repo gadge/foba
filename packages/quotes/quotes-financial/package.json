@@ -1,0 +1,33 @@
+{
+  "name": "@foba/quotes-financial",
+  "version": "0.2.0",
+  "description": "quotes on financial figures",
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.esm.js",
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "pub": "npm publish",
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoyeungw/foba.git"
+  },
+  "keywords": [
+    "quotes",
+    "quotes-financial",
+    "financial",
+    "wikiquote"
+  ],
+  "author": "Hoyeung Wong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hoyeungw/foba"
+  },
+  "homepage": "https://github.com/hoyeungw/foba#readme"
+}

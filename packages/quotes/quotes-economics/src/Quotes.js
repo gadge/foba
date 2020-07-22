@@ -1,4 +1,3 @@
-import Ben_Bernanke         from '../resources/Ben.Bernanke'
 import Douglass_North       from '../resources/Douglass.North'
 import Francis_Fukuyama     from '../resources/Francis.Fukuyama'
 import Franco_Modigliani    from '../resources/Franco.Modigliani'
@@ -20,13 +19,11 @@ import Ronald_Coase         from '../resources/Ronald.Coase'
 import Simon_Kuznets        from '../resources/Simon.Kuznets'
 import Thomas_J_Sargent     from '../resources/Thomas.J.Sargent'
 import Tjalling_Koopmans    from '../resources/Tjalling.Koopmans'
-import Warren_Buffett       from '../resources/Warren.Buffett'
 import William_J_Bernstein  from '../resources/William.J.Bernstein'
 import William_Nordhaus     from '../resources/William.Nordhaus'
 import Xavier_Sala_i_Martin from '../resources/Xavier.Sala-i-Martin'
 
 export const Quotes = {
-  Ben_Bernanke,
   Douglass_North,
   Francis_Fukuyama,
   Franco_Modigliani,
@@ -48,7 +45,6 @@ export const Quotes = {
   Simon_Kuznets,
   Thomas_J_Sargent,
   Tjalling_Koopmans,
-  Warren_Buffett,
   William_J_Bernstein,
   William_Nordhaus,
   Xavier_Sala_i_Martin,

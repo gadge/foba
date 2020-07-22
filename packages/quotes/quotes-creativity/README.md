@@ -1,4 +1,4 @@
-## @foba/quotes-design
+## @foba/quotes-creativity
 
 [![npm version][badge-npm-version]][url-npm]
 [![npm download monthly][badge-npm-download-monthly]][url-npm]
@@ -10,18 +10,18 @@
 [![github commit total][badge-github-commit-count]][url-github]
 
 [//]: <> (Shields)
-[badge-npm-version]: https://flat.badgen.net/npm/v/@foba/quotes-design
-[badge-npm-download-monthly]: https://flat.badgen.net/npm/dm/@foba/quotes-design
-[badge-npm-download-total]:https://flat.badgen.net/npm/dt/@foba/quotes-design
-[badge-npm-dependents]: https://flat.badgen.net/npm/dependents/@foba/quotes-design
-[badge-npm-license]: https://flat.badgen.net/npm/license/@foba/quotes-design
-[badge-pp-install-size]: https://flat.badgen.net/packagephobia/install/@foba/quotes-design
+[badge-npm-version]: https://flat.badgen.net/npm/v/@foba/quotes-creativity
+[badge-npm-download-monthly]: https://flat.badgen.net/npm/dm/@foba/quotes-creativity
+[badge-npm-download-total]:https://flat.badgen.net/npm/dt/@foba/quotes-creativity
+[badge-npm-dependents]: https://flat.badgen.net/npm/dependents/@foba/quotes-creativity
+[badge-npm-license]: https://flat.badgen.net/npm/license/@foba/quotes-creativity
+[badge-pp-install-size]: https://flat.badgen.net/packagephobia/install/@foba/quotes-creativity
 [badge-github-last-commit]: https://flat.badgen.net/github/last-commit/hoyeungw/foba
 [badge-github-commit-count]: https://flat.badgen.net/github/commits/hoyeungw/foba
 
 [//]: <> (Link)
-[url-npm]: https://npmjs.org/package/@foba/quotes-design
-[url-pp]: https://packagephobia.now.sh/result?p=@foba/quotes-design
+[url-npm]: https://npmjs.org/package/@foba/quotes-creativity
+[url-pp]: https://packagephobia.now.sh/result?p=@foba/quotes-creativity
 [url-github]: https://github.com/hoyeungw/foba
 
 ##### Object of string instances for testing

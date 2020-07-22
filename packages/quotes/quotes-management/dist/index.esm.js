@@ -1,3 +1,45 @@
+var Armand_V_Feigenbaum = [{
+  figure: 'Armand V. Feigenbaum',
+  mark: 'Armand V. Feigenbaum in: Industrial Quality Control, Vol14. -15; Vol19. (1957), p6',
+  quote: 'Product quality can then be defined as: The composite product characteristics of engineering and manufacturing that determine the degree to which the product, in use, will meet the expectations of the customer.'
+}, {
+  figure: 'Armand V. Feigenbaum',
+  mark: 'Quality Control: Principles, Practice, and Administration. 1951',
+  quote: 'Engineers, scientists, and statisticians have, until recently, been the groups chiefly interested in activity called quality control. These technologists have been primarily concerned with the technical methods which have become associated with the subject. They have applied these methods to a number of industrial quality problems.'
+}, {
+  figure: 'Armand V. Feigenbaum',
+  mark: 'Quality Control: Principles, Practice, and Administration. 1951. p. vii-viii',
+  quote: 'The materials presented in this book have been developed in industry for use in meeting a wide variety of practical industrial problems. They have been used in several factories both as the "plan of attack" for organizing new quality-control programs and as text material for in-service training courses.'
+}, {
+  figure: 'Armand V. Feigenbaum',
+  mark: 'Quality Control: Principles, Practice, and Administration. 1951',
+  quote: 'Quality control may be defined as:'
+}, {
+  figure: 'Armand V. Feigenbaum',
+  mark: 'Quality Control: Principles, Practice, and Administration. 1951. p1',
+  quote: 'In the phrase "quality control" the word quality does not have the popular meaning of "best" in any absolute sense. It means "best for certain customer conditions." These conditions are (a) the actual use and (b) the selling price of the product. Product quality cannot be thought of apart from product cost.'
+}, {
+  figure: 'Armand V. Feigenbaum',
+  mark: 'Quality Control: Principles, Practice, and Administration. 1951',
+  quote: 'In the phrase, "quality control" the word control represents a management tool with four steps:'
+}, {
+  figure: 'Armand V. Feigenbaum',
+  mark: 'Quality Control: Principles, Practice, and Administration. 1951. p1',
+  quote: 'Several of the quality-control methods have been carried on in industry for many years. What are new in the modern approach to quality control are integration of these often uncoordinated activities into an over-all administrative program for a factory and the addition to the time-tested methods used of a few new techniques which have been found useful in dealing with and thinking about the increased emphasis upon precision in manufactured parts.'
+}, {
+  figure: 'Armand V. Feigenbaum',
+  mark: 'Quality Control: Principles, Practice, and Administration. 1951',
+  quote: 'The outstanding quality accomplishments of industry during the past decade are familiar history. Particularly during World War II, the accomplishments made by the precision equipment in our tanks and guns and planes were indelibly impressed upon the entire world. This results side of the quality picture makes impressive reading.'
+}, {
+  figure: 'Armand V. Feigenbaum',
+  mark: 'Total Quality Control, 1983. p7',
+  quote: 'Product and service quality can be defined as the total composite product and service characteristics of marketing, engineering, manufacturing, and maintenance through which the product and service in use will meet the expectations of the customer.'
+}, {
+  figure: 'Armand V. Feigenbaum',
+  mark: 'Total Quality Control, 1983. Cited in: D.H. Stamatis (1999) TQM Engineering Handbook, p12',
+  quote: 'Total quality control is an effective system for integrating the quality development, quality maintenance, and quality improvement efforts of the various groups in an organization so as to enable production and service at the most economical levels which allow full customer satisfaction.'
+}];
+
 var Clayton_M_Christensen = [{
   figure: 'Clayton M. Christensen',
   mark: '1990s. Clayton M. Christensen, (199501). "Disruptive Technologies Catching the Wave". Harvard Business Review: P 3.',
@@ -78,6 +120,52 @@ var Clayton_M_Christensen = [{
   figure: 'Clayton M. Christensen',
   mark: '2010s. "Harvard Management Legend Clay Christensen Defends His \'Disruption\' Theory, Explains The Only Way Apple Can Win" in BusinessInsider (20141028)',
   quote: 'All of the points that [Professor Lepore] raised were not just wrong, but they were lies. Ours is the only theory in business that actually has been tested in the marketplace over and over again. ... And for her to take that on, to take me on and the theory on – I don\'t know where the meanness came from.'
+}];
+
+var Francis_X_Sutton = [{
+  figure: 'Francis X. Sutton',
+  mark: 'David Aberle, Albert K. Cohen,  A. K. Davis, Marion J. Levy Jr. and Francis X. Sutton,  (1950). T"he functional prerequisites of a society." Ethics, 60(2), p100; cited in: Neil J. Smelser (2013), Comparative Methods in the Social Sciences. p189',
+  quote: 'A comparative social science requires a generalized system of concepts which will enable the scientific observer to compare and contrast large bodies of concretely different social phenomena in consistent terms.'
+}, {
+  figure: 'Francis X. Sutton',
+  mark: '',
+  quote: 'A World to Make treats a subject that is both complex and controversial. Since the end of the Second World War, and with increasing rapidity in the 1950s and 1960s, Europe\'s former colonial possessions acquired independence and emerged as new states with new frontiers. That process proved to be immensely difficult both for those who had recently acquired their independence and for those in Latin America and elsewhere who had enjoyed that status for a century or longer.'
+}, {
+  figure: 'Francis X. Sutton',
+  mark: '"Achievement norms and the motivation of entrepreneurs," 1954. p19, cited in: David C. McClelland (1961), The Archiving Society, p210',
+  quote: 'Characteristically, the factors determining, the outcome of business efforts are numerous, and difficult both to assess and control. The sale of goods on a more or less free market is, of course, one major source of these difficulties; the disposition of buyers are subject to only limited control and prediction. They in turn are influenced by those diffuse but important factors which go under the label of general business conditions. Even within the context of a given firm there may be conditions and possible courses of action (such as personal appointments, or the performance of certain equipment) which may be beyond ready prediction and control. A great part of the efforts of entrepreneurs is directed towards minimising uncertainties.'
+}, {
+  figure: 'Francis X. Sutton',
+  mark: '"Achievement norms and the motivation of entrepreneurs," 1954. p19-20; As cited in: David C. McClelland (1961), The Archiving Society, p231',
+  quote: 'It is characteristic of executive roles that they are specialized for the handling of situations which call for something more than routine action. When business executives are asked what is the essential content of their roles, they characteristically say, \'We make decisions.\' This emphasis on decision-making is symptomatic of a specialized concern of executives with situations in which there is significant uncertainty as to the results of proper courses of action. (One does not make a \'decision\' when there is a predictable, correct outcome, as in getting the sum of a column of figures.)'
+}, {
+  figure: 'Francis X. Sutton',
+  mark: '"Achievement norms and the motivation of entrepreneurs," 1954. p22; As cited in: David C. McClelland (1961), The Archiving Society, p229',
+  quote: 'Businessmen have not shied away from the responsibility implied in Emerson\'s famous definition of a business as the lengthening shadow of a man. They have readily brushed aside complications and assigned crucial importance to the decisions of the guiding executives.'
+}, {
+  figure: 'Francis X. Sutton',
+  mark: '"Achievement norms and the motivation of entrepreneurs," 1954. p23; As cited in: David C. McClelland (1961), The Archiving Society, p222',
+  quote: 'The logical reader can only conclude that had Mr. Du Pont been as devoted to the facts as Mr. Sloan alleges, he would have been paralyzed in indecision, or even more, he certainly have discontinued the production of Chevrolets.'
+}, {
+  figure: 'Francis X. Sutton',
+  mark: '"Achievement norms and the motivation of entrepreneurs," 1954. p23',
+  quote: 'There is a strong tendency among businessmen to emphasize that their decisions are based on \'facts\' and thus to make favorable outcomes the consequence of perspicacity and \'judgment\' rather than good fortune.'
+}, {
+  figure: 'Francis X. Sutton',
+  mark: '"Achievement norms and the motivation of entrepreneurs," 1954. Cited in: Aslan Mordecai. Work and Family life. PhD Thesis Brunel University, 197612.',
+  quote: 'The key definitions for the entrepreneur seem to centre around the concept of responsibility. Responsibility implies individualism. It is not tolerable unless it embraces both credit for success\' and blame for failures, and leaves the individual. free to claim or accept the consequences, whatever they may be.'
+}, {
+  figure: 'Francis X. Sutton',
+  mark: 'The American Business Creed. 1956. p192-3 ; cited in: David C. McClelland (1961), The Archiving Society, p293',
+  quote: 'Viewed schematically, the activities of governments involve first the politician, who buys votes for the party in power; then the impractical theorist in the civil service — usually a professor in disguise — who conceives grandiose and unworkable plans; finally, these are executed and administered by the hidebound bureaucrat. The characteristic vices of these three species of homo politicus differ, , but they share a common feature: the absence of those personal virtues possessed by businessmen. Their heads are neither clear, hard, nor level; none of them is really honest; all of them lack practical imagination and the desire to get things done.Their heads are neither clear, hard, nor level; none of them is really.'
+}, {
+  figure: 'Francis X. Sutton',
+  mark: 'The American Business Creed. 1956. p194, ; Cited in: Warren J. Samuels. The concepts of major business and labor organizations on the role of government in the economy, Vol1.. University of Wisconsin--Madison, 1957. p168',
+  quote: 'Extravagance, inefficiency, and waste are inherent in government, because nothing which government does is forced to meet the test of the market. Further, government does not even meet the internal criteria of rationality which the balance sheet and the profit and loss statement impose on every individual business enterprise. The power of government to pay for itself through taxes and deficits, and to force on people things which they do not really want, deprives government activity of any semblance of restraint.'
+}, {
+  figure: 'Francis X. Sutton',
+  mark: 'The American Business Creed. 1956. p328; Cited in: Scott Andrew Shane (2002), The Foundations of Entrepreneurship - Vol1. . p525',
+  quote: 'In contrast to such organizations as governments and universities, the prime criteria of business achievement are relatively definite and tangible. These standards include profitability, percentage control of the market, size of firm, and rate of growth.'
 }];
 
 var Peter_Drucker = [{
@@ -773,7 +861,9 @@ var W_Edwards_Deming = [{
 }];
 
 const Quotes = {
+  Armand_V_Feigenbaum,
   Clayton_M_Christensen,
+  Francis_X_Sutton,
   Peter_Drucker,
   W_Edwards_Deming
 };
