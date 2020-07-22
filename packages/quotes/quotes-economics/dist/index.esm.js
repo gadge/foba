@@ -9,7 +9,7 @@ var Douglass_North = [{
 }, {
   figure: 'Douglass North',
   mark: 'Douglass North in "Orders of the Day" in Reason (199911), a review of The Great Disruption : Human Nature and the Reconstruction of Social Order (1999) by Francis Fukuyama',
-  quote: 'Regarding social order, Fukuyama writes, "The systematic study of how order, and thus social capital, can emerge in spontaneous and decentralized fashion is one of the most important intellectual developments of the late twentieth century." He correctly attributes the modern origins of this argument to F.A. Hayek, whose pioneering contributions to cognitive science, the study of cultural evolution, and the dynamics of social change put him in the forefront of the most creative scholars of the 20th century. But Hayek\'s views about the "spontaneity" of social order remain controversial. In their extreme form, they imply that all deliberate efforts to manipulate social order — social engineering — are doomed to failure because the complex nature of our cultural heritage makes a complete understanding of the human condition impossible.  Hayek was certainly correct that we have, at best, a very imperfect understanding of the human landscape, but "spontaneous" it is not. What distinguishes human evolution from the Darwinian model is the intentionality of the players. The mechanism of variation in evolutionary theory (mutation) is not informed by beliefs about eventual consequences. In contrast, human evolution is guided by the perceptions of the players; their choices (decisions) are made in the light of the theories the actors have, which provide expectations about outcomes.'
+  quote: 'Regarding social order, Fukuyama writes, "The systematic study of how order, and thus social capital, can emerge in spontaneous and decentralized fashion is one of the most important intellectual developments of the late twentieth century." He correctly attributes the modern origins of this argument to F.\nA. Hayek, whose pioneering contributions to cognitive science, the study of cultural evolution, and the dynamics of social change put him in the forefront of the most creative scholars of the 20th century. But Hayek\'s views about the "spontaneity" of social order remain controversial. In their extreme form, they imply that all deliberate efforts to manipulate social order — social engineering — are doomed to failure because the complex nature of our cultural heritage makes a complete understanding of the human condition impossible.  Hayek was certainly correct that we have, at best, a very imperfect understanding of the human landscape, but "spontaneous" it is not. What distinguishes human evolution from the Darwinian model is the intentionality of the players. The mechanism of variation in evolutionary theory (mutation) is not informed by beliefs about eventual consequences. In contrast, human evolution is guided by the perceptions of the players; their choices (decisions) are made in the light of the theories the actors have, which provide expectations about outcomes.'
 }, {
   figure: 'Douglass North',
   mark: 'The rise of the western world, 1973. p. vii, Preface',
@@ -37,7 +37,7 @@ var Douglass_North = [{
 }, {
   figure: 'Douglass North',
   mark: 'The rise of the western world, 1973. p240-1, as cited in: Thrainn Eggertsson (1990), Economic behavior and institutions. p255-6',
-  quote: 'The first economic revolution was not a revolution because it shifted man\'s major economic activity from hunting and gathering to settled agriculture. It was a revolution because the transition created an incentive change for mankind of fundamental proportions. The incentive change stems from the different property rights under the two systems. When common property rights over resources exist, there is little incentive for the acquisition of superior technology and learning. In contrast, exclusive property rights which reward the owners provide a direct incentive to improve efficiency and productivity, or, in more fundamental terms, to acquire more knowledge and new techniques. It is this change in incentive that explains the rapid progress made by mankind in the last 10,000 years in contrast to his slow development during the long era as a primitive hunter/gatherer.'
+  quote: 'The first economic revolution was not a revolution because it shifted man\'s major economic activity from hunting and gathering to settled agriculture. It was a revolution because the transition created an incentive change for mankind of fundamental proportions. The incentive change stems from the different property rights under the two systems. When common property rights over resources exist, there is little incentive for the acquisition of superior technology and learning. In contrast, exclusive property rights which reward the owners provide a direct incentive to improve efficiency and productivity, or, in more fundamental terms, to acquire more knowledge and new techniques. It is this change in incentive that explains the rapid progress made by mankind in the last 10,\n000 years in contrast to his slow development during the long era as a primitive hunter/gatherer.'
 }, {
   figure: 'Douglass North',
   mark: 'Institutions (1990). p39',
@@ -69,8 +69,8 @@ var Douglass_North = [{
 }, {
   figure: 'Douglass North',
   mark: 'Violence and Social Orders (2009). Ch4. Open Access Orders',
-  quote: 'A final aspect of all open access orders is Schumpeter’s notion of creative destruction, one of the most powerful descriptions of a competitive, open access economy. When Schumpeter wrote Capitalism, Socialism, and Democracy in the early 1940s, the economic theory of perfect competition among atomistic firms (i.e., firms too small to have market power) had come under sustained attack as unrealistic. Large and powerful economic organizations dominated the new economy, and their behavior did not match the textbooks. Despite this dominance, the economy produced historically unprecedented, sustained economic development. Schumpeter asked, How could large businesses that were supposed to choke off competition and growth nonetheless generate such spectacular productivity increases in a world that seemed ever more competitive?'
-}]
+  quote: 'A final aspect of all open access orders is Schumpeter’s notion of creative destruction, one of the most powerful descriptions of a competitive, open access economy. When Schumpeter wrote Capitalism, Socialism, and Democracy in the early 1940s, the economic theory of perfect competition among atomistic firms (i.\ne., firms too small to have market power) had come under sustained attack as unrealistic. Large and powerful economic organizations dominated the new economy, and their behavior did not match the textbooks. Despite this dominance, the economy produced historically unprecedented, sustained economic development. Schumpeter asked, How could large businesses that were supposed to choke off competition and growth nonetheless generate such spectacular productivity increases in a world that seemed ever more competitive?'
+}];
 
 var Francis_Fukuyama = [{
   figure: 'Francis Fukuyama',
@@ -96,7 +96,7 @@ var Francis_Fukuyama = [{
   figure: 'Francis Fukuyama',
   mark: '2010s. "Against Identity Politics" (20180814), Foreign Affairs',
   quote: 'The Left’s identity politics poses a threat to free speech and to the kind of rational discourse needed to sustain a democracy... The focus on lived experience by identity groups prioritizes the emotional world of the inner self over the rational examination of issues in the outside world and privileges sincerely held opinions over a process of reasoned deliberation that may force one to abandon prior opinions.'
-}]
+}];
 
 var Franco_Modigliani = [{
   figure: 'Franco Modigliani',
@@ -105,7 +105,7 @@ var Franco_Modigliani = [{
 }, {
   figure: 'Franco Modigliani',
   mark: 'Franco Modigliani, "Life Cycle, Individual Thrift and the Wealth of Nations" Lecture to the memory of Alfred Nobel, 19851209, in: Nobel Lectures, Economics 1981-1990, Editor Karl-Göran Mäler, World Scientific Publishing Co., Singapore, 1992.',
-  quote: 'The life cycle of family size, at least in the U.S., has a very humped shape rather similar to that of income, though with a somewhat earlier peak. As a result, one might expect, and generally finds a fairly constant rate of saving in the central age group, but lower saving or even dissaving in the very young or old.'
+  quote: 'The life cycle of family size, at least in the U.\nS., has a very humped shape rather similar to that of income, though with a somewhat earlier peak. As a result, one might expect, and generally finds a fairly constant rate of saving in the central age group, but lower saving or even dissaving in the very young or old.'
 }, {
   figure: 'Franco Modigliani',
   mark: 'Franco Modigliani (2001) Adventures of an economist, p41.',
@@ -117,8 +117,8 @@ var Franco_Modigliani = [{
 }, {
   figure: 'Franco Modigliani',
   mark: 'Conversations with Economists (1983)',
-  quote: 'I believe people can solve complex problems eventually. By repeated trial and error they will get there; but they need a long time. At this point I agree with Herbert Simon. People do not learn immediately, as those rational expectations models seem to imply. I don\'t believe that.The statement that assumptions do not matter is nonsense. It is funny. Yes, I assume people are consistent in their behavior. I assume that not because I believe everybody actually is, but because I believe, on the average, you do not get too far from it.'
-}]
+  quote: 'I believe people can solve complex problems eventually. By repeated trial and error they will get there; but they need a long time. At this point I agree with Herbert Simon. People do not learn immediately, as those rational expectations models seem to imply. I don\'t believe that.\nThe statement that assumptions do not matter is nonsense. It is funny. Yes, I assume people are consistent in their behavior. I assume that not because I believe everybody actually is, but because I believe, on the average, you do not get too far from it.'
+}];
 
 var Gary_Becker = [{
   figure: 'Gary Becker',
@@ -127,7 +127,7 @@ var Gary_Becker = [{
 }, {
   figure: 'Gary Becker',
   mark: '"The Age of Human Capital",  in Edward P. Lazear, Education in the Twenty-First Century (2002)',
-  quote: 'I conclude by listing several main points of this essay:1. Human capital is of great importance in the modern economy.2. Human capital has become of much greater significance during the past two decades.3. Human capital is crucial to the international division of labor.4. Much unmeasured learning goes on in companies and by adults.5. People need to invest in themselves during their whole lives.6. Distance learning will become of crucial importance to the teaching and learning process.7. Human capital stimulates technological innovations and the high-tech sector.'
+  quote: 'I conclude by listing several main points of this essay:\n1. Human capital is of great importance in the modern economy.\n2. Human capital has become of much greater significance during the past two decades.\n3. Human capital is crucial to the international division of labor.\n4. Much unmeasured learning goes on in companies and by adults.\n5. People need to invest in themselves during their whole lives.\n6. Distance learning will become of crucial importance to the teaching and learning process.\n7. Human capital stimulates technological innovations and the high-tech sector.'
 }, {
   figure: 'Gary Becker',
   mark: 'Why We Support a Revenue-Neutral Carbon Tax: Coupled with the elimination of costly energy subsidies, it would encourage competition. "Commentary" a1. n the Wall Street Journal, co-authored with George P. Shultz, dated 20130407.',
@@ -152,7 +152,7 @@ var Gary_Becker = [{
   figure: 'Gary Becker',
   mark: 'A Treatise on the Family, 1981. p85',
   quote: '[Gale and Shapley assumed that each person has] a given ranking [among] potential mates that determines rather than is determined by the equilibrium sorting.'
-}]
+}];
 
 var J_Bradford_DeLong = [{
   figure: 'J. Bradford DeLong',
@@ -173,8 +173,8 @@ var J_Bradford_DeLong = [{
 }, {
   figure: 'J. Bradford DeLong',
   mark: 'Making Sense of Friedrich A. von Hayek: Focus/The Honest Broker for the Week of 20140809 (2014)',
-  quote: 'The Good Economist Hayek is the thinker who has mind-blowing insights into just why the competitive market system is such a marvelous societal device for coordinating our by now 7.2 billion-wide global division of labor. Few other economists imagined that Lenin’s centrally-planned economy behind the Iron Curtain was doomed to settle at a level of productivity 1/5 that of the capitalist industrial market economies outside. Hayek did so imagine. And Hayek had dazzling insights as to why. Explaining the thought of this Hayek requires not sociology or history of thought but rather appreciation, admiration, and respect for pure genius.The Bad Economist Hayek is the thinker who was certain that Keynes had to be wrong, and that the mass unemployment of the Great Depression had to have in some mysterious way been the fault of some excessively-profligate government entity (or perhaps of those people excessively clever with money–fractional-reserve bankers, and those who claim not the natural increase of flocks but rather the interest on barren gold). Why Hayek could not see with everybody else–including Milton Friedman–that the Great Depression proved that Say’s Law was false in theory, and that aggregate demand needed to be properly and delicately managed in order to make Say’s Law true in practice is largely a mystery. Nearly everyone else did: the Lionel Robbinses and the Arthur Burnses quickly marked their beliefs to market after the Great Depression and figured out how to translate what they thought into acceptable post-World War II Keynesian language. Hayek never did.My hypothesis is that the explanation is theology: For Hayek, the market could never fail. For Hayek, the market could only be failed. And the only way it could be failed was if its apostles were not pure enough.'
-}]
+  quote: 'The Good Economist Hayek is the thinker who has mind-blowing insights into just why the competitive market system is such a marvelous societal device for coordinating our by now 7.\n2 billion-wide global division of labor. Few other economists imagined that Lenin’s centrally-planned economy behind the Iron Curtain was doomed to settle at a level of productivity 1/5 that of the capitalist industrial market economies outside. Hayek did so imagine. And Hayek had dazzling insights as to why. Explaining the thought of this Hayek requires not sociology or history of thought but rather appreciation, admiration, and respect for pure genius.\nThe Bad Economist Hayek is the thinker who was certain that Keynes had to be wrong, and that the mass unemployment of the Great Depression had to have in some mysterious way been the fault of some excessively-profligate government entity (or perhaps of those people excessively clever with money–fractional-reserve bankers, and those who claim not the natural increase of flocks but rather the interest on barren gold). Why Hayek could not see with everybody else–including Milton Friedman–that the Great Depression proved that Say’s Law was false in theory, and that aggregate demand needed to be properly and delicately managed in order to make Say’s Law true in practice is largely a mystery. Nearly everyone else did: the Lionel Robbinses and the Arthur Burnses quickly marked their beliefs to market after the Great Depression and figured out how to translate what they thought into acceptable post-World War II Keynesian language. Hayek never did.\nMy hypothesis is that the explanation is theology: For Hayek, the market could never fail. For Hayek, the market could only be failed. And the only way it could be failed was if its apostles were not pure enough.'
+}];
 
 var James_Tobin = [{
   figure: 'James Tobin',
@@ -264,7 +264,7 @@ var James_Tobin = [{
   figure: 'James Tobin',
   mark: '1990s. "Reflections on Japanese Political Economy" (1999)',
   quote: 'I suspect that many of the world\'s financial lords are somewhat embarrassed to tell Japan repeatedly at G-7 meetings and elsewhere to adopt a Keynesian solution. Within Europe, central banks and governments think Keynesian theories and policies are absolutely wrong. Despite the remarkable success of pragmatic policies in the United States, true believers in the Invisible Hand reject Keynesian diagnoses and prescriptions. Many observers of Japan have found it intellectually comforting to blame the slump on the plight of the banks, flooded with bad loans dated from the land and equity bubbles and their collapse. They hope that a governmentmanaged and -subsidized rectification of bank balance sheets will trigger overall economic recovery. I think this is a false hope. The bank problem is only a small part of the macroeconomic disaster. It has to be resolved, of course, but resolution that is no substitute for the needed fiscal and monetary stimuli.'
-}]
+}];
 
 var John_Maynard_Keynes = [{
   figure: 'John Maynard Keynes',
@@ -312,11 +312,11 @@ var John_Maynard_Keynes = [{
   quote: 'Nothing mattered except states of mind, chiefly our own.'
 }, {
   figure: 'John Maynard Keynes',
-  mark: '“Stalin-Wells Talk: The Verbatim Report and A Discussion”, G.B. Shaw, J.M. Keynes et al., London, The New Statesman and Nation, (1934) p34',
+  mark: '“Stalin-Wells Talk: The Verbatim Report and A Discussion”, G.\nB. Shaw, J.\nM. Keynes et al., London, The New Statesman and Nation, (1934) p34',
   quote: 'Shaw and Stalin are still satisfied with Marx’s picture of the capitalist world… They look backwards to what capitalism was, not forward to what it is becoming.'
 }, {
   figure: 'John Maynard Keynes',
-  mark: '“Stalin-Wells Talk: The Verbatim Report and A Discussion”, G.B. Shaw, J.M. Keynes et al., London, The New Statesman and Nation, (1934) p35',
+  mark: '“Stalin-Wells Talk: The Verbatim Report and A Discussion”, G.\nB. Shaw, J.\nM. Keynes et al., London, The New Statesman and Nation, (1934) p35',
   quote: 'Communism draws its strength from deeper, more serious sources. Offered to us as a means of improving the economic situation, it is an insult to our intelligence. But offered as a means of making the economic situation worse, that is its subtle, its almost irresistible, attraction. Communism is not a reaction against the failure of the nineteenth century to organize optimal economic output. It is a reaction against its comparative success.'
 }, {
   figure: 'John Maynard Keynes',
@@ -325,7 +325,7 @@ var John_Maynard_Keynes = [{
 }, {
   figure: 'John Maynard Keynes',
   mark: 'Letter to Roy Harrod (19380704), in The Collected Writings of John Maynard Keynes, Vol14. (1971), p297',
-  quote: 'Economics is a science of thinking in terms of models joined to the art of choosing models which are relevant to the contemporary world. It is compelled to be this, because, unlike the typical natural science, the material to which it is applied is, in too many respects, not homogeneous through time. The object of a model is to segregate the semi-permanent or relatively constant factors from those which are transitory or fluctuating so as to develop a logical way of thinking about the latter, and of understanding the time sequences to which they give rise in particular cases.Good economists are scarce because the gift for using "vigilant observation" to choose good models, although it does not require a highly specialised intellectual technique, appears to be a very rare one.'
+  quote: 'Economics is a science of thinking in terms of models joined to the art of choosing models which are relevant to the contemporary world. It is compelled to be this, because, unlike the typical natural science, the material to which it is applied is, in too many respects, not homogeneous through time. The object of a model is to segregate the semi-permanent or relatively constant factors from those which are transitory or fluctuating so as to develop a logical way of thinking about the latter, and of understanding the time sequences to which they give rise in particular cases.\nGood economists are scarce because the gift for using "vigilant observation" to choose good models, although it does not require a highly specialised intellectual technique, appears to be a very rare one.'
 }, {
   figure: 'John Maynard Keynes',
   mark: 'Letter to Abba Lerner, 1942, On The Economics of Control',
@@ -340,11 +340,11 @@ var John_Maynard_Keynes = [{
   quote: 'The day is not far off when the economic problem will take the back seat where it belongs, and the arena of the heart and the head will be occupied or reoccupied, by our real problems — the problems of life and of human relations, of creation and behaviour and religion.'
 }, {
   figure: 'John Maynard Keynes',
-  mark: 'On the Conservative Party; Skidelsky (1992:231) quoting Collected Writings Vol9. p296-297',
+  mark: 'On the Conservative Party; Skidelsky (1992:\n231) quoting Collected Writings Vol9. p296-297',
   quote: 'They offer me neither food nor drink — intellectual nor spiritual consolation... [Conservatism] leads nowhere; it satisfies no ideal; it conforms to no intellectual standard, it is not safe, or calculated to preserve from the spoilers that degree of civilisation which we have already attained.'
 }, {
   figure: 'John Maynard Keynes',
-  mark: 'Skidelsky (1992:232) quoting Keynes Papers PS/6',
+  mark: 'Skidelsky (1992:\n232) quoting Keynes Papers PS/6',
   quote: 'There was an attraction at first that Mr Baldwin should not be clever. But when he forever sentimentalises about his own stupidity, the charm is broken.'
 }, {
   figure: 'John Maynard Keynes',
@@ -461,7 +461,7 @@ var John_Maynard_Keynes = [{
 }, {
   figure: 'John Maynard Keynes',
   mark: 'Essays in Persuasion (1931). "The Economic Consequences of Mr. Churchill" (1925)',
-  quote: 'Why should coal miners suffer a lower standard of life than other classes of labour? They may be lazy, good-for-nothing fellows who do not work so hard or so long as they should. But is there any evidence that they are more lazy or more good-for-nothing than other people?On grounds of social justice, no case can be made out for reducing. the wages of the miners. They are the victims of the economic Juggernaut. They represent in the flesh the "fundamental adjustments" engineered by the Treasury and the Bank of England to satisfy the impatience of the City fathers to bridge the "moderate gap" between $4.40 and $4.86. They (and others to follow) are the "moderate sacrifice" still necessary to ensure the stability of the gold standard. The plight of the coal miners is the first, but not—unless we are very lucky—the last, of the Economic Consequences of Mr. Churchill.'
+  quote: 'Why should coal miners suffer a lower standard of life than other classes of labour? They may be lazy, good-for-nothing fellows who do not work so hard or so long as they should. But is there any evidence that they are more lazy or more good-for-nothing than other people?\nOn grounds of social justice, no case can be made out for reducing. the wages of the miners. They are the victims of the economic Juggernaut. They represent in the flesh the "fundamental adjustments" engineered by the Treasury and the Bank of England to satisfy the impatience of the City fathers to bridge the "moderate gap" between $4.\n40 and $4.\n86. They (and others to follow) are the "moderate sacrifice" still necessary to ensure the stability of the gold standard. The plight of the coal miners is the first, but not—unless we are very lucky—the last, of the Economic Consequences of Mr. Churchill.'
 }, {
   figure: 'John Maynard Keynes',
   mark: 'Essays in Persuasion (1931). "The End of Gold Standard" (1931)',
@@ -561,7 +561,7 @@ var John_Maynard_Keynes = [{
 }, {
   figure: 'John Maynard Keynes',
   mark: 'Essays In Biography  (1933). "Alfred Marshall", p223',
-  quote: 'The general theory of economic equilibrium was strengthened and made effective as an organon of thought by two powerful subsidiary conceptions — the Margin and Substitution. The notion of the Margin was extended beyond utility to describe the equilibrium point in given conditions of any economic factor which can be regarded as capable of small variations about a given value,or in its functional relation to a given value.'
+  quote: 'The general theory of economic equilibrium was strengthened and made effective as an organon of thought by two powerful subsidiary conceptions — the Margin and Substitution. The notion of the Margin was extended beyond utility to describe the equilibrium point in given conditions of any economic factor which can be regarded as capable of small variations about a given value,\nor in its functional relation to a given value.'
 }, {
   figure: 'John Maynard Keynes',
   mark: 'Essays In Biography  (1933). "Alfred Marshall", p253',
@@ -634,7 +634,7 @@ var John_Maynard_Keynes = [{
   figure: 'John Maynard Keynes',
   mark: 'How to Pay for the War (1940). Ch8. Rationing Price Control and Wage Control',
   quote: 'The mechanism of reaching equilibrium by means of a rising cost of living, which is vainly pursued by a rising level of wages, will be described in the next chapter. But it is admitted on all hands that this is the worst possible solution.'
-}]
+}];
 
 var John_von_Neumann = [{
   figure: 'John von Neumann',
@@ -642,7 +642,7 @@ var John_von_Neumann = [{
   quote: 'I think that it is a relatively good approximation to truth — which is much too complicated to allow anything but approximations — that mathematical ideas originate in empirics. But, once they are conceived, the subject begins to live a peculiar life of its own and is … governed by almost entirely aesthetical motivations. In other words, at a great distance from its empirical source, or after much "abstract" inbreeding, a mathematical subject is in danger of degeneration. Whenever this stage is reached the only remedy seems to me to be the rejuvenating return to the source: the reinjection of more or less directly empirical ideas.'
 }, {
   figure: 'John von Neumann',
-  mark: 'On mistaking pseudorandom number generators for being truly "random" — this quote is often erroneously interpreted to mean that von Neumann was against the use of pseudorandom numbers, when in reality he was cautioning about misunderstanding their true nature while advocating their use. From "Various techniques used in connection with random digits" by John von Neumann in  Monte Carlo Method (1951) edited by A.S. Householder, G.E. Forsythe, and H.H. Germond',
+  mark: 'On mistaking pseudorandom number generators for being truly "random" — this quote is often erroneously interpreted to mean that von Neumann was against the use of pseudorandom numbers, when in reality he was cautioning about misunderstanding their true nature while advocating their use. From "Various techniques used in connection with random digits" by John von Neumann in  Monte Carlo Method (1951) edited by A.\nS. Householder, G.\nE. Forsythe, and H.\nH. Germond',
   quote: 'Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number — there are only methods to produce random numbers, and a strict arithmetic procedure of course is not such a method.'
 }, {
   figure: 'John von Neumann',
@@ -678,7 +678,7 @@ var John_von_Neumann = [{
   quote: 'You don\'t have to be responsible for the world that you\'re in.'
 }, {
   figure: 'John von Neumann',
-  mark: 'Statement at the start of a classroom lecture, as quoted in 1,911 Best Things Anyone Ever Said (1988) by Robert Byrne.',
+  mark: 'Statement at the start of a classroom lecture, as quoted in 1,\n911 Best Things Anyone Ever Said (1988) by Robert Byrne.',
   quote: 'The goys have proven the following theorem…'
 }, {
   figure: 'John von Neumann',
@@ -708,7 +708,7 @@ var John_von_Neumann = [{
   figure: 'John von Neumann',
   mark: 'As quoted in "The Passing of a Great Mind" by Clay Blair, Jr., in LIFE Magazine (19570225), p96',
   quote: 'If you say why not bomb them tomorrow, I say why not today? If you say today at five o\' clock, I say why not one o\' clock?'
-}]
+}];
 
 var Joseph_Schumpeter = [{
   figure: 'Joseph Schumpeter',
@@ -754,7 +754,7 @@ var Joseph_Schumpeter = [{
   figure: 'Joseph Schumpeter',
   mark: 'The Theory of Economic Development (1934). Ch6. The Business Cycle',
   quote: 'The swarm-like appearance of new combinations easily and necessarily explains the fundamental features of periods of boom.'
-}]
+}];
 
 var Kenneth_Arrow = [{
   figure: 'Kenneth Arrow',
@@ -892,7 +892,7 @@ var Kenneth_Arrow = [{
   figure: 'Kenneth Arrow',
   mark: 'New millennium. Kenneth Arrow, "Some Developments in Economic Theory Since 1940: An Eyewitness Account" Annu. Rev. Econ. 2009',
   quote: 'I then follow up with four major aspects of economic research in the last 60 years, the period of my scholarly activity. One, econometric methodology and practice, is of such fundamental importance that it cannotgo unnoticed, although I played no role in it. With the other three, general equilibrium, dynamic processes, and uncertainty and information, I was more intimately involved.'
-}]
+}];
 
 var Milton_Friedman = [{
   figure: 'Milton Friedman',
@@ -916,7 +916,7 @@ var Milton_Friedman = [{
   quote: 'Inflation is always and everywhere a monetary phenomenon in the sense that it is and can be produced only by a more rapid increase in the quantity of money than in output. … A steady rate of monetary growth at a moderate level can provide a framework under which a country can have little inflation and much growth. It will not produce perfect stability; it will not produce heaven on earth; but it can make an important contribution to a stable economic society.'
 }, {
   figure: 'Milton Friedman',
-  mark: 'As quoted in “Milton Friedman: A Tribute”, David R. Henderson, antiwar.com, (20061120), told to Henderson (197005)',
+  mark: 'As quoted in “Milton Friedman: A Tribute”, David R. Henderson, antiwar.\ncom, (20061120), told to Henderson (197005)',
   quote: 'Make politics an avocation, not a vocation.'
 }, {
   figure: 'Milton Friedman',
@@ -1056,7 +1056,7 @@ var Milton_Friedman = [{
   quote: 'You can only aim at equality by giving some people the right to take things from others. And what ultimately happens when you aim for equality is that A and B decide what C should do for D, except that they take a bit of commission off on the way.”'
 }, {
   figure: 'Milton Friedman',
-  mark: 'Lecture "The Suicidal Impulse of the Business Community" (1983); cited in Filters Against Folly (1985) by Garrett Hardin  ISBN 067080410X ',
+  mark: 'Lecture "The Suicidal Impulse of the Business Community" (1983); cited in Filters Against Folly (1985) by Garrett Hardin  ISBN 067080410X',
   quote: 'With some notable exceptions, businessmen favor free enterprise in general but are opposed to it when it comes to themselves.'
 }, {
   figure: 'Milton Friedman',
@@ -1068,12 +1068,12 @@ var Milton_Friedman = [{
   quote: 'Every friend of freedom... must be as revolted as I am by the prospect of turning the United States into an armed camp, by the vision of jails filled with casual drug users and of an army of enforcers empowered to invade the liberty of citizens on slight evidence.'
 }, {
   figure: 'Milton Friedman',
-  mark: 'Article "We Have Socialism, Q.E.D." in The New York Times (19891231)',
-  quote: 'Spending by government currently amounts to about 45 percent of national income. By that test, government owns 45 percent of the means of production that produce the national income. The U.S. is now 45 percent socialist.'
+  mark: 'Article "We Have Socialism, Q.\nE.\nD." in The New York Times (19891231)',
+  quote: 'Spending by government currently amounts to about 45 percent of national income. By that test, government owns 45 percent of the means of production that produce the national income. The U.\nS. is now 45 percent socialist.'
 }, {
   figure: 'Milton Friedman',
   mark: '"Milton Friedman" in William Breit and Roger W. Spencer (ed.) Lives of the laureates',
-  quote: 'So far, twenty-two people have received the Nobel award in economics. Not one of them has been female—so, to judge only from the past, the most important thing to do if you want to be a Nobel laureate is to be male. I hasten to add that the absence of females is not, I believe, attributable to male chauvinist bias on the part of the Swedish Nobel Committee. I believe that the economics profession as a whole would have been nearly unanimous that, during the period in question, only one female candidate met the relevant standards—the English economist Joan Robinson, who has since died. The failure of the Nobel Committee to award her a prize may well have reflected bias but not sex bias. The economists here will understand what I am talking about. … A second requirement is to be a U.S. citizen. Twelve of the twenty-two recipients of the Nobel Prize were from the United States, four from the United Kingdom, two from Sweden, and one each from four other countries. … Of the twelve Americans who have won the Nobel Prize in economics, nine either studied or taught at the University of Chicago. So the next lesson is to go to the University of Chicago.'
+  quote: 'So far, twenty-two people have received the Nobel award in economics. Not one of them has been female—so, to judge only from the past, the most important thing to do if you want to be a Nobel laureate is to be male. I hasten to add that the absence of females is not, I believe, attributable to male chauvinist bias on the part of the Swedish Nobel Committee. I believe that the economics profession as a whole would have been nearly unanimous that, during the period in question, only one female candidate met the relevant standards—the English economist Joan Robinson, who has since died. The failure of the Nobel Committee to award her a prize may well have reflected bias but not sex bias. The economists here will understand what I am talking about. … A second requirement is to be a U.\nS. citizen. Twelve of the twenty-two recipients of the Nobel Prize were from the United States, four from the United Kingdom, two from Sweden, and one each from four other countries. … Of the twelve Americans who have won the Nobel Prize in economics, nine either studied or taught at the University of Chicago. So the next lesson is to go to the University of Chicago.'
 }, {
   figure: 'Milton Friedman',
   mark: '”“Interview with Milton Friedman”, David Levy, Federal Reserve Bank of Minneapolis (19920601)',
@@ -1084,7 +1084,7 @@ var Milton_Friedman = [{
   quote: 'The great virtue of a free market system is that it does not care what color people are; it does not care what their religion is; it only cares whether they can produce something you want to buy. It is the most effective system we have discovered to enable people who hate one another to deal with one another and help one another.'
 }, {
   figure: 'Milton Friedman',
-  mark: 'Milton Friedman: The Rise of Socialism is Absurd and There’s No Such Thing as a Free Lunch, Grand opening speech at Cato Institutes’ headquarters in Washington, D.C. (199305)',
+  mark: 'Milton Friedman: The Rise of Socialism is Absurd and There’s No Such Thing as a Free Lunch, Grand opening speech at Cato Institutes’ headquarters in Washington, D.\nC. (199305)',
   quote: 'After the fall of communism, everybody in the world agreed that socialism was a failure. Everybody in the world, more or less, agreed that capitalism was a success. And every capitalist country in the world apparently deduced from that what the West needed was more socialism.'
 }, {
   figure: 'Milton Friedman',
@@ -1164,7 +1164,7 @@ var Milton_Friedman = [{
   quote: 'Thanks to economists, all of us, from the days of Adam Smith and before right down to the present, tariffs are perhaps one tenth of one percent lower than they otherwise would have been. … And because of our efforts, we have earned our salaries ten-thousand fold.'
 }, {
   figure: 'Milton Friedman',
-  mark: 'As quoted in "Milton Friedman\'s Last Lunch" at Forbes.com (20061211)',
+  mark: 'As quoted in "Milton Friedman\'s Last Lunch" at Forbes.\ncom (20061211)',
   quote: 'If a tax cut increases government revenues, you haven\'t cut taxes enough.'
 }, {
   figure: 'Milton Friedman',
@@ -1285,7 +1285,7 @@ var Milton_Friedman = [{
 }, {
   figure: 'Milton Friedman',
   mark: 'Capitalism and Freedom (1962). Ch8. Monopoly and the Social Responsibility of Business and Labor, p133',
-  quote: 'The view has been gaining widespread acceptance that corporate officials and labor leaders have a "social responsibility"... beyond serving the interests of their stockholders or their members. This view shows a fundamental misconception of the character of a free economy. In such an economy there is one and only one social responsibility of business—to use its resources and engage in activities designed to increase its profits so long as it stays within the rules of the game, ...[i.e.,] engages in open and free competition, without deception and fraud. Similarly, the "social responsibility" of labor leaders is to serve the interests of the members of their unions. It is the responsibility of the rest of us to establish a framework of law such that an individual... is, to quote Adam Smith... "led by an invisible hand... I have never known much good done by those who affected to trade for the public good."'
+  quote: 'The view has been gaining widespread acceptance that corporate officials and labor leaders have a "social responsibility"... beyond serving the interests of their stockholders or their members. This view shows a fundamental misconception of the character of a free economy. In such an economy there is one and only one social responsibility of business—to use its resources and engage in activities designed to increase its profits so long as it stays within the rules of the game, ...[i.\ne.,] engages in open and free competition, without deception and fraud. Similarly, the "social responsibility" of labor leaders is to serve the interests of the members of their unions. It is the responsibility of the rest of us to establish a framework of law such that an individual... is, to quote Adam Smith... "led by an invisible hand... I have never known much good done by those who affected to trade for the public good."'
 }, {
   figure: 'Milton Friedman',
   mark: 'Capitalism and Freedom (1962). Ch8. Monopoly and the Social Responsibility of Business and Labor, p133',
@@ -1317,7 +1317,7 @@ var Milton_Friedman = [{
 }, {
   figure: 'Milton Friedman',
   mark: 'A Monetary History of the United States (1963). "The Great Contraction, 1929-1933" (1963), with Anna J. Schwartz',
-  quote: 'The contraction from 1929 to 1933 was by far the most severe business-cycle contraction during the near-century of U.S. history we cover and it may well have been the most severe in the whole of U.S. history.'
+  quote: 'The contraction from 1929 to 1933 was by far the most severe business-cycle contraction during the near-century of U.\nS. history we cover and it may well have been the most severe in the whole of U.\nS. history.'
 }, {
   figure: 'Milton Friedman',
   mark: 'An Economist\'s Protest: Columns in Political Economy (1966). p. xvi',
@@ -1397,7 +1397,7 @@ var Milton_Friedman = [{
 }, {
   figure: 'Milton Friedman',
   mark: '“Interview with Milton Friedman”, Playboy magazine (Feb. 1973)',
-  quote: 'The average income of blacks here is far higher than the average income of all the people in the Soviet Union. The official government definition of the poverty line in the U.S. is higher than the average income in the Soviet Union; it’s higher than the income received by 90 percent of the people on the world’s surface. Now, that doesn’t mean blacks aren’t subject to injustice; of course they are.'
+  quote: 'The average income of blacks here is far higher than the average income of all the people in the Soviet Union. The official government definition of the poverty line in the U.\nS. is higher than the average income in the Soviet Union; it’s higher than the income received by 90 percent of the people on the world’s surface. Now, that doesn’t mean blacks aren’t subject to injustice; of course they are.'
 }, {
   figure: 'Milton Friedman',
   mark: '“Interview with Milton Friedman”, Playboy magazine (Feb. 1973)',
@@ -1493,7 +1493,7 @@ var Milton_Friedman = [{
 }, {
   figure: 'Milton Friedman',
   mark: 'Money Mischief (1992). Ch2. The Mystery of Money',
-  quote: 'Why should they also be accepted by private persons in private transactions in exchange for goods and services?The short answer—and the right answer—is that private persons accept these pieces of paper because they are confident that others will. The pieces of green paper have value because everybody thinks they have value. Everybody thinks they have value because in everybody\'s experience they have had value...'
+  quote: 'Why should they also be accepted by private persons in private transactions in exchange for goods and services?\nThe short answer—and the right answer—is that private persons accept these pieces of paper because they are confident that others will. The pieces of green paper have value because everybody thinks they have value. Everybody thinks they have value because in everybody\'s experience they have had value...'
 }, {
   figure: 'Milton Friedman',
   mark: 'Money Mischief (1992). Ch2. The Mystery of Money',
@@ -1506,7 +1506,7 @@ var Milton_Friedman = [{
   figure: 'Milton Friedman',
   mark: 'Money Mischief (1992). Ch2. The Mystery of Money',
   quote: 'Over short periods, the relation between growth in money and growth in nominal income is often hard to see, partly because the relation is less close for short than for long periods, but mostly because it takes time for changes in monetary growth to affect income. And how long a time is itself variable. Today\'s income growth is not closely related to today\'s monetary growth; it depends on what has been happening to money in the past. What happens to money today affects what is going to happen to income in the future'
-}]
+}];
 
 var Paul_Krugman = [{
   figure: 'Paul Krugman',
@@ -1519,7 +1519,7 @@ var Paul_Krugman = [{
 }, {
   figure: 'Paul Krugman',
   mark: '"How I Work", American Economist (1993)',
-  quote: 'In the course of describing my formative moment in 1978, I have already implicitly given my four basic rules for research. Let me now state them explicitly, then explain. Here are the rules:1. Listen to the Gentiles2. Question the question3. Dare to be silly4. Simplify, simplify'
+  quote: 'In the course of describing my formative moment in 1978, I have already implicitly given my four basic rules for research. Let me now state them explicitly, then explain. Here are the rules:\n1. Listen to the Gentiles2. Question the question3. Dare to be silly4. Simplify, simplify'
 }, {
   figure: 'Paul Krugman',
   mark: '"How I Work", American Economist (1993)',
@@ -1586,7 +1586,7 @@ var Paul_Krugman = [{
   quote: 'There is no economic policy. That\'s really important to say. The general modus operandi of the Bushies is that they don\'t make policies to deal with problems. They use problems to justify things they wanted to do anyway. So there is no policy to deal with the lack of jobs. There really isn\'t even a policy to deal with terrorism. It\'s all about how can we spin what\'s happening out there to do what we want to do.'
 }, {
   figure: 'Paul Krugman',
-  mark: 'Krugman, Paul (20060417). "Enemy of the Planet". The New York Times. Retrieved on 20181224. ',
+  mark: 'Krugman, Paul (20060417). "Enemy of the Planet". The New York Times. Retrieved on 20181224.',
   quote: '...Exxon Mobil is a worse environmental villain than other big oil companies...Exxon, headed by Mr. Raymond, chose a different course of action: it decided to fight the science....And that\'s just what Exxon Mobil has done: lavish grants have supported a sort of alternative intellectual universe of global warming skeptics....the fact is that whatever small chance there was of action to limit global warming became even smaller because ExxonMobil chose to protect its profits by trashing good science.'
 }, {
   figure: 'Paul Krugman',
@@ -1627,7 +1627,7 @@ var Paul_Krugman = [{
 }, {
   figure: 'Paul Krugman',
   mark: 'Paul Krugman and Richard Layard, "A Manifesto for Economic Sense" (20120627)',
-  quote: 'More than four years after the financial crisis began, the world\'s major advanced economies remain deeply depressed, in a scene all too reminiscent of the 1930s. And the reason is simple: we are relying on the same ideas that governed policy in the 1930s. These ideas, long since disproved, involve profound errors both about the causes of the crisis, its nature, and the appropriate response.These errors have taken deep root in public consciousness and provide the public support for the excessive austerity of current fiscal policies in many countries. So the time is ripe for a Manifesto in which mainstream economists offer the public a more evidence-based analysis of our problems.'
+  quote: 'More than four years after the financial crisis began, the world\'s major advanced economies remain deeply depressed, in a scene all too reminiscent of the 1930s. And the reason is simple: we are relying on the same ideas that governed policy in the 1930s. These ideas, long since disproved, involve profound errors both about the causes of the crisis, its nature, and the appropriate response.\nThese errors have taken deep root in public consciousness and provide the public support for the excessive austerity of current fiscal policies in many countries. So the time is ripe for a Manifesto in which mainstream economists offer the public a more evidence-based analysis of our problems.'
 }, {
   figure: 'Paul Krugman',
   mark: 'Of his paper "The Theory of Interstellar Trade"; quoted in The Economist, 20131026, p86',
@@ -1663,15 +1663,15 @@ var Paul_Krugman = [{
 }, {
   figure: 'Paul Krugman',
   mark: 'Peddling Prosperity (1994). Ch1. The Attack on Keynes',
-  quote: 'There are many economic puzzles, but there are only two really great mysteries.One of these mysteries is why economic growth takes places at different rates over time and across countries. Nobody really knows why the U.S. economy could generate 3 percent annual productivity growth before 1973 but only 1 percent afterward, nobody really knows why Japan surged from defeat to global economic power after World War II, while Britain slid slowly into third-rate status. At any given time there are always policy entrepreneurs willing to claim that they have all the answers, but we\'ll come to that story in later chapters.The other mystery is the reason why there is a business cycle ― the irregular rhythm of recessions and recoveries that prevents economic growth from being a smooth trend. It was in challenging the orthodox, Keynesian view of business cycles that conservatives first forced a major rethinking of economics.'
+  quote: 'There are many economic puzzles, but there are only two really great mysteries.\nOne of these mysteries is why economic growth takes places at different rates over time and across countries. Nobody really knows why the U.\nS. economy could generate 3 percent annual productivity growth before 1973 but only 1 percent afterward, nobody really knows why Japan surged from defeat to global economic power after World War II, while Britain slid slowly into third-rate status. At any given time there are always policy entrepreneurs willing to claim that they have all the answers, but we\'ll come to that story in later chapters.\nThe other mystery is the reason why there is a business cycle ― the irregular rhythm of recessions and recoveries that prevents economic growth from being a smooth trend. It was in challenging the orthodox, Keynesian view of business cycles that conservatives first forced a major rethinking of economics.'
 }, {
   figure: 'Paul Krugman',
   mark: 'Peddling Prosperity (1994). Ch1. The Attack on Keynes',
-  quote: 'The phenomenon of recessions puzzled many economists in the early years of this century, and led many of them produce their worst work. Thorstein Veblen went from his brilliant Theory of the Leisure Class to write a really terrible book (The Engineers and the Price System) purporting to explain economic slumps. Joseph Schumpeter, whose magnificent vision of the "creative destruction" inherent in capitalist growth continues to inspire many economists, wrote a turgid, almost meaningless two-volume study, Business Cycles. Marxists gleefully seized upon the biggest recession of all, the Great Depression of the 1930s, as evidence of the irrationality of capitalism; yet they never offered a good explanation of why and how such things happen, just assurances that socialism would cure them.It fells to the British economist John Maynard Keynes to provide a clear story about what happens during a recession, and some useful advice about how to get out of one.'
+  quote: 'The phenomenon of recessions puzzled many economists in the early years of this century, and led many of them produce their worst work. Thorstein Veblen went from his brilliant Theory of the Leisure Class to write a really terrible book (The Engineers and the Price System) purporting to explain economic slumps. Joseph Schumpeter, whose magnificent vision of the "creative destruction" inherent in capitalist growth continues to inspire many economists, wrote a turgid, almost meaningless two-volume study, Business Cycles. Marxists gleefully seized upon the biggest recession of all, the Great Depression of the 1930s, as evidence of the irrationality of capitalism; yet they never offered a good explanation of why and how such things happen, just assurances that socialism would cure them.\nIt fells to the British economist John Maynard Keynes to provide a clear story about what happens during a recession, and some useful advice about how to get out of one.'
 }, {
   figure: 'Paul Krugman',
   mark: 'Peddling Prosperity (1994). Ch1. The Attack on Keynes',
-  quote: 'The usual and basic Keynesian answer to recessions is a monetary expansion. But Keynes worried that even this might sometimes not be enough, particularly if a recession had been allowed to get out of hand and become a true depression. Once the economy is deeply depressed, households and especially firms may be unwilling to increase spending no matter how much cash they have, they may simply add any monetary expansion to their board. Such a situation, in which monetary policy has become ineffective, has come to be known as a "liquidity trap"; Keynes believed that the British and American economies had entered such a trap by the mid-1930s, and some economists believed that the United States was on the edge of such a tap in 1992.The Keynesian answer to a liquidity trap is for the government to do what the private sector will not: spend. When monetary expansion is ineffective, fiscal expansion—such as public works programs financed by borrowing—must take its place. Such a fiscal expansion can break the vicious circle of low spending and low incomes, "priming the pump: and getting the economy moving again. But remember that this is not by any means an all-purpose policy recommendation; it is essentially a strategy of desperation, a dangerous drug to be prescribed only when the usual over-the-counter remedy of monetary policy has failed.'
+  quote: 'The usual and basic Keynesian answer to recessions is a monetary expansion. But Keynes worried that even this might sometimes not be enough, particularly if a recession had been allowed to get out of hand and become a true depression. Once the economy is deeply depressed, households and especially firms may be unwilling to increase spending no matter how much cash they have, they may simply add any monetary expansion to their board. Such a situation, in which monetary policy has become ineffective, has come to be known as a "liquidity trap"; Keynes believed that the British and American economies had entered such a trap by the mid-1930s, and some economists believed that the United States was on the edge of such a tap in 1992.\nThe Keynesian answer to a liquidity trap is for the government to do what the private sector will not: spend. When monetary expansion is ineffective, fiscal expansion—such as public works programs financed by borrowing—must take its place. Such a fiscal expansion can break the vicious circle of low spending and low incomes, "priming the pump: and getting the economy moving again. But remember that this is not by any means an all-purpose policy recommendation; it is essentially a strategy of desperation, a dangerous drug to be prescribed only when the usual over-the-counter remedy of monetary policy has failed.'
 }, {
   figure: 'Paul Krugman',
   mark: 'Peddling Prosperity (1994). Ch1. The Attack on Keynes',
@@ -1691,11 +1691,11 @@ var Paul_Krugman = [{
 }, {
   figure: 'Paul Krugman',
   mark: 'Peddling Prosperity (1994). Ch2. Taxes, Regulation, and Growth',
-  quote: 'Feldstein pointed out that throughout the tax system inflation was turning tolerable paper tax rates into very high effective rates. Corporations, for example, were supposed to pay a tax rate of 42 percent on their profits. Feldstein calculated, however, that when the effects of inflation were taken into account, the true tax on any profits from investing in equipment was more like 75 percent.You don\'t need to be a Republican to accept that tax rates this high might discourage investment and hurt economic growth. But was the interaction between inflation and investment really a major villain in America\'s economic difficulties? There the evidence was less clear.'
+  quote: 'Feldstein pointed out that throughout the tax system inflation was turning tolerable paper tax rates into very high effective rates. Corporations, for example, were supposed to pay a tax rate of 42 percent on their profits. Feldstein calculated, however, that when the effects of inflation were taken into account, the true tax on any profits from investing in equipment was more like 75 percent.\nYou don\'t need to be a Republican to accept that tax rates this high might discourage investment and hurt economic growth. But was the interaction between inflation and investment really a major villain in America\'s economic difficulties? There the evidence was less clear.'
 }, {
   figure: 'Paul Krugman',
   mark: 'Peddling Prosperity (1994). Ch2. Taxes, Regulation, and Growth',
-  quote: 'By 1980, the work of Feldstein, Boskin, Summers, and others had convinced many economists that U.S. taxes were in fact a significant obstacle to investment. Nor was this all: another major U.S. policy, the Social Security system, was also discouraging saving and investment.'
+  quote: 'By 1980, the work of Feldstein, Boskin, Summers, and others had convinced many economists that U.\nS. taxes were in fact a significant obstacle to investment. Nor was this all: another major U.\nS. policy, the Social Security system, was also discouraging saving and investment.'
 }, {
   figure: 'Paul Krugman',
   mark: 'Peddling Prosperity (1994). Ch2. Taxes, Regulation, and Growth',
@@ -1703,11 +1703,11 @@ var Paul_Krugman = [{
 }, {
   figure: 'Paul Krugman',
   mark: 'Peddling Prosperity (1994). Ch4. Growth',
-  quote: 'In a way, the worst sin of the conservatives was that of hypocrisy. They proclaimed growth as their objective, offered it as the answer to all problems, all while following policies that actually inhibited that growth at least a bit. At the end of the day, however, the most striking fact is how little happened to U.S. long-term growth, good or bad, on their watch.'
+  quote: 'In a way, the worst sin of the conservatives was that of hypocrisy. They proclaimed growth as their objective, offered it as the answer to all problems, all while following policies that actually inhibited that growth at least a bit. At the end of the day, however, the most striking fact is how little happened to U.\nS. long-term growth, good or bad, on their watch.'
 }, {
   figure: 'Paul Krugman',
   mark: 'Peddling Prosperity (1994). Ch6. The Budget Deficit',
-  quote: 'In the court of conventional wisdom, Ronald Reagan stands accused of inflicting a huge burden of debt upon his country. He cut taxes on the rich, increased military spending, and failed to cut enough spending elsewhere to pay for his largesse. The result was a string of unprecedented peacetime deficits, and a debt that will be a drag on the national standard of living for decades to come.Reagan is guilty as charged. The supply-side apologists\' claim that some extraordinary economic success vindicates Reaganomics in spite of the deficits just doesn\'t hold up in the face of the evidence. The question, however, is whether the crime was a felony or a misdemeanor.The answer proposed here will not satisfy those with a taste for drama. Reagan created a deficit, and it hurt American economic growth. But even if the effects of the visible deficit are supplemented with appeals to several alleged hidden deficits of the 1980s, the cost was not catastrophic. The deficit is not nearly the monster some people imagine.'
+  quote: 'In the court of conventional wisdom, Ronald Reagan stands accused of inflicting a huge burden of debt upon his country. He cut taxes on the rich, increased military spending, and failed to cut enough spending elsewhere to pay for his largesse. The result was a string of unprecedented peacetime deficits, and a debt that will be a drag on the national standard of living for decades to come.\nReagan is guilty as charged. The supply-side apologists\' claim that some extraordinary economic success vindicates Reaganomics in spite of the deficits just doesn\'t hold up in the face of the evidence. The question, however, is whether the crime was a felony or a misdemeanor.\nThe answer proposed here will not satisfy those with a taste for drama. Reagan created a deficit, and it hurt American economic growth. But even if the effects of the visible deficit are supplemented with appeals to several alleged hidden deficits of the 1980s, the cost was not catastrophic. The deficit is not nearly the monster some people imagine.'
 }, {
   figure: 'Paul Krugman',
   mark: 'Peddling Prosperity (1994). Ch9. The Economics of QWERTY',
@@ -1715,7 +1715,7 @@ var Paul_Krugman = [{
 }, {
   figure: 'Paul Krugman',
   mark: 'Peddling Prosperity (1994). Epilogue',
-  quote: 'It\'s tempting to give up—either to retreat to the ivory tower, or to start to play the policy entrepreneur game. After all, what is the use of sophisticated policy thinking or careful examination of the facts if simplistic ideas win every time?One answer is simply that it would be wrong to give up. If the people with good ideas do not fight for them, they have no right to complain about the outcome.But good ideas will still often lose to convenient nonsense. When that happens, every serious economist is ultimately sustained by a faith that the right ideas will eventually prevail.'
+  quote: 'It\'s tempting to give up—either to retreat to the ivory tower, or to start to play the policy entrepreneur game. After all, what is the use of sophisticated policy thinking or careful examination of the facts if simplistic ideas win every time?\nOne answer is simply that it would be wrong to give up. If the people with good ideas do not fight for them, they have no right to complain about the outcome.\nBut good ideas will still often lose to convenient nonsense. When that happens, every serious economist is ultimately sustained by a faith that the right ideas will eventually prevail.'
 }, {
   figure: 'Paul Krugman',
   mark: 'Development, Geography, and Economic Theory (1995). Ch1.. The Fall and Rise of Development Economics',
@@ -1731,7 +1731,7 @@ var Paul_Krugman = [{
 }, {
   figure: 'Paul Krugman',
   mark: 'Development, Geography, and Economic Theory (1995). Ch1.. The Fall and Rise of Development Economics',
-  quote: 'A casual reading of the development literature suggests that there is a dividing line circa 1960. Before 1960 writers on development generally assumed as a matter of course that economies of scale were a limiting factor on the ability to profitably establish industries in less developed countries, and that in the presence of such economies of scale pecuniary external economies assume real welfare significance. They seem, however, to have been unaware of the degree to which economies of scale raise problems for explicit modeling of competition, and/or of the extent to which the drive for formalism was pushing economics toward explicit models.After 1960, by contrast, economists working on development had been trained in the formalism of constant-returns general equilibrium, and did not so much reject the possibility that economies of scale might matter as simply fail to notice it.'
+  quote: 'A casual reading of the development literature suggests that there is a dividing line circa 1960. Before 1960 writers on development generally assumed as a matter of course that economies of scale were a limiting factor on the ability to profitably establish industries in less developed countries, and that in the presence of such economies of scale pecuniary external economies assume real welfare significance. They seem, however, to have been unaware of the degree to which economies of scale raise problems for explicit modeling of competition, and/or of the extent to which the drive for formalism was pushing economics toward explicit models.\nAfter 1960, by contrast, economists working on development had been trained in the formalism of constant-returns general equilibrium, and did not so much reject the possibility that economies of scale might matter as simply fail to notice it.'
 }, {
   figure: 'Paul Krugman',
   mark: 'Development, Geography, and Economic Theory (1995). Ch1.. The Fall and Rise of Development Economics',
@@ -1739,7 +1739,7 @@ var Paul_Krugman = [{
 }, {
   figure: 'Paul Krugman',
   mark: 'Development, Geography, and Economic Theory (1995). Ch1.. The Fall and Rise of Development Economics',
-  quote: 'From the point of view of a modern economist, the most striking feature of the works of high development theory is their adherence to a discursive, nonmathematical style. Economics has, of course, become vastly more mathematical over time. Nonetheless, development economics was archaic in style even for its own time. Of the four most famous high development works, Rosenstein-Rodan\'s was approximately contemporary with Samuelson\'s formulation of the Heckscher-Ohlin model, while Lewis, Myrdal, and Hirschman were all roughly contemporary with Solow\'s initial statement of growth theory.This lack of formality was not because development economists were peculiarly mathematically incapable. Hirschman made a significant contribution to the formal theory of devaluation in the 1940s, while Fleming helped create the still influential Mundell-Fleming model of floating exchange rates. Moreover, the development field itself was at the same time generating mathematical planning models first Harrod-Domar type growth models, then linear programming approaches that were actually quite technically advanced for their time.So why didn\'t high development theory get expressed in formal models? Almost certainly for one basic reason: the difficulty of reconciling economies of scale with a competitive market structure.'
+  quote: 'From the point of view of a modern economist, the most striking feature of the works of high development theory is their adherence to a discursive, nonmathematical style. Economics has, of course, become vastly more mathematical over time. Nonetheless, development economics was archaic in style even for its own time. Of the four most famous high development works, Rosenstein-Rodan\'s was approximately contemporary with Samuelson\'s formulation of the Heckscher-Ohlin model, while Lewis, Myrdal, and Hirschman were all roughly contemporary with Solow\'s initial statement of growth theory.\nThis lack of formality was not because development economists were peculiarly mathematically incapable. Hirschman made a significant contribution to the formal theory of devaluation in the 1940s, while Fleming helped create the still influential Mundell-Fleming model of floating exchange rates. Moreover, the development field itself was at the same time generating mathematical planning models first Harrod-Domar type growth models, then linear programming approaches that were actually quite technically advanced for their time.\nSo why didn\'t high development theory get expressed in formal models? Almost certainly for one basic reason: the difficulty of reconciling economies of scale with a competitive market structure.'
 }, {
   figure: 'Paul Krugman',
   mark: 'Development, Geography, and Economic Theory (1995). Ch1.. The Fall and Rise of Development Economics',
@@ -1795,7 +1795,7 @@ var Paul_Krugman = [{
 }, {
   figure: 'Paul Krugman',
   mark: 'Pop Internationalism (1996). Asia\'s Miracle (1994)',
-  quote: 'First, most of the speculation about the superiority of the communist system - including the popular view that Western economies could painlessly accelerate their own growth by borrowing some aspects of that system - was off base. Rapid Soviet economic growth was based entirely on one attribute: the willingness to save, to sacrifice current consumption for the sake of future production. The communist example offered no hint of a free lunch.Second, the economic analysis of communist countries\' growth implied some future limits to their industrial expansion - in other words, implied that a naive projection of their past growth rates into the future was likely to greatly overstate their real prospects. Economic growth that is based on expansion of inputs, rather than on growth in output per unit of input, is inevitably subject to diminishing returns. It was simply not possible for the Soviet economies to sustain the rates of growth of labor force participation, average education levels, and above all the physical capital stock that had prevailed in previous years. Communist growth would predictably slow down, perhaps drastically.'
+  quote: 'First, most of the speculation about the superiority of the communist system - including the popular view that Western economies could painlessly accelerate their own growth by borrowing some aspects of that system - was off base. Rapid Soviet economic growth was based entirely on one attribute: the willingness to save, to sacrifice current consumption for the sake of future production. The communist example offered no hint of a free lunch.\nSecond, the economic analysis of communist countries\' growth implied some future limits to their industrial expansion - in other words, implied that a naive projection of their past growth rates into the future was likely to greatly overstate their real prospects. Economic growth that is based on expansion of inputs, rather than on growth in output per unit of input, is inevitably subject to diminishing returns. It was simply not possible for the Soviet economies to sustain the rates of growth of labor force participation, average education levels, and above all the physical capital stock that had prevailed in previous years. Communist growth would predictably slow down, perhaps drastically.'
 }, {
   figure: 'Paul Krugman',
   mark: 'Pop Internationalism (1996). Asia\'s Miracle (1994)',
@@ -1822,7 +1822,7 @@ var Paul_Krugman = [{
   quote: 'Productivity isn\'t everything, but in the long run it is almost everything. A country\'s ability to improve its standard of living over time depends almost entirely on its ability to raise its output per worker.'
 }, {
   figure: 'Paul Krugman',
-  mark: 'The Accidental Theorist: And Other Dispatches From The Dismal Science (1998). "Virus Strikes Again", Originally "Supply-Side Virus Strikes Again: Why there is no cure for this virulent infection", undated draft at web.mit.edu of a "The Dismal Science" column for Slate',
+  mark: 'The Accidental Theorist: And Other Dispatches From The Dismal Science (1998). "Virus Strikes Again", Originally "Supply-Side Virus Strikes Again: Why there is no cure for this virulent infection", undated draft at web.\nmit.\nedu of a "The Dismal Science" column for Slate',
   quote: 'The appeal to the intellectually insecure is also more important than it might seem. Because economics touches so much of life, everyone wants to have an opinion. Yet the kind of economics covered in the textbooks is a technical subject that many people find hard to follow. How reassuring, then, to be told that it is all irrelevant -- that all you really need to know are a few simple ideas! Quite a few supply-siders have created for themselves a wonderful alternative intellectual history in which John Maynard Keynes was a fraud, Paul Samuelson and even Milton Friedman are fools, and the true line of deep economic thought runs from Adam Smith through obscure turn-of-the-century Austrians straight to them.'
 }, {
   figure: 'Paul Krugman',
@@ -1863,7 +1863,7 @@ var Paul_Krugman = [{
 }, {
   figure: 'Paul Krugman',
   mark: 'Economics (4th ed., 2015). Ch33.. Macroeconomics: Events and Ideas',
-  quote: 'As is often the case with major disputes in economics, the argument over fiscal policy went on for years, with some critics of fiscal policy still defending their position when this book went to press. It seems fair, however, to say that among economists a more or less Keynesian view of the effects of fiscal policy came to prevail. Careful statistical studies at the International Monetary Fund and else where showed that austerity policies have historically been followed by contraction, not expansion. Recent experience, in which countries like Spain and Greece that were forced into severe austerity also experienced severe slumps, seemed to confirm that observation. Furthermore, it was clear that those who had predicted a sharp rise in U.S. interest rates due to budget deficits, leading to conventional crowding out, had been wrong: U.S. long-term interest rates remained near record lows even during the years from 2009 to 2012, when the government ran very large deficits.'
+  quote: 'As is often the case with major disputes in economics, the argument over fiscal policy went on for years, with some critics of fiscal policy still defending their position when this book went to press. It seems fair, however, to say that among economists a more or less Keynesian view of the effects of fiscal policy came to prevail. Careful statistical studies at the International Monetary Fund and else where showed that austerity policies have historically been followed by contraction, not expansion. Recent experience, in which countries like Spain and Greece that were forced into severe austerity also experienced severe slumps, seemed to confirm that observation. Furthermore, it was clear that those who had predicted a sharp rise in U.\nS. interest rates due to budget deficits, leading to conventional crowding out, had been wrong: U.\nS. long-term interest rates remained near record lows even during the years from 2009 to 2012, when the government ran very large deficits.'
 }, {
   figure: 'Paul Krugman',
   mark: 'The New York Times Columns. "Dubya\'s Double Dip?", The New York Times, 20020802',
@@ -1878,20 +1878,20 @@ var Paul_Krugman = [{
   quote: 'When it comes to the all-too-human problem of recessions and depressions, economists need to abandon the neat but wrong solution of assuming that everyone is rational and markets work perfectly. The vision that emerges as the profession rethinks its foundations may not be all that clear; it certainly won’t be neat; but we can hope that it will have the virtue of being at least partly right.'
 }, {
   figure: 'Paul Krugman',
-  mark: 'The New York Times Columns. Regarding the ongoing 2013 U.S. government shutdown',
-  quote: 'I do not think that word “compromise” means what Mr. Ryan thinks it means. Above all, he failed to offer the one thing the White House won’t, can’t bend on: an end to extortion over the debt ceiling. Yet even this ludicrously unbalanced offer was too much for conservative activists, who lambasted Mr. Ryan for basically leaving health reform intact.Does this mean that we’re going to hit the debt ceiling? Quite possibly; nobody really knows, but careful observers are giving no better than even odds that any kind of deal will be reached before the money runs out. Beyond that, however, our current state of dysfunction looks like a chronic condition, not a one-time event. Even if the debt ceiling is raised enough to avoid immediate default, even if the government shutdown is somehow brought to an end, it will only be a temporary reprieve. Conservative activists are simply not willing to give up on the idea of ruling through extortion, and the Obama administration has decided, wisely, that it will not give in to extortion.So how does this end? How does America become governable again?'
+  mark: 'The New York Times Columns. Regarding the ongoing 2013 U.\nS. government shutdown',
+  quote: 'I do not think that word “compromise” means what Mr. Ryan thinks it means. Above all, he failed to offer the one thing the White House won’t, can’t bend on: an end to extortion over the debt ceiling. Yet even this ludicrously unbalanced offer was too much for conservative activists, who lambasted Mr. Ryan for basically leaving health reform intact.\nDoes this mean that we’re going to hit the debt ceiling? Quite possibly; nobody really knows, but careful observers are giving no better than even odds that any kind of deal will be reached before the money runs out. Beyond that, however, our current state of dysfunction looks like a chronic condition, not a one-time event. Even if the debt ceiling is raised enough to avoid immediate default, even if the government shutdown is somehow brought to an end, it will only be a temporary reprieve. Conservative activists are simply not willing to give up on the idea of ruling through extortion, and the Obama administration has decided, wisely, that it will not give in to extortion.\nSo how does this end? How does America become governable again?'
 }, {
   figure: 'Paul Krugman',
-  mark: 'The New York Times Columns. Regarding the last-minute deal that ended the 2013 U.S. government shutdown just before the U.S. defaulted on its debt',
+  mark: 'The New York Times Columns. Regarding the last-minute deal that ended the 2013 U.\nS. government shutdown just before the U.\nS. defaulted on its debt',
   quote: 'Things could have been even worse. This week, we managed to avoid driving off a cliff. But we’re still on the road to nowhere.'
 }, {
   figure: 'Paul Krugman',
-  mark: 'The New York Times Columns. Paul Krugman (20150717). "Liberals and Wages". New York Times. Retrieved on 20150717. ',
+  mark: 'The New York Times Columns. Paul Krugman (20150717). "Liberals and Wages". New York Times. Retrieved on 20150717.',
   quote: 'Many liberals have changed their views in response to new evidence. It’s an interesting experience; conservatives should try it some time.'
 }, {
   figure: 'Paul Krugman',
   mark: 'The New York Times Columns. Sanders Over The Edge (20160408)',
-  quote: 'Holding people accountable for their past is O.K., but imposing a standard of purity, in which any compromise or misstep makes you the moral equivalent of the bad guys, isn’t. Abraham Lincoln didn’t meet that standard; neither did F.D.R. Nor, for that matter, has Bernie Sanders (think guns).'
+  quote: 'Holding people accountable for their past is O.\nK., but imposing a standard of purity, in which any compromise or misstep makes you the moral equivalent of the bad guys, isn’t. Abraham Lincoln didn’t meet that standard; neither did F.\nD.\nR. Nor, for that matter, has Bernie Sanders (think guns).'
 }, {
   figure: 'Paul Krugman',
   mark: 'The New York Times Columns. Sanders Over The Edge (20160408)',
@@ -1947,7 +1947,7 @@ var Paul_Krugman = [{
 }, {
   figure: 'Paul Krugman',
   mark: 'The New York Review of Books articles. "Who Was Milton Friedman?", The New York Review of Books (20070215)',
-  quote: 'Keynes didn’t make an all-out assault on Economic Man, but he often resorted to plausible psychological theorizing rather than careful analysis of what a rational decision-maker would do. Business decisions were driven by “animal spirits,” consumer decisions by a psychological tendency to spend some but not all of any increase in income, wage settlements by a sense of fairness, and so on.But was it really a good idea to diminish the role of Economic Man that much? No, said Friedman, who argued in his 1953 essay “The Methodology of Positive Economics” that economic theories should be judged not by their psychological realism but by their ability to predict behavior. And Friedman’s two greatest triumphs as an economic theorist came from applying the hypothesis of rational behavior to questions other economists had thought beyond its reach.'
+  quote: 'Keynes didn’t make an all-out assault on Economic Man, but he often resorted to plausible psychological theorizing rather than careful analysis of what a rational decision-maker would do. Business decisions were driven by “animal spirits,” consumer decisions by a psychological tendency to spend some but not all of any increase in income, wage settlements by a sense of fairness, and so on.\nBut was it really a good idea to diminish the role of Economic Man that much? No, said Friedman, who argued in his 1953 essay “The Methodology of Positive Economics” that economic theories should be judged not by their psychological realism but by their ability to predict behavior. And Friedman’s two greatest triumphs as an economic theorist came from applying the hypothesis of rational behavior to questions other economists had thought beyond its reach.'
 }, {
   figure: 'Paul Krugman',
   mark: 'The New York Review of Books articles. "Who Was Milton Friedman?", The New York Review of Books (20070215)',
@@ -1959,11 +1959,11 @@ var Paul_Krugman = [{
 }, {
   figure: 'Paul Krugman',
   mark: 'The New York Review of Books articles. "Who Was Milton Friedman?", The New York Review of Books (20070215)',
-  quote: 'What’s odd about Friedman’s absolutism on the virtues of markets and the vices of government is that in his work as an economist’s economist he was actually a model of restraint. As I pointed out earlier, he made great contributions to economic theory by emphasizing the role of individual rationality—but unlike some of his colleagues, he knew where to stop. Why didn’t he exhibit the same restraint in his role as a public intellectual?The answer, I suspect, is that he got caught up in an essentially political role. Milton Friedman the great economist could and did acknowledge ambiguity. But Milton Friedman the great champion of free markets was expected to preach the true faith, not give voice to doubts. And he ended up playing the role his followers expected. As a result, over time the refreshing iconoclasm of his early career hardened into a rigid defense of what had become the new orthodoxy.In the long run, great men are remembered for their strengths, not their weaknesses, and Milton Friedman was a very great man indeed—a man of intellectual courage who was one of the most important economic thinkers of all time, and possibly the most brilliant communicator of economic ideas to the general public that ever lived. But there’s a good case for arguing that Friedmanism, in the end, went too far, both as a doctrine and in its practical applications. When Friedman was beginning his career as a public intellectual, the times were ripe for a counterreformation against Keynesianism and all that went with it. But what the world needs now, I’d argue, is a counter-counterreformation.'
+  quote: 'What’s odd about Friedman’s absolutism on the virtues of markets and the vices of government is that in his work as an economist’s economist he was actually a model of restraint. As I pointed out earlier, he made great contributions to economic theory by emphasizing the role of individual rationality—but unlike some of his colleagues, he knew where to stop. Why didn’t he exhibit the same restraint in his role as a public intellectual?\nThe answer, I suspect, is that he got caught up in an essentially political role. Milton Friedman the great economist could and did acknowledge ambiguity. But Milton Friedman the great champion of free markets was expected to preach the true faith, not give voice to doubts. And he ended up playing the role his followers expected. As a result, over time the refreshing iconoclasm of his early career hardened into a rigid defense of what had become the new orthodoxy.\nIn the long run, great men are remembered for their strengths, not their weaknesses, and Milton Friedman was a very great man indeed—a man of intellectual courage who was one of the most important economic thinkers of all time, and possibly the most brilliant communicator of economic ideas to the general public that ever lived. But there’s a good case for arguing that Friedmanism, in the end, went too far, both as a doctrine and in its practical applications. When Friedman was beginning his career as a public intellectual, the times were ripe for a counterreformation against Keynesianism and all that went with it. But what the world needs now, I’d argue, is a counter-counterreformation.'
 }, {
   figure: 'Paul Krugman',
   mark: 'The New York Review of Books articles. Paul Krugman and Robin Wells, "Our Giant Banking Crisis—What to Expect", The New York Review of Books (20100513)',
-  quote: 'Equally important, the financial industry’s political power has not gone away. Banks have waged a fierce campaign against what many expected to be an easily passed reform proposal, the creation of a new agency to protect financial consumers. Despite the steady drumbeat of scandalous revelations—most recently, the discovery that Goldman Sachs helped Greece cook its books, while Lehman cooked its own books—top financial executives continue to have ready access to the corridors of power. And as many have noted, President Obama’s chief economic and financial officials are men closely associated with Clinton-era deregulation and financial triumphalism; they may have revised their views but the continuity remains striking.In that sense, this time really is different: while the first great global financial crisis was followed by major reforms, it’s not clear that anything comparable will happen after the second. And history tells us what will happen if those reforms don’t take place. There will be a resurgence of financial folly, which always flourishes given a chance. And the consequence of that folly will be more and quite possibly worse crises in the years to come.'
+  quote: 'Equally important, the financial industry’s political power has not gone away. Banks have waged a fierce campaign against what many expected to be an easily passed reform proposal, the creation of a new agency to protect financial consumers. Despite the steady drumbeat of scandalous revelations—most recently, the discovery that Goldman Sachs helped Greece cook its books, while Lehman cooked its own books—top financial executives continue to have ready access to the corridors of power. And as many have noted, President Obama’s chief economic and financial officials are men closely associated with Clinton-era deregulation and financial triumphalism; they may have revised their views but the continuity remains striking.\nIn that sense, this time really is different: while the first great global financial crisis was followed by major reforms, it’s not clear that anything comparable will happen after the second. And history tells us what will happen if those reforms don’t take place. There will be a resurgence of financial folly, which always flourishes given a chance. And the consequence of that folly will be more and quite possibly worse crises in the years to come.'
 }, {
   figure: 'Paul Krugman',
   mark: 'The New York Review of Books articles. "Why We’re in a New Gilded Age", The New York Review of Books (20140508)',
@@ -1987,7 +1987,7 @@ var Paul_Krugman = [{
 }, {
   figure: 'Paul Krugman',
   mark: 'The Conscience of a Liberal blog. Keynesianism Explained (20150915)',
-  quote: 'I would summarize the Keynesian view in terms of four points:1. Economies sometimes produce much less than they could, and employ many fewer workers than they should, because there just isn’t enough spending. Such episodes can happen for a variety of reasons; the question is how to respond.2. There are normally forces that tend to push the economy back toward full employment. But they work slowly; a hands-off policy toward depressed economies means accepting a long, unnecessary period of pain.3. It is often possible to drastically shorten this period of pain and greatly reduce the human and financial losses by “printing money”, using the central bank’s power of currency creation to push interest rates down.4. Sometimes, however, monetary policy loses its effectiveness, especially when rates are close to zero. In that case temporary deficit spending can provide a useful boost. And conversely, fiscal austerity in a depressed economy imposes large economic losses.'
+  quote: 'I would summarize the Keynesian view in terms of four points:\n1. Economies sometimes produce much less than they could, and employ many fewer workers than they should, because there just isn’t enough spending. Such episodes can happen for a variety of reasons; the question is how to respond.\n2. There are normally forces that tend to push the economy back toward full employment. But they work slowly; a hands-off policy toward depressed economies means accepting a long, unnecessary period of pain.\n3. It is often possible to drastically shorten this period of pain and greatly reduce the human and financial losses by “printing money”, using the central bank’s power of currency creation to push interest rates down.\n4. Sometimes, however, monetary policy loses its effectiveness, especially when rates are close to zero. In that case temporary deficit spending can provide a useful boost. And conversely, fiscal austerity in a depressed economy imposes large economic losses.'
 }, {
   figure: 'Paul Krugman',
   mark: 'The Conscience of a Liberal blog. Questions of Character (20160517)',
@@ -2000,7 +2000,7 @@ var Paul_Krugman = [{
   figure: 'Paul Krugman',
   mark: 'The Conscience of a Liberal blog. 20190105, New York Times',
   quote: 'What does Alexandria Ocasio-Cortez know about tax policy? A lot.'
-}]
+}];
 
 var Paul_Romer = [{
   figure: 'Paul Romer',
@@ -2020,13 +2020,13 @@ var Paul_Romer = [{
   quote: 'Economic growth springs from better recipes, not just from more cooking. New recipes produce fewer unpleasant side effects and generate more economic value per unit of raw material.'
 }, {
   figure: 'Paul Romer',
-  mark: 'After learning that he was one of two recipients of the 2018 Nobel Memorial Prize in Economic Sciences, as quoted in "Two Top U.S. Economists Win Nobel for Work on Growth and Climate: Research of William D. Nordhaus and Paul M. Romer has had immense impact on global policy making, the Academy says" The Wall Street Journal. 20181008.',
+  mark: 'After learning that he was one of two recipients of the 2018 Nobel Memorial Prize in Economic Sciences, as quoted in "Two Top U.\nS. Economists Win Nobel for Work on Growth and Climate: Research of William D. Nordhaus and Paul M. Romer has had immense impact on global policy making, the Academy says" The Wall Street Journal. 20181008.',
   quote: 'The question that I first asked was, why was progress . . . speeding up over time? It arises because of this special characteristic of an idea, which is if [a million people try] to discover something, if any one person finds it, everybody can use the idea.'
 }, {
   figure: 'Paul Romer',
   mark: 'At a news conference following the 2018 Nobel Memorial Prize in Economics announcement, as quoted in "2 Americans win econ Nobel for work on climate and growth" Associated Press. 20181008.',
   quote: 'Many people think that dealing with protecting the environment will be so costly and so hard that they just want to ignore the problem. I hope the prize today could help everyone see that humans are capable of amazing accomplishments when we set about trying to do something.'
-}]
+}];
 
 var Paul_Samuelson = [{
   figure: 'Paul Samuelson',
@@ -2055,7 +2055,7 @@ var Paul_Samuelson = [{
 }, {
   figure: 'Paul Samuelson',
   mark: '1940s. Economics (1948-). 8th ed., 1970, p218',
-  quote: 'Figure 12-6 pulls together in a simplified way the main elements of income determination. Without saving and investment, there would be a circular flow of income between business and the public: above, business pays out wages, interest, rents, and profits to the public in return for the services of labor and property; and below, the  public pays consumption dollars to business in return for goods and services.Realistically, we must recognize that the public will wish to save some of its income, as shown at the spigot Z. Hence, businesses cannot expect their consumption sales to be as large as the total of wages, interest, rents, and profits.'
+  quote: 'Figure 12-6 pulls together in a simplified way the main elements of income determination. Without saving and investment, there would be a circular flow of income between business and the public: above, business pays out wages, interest, rents, and profits to the public in return for the services of labor and property; and below, the  public pays consumption dollars to business in return for goods and services.\nRealistically, we must recognize that the public will wish to save some of its income, as shown at the spigot Z. Hence, businesses cannot expect their consumption sales to be as large as the total of wages, interest, rents, and profits.'
 }, {
   figure: 'Paul Samuelson',
   mark: '1950s–1970s. Paul Samuelson, Tjalling Koopmans, and Richard Stone. "Report of the evaluative committee for Econometrica." Econometrica- journal of the Econometric Society. (1954): 141-146.',
@@ -2086,7 +2086,7 @@ var Paul_Samuelson = [{
   quote: 'An American economist of two generations ago, H. J. Davenport, who was the best friend Thorstein Veblen ever had (Veblen actually lived for a time in Davenport’s coal cellar) once said: “There is no reason why theoretical economics should be a monopoly of the reactionaries.” All my life I have tried to take this warning to heart, and I dare call it to your favorable attention.'
 }, {
   figure: 'Paul Samuelson',
-  mark: '1980s–1990s. Samuelson (1985; p, 6) as cited in: Klein, Daniel B., and Ryan Daza. "Paul A. Samuelson (Ideological Profiles of the Economics Laureates)." Econ Journal Watch 10.3 (2013): 561-569.',
+  mark: '1980s–1990s. Samuelson (1985; p, 6) as cited in: Klein, Daniel B., and Ryan Daza. "Paul A. Samuelson (Ideological Profiles of the Economics Laureates)." Econ Journal Watch 10.\n3 (2013): 561-569.',
   quote: 'After 1929 it was the sturdy middle classes, and not just the lumpen proletariat, who were down and out. It was not all that unfashionable or disreputable to be bankrupt. By the last Hoover years, the states and localities had run out of money for relief. In middle-class neighborhoods like mine, you constantly had children at the door, asking by mouth or with a note for a dime, a quarter, or a potato: saying, in a believable fashion, we are starving.'
 }, {
   figure: 'Paul Samuelson',
@@ -2122,7 +2122,7 @@ var Paul_Samuelson = [{
   quote: 'I tell no secret when I repeat that fame and reputation are much a matter of luck and chance.'
 }, {
   figure: 'Paul Samuelson',
-  mark: 'New millennium. Samuelson, Paul Anthony; Puttaswamaiah, K. (2002). Paul Samuelson and the Foundations of Modern Economics. p10. ',
+  mark: 'New millennium. Samuelson, Paul Anthony; Puttaswamaiah, K. (2002). Paul Samuelson and the Foundations of Modern Economics. p10.',
   quote: 'Economics never was a dismal science. It should be a realistic science.'
 }, {
   figure: 'Paul Samuelson',
@@ -2151,7 +2151,7 @@ var Paul_Samuelson = [{
 }, {
   figure: 'Paul Samuelson',
   mark: 'New millennium. Coeditor\'s Forword in Inside the economist’s mind: conversations with eminent economists (2007)',
-  quote: 'I return to economics and to economists, and to the question of why the profession’s directions have evolved in the manners evident from this book. A major conservative economist once explained that a source of his antipathy to government traced back to the defeat of his southern ancestors by a larger north economy. Here is a similar factoid. Joan Robinson once wrote that her opposition to having the U.K. enter the European Market was due to the fact that she “had more friends in [Nehru’s] India than on the continent.”'
+  quote: 'I return to economics and to economists, and to the question of why the profession’s directions have evolved in the manners evident from this book. A major conservative economist once explained that a source of his antipathy to government traced back to the defeat of his southern ancestors by a larger north economy. Here is a similar factoid. Joan Robinson once wrote that her opposition to having the U.\nK. enter the European Market was due to the fact that she “had more friends in [Nehru’s] India than on the continent.”'
 }, {
   figure: 'Paul Samuelson',
   mark: 'New millennium. Coeditor\'s Forword in Inside the economist’s mind: conversations with eminent economists (2007)',
@@ -2171,7 +2171,7 @@ var Paul_Samuelson = [{
 }, {
   figure: 'Paul Samuelson',
   mark: 'New millennium. Conor Clarke, An Interview With Paul Samuelson, Part Two (2009)',
-  quote: 'Well, I\'d say, and this is probably a change from what I would have said when I was younger: Have a very healthy respect for the study of economic history, because that\'s the raw material out of which any of your conjectures or testings will come. And I think the recent period has illustrated that. The governor of the Bank of England seems to have forgotten or not known that there was no bank insurance in England, so when Northern Rock got a run, he was surprised. Well, he shouldn\'t have been.But history doesn\'t tell its own story. You\'ve got to bring to it all the statistical testings that are possible. And we have a lot more information now than we used to.'
+  quote: 'Well, I\'d say, and this is probably a change from what I would have said when I was younger: Have a very healthy respect for the study of economic history, because that\'s the raw material out of which any of your conjectures or testings will come. And I think the recent period has illustrated that. The governor of the Bank of England seems to have forgotten or not known that there was no bank insurance in England, so when Northern Rock got a run, he was surprised. Well, he shouldn\'t have been.\nBut history doesn\'t tell its own story. You\'ve got to bring to it all the statistical testings that are possible. And we have a lot more information now than we used to.'
 }, {
   figure: 'Paul Samuelson',
   mark: 'New millennium. Quoted in: Richard Duncan (2011) The Dollar Crisis, p232',
@@ -2187,7 +2187,7 @@ var Paul_Samuelson = [{
 }, {
   figure: 'Paul Samuelson',
   mark: 'New millennium. An Interview with Paul A. Samuelson, 2003',
-  quote: 'I would guess that most MIT Ph.D.’s since 1980 might deem themselves not to be “Keynesians.” But they, and modern economists everywhere, do use models like those of Samuelson, Modigliani, Solow, and Tobin. Professor Martin Feldstein, my Harvard neighbor, complained at the 350th Anniversary of Harvard that Keynesians had tried to poison his sophomore mind against saving. Tobin and I on the same panel took this amiss, since both of us since 1955 had been favoring a “neoclassical synthesis,” in which full employment with an austere fiscal budget would add to capital formation in preparation for a coming demographic turnaround.'
+  quote: 'I would guess that most MIT Ph.\nD.’s since 1980 might deem themselves not to be “Keynesians.” But they, and modern economists everywhere, do use models like those of Samuelson, Modigliani, Solow, and Tobin. Professor Martin Feldstein, my Harvard neighbor, complained at the 350th Anniversary of Harvard that Keynesians had tried to poison his sophomore mind against saving. Tobin and I on the same panel took this amiss, since both of us since 1955 had been favoring a “neoclassical synthesis,” in which full employment with an austere fiscal budget would add to capital formation in preparation for a coming demographic turnaround.'
 }, {
   figure: 'Paul Samuelson',
   mark: 'New millennium. An Interview with Paul A. Samuelson, 2003',
@@ -2216,7 +2216,7 @@ var Paul_Samuelson = [{
   figure: 'Paul Samuelson',
   mark: 'New millennium. An Enjoyable Life Puzzling Over Modern Finance Theory, 2009',
   quote: 'Markets are not perfect, which is true even for rationally regulated markets. Nevertheless, over the last thousand years every attempt to organize sizeable societies without important dependence on markets has generated its own failure ...'
-}]
+}];
 
 var Robert_Barro = [{
   figure: 'Robert Barro',
@@ -2237,7 +2237,7 @@ var Robert_Barro = [{
 }, {
   figure: 'Robert Barro',
   mark: 'Robert J. Barro, "Keynesian Economics vs. Regular Economics" Wall Street Journal (2011).',
-  quote: 'Keynesian economics — the go - to theory for those who like government at the controls of the economy — is in the forefront of the ongoing debate on fiscal - stimulus packages. For example, in true Keynesian spirit, Agriculture Secretary Tom Vilsack said recently that food stamps were an "economic stimulus" and that "every dollar of benefits generates $1.84 in the economy in terms of economic activity." Many observers may see how this idea—that one can magically get back more than one puts in — conflicts with what I will call "regular economics." What few know is that there is no meaningful theoretical or empirical support for the Keynesian position.'
+  quote: 'Keynesian economics — the go - to theory for those who like government at the controls of the economy — is in the forefront of the ongoing debate on fiscal - stimulus packages. For example, in true Keynesian spirit, Agriculture Secretary Tom Vilsack said recently that food stamps were an "economic stimulus" and that "every dollar of benefits generates $1.\n84 in the economy in terms of economic activity." Many observers may see how this idea—that one can magically get back more than one puts in — conflicts with what I will call "regular economics." What few know is that there is no meaningful theoretical or empirical support for the Keynesian position.'
 }, {
   figure: 'Robert Barro',
   mark: 'Nothing Is Sacred (2002). p. xiii',
@@ -2286,7 +2286,7 @@ var Robert_Barro = [{
   figure: 'Robert Barro',
   mark: 'Nothing Is Sacred (2002). p65',
   quote: 'Things would have worked out a lot better if we had bought our first television set a year earlier, in 1950, so that I could have watched DiMaggio while he was still great. Then I could have shared with my father and other people the vision of the eternal baseball star. It might even have helped me to have more appreciation for some of my elders in the economics profession. But maybe I should be worrying instead about what the young hot shots in economics are thinking of me.'
-}]
+}];
 
 var Robert_J_Shiller = [{
   figure: 'Robert J. Shiller',
@@ -2296,7 +2296,7 @@ var Robert_J_Shiller = [{
   figure: 'Robert J. Shiller',
   mark: 'George Akerlof and Robert Shiller. Animal Spirits: How Human Psychology Drives the Economy, and Why It Matters for Global Capitalism, 2009, Preface',
   quote: 'To understand the economy then is to comprehend how it is driven by the animal spirits. Just as Adam Smith’s invisible hand is the keynote of classical economics, Keynes’ animal spirits are the keynote to a different view of the economy — a view that explains the underlying instabilities of capitalism.'
-}]
+}];
 
 var Robert_Lucas_Jr = [{
   figure: 'Robert Lucas Jr.',
@@ -2321,7 +2321,7 @@ var Robert_Lucas_Jr = [{
 }, {
   figure: 'Robert Lucas Jr.',
   mark: '"After Keynesian macroeconomics" 1978. As contained in The Rational Expectations Revolution: Readings From the Front Line, Preston J. Miller, MIT Press (reprint 1994), p5-6',
-  quote: 'In the present decade, the U.S. economy has undergone its first major depression since the 1930’s, to the accompaniment of inflation rates in excess of 10 percent per annum. These events have been transmitted [...] to other advanced countries and in many cases have been amplified. These events did not arise from a reactionary reversion to outmoded, \'classical\' principles of tight money and balanced budgets. On the contrary, they were accompanied by massive government budget deficits and high rates of monetary expansion, policies which, although bearing an admitted risk of inflation, promised according to modern Keynesian doctrine rapid real growth and low rates of unemployment. That these predictions were wildly incorrect and that the doctrine on which they were fundamentally flawed are now simple matters of fact, involving no novelties of economic theory. The task now [...] is to sort through the wreckage, determining which features of that remarkable intellectual event called the Keynesian Revolution can be salvaged and put to use and which others must be discarded.”'
+  quote: 'In the present decade, the U.\nS. economy has undergone its first major depression since the 1930’s, to the accompaniment of inflation rates in excess of 10 percent per annum. These events have been transmitted [...] to other advanced countries and in many cases have been amplified. These events did not arise from a reactionary reversion to outmoded, \'classical\' principles of tight money and balanced budgets. On the contrary, they were accompanied by massive government budget deficits and high rates of monetary expansion, policies which, although bearing an admitted risk of inflation, promised according to modern Keynesian doctrine rapid real growth and low rates of unemployment. That these predictions were wildly incorrect and that the doctrine on which they were fundamentally flawed are now simple matters of fact, involving no novelties of economic theory. The task now [...] is to sort through the wreckage, determining which features of that remarkable intellectual event called the Keynesian Revolution can be salvaged and put to use and which others must be discarded.”'
 }, {
   figure: 'Robert Lucas Jr.',
   mark: '"After Keynesian macroeconomics" 1978',
@@ -2330,7 +2330,7 @@ var Robert_Lucas_Jr = [{
   figure: 'Robert Lucas Jr.',
   mark: '"After Keynesian macroeconomics" 1978',
   quote: 'A key element in all Keynesian models is a ‘trade-off between inflation and real output: the higher is the inflation rate; the higher is output (or equivalently, the lower is the rate of unemployment).'
-}]
+}];
 
 var Ronald_Coase = [{
   figure: 'Ronald Coase',
@@ -2408,7 +2408,7 @@ var Ronald_Coase = [{
   figure: 'Ronald Coase',
   mark: '1990s and later. "The Institutional Structure of Production" (1992)',
   quote: 'What is studied is a system which lives in the minds of economists but not on earth. I have called the result “blackboard economics.” The firm and the market appear by name but they lack any substance. The firm in mainstream economic theory has often been described as a “black box.” And so it is.'
-}]
+}];
 
 var Simon_Kuznets = [{
   figure: 'Simon Kuznets',
@@ -2437,7 +2437,7 @@ var Simon_Kuznets = [{
 }, {
   figure: 'Simon Kuznets',
   mark: '"Economic growth and income inequality," 1955. p17',
-  quote: 'The very fact that after a while, an increasing proportion of the urban population was "native," i.e., born in cities rather than in the rural areas, and hence more able to take advantage of the possibilities of city life in preparation for the economic struggle, meant a better chance for organization and adaptation, a better basis for securing greater income shares than was possible for the newly "immigrant" population coming from the countryside or from abroad'
+  quote: 'The very fact that after a while, an increasing proportion of the urban population was "native," i.\ne., born in cities rather than in the rural areas, and hence more able to take advantage of the possibilities of city life in preparation for the economic struggle, meant a better chance for organization and adaptation, a better basis for securing greater income shares than was possible for the newly "immigrant" population coming from the countryside or from abroad'
 }, {
   figure: 'Simon Kuznets',
   mark: '"Economic growth and income inequality," 1955. p26',
@@ -2454,7 +2454,7 @@ var Simon_Kuznets = [{
   figure: 'Simon Kuznets',
   mark: 'Modern economic growth,\'(1966). p487, as cited in: Peter Temin, ‎Gianni Toniolo (2008) The World Economy between the Wars. p7',
   quote: '[An] epochal innovation  [consisting of the] spreading application of science to processes of production and social organization.'
-}]
+}];
 
 var Thomas_J_Sargent = [{
   figure: 'Thomas J. Sargent',
@@ -2496,7 +2496,7 @@ var Thomas_J_Sargent = [{
   figure: 'Thomas J. Sargent',
   mark: '"Rational expectations and the dynamics of hyperinflation." 1973',
   quote: 'These ideas have implications not only for theoretical and econometric practices but also for the ways in which policymakers and their advisers think about the choices confronting them. In particular, the rational expectations approach directs attention away from particular isolated actions and toward choices among feasible rules of the game, or repeated strategies for choosing policy variables. While Keynesian and monetarists macroeconomic models have been used to try to analyze what the effects of isolated actions would be, it is now clear that the answers they have given have necessarily been bad, if only because such questions are ill-posed.'
-}]
+}];
 
 var Tjalling_Koopmans = [{
   figure: 'Tjalling Koopmans',
@@ -2512,7 +2512,7 @@ var Tjalling_Koopmans = [{
   quote: 'Optimizing responses of economic agents are simultaneously feasible only if the proper prices are already known to them. But these prices must somehow themselves be the result of the same responses.'
 }, {
   figure: 'Tjalling Koopmans',
-  mark: '"Tjalling C. Koopmans - Biographical". Nobelprize.org. Nobel Media AB 2013. Web. 20140609.',
+  mark: '"Tjalling C. Koopmans - Biographical". Nobelprize.\norg. Nobel Media AB 2013. Web. 20140609.',
   quote: 'The early thirties brought what liberal economists called the Great Depression and Marxist economists described as the great crisis of capitalism. It dawned on me that the economic world order was unreliable, unstable, and, most of all, iniquitous. I sought intellectual contacts and friendship with a group of socialist students and also with a small handful of communist-oriented students and unemployed workers.'
 }, {
   figure: 'Tjalling Koopmans',
@@ -2558,7 +2558,7 @@ var Tjalling_Koopmans = [{
   figure: 'Tjalling Koopmans',
   mark: 'Concepts of Optimality and Their Uses, 1975. p244, as cited in: Vincent Martinet (2012) Economic Theory and Sustainable Development. p90',
   quote: 'The principal customers aimed for are other economists or members of other professions, who are somewhat closer to the making of policy recommendations... The question of the clientèle is even more baffling when the problem concerns growth paths for time spans covering several generations. What can at best be recommended in that case is the signal the present generation gives, the tradition it seeks to strengthen or establish, for succeeding generations to take off from.'
-}]
+}];
 
 var William_J_Bernstein = [{
   figure: 'William J. Bernstein',
@@ -2591,7 +2591,7 @@ var William_J_Bernstein = [{
 }, {
   figure: 'William J. Bernstein',
   mark: 'The Four Pillars of Investing (2002). Ch2. Measuring The Beast, p45',
-  quote: 'And lest I offend art lovers, it should be pointed out that even an old master, bought from the the artist for $100 and sold 350 years later for $10,000,000, has returned only 3.34% per year.'
+  quote: 'And lest I offend art lovers, it should be pointed out that even an old master, bought from the the artist for $100 and sold 350 years later for $10,\n000,\n000, has returned only 3.\n34% per year.'
 }, {
   figure: 'William J. Bernstein',
   mark: 'The Four Pillars of Investing (2002). Ch2. Measuring The Beast, p53.',
@@ -2676,7 +2676,7 @@ var William_J_Bernstein = [{
   figure: 'William J. Bernstein',
   mark: 'The Four Pillars of Investing (2002). Ch15. A Final Word, p297.',
   quote: 'Investing is not a destination. It is an ongoing journey through its four continents - theory, history, psychology and business.'
-}]
+}];
 
 var William_Nordhaus = [{
   figure: 'William Nordhaus',
@@ -2698,7 +2698,7 @@ var William_Nordhaus = [{
   figure: 'William Nordhaus',
   mark: '"After Nobel in Economics, William Nordhaus Talks About Who’s Getting His Pollution-Tax Ideas Right: A few governments — notably, parts of Canada and South Korea — have adapted his ideas in ways that frame them as a financial windfall for taxpayers." The New York Times. 20181013.',
   quote: 'When I talk to people about how to design a carbon price, I think the model is  British Columbia. You raise electricity prices by $100 a year, but then the government gives back a dividend that lowers internet prices by $100 year. In real terms, you’re raising the price of  carbon goods but lowering the prices of non-carbon-intensive goods.'
-}]
+}];
 
 var Xavier_Sala_i_Martin = [{
   figure: 'Xavier Sala-i-Martin',
@@ -2707,8 +2707,8 @@ var Xavier_Sala_i_Martin = [{
 }, {
   figure: 'Xavier Sala-i-Martin',
   mark: 'Xavier Sala-i-Martin, Xavier Sala-i-Martin\'s Home Page.',
-  quote: 'It is commonly agreed that Keynes came up with the idea that public works are the best way to help the economy during a recession.As a result, Keynesian economists seem to have developed a blind faith in the government in general, and in the system of public works in particular.I do not share the same faith in the government.I do not share the same faith in public works.And this may help explain why.'
-}]
+  quote: 'It is commonly agreed that Keynes came up with the idea that public works are the best way to help the economy during a recession.\nAs a result, Keynesian economists seem to have developed a blind faith in the government in general, and in the system of public works in particular.\nI do not share the same faith in the government.\nI do not share the same faith in public works.\nAnd this may help explain why.'
+}];
 
 const Quotes = {
   Douglass_North,
@@ -2735,6 +2735,6 @@ const Quotes = {
   William_J_Bernstein,
   William_Nordhaus,
   Xavier_Sala_i_Martin
-}
+};
 
-export { Quotes }
+export { Quotes };

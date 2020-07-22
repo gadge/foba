@@ -12,7 +12,7 @@ var Alfred_P_Sloan = [{
   quote: 'Take my assets — but leave me my organization and in five years I\'ll have it all back.'
 }, {
   figure: 'Alfred P. Sloan',
-  mark: 'Alfred P. Sloan (1936); Cited in: "OBITUARY : Alfred P. Sloan Jr. Dead at 90; G.M. Leader and Philanthropist," the New York Times, 19660218. This a100. omments:Toward the end of the year [1936] Mr. Sloan made a substantial foray into philanthropy by endowing the Alfred P. Sloan Foundation with $10-million.',
+  mark: 'Alfred P. Sloan (1936); Cited in: "OBITUARY : Alfred P. Sloan Jr. Dead at 90; G.\nM. Leader and Philanthropist," the New York Times, 19660218. This a100. omments:\nToward the end of the year [1936] Mr. Sloan made a substantial foray into philanthropy by endowing the Alfred P. Sloan Foundation with $10-million.',
   quote: 'Having been connected with industry during my entire life, it seems eminently proper that I should turn back, in part, the proceeds of that activity with the hope of promoting a broader as well as a better understanding of the economic principles and national policies which have characterized American enterprise down through the years.'
 }, {
   figure: 'Alfred P. Sloan',
@@ -20,7 +20,7 @@ var Alfred_P_Sloan = [{
   quote: 'It looks as if the war in Europe is rapidly moving towards a conclusion. Probably I am wrong about that but I can\'t see how it can be otherwise. It seems clear that the Allies are outclassed on mechanical equipment, and it is foolish to talk about modernizing their Armies in times like these, they ought to have thought of that five years ago. There is no excuse for them not thinking of that except for the unintelligent, in fact, stupid, narrow-minded and selfish leadership which the democracies of the world are cursed with.'
 }, {
   figure: 'Alfred P. Sloan',
-  mark: 'Alfred P. Sloan Jr. (1941), cited in: Alfred P. Sloan Foundation, "Mission Statement," at sloan.org, 2016.',
+  mark: 'Alfred P. Sloan Jr. (1941), cited in: Alfred P. Sloan Foundation, "Mission Statement," at sloan.\norg, 2016.',
   quote: 'There has to be this pioneer, the individual who has the courage, the ambition to overcome the obstacles that always develop when one tries to do something worthwhile, especially when it is new and different.'
 }, {
   figure: 'Alfred P. Sloan',
@@ -40,12 +40,12 @@ var Alfred_P_Sloan = [{
   quote: 'The greatest real thrill that life offers is to create, to construct, to develop something useful. Too often we fail to recognize and pay tribute to the creative spirit. It is that spirit that creates our jobs. There has to be this pioneer, the individual who has the courage, the ambition to overcome the obstacles that always develop when one tries to do something worthwhile, especially when it is new and different.'
 }, {
   figure: 'Alfred P. Sloan',
-  mark: 'Alfred P. Sloan. quoted in: "Alfred Sloan, Guru," economist.com, 20090130.',
+  mark: 'Alfred P. Sloan. quoted in: "Alfred Sloan, Guru," economist.\ncom, 20090130.',
   quote: 'Gentlemen, I take it we are all in complete agreement on the decision here. Then, I propose we postpone further discussion of this matter until the next meeting to give ourselves time to develop disagreement, and perhaps gain some understanding of what the decision is all about.'
 }, {
   figure: 'Alfred P. Sloan',
   mark: 'Alfred P. Sloan in The Turning Wheel, 1934. p185-6; Retrospective vein President Alfred P. Sloan, Jr., addressing the automobile editors of American newspapers at the Proving Ground at Milford, Michigan in 1927.',
-  quote: 'In the spring of 1920, General Motors found itself, as it appeared at the moment, in a good position. On account of the limitation of automotive production during the war there was a great shortage of cars. Every car that could be produced was produced and could be sold at almost any price. So far as any one could see, there was no reason why that prosperity should not continue for a time at least. I liken our position then to a big ship in the ocean. We were sailing along at full speed, the sun was shining, and there was no cloud in the sky that would indicate an approaching storm. Many of you have, of course, crossed the ocean and you can visualize just that sort of a picture yet what happened? In September of that year, almost over night, values commenced to fall. The liquidation from the inflated prices resulting from the war had set in. Practically all schedules or a large part of them were cancelled. Inventory commenced to roll in, and, before it was realized what was happening, this great ship of ours was in the midst of a terrific storm. As a matter of fact, before control could be obtained General Motors found itself in a position of having to go to its bankers for loans aggregating $80,000,000 and although, as we look at things from today\'s standpoint, that isn\'t such a very large amount of money, yet when you must have $80,000,000 and haven\'t got it, it becomes an enormous sum of money, and if we had not had the confidence and support of the strongest banking interests our ship could never have weathered the storm.'
+  quote: 'In the spring of 1920, General Motors found itself, as it appeared at the moment, in a good position. On account of the limitation of automotive production during the war there was a great shortage of cars. Every car that could be produced was produced and could be sold at almost any price. So far as any one could see, there was no reason why that prosperity should not continue for a time at least. I liken our position then to a big ship in the ocean. We were sailing along at full speed, the sun was shining, and there was no cloud in the sky that would indicate an approaching storm. Many of you have, of course, crossed the ocean and you can visualize just that sort of a picture yet what happened? In September of that year, almost over night, values commenced to fall. The liquidation from the inflated prices resulting from the war had set in. Practically all schedules or a large part of them were cancelled. Inventory commenced to roll in, and, before it was realized what was happening, this great ship of ours was in the midst of a terrific storm. As a matter of fact, before control could be obtained General Motors found itself in a position of having to go to its bankers for loans aggregating $80,\n000,\n000 and although, as we look at things from today\'s standpoint, that isn\'t such a very large amount of money, yet when you must have $80,\n000,\n000 and haven\'t got it, it becomes an enormous sum of money, and if we had not had the confidence and support of the strongest banking interests our ship could never have weathered the storm.'
 }, {
   figure: 'Alfred P. Sloan',
   mark: 'Alfred P. Sloan in The Turning Wheel, 1934. p210. Sloan in his Proving Ground address in 1927 to automobile editors, in discussing the so-called saturation point.',
@@ -153,7 +153,7 @@ var Alfred_P_Sloan = [{
 }, {
   figure: 'Alfred P. Sloan',
   mark: 'My Years with General Motors, 1963',
-  quote: 'I had taken up the question of interdivisional relations with Mr. Durant [president of GM at the time] before I entered General Motors and my views on it were well enough known for me to be appointed chairman of a committee "to formulate rules and regulations pertaining to interdivisional business" on December 31, 1918. I completed the report by the following summer and presented it to the Executive Committee on December 6, 1919. I select here a few of its first principles which, though they are an accepted part of management doctrine today, were not so well known then. I think they are still worth attention.'
+  quote: 'I had taken up the question of interdivisional relations with Mr. Durant [president of GM at the time] before I entered General Motors and my views on it were well enough known for me to be appointed chairman of a committee "to formulate rules and regulations pertaining to interdivisional business" on 19181231. I completed the report by the following summer and presented it to the Executive Committee on 19191206. I select here a few of its first principles which, though they are an accepted part of management doctrine today, were not so well known then. I think they are still worth attention.'
 }, {
   figure: 'Alfred P. Sloan',
   mark: 'My Years with General Motors, 1963. p140',
@@ -165,7 +165,7 @@ var Alfred_P_Sloan = [{
 }, {
   figure: 'Alfred P. Sloan',
   mark: 'My Years with General Motors, 1963. p169',
-  quote: 'The transformation of the automobile market was essentially complete in 1929. If Mr. Ford, in that pivotal year in the modern economy, still held stubbornly to his old concept in his new Model A, he was counterbalanced by Mr. Chrysler, who had come up from nowhere with tremendous vitality and with a market policy similar to General Motors\'. The fact that Mr. Ford built nearly two million of the five million U.S.-produced cars and trucks sold that year was only incidental from the long-term point of view. it was a splurge, not the sign of a trend.'
+  quote: 'The transformation of the automobile market was essentially complete in 1929. If Mr. Ford, in that pivotal year in the modern economy, still held stubbornly to his old concept in his new Model A, he was counterbalanced by Mr. Chrysler, who had come up from nowhere with tremendous vitality and with a market policy similar to General Motors\'. The fact that Mr. Ford built nearly two million of the five million U.\nS.-produced cars and trucks sold that year was only incidental from the long-term point of view. it was a splurge, not the sign of a trend.'
 }, {
   figure: 'Alfred P. Sloan',
   mark: 'My Years with General Motors, 1963. p173 (2015 edition)',
@@ -186,7 +186,7 @@ var Alfred_P_Sloan = [{
   figure: 'Alfred P. Sloan',
   mark: 'My Years with General Motors, 1963. p514',
   quote: 'I hold that if companies are attacked simply because they are big then an attack on efficiency must be a corollary of that attack. If we penalize efficiency, how can we as a nation compete in the economy of the world at large?'
-}]
+}];
 
 var Charles_E_Sorensen = [{
   figure: 'Charles E. Sorensen',
@@ -219,16 +219,16 @@ var Charles_E_Sorensen = [{
 }, {
   figure: 'Charles E. Sorensen',
   mark: 'My Forty Years with Ford, 1956. p110 ; As cited in: EyeWitness to History (2005)',
-  quote: 'By March, 1908, we were ready to announce Model T, but not to produce it, On October 1 of that year the first car was introduced to the public. From Joe Galamb\'s little room on the third floor had come a revolutionary vehicle. In the next eighteen years, out of Piquette Avenue, Highland Park, River Rouge, and from assembly plants all over the United States came 15,000,000 more.'
+  quote: 'By 190803, we were ready to announce Model T, but not to produce it, On 000110 of that year the first car was introduced to the public. From Joe Galamb\'s little room on the third floor had come a revolutionary vehicle. In the next eighteen years, out of Piquette Avenue, Highland Park, River Rouge, and from assembly plants all over the United States came 15,\n000,\n000 more.'
 }, {
   figure: 'Charles E. Sorensen',
   mark: 'My Forty Years with Ford, 1956. p130-131 ; As cited in: EyeWitness to History (2005)',
-  quote: 'By August, 1913, all links in the chain of moving assembly lines were complete except the last and most spectacular one - the one we had first experimented with one Sunday morning just five years before. Again a towrope was hitched to a chassis, this time pulled by a capstan. Each part was attached to the moving chassis in order, from axles at the beginning to bodies at the end of the line. Some parts took longer to attach than others; so, to keep an even pull on the towrope, there must be differently spaced intervals between delivery of the parts along the line. This called for patient timing and rearrangement until the flow of parts and the speed and intervals along the assembly line meshed into a perfectly synchronized operation throughout all stages of production. Before the end of the year a power-driven assembly line was in operation, and New Year\'s saw three more installed. Ford mass production and a new era in industrial history had begun.'
+  quote: 'By 191308, all links in the chain of moving assembly lines were complete except the last and most spectacular one - the one we had first experimented with one Sunday morning just five years before. Again a towrope was hitched to a chassis, this time pulled by a capstan. Each part was attached to the moving chassis in order, from axles at the beginning to bodies at the end of the line. Some parts took longer to attach than others; so, to keep an even pull on the towrope, there must be differently spaced intervals between delivery of the parts along the line. This called for patient timing and rearrangement until the flow of parts and the speed and intervals along the assembly line meshed into a perfectly synchronized operation throughout all stages of production. Before the end of the year a power-driven assembly line was in operation, and New Year\'s saw three more installed. Ford mass production and a new era in industrial history had begun.'
 }, {
   figure: 'Charles E. Sorensen',
   mark: 'My Forty Years with Ford, 1956. p156',
   quote: 'Ed Martin, who was plant superintendent, and I practically lived at the Rouge.'
-}]
+}];
 
 var Don_Soderquist = [{
   figure: 'Don Soderquist',
@@ -238,7 +238,7 @@ var Don_Soderquist = [{
   figure: 'Don Soderquist',
   mark: 'Don Soderquist “The Wal-Mart Way: The Inside Story of the Success of the World\'s Largest Company, Thomas Nelson, 200504, p81.',
   quote: '“It doesn’t matter what business you are in, it is essential that the primary motivation and driving force behind everything you do is based on the impact it will have on your customer.”'
-}]
+}];
 
 var Elon_Musk = [{
   figure: 'Elon Musk',
@@ -254,7 +254,7 @@ var Elon_Musk = [{
   quote: '"I\'d rather be optimistic and wrong; than pessimistic and right."'
 }, {
   figure: 'Elon Musk',
-  mark: 'Mann, Adam (20120426). "Video: Wired’s Interview with SpaceX’s Elon Musk". Wired. Retrieved on 20120818. ',
+  mark: 'Mann, Adam (20120426). "Video: Wired’s Interview with SpaceX’s Elon Musk". Wired. Retrieved on 20120818.',
   quote: 'In terms of the Internet, it\'s like humanity acquiring a collective nervous system. Whereas previously we were more like a... collection of cells that communicated by diffusion. With the advent of the Internet, it was suddenly like we got a nervous system. It\'s a hugely impactful thing.'
 }, {
   figure: 'Elon Musk',
@@ -266,7 +266,7 @@ var Elon_Musk = [{
   quote: 'Sooner or later, we must expand life beyond our little blue mud ball--or go extinct.'
 }, {
   figure: 'Elon Musk',
-  mark: 'Vance, Ashley (20120913). "Elon Musk, the 21st Century Industrialist". Bloomberg. Retrieved on 20120914. ',
+  mark: 'Vance, Ashley (20120913). "Elon Musk, the 21st Century Industrialist". Bloomberg. Retrieved on 20120914.',
   quote: 'I would like to die on Mars; just not on impact.'
 }, {
   figure: 'Elon Musk',
@@ -303,7 +303,7 @@ var Elon_Musk = [{
 }, {
   figure: 'Elon Musk',
   mark: 'SpaceX Dragon Headed to the ISS at NASA Post-Launch News Conference (20160408)',
-  quote: 'SpaceX\'s got 5,000 people. I get a lot of attention, but they are really doing the work.'
+  quote: 'SpaceX\'s got 5,\n000 people. I get a lot of attention, but they are really doing the work.'
 }, {
   figure: 'Elon Musk',
   mark: '"Elon Musk\'s Plan To Colonize Mars Gives Us The Sci-Fi Future We Crave: Now let\'s see if he can make it reality." Popular Science magazine. (20160927)',
@@ -350,11 +350,11 @@ var Elon_Musk = [{
   quote: 'The fundamental message that consumers should be taking today is that it\'s financially insane to buy anything other than a Tesla.  It would be like owning a horse in three years. I mean, fine if you want to own a horse. But you should go into it with that expectation. If you buy a car that does not have the hardware for full self-driving, it is like buying a horse.  And the only car that has the hardware for full self-driving is a Tesla.'
 }, {
   figure: 'Elon Musk',
-  mark: 'TIME Magazine, 20190712, https://time.com/5628572/elon-musk-moon-landing/',
+  mark: 'TIME Magazine, 20190712, https://time.\ncom/5628572/elon-musk-moon-landing/',
   quote: 'It’s so insane the way rockets work today. It would be like if you got a plane and the way you get to your destination is you bail out with a parachute over the city in question and your plane crash lands somewhere. That’s how rockets work today—with the exception of Falcon 9. This is completely bonkers.'
 }, {
   figure: 'Elon Musk',
-  mark: 'TIME Magazine, 20190712, https://time.com/5628572/elon-musk-moon-landing/',
+  mark: 'TIME Magazine, 20190712, https://time.\ncom/5628572/elon-musk-moon-landing/',
   quote: 'If it were to take longer to convince NASA and the authorities that we can do it versus just doing it, then [SpaceX] might just do it [ourselves]. It may literally be easier to just land Starship on the moon than try to convince NASA that we can.'
 }, {
   figure: 'Elon Musk',
@@ -366,11 +366,11 @@ var Elon_Musk = [{
   quote: 'This notion though, that you can just sort of send checks out to everybody and things will be fine is not true, obviously. Some have this absurd view that the economy is like some magic horn of plenty… that just makes stuff. There’s a magic horn of plenty, and the goods and services, they just come from this magic horn of plenty. And then if somebody has more stuff than somebody else, it’s because they took more from this magic horn of plenty. Now let me just break it to the fools out there: If you don’t make stuff, there’s no stuff.  If you don’t make the food, if you don’t process the food, if you don’t transport the food, medical treatment, getting your teeth fixed, there’s no stuff. We’ve become detached from reality. You can’t just legislate money and solve these things. If you don’t make stuff, there is no stuff.'
 }, {
   figure: 'Elon Musk',
-  mark: '"Starship Update" talk at the SpaceX facility in Boca Chica, Texas on 20190928. https://youtube.com/watch?v=sOpMrVnjYeY&t=2303',
-  quote: 'According to the geological records, earth has been around for around 4.5 billion years, although it was mostly molten magma for about half a billion years...  The sun is gradually getting hotter and bigger, and over time, even in the absence of global warming — the man-made stuff — the sun will expand and it will overheat the earth.  My guess is probably... there is only several hundred million years left....  Basically, if it took an extra 10% longer for conscious life to evolve on earth, it wouldn\'t evolve at all, because it would have been incinerated by the sun. ... It appears that consciousness is a very rare and precious thing, and we should take whatever steps we can to preserve the light of consciousness, and the window has been open; only now after four and a half billion years is that window open, that\'s a long time to wait ... I\'m pretty optimistic by nature, but there\'s some chance that window will not be open for long, I think we should become a multi-planet civilization while that window is open, and if we do the I think probable outcome for Earth is even better, because then you know Mars could help Earth one day. And so I think we should really do our very best to become a multi-planet species and to extend consciousness beyond Earth, and we should do it now. Thank you.'
+  mark: '"Starship Update" talk at the SpaceX facility in Boca Chica, Texas on 20190928. https://youtube.\ncom/watch?\nv=sOpMrVnjYeY&t=2303',
+  quote: 'According to the geological records, earth has been around for around 4.\n5 billion years, although it was mostly molten magma for about half a billion years...  The sun is gradually getting hotter and bigger, and over time, even in the absence of global warming — the man-made stuff — the sun will expand and it will overheat the earth.  My guess is probably... there is only several hundred million years left....  Basically, if it took an extra 10% longer for conscious life to evolve on earth, it wouldn\'t evolve at all, because it would have been incinerated by the sun. ... It appears that consciousness is a very rare and precious thing, and we should take whatever steps we can to preserve the light of consciousness, and the window has been open; only now after four and a half billion years is that window open, that\'s a long time to wait ... I\'m pretty optimistic by nature, but there\'s some chance that window will not be open for long, I think we should become a multi-planet civilization while that window is open, and if we do the I think probable outcome for Earth is even better, because then you know Mars could help Earth one day. And so I think we should really do our very best to become a multi-planet species and to extend consciousness beyond Earth, and we should do it now. Thank you.'
 }, {
   figure: 'Elon Musk',
-  mark: '"Starship Update" talk at the SpaceX facility in Boca Chica, Texas on 20190928. During Q&A at the "Starship Update" presentation, https://www.youtube.com/watch?v=sOpMrVnjYeY&t=4807',
+  mark: '"Starship Update" talk at the SpaceX facility in Boca Chica, Texas on 20190928. During Q&A at the "Starship Update" presentation, https://www.\nyoutube.\ncom/watch?\nv=sOpMrVnjYeY&t=4807',
   quote: 'I have this mantra.  It\'s called, "If a schedule is long, it\'s wrong.  If it\'s tight, it\'s right."  And I\'ve just, basically just go recursive improvement on schedule, with feedback loop.  "Did this make it go faster? OK.  If it didn\'t, we\'re going to need to fix it."  If the design takes a long time to build, it\'s the wrong design.  This is the fundamental thing.  Over and over, the tendency is to complicate things.  And I have another thing which is, the best part is no part.  The best process is no process.  It weighs nothing, costs nothing, can\'t go wrong.  So, as obvious as that sounds, the best part is no part.  The thing I\'m most impressed with, when I have the design meetings at SpaceX, is "What did you undesign?"  Undesigning is the best thing.  Just delete it.  That\'s the best thing.'
 }, {
   figure: 'Elon Musk',
@@ -523,7 +523,7 @@ var Elon_Musk = [{
 }, {
   figure: 'Elon Musk',
   mark: 'Conversation: Elon Musk on Wired Science (2007)',
-  quote: 'Although I am new in the business, my team is not. I would say that, person for person, there has never been a better rocket company in existence, in history. I don’t think there has ever been a group this talented in one place, in one company, developing a rocket – ever.If you have millions of dollars it changes your lifestyle, and anyone who says differently is talking ########. I don’t need to work, from a standard of living point of view, but I do, you know. I work every day and on weekends and I haven’t taken a vacation for years.'
+  quote: 'Although I am new in the business, my team is not. I would say that, person for person, there has never been a better rocket company in existence, in history. I don’t think there has ever been a group this talented in one place, in one company, developing a rocket – ever.\nIf you have millions of dollars it changes your lifestyle, and anyone who says differently is talking ########. I don’t need to work, from a standard of living point of view, but I do, you know. I work every day and on weekends and I haven’t taken a vacation for years.'
 }, {
   figure: 'Elon Musk',
   mark: 'Conversation: Elon Musk on Wired Science (2007)',
@@ -560,7 +560,7 @@ var Elon_Musk = [{
   figure: 'Elon Musk',
   mark: 'Foreword to Marc Kaufman\'s Mars Up Close: Inside the Curiosity Mission. National Geographic. ISBN 978-1-4262-1278-9.. Caltech Commencement Address - 2012',
   quote: 'So, I think the best analogy for rocket engineers, if you want to create complicated software, you can\'t run as an integrated whole, or run on the computer it\'s intended to run on, but, first time you run it, it has to run with no bugs. That\'s the essence of it. So ... we missed the mark there.'
-}]
+}];
 
 var Eric_Schmidt = [{
   figure: 'Eric Schmidt',
@@ -585,7 +585,7 @@ var Eric_Schmidt = [{
 }, {
   figure: 'Eric Schmidt',
   mark: 'Google\'s Schmidt: Android leads the iPhone in CNET (20111207).',
-  quote: 'Ultimately, application vendors are driven by volume, and volume is favored by the open approach Google is taking. There are so many manufacturers working so hard to distribute Android phones globally that whether you like [Android 4.0] or not … you will want to develop for that platform, and perhaps even first.'
+  quote: 'Ultimately, application vendors are driven by volume, and volume is favored by the open approach Google is taking. There are so many manufacturers working so hard to distribute Android phones globally that whether you like [Android 4.\n0] or not … you will want to develop for that platform, and perhaps even first.'
 }, {
   figure: 'Eric Schmidt',
   mark: 'Eric Schmidt: Google TV on \'majority\' of new TVs by summer 2012 in The Verge (20111207).',
@@ -602,7 +602,7 @@ var Eric_Schmidt = [{
   figure: 'Eric Schmidt',
   mark: '\'They\'re just literally lying\': Google’s Eric Schmidt on cutting ties with conservative group in SFGate (20140922).',
   quote: 'Everyone understands climate change is occurring and the people who oppose it are really hurting our children and our grandchildren and making the world a much worse place. And so we should not be aligned with such people — they\'re just, they\'re just literally lying.'
-}]
+}];
 
 var Henry_Ford = [{
   figure: 'Henry Ford',
@@ -658,7 +658,7 @@ var Henry_Ford = [{
   quote: 'Thinking is the hardest work there is, which is probably the reason why so few engage in it.'
 }, {
   figure: 'Henry Ford',
-  mark: ' Saturday Evening Post, 19360211',
+  mark: 'Saturday Evening Post, 19360211',
   quote: 'What we need is some financial engineers.'
 }, {
   figure: 'Henry Ford',
@@ -682,7 +682,7 @@ var Henry_Ford = [{
   quote: 'Failure is only the opportunity more intelligently to begin again. There is no disgrace in honest failure; there is disgrace in fearing to fail.'
 }, {
   figure: 'Henry Ford',
-  mark: 'My Life and Work (1922). p72. Ch4. : Remark about the Model T in 1909; this has often been paraphrased, e.g.: "You can have any color as long as it\'s black."',
+  mark: 'My Life and Work (1922). p72. Ch4. : Remark about the Model T in 1909; this has often been paraphrased, e.\ng.: "You can have any color as long as it\'s black."',
   quote: 'Any customer can have a car painted any color that he wants so long as it is black.'
 }, {
   figure: 'Henry Ford',
@@ -723,7 +723,7 @@ var Henry_Ford = [{
 }, {
   figure: 'Henry Ford',
   mark: 'My Life and Work (1922). p157',
-  quote: 'Money is only a tool in business. It is just a part of the machinery. You might as well borrow 100,000 lathes as $100,000 if the trouble is inside your business. More lathes will not cure it; neither will more money. Only heavier doses of brains and thought and wise courage can cure. A business that misuses what it has will continue to misuse what it can get.'
+  quote: 'Money is only a tool in business. It is just a part of the machinery. You might as well borrow 100,\n000 lathes as $100,\n000 if the trouble is inside your business. More lathes will not cure it; neither will more money. Only heavier doses of brains and thought and wise courage can cure. A business that misuses what it has will continue to misuse what it can get.'
 }, {
   figure: 'Henry Ford',
   mark: 'My Life and Work (1922)',
@@ -748,7 +748,7 @@ var Henry_Ford = [{
   figure: 'Henry Ford',
   mark: 'Attributed from posthumous publications. As quoted in Biopolymers, Polyamides and Complex Proteinaceous Materials I (2003) by Stephen R. Fahnestock, Alexander Steinbüchel, p395',
   quote: 'There\'s enough alcohol in one year\'s yield of an acre of potatoes to drive the machinery necessary to cultivate the fields for one hundred years.'
-}]
+}];
 
 var Henry_J_Heinz = [{
   figure: 'Henry J. Heinz',
@@ -770,9 +770,9 @@ var Henry_J_Heinz = [{
   figure: 'Henry J. Heinz',
   mark: 'Henry J. Heinz, cited in: John Woolf Jordan (1915). Genealogical and Personal History of Western Pennsylvania. p38',
   quote: 'It is neither capital nor labor but management that brings success, since management will attract capital, and capital can employ labor.'
-}]
+}];
 
-var John_Hoover_consultant = [{
+var John_Hoover = [{
   figure: 'John Hoover (consultant)',
   mark: 'How to Work for an Idiot (2004)',
   quote: 'After studying idiot bosses for more than two decades, I finally understand why females in certain species eat their young.'
@@ -1200,7 +1200,7 @@ var John_Hoover_consultant = [{
   figure: 'John Hoover (consultant)',
   mark: 'Bullwinkle on Business (2008)',
   quote: 'MR. PEABODY: "People who are content and confident in their work tend to be highly motivated and eminently more productive. They collaborate more freely with peers and colleagues, and cooperate better with those they report to...'
-}]
+}];
 
 var Larry_Ellison = [{
   figure: 'Larry Ellison',
@@ -1238,7 +1238,7 @@ var Larry_Ellison = [{
   figure: 'Larry Ellison',
   mark: 'Evan Elite : Lesson #4: Break Through That Wall.',
   quote: 'Great achievers are driven, not so much by the pursuit of success, but by the fear of failure.'
-}]
+}];
 
 var Nikola_Tesla = [{
   figure: 'Nikola Tesla',
@@ -1302,7 +1302,7 @@ var Nikola_Tesla = [{
   quote: 'Money does not represent such a value as men have placed upon it. All my money has been invested into experiments with which I have made new discoveries enabling mankind to have a little easier life.'
 }, {
   figure: 'Nikola Tesla',
-  mark: 'On patent controversies regarding the invention of Radio and other things, as quoted in "A Visit to Nikola Tesla" by Dragislav L. Petković in Politika (192704); as quoted in Tesla, Master of Lightning (1999) by Margaret Cheney, Robert Uth, and Jim Glenn, p73   ISBN 0760710058  ; also in Tesla: Man Out of Time (2001) by Margaret Cheney, p230  ISBN 0743215362 ',
+  mark: 'On patent controversies regarding the invention of Radio and other things, as quoted in "A Visit to Nikola Tesla" by Dragislav L. Petković in Politika (192704); as quoted in Tesla, Master of Lightning (1999) by Margaret Cheney, Robert Uth, and Jim Glenn, p73   ISBN 0760710058  ; also in Tesla: Man Out of Time (2001) by Margaret Cheney, p230  ISBN 0743215362',
   quote: 'Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I really worked, is mine.'
 }, {
   figure: 'Nikola Tesla',
@@ -1354,7 +1354,7 @@ var Nikola_Tesla = [{
   quote: 'Much has been said about Yugoslavia and its people, but many Americans may be under a wrong impression for political enemies and agitators have spread the idea that its inhabitants belong to different nations animated by mutual hate and held together against their will, by a tyrannical power. The fact is that all Yugoslavs — Serbians, Slavonians, Bosnians, Herzegovinians, Dalmations, Montenagrins, Croatians and Slovenes — are of the same race, speak the same language and have common national ideals and traditions.  At the termination of the World War, Alexander brought about a political union creating a powerful and resourceful State. This was hailed with joy by all the Slavs of the Balkans, but it took time before the people found themselves in the new conditions.  I was born in Croatia. The Croatians and Slovenes were never in a position to fight for their independence. It was the Serbians who fought the battles for freedom and the price of liberty was paid in Serbian blood. All true Croatians and Slovenes remember that gratefully. They also know that the Serbians have an unequaled aptitude and experience in warfare and are best qualified to direct the forces of the country in a crisis.  Ever since united Yugoslavia came into being through Alexander\'s efforts, political enemies have done all they could to disrupt it by sowing seeds of discord and disseminating malicious reports. … The death of the King has shaken the country to its very foundations, but the enemies who say that it means the disruption of Yugoslavia will hope in vain, for the noble blood of the great man has only served to cement its parts more firmly and strengthen the national structure. Alexander will live long in the memory of his people, a heroic figure of imposing stature, both the Washington and Lincoln of the Yugoslavs; like Washington an able and intrepid general who freed his country from oppression; like Lincoln a wise and patriotic leader who suffered martyrdom.'
 }, {
   figure: 'Nikola Tesla',
-  mark: 'New York Times (19350711), p23, c.8',
+  mark: 'New York Times (19350711), p23, c.\n8',
   quote: 'Einstein\'s relativity work is a magnificent mathematical garb which fascinates, dazzles and makes people blind to the underlying errors. The theory is like a beggar clothed in purple whom ignorant people take for a king... its exponents are brilliant men but they are metaphysicists rather than scientists.'
 }, {
   figure: 'Nikola Tesla',
@@ -1362,7 +1362,7 @@ var Nikola_Tesla = [{
   quote: 'I am equally proud of my Serbian origin and Croatian homeland.'
 }, {
   figure: 'Nikola Tesla',
-  mark: 'On being informed that Marconi was transmitting wireless messages across the Atlantic Ocean, as quoted in "Who Invented Radio?" at PBS.org, and in Tesla : The Modern Sorcerer (1999) by Daniel Blair Stewart, p371',
+  mark: 'On being informed that Marconi was transmitting wireless messages across the Atlantic Ocean, as quoted in "Who Invented Radio?" at PBS.\norg, and in Tesla : The Modern Sorcerer (1999) by Daniel Blair Stewart, p371',
   quote: 'Marconi is a good fellow. Let him continue. He is using seventeen of my patents.'
 }, {
   figure: 'Nikola Tesla',
@@ -1383,7 +1383,7 @@ var Nikola_Tesla = [{
 }, {
   figure: 'Nikola Tesla',
   mark: 'The Problem of Increasing Human Energy (1900)',
-  quote: 'The production of artificial food as a means for causing an increase of the human mass naturally suggests itself, but a direct attempt of this kind to provide nourishment does not appear to me rational, at least not for the present.  Whether we could thrive on such food is very doubtful.  We are the result of ages of continuous adaptation, and we cannot radically change without unforeseen and, in all probability, disastrous consequences.  So uncertain an experiment should not be tried.  By far the best way, it seems to me, to meet the ravages of the evil, would be to find ways of increasing the productivity of the soil.  With this object the preservation of forests is of an importance which cannot be overestimated, and in this connection, also, the utilization of water-power for purposes of electrical transmission, dispensing in many ways with the necessity of burning wood, and tending thereby to forest preservation, is to be strongly advocated.  But there are limits in the improvement to be effected in this and similar ways.  To increase materially the productivity of the soil, it must be more effectively fertilized by artificial means. The question of food-production resolves itself, then, into the question how best to fertilize the soil.  What it is that made the soil is still a mystery.  To explain its origin is probably equivalent to explaining the origin of life itself.  The rocks, disintegrated by moisture and heat and wind and weather, were in themselves not capable of maintaining life. Some unexplained condition arose, and some new principle came into effect, and the first layer capable of sustaining low organisms, like mosses was formed.  These, by their life and death, added more of the life sustaining quality to the soil, and higher organisms could then subsist, and so on and on, until at last highly developed plant and animal life could flourish.  But though the theories are, even now, not in agreement as to how fertilization is effected, it is a fact, only too well ascertained, that the soil cannot indefinitely sustain life, and some way must be found to supply it with the substances which have been abstracted from it by the plants.  The chief and most valuable among these substances are compounds of nitrogen, and the cheap production of these is, therefore, the key for the solution of the all-important food problem.  Our atmosphere contains an inexhaustible amount of nitrogen, and could we but oxidize it and produce these compounds, an incalculable benefit for mankind would follow.  Long ago this idea took a powerful hold on the imagination of scientific men, but an efficient means for accomplishing this result could not be devised.  The problem was rendered extremely difficult by the extraordinary inertness of the nitrogen, which refuses to combine even with oxygen.  But here electricity comes to our aid: the dormant affinities of the element are awakened by an electric current of the proper quality.  As a lump of coal which has been in contact with oxygen for centuries without burning will combine with it when once ignited, so nitrogen, excited by electricity, will burn.  I did not succeed, however, in producing electrical discharges exciting very effectively the atmospheric nitrogen until a comparatively recent date, although I showed, in May, 1891, in a scientific lecture, a novel form of discharge or electrical flame named "St. Elmo\'s hotfire," which, besides being capable of generating ozone in abundance, also possessed, as I pointed out on that occasion, distinctly the quality of exciting chemical affinities.  This discharge or flame was then only three or four inches long, its chemical action was likewise very feeble, and consequently the process of oxidation of nitrogen was wasteful.  How to intensify this action was the question.  Evidently electric currents of a peculiar kind had to be produced in order to render the process of nitrogen combustion more efficient.'
+  quote: 'The production of artificial food as a means for causing an increase of the human mass naturally suggests itself, but a direct attempt of this kind to provide nourishment does not appear to me rational, at least not for the present.  Whether we could thrive on such food is very doubtful.  We are the result of ages of continuous adaptation, and we cannot radically change without unforeseen and, in all probability, disastrous consequences.  So uncertain an experiment should not be tried.  By far the best way, it seems to me, to meet the ravages of the evil, would be to find ways of increasing the productivity of the soil.  With this object the preservation of forests is of an importance which cannot be overestimated, and in this connection, also, the utilization of water-power for purposes of electrical transmission, dispensing in many ways with the necessity of burning wood, and tending thereby to forest preservation, is to be strongly advocated.  But there are limits in the improvement to be effected in this and similar ways.  To increase materially the productivity of the soil, it must be more effectively fertilized by artificial means. The question of food-production resolves itself, then, into the question how best to fertilize the soil.  What it is that made the soil is still a mystery.  To explain its origin is probably equivalent to explaining the origin of life itself.  The rocks, disintegrated by moisture and heat and wind and weather, were in themselves not capable of maintaining life. Some unexplained condition arose, and some new principle came into effect, and the first layer capable of sustaining low organisms, like mosses was formed.  These, by their life and death, added more of the life sustaining quality to the soil, and higher organisms could then subsist, and so on and on, until at last highly developed plant and animal life could flourish.  But though the theories are, even now, not in agreement as to how fertilization is effected, it is a fact, only too well ascertained, that the soil cannot indefinitely sustain life, and some way must be found to supply it with the substances which have been abstracted from it by the plants.  The chief and most valuable among these substances are compounds of nitrogen, and the cheap production of these is, therefore, the key for the solution of the all-important food problem.  Our atmosphere contains an inexhaustible amount of nitrogen, and could we but oxidize it and produce these compounds, an incalculable benefit for mankind would follow.  Long ago this idea took a powerful hold on the imagination of scientific men, but an efficient means for accomplishing this result could not be devised.  The problem was rendered extremely difficult by the extraordinary inertness of the nitrogen, which refuses to combine even with oxygen.  But here electricity comes to our aid: the dormant affinities of the element are awakened by an electric current of the proper quality.  As a lump of coal which has been in contact with oxygen for centuries without burning will combine with it when once ignited, so nitrogen, excited by electricity, will burn.  I did not succeed, however, in producing electrical discharges exciting very effectively the atmospheric nitrogen until a comparatively recent date, although I showed, in 189105, in a scientific lecture, a novel form of discharge or electrical flame named "St. Elmo\'s hotfire," which, besides being capable of generating ozone in abundance, also possessed, as I pointed out on that occasion, distinctly the quality of exciting chemical affinities.  This discharge or flame was then only three or four inches long, its chemical action was likewise very feeble, and consequently the process of oxidation of nitrogen was wasteful.  How to intensify this action was the question.  Evidently electric currents of a peculiar kind had to be produced in order to render the process of nitrogen combustion more efficient.'
 }, {
   figure: 'Nikola Tesla',
   mark: 'The Problem of Increasing Human Energy (1900)',
@@ -1451,7 +1451,7 @@ var Nikola_Tesla = [{
 }, {
   figure: 'Nikola Tesla',
   mark: 'A Means for Furthering Peace (1905)',
-  quote: 'A state of human life vaguely defined by the term "Universal Peace," while a result of cumulative effort through centuries past, might come into existence quickly, not unlike a crystal suddenly forms in a solution which has been slowly prepared. But just as no effect can precede its cause, so this state can never be brought on by any pact between nations, however solemn. Experience is made before the law is formulated, both are related like cause and effect. So long as we are clearly conscious of the expectation, that peace is to result from such a parliamentary decision, so long have we a conclusive evidence that we are not fit for peace. Only then when we shall feel that such international meetings are mere formal procedures, unnecessary except in so far as they might serve to give definite expression to a common desire, will peace be assured.To judge from current events we must be, as yet, very distant from that blissful goal. It is true that we are proceeding towards it rapidly. There are abundant signs of this progress everywhere. The race enmities and prejudices are decidedly waning.'
+  quote: 'A state of human life vaguely defined by the term "Universal Peace," while a result of cumulative effort through centuries past, might come into existence quickly, not unlike a crystal suddenly forms in a solution which has been slowly prepared. But just as no effect can precede its cause, so this state can never be brought on by any pact between nations, however solemn. Experience is made before the law is formulated, both are related like cause and effect. So long as we are clearly conscious of the expectation, that peace is to result from such a parliamentary decision, so long have we a conclusive evidence that we are not fit for peace. Only then when we shall feel that such international meetings are mere formal procedures, unnecessary except in so far as they might serve to give definite expression to a common desire, will peace be assured.\nTo judge from current events we must be, as yet, very distant from that blissful goal. It is true that we are proceeding towards it rapidly. There are abundant signs of this progress everywhere. The race enmities and prejudices are decidedly waning.'
 }, {
   figure: 'Nikola Tesla',
   mark: 'A Means for Furthering Peace (1905)',
@@ -1527,7 +1527,7 @@ var Nikola_Tesla = [{
 }, {
   figure: 'Nikola Tesla',
   mark: 'Man\'s Greatest Achievement (1908; 1930)',
-  quote: 'What has the future in store for this strange being, born of a breath, of perishable tissue, yet Immortal, with his powers fearful and Divine? What magic will be wrought by him in the end? What is to be his greatest deed, his crowning achievement? Long ago he recognized that all perceptible matter comes from a primary substance, or a tenuity beyond conception, filling all space, the Akasha or luminiferous ether, which is acted upon by the life-giving Prana or Creative Force, calling into existence, in never ending cycles, all things and phenomena. The primary substance, thrown into infinitesimal whirls of prodigious velocity, becomes gross matter; the force subsiding, the motion ceases and matter disappears, reverting to the primary substance.Can man control this grandest, most awe-inspiring of all processes in nature? Can he harness her inexhaustible energies to perform all their functions at his bidding? more still cause them to operate simply by the force of his will?If he could do this, he would have powers almost unlimited and supernatural. At his command, with but a slight effort on his part, old worlds would disappear and new ones of his planning would spring into being. He could fix, solidify and preserve the ethereal shapes of his imagining, the fleeting visions of his dreams. He could express all the creations of his mind on any scale, in forms concrete and imperishable. He could alter the size of this planet, control its seasons, guide it along any path he might choose through the depths of the Universe. He could cause planets to collide and produce his suns and stars, his heat and light. He could originate and develop life in all its infinite forms.'
+  quote: 'What has the future in store for this strange being, born of a breath, of perishable tissue, yet Immortal, with his powers fearful and Divine? What magic will be wrought by him in the end? What is to be his greatest deed, his crowning achievement? Long ago he recognized that all perceptible matter comes from a primary substance, or a tenuity beyond conception, filling all space, the Akasha or luminiferous ether, which is acted upon by the life-giving Prana or Creative Force, calling into existence, in never ending cycles, all things and phenomena. The primary substance, thrown into infinitesimal whirls of prodigious velocity, becomes gross matter; the force subsiding, the motion ceases and matter disappears, reverting to the primary substance.\nCan man control this grandest, most awe-inspiring of all processes in nature? Can he harness her inexhaustible energies to perform all their functions at his bidding? more still cause them to operate simply by the force of his will?\nIf he could do this, he would have powers almost unlimited and supernatural. At his command, with but a slight effort on his part, old worlds would disappear and new ones of his planning would spring into being. He could fix, solidify and preserve the ethereal shapes of his imagining, the fleeting visions of his dreams. He could express all the creations of his mind on any scale, in forms concrete and imperishable. He could alter the size of this planet, control its seasons, guide it along any path he might choose through the depths of the Universe. He could cause planets to collide and produce his suns and stars, his heat and light. He could originate and develop life in all its infinite forms.'
 }, {
   figure: 'Nikola Tesla',
   mark: 'Man\'s Greatest Achievement (1908; 1930)',
@@ -1611,7 +1611,7 @@ var Nikola_Tesla = [{
 }, {
   figure: 'Nikola Tesla',
   mark: 'My Inventions (1919)',
-  quote: 'At present, many of the ablest minds are trying to devise expedients for preventing a repetition of the awful conflict which is only theoretically ended and the duration and main issues of which I have correctly predicted in an article printed in the Sun of December 20, 1914. The proposed League is not a remedy but, on the contrary, in the opinion of a number of competent men, may bring about results just the opposite.  It is particularly regrettable that a punitive policy was adopted in framing the terms of peace, because a few years hence, it will be possible for nations to fight without armies, ships or guns, by weapons far more terrible, to the destructive action and range of which there is virtually no limit. Any city, at a distance, whatsoever, from the enemy, can be destroyed by him and no power on earth can stop him from doing so.'
+  quote: 'At present, many of the ablest minds are trying to devise expedients for preventing a repetition of the awful conflict which is only theoretically ended and the duration and main issues of which I have correctly predicted in an article printed in the Sun of 19141220. The proposed League is not a remedy but, on the contrary, in the opinion of a number of competent men, may bring about results just the opposite.  It is particularly regrettable that a punitive policy was adopted in framing the terms of peace, because a few years hence, it will be possible for nations to fight without armies, ships or guns, by weapons far more terrible, to the destructive action and range of which there is virtually no limit. Any city, at a distance, whatsoever, from the enemy, can be destroyed by him and no power on earth can stop him from doing so.'
 }, {
   figure: 'Nikola Tesla',
   mark: 'My Inventions (1919)',
@@ -1644,7 +1644,7 @@ var Nikola_Tesla = [{
   figure: 'Nikola Tesla',
   mark: 'A Machine to End War (1937)',
   quote: 'In past ages, the law governing the survival of the fittest roughly weeded out the less desirable strains. Then man\'s new sense of pity began to interfere with the ruthless workings of nature. ... The only method compatible with our notions of civilization and the race is to prevent the breeding of the unfit by sterilization and the deliberate guidance of the mating instinct. ... The trend of opinion among eugenists is that we must make marriage more difficult. Certainly no one who is not a desirable parent should be permitted to produce progeny. A century from now it will no more occur to a normal person to mate with a person eugenically unfit than to marry a habitual criminal.'
-}]
+}];
 
 var Reggie_Fils_Aim = [{
   figure: 'Reggie Fils-Aimé',
@@ -1668,7 +1668,7 @@ var Reggie_Fils_Aim = [{
   quote: 'My name is Reggie. I\'m about kickin\' ass, I\'m about takin\' names, and we\'re about makin\' games.[citation needed]'
 }, {
   figure: 'Reggie Fils-Aimé',
-  mark: 'On "kickin\' ass and takin\' names". Source: E3 2005 section of Nintendo.com before E3[specific citation needed]',
+  mark: 'On "kickin\' ass and takin\' names". Source: E3 2005 section of Nintendo.\ncom before E3[specific citation needed]',
   quote: 'Don\'t make me do it. I\'ll take your name.'
 }, {
   figure: 'Reggie Fils-Aimé',
@@ -1705,7 +1705,7 @@ var Reggie_Fils_Aim = [{
 }, {
   figure: 'Reggie Fils-Aimé',
   mark: 'On Nintendo. Source: E3 2005 Press Event[specific citation needed]',
-  quote: 'Now I know many of you today walked in with numbers already swimming in your heads: 360, 16x9, 1080, 8.2 GHz. Well, we\'d like to add one more number to the mix. And that number is two.'
+  quote: 'Now I know many of you today walked in with numbers already swimming in your heads: 360, 16x9, 1080, 8.\n2 GHz. Well, we\'d like to add one more number to the mix. And that number is two.'
 }, {
   figure: 'Reggie Fils-Aimé',
   mark: 'On Nintendo. Source: E3 2006[specific citation needed]',
@@ -1772,7 +1772,7 @@ var Reggie_Fils_Aim = [{
   quote: 'My body is ready.'
 }, {
   figure: 'Reggie Fils-Aimé',
-  mark: 'On Nintendo\'s competitors. Source: next-gen.biz',
+  mark: 'On Nintendo\'s competitors. Source: next-gen.\nbiz',
   quote: 'Are my competitors making some mistakes? Yes they are. But I\'ll tell you this: Sony is a formidable company and I respect them and I don\'t take them lightly. We have to do what we need to do, let them do what they\'re going to do. If they continue to make mistakes, that\'s their problem, not mine. We are focused on making sure that we are going to be successful.'
 }, {
   figure: 'Reggie Fils-Aimé',
@@ -1794,7 +1794,7 @@ var Reggie_Fils_Aim = [{
   figure: 'Reggie Fils-Aimé',
   mark: 'On Nintendo\'s competitors',
   quote: 'Shortly before Shigeru Miyamoto\'s keynote was about to start, Reggie himself was taking the time to sign autographs and pose for pictures, when one gamer shouted out something from the crowd.'
-}]
+}];
 
 var Regina_E_Dugan = [{
   figure: 'Regina E. Dugan',
@@ -1843,7 +1843,7 @@ var Regina_E_Dugan = [{
 }, {
   figure: 'Regina E. Dugan',
   mark: '“Special Forces” Innovation: How DARPA Attacks Problems (2013)',
-  quote: 'Over the past 50 years, the Pentagon’s Defense Advanced Research Projects Agency (DARPA) has produced an unparalleled number of breakthroughs. Arguably, it has the longest-standing, most consistent track record of radical invention in history. Its innovations include the internet; RISC computing; global positioning satellites; stealth technology; unmanned aerial vehicles, or “drones”; and micro-electro-mechanical systems (MEMS), which are now used in everything from air bags to ink-jet printers to video games like the Wii. Though the U.S. military was the original customer for DARPA’s applications, the agency’s advances have played a central role in creating a host of multibillion-dollar industries. What makes DARPA’s long list of accomplishments even more impressive is the agency’s swiftness, relatively tiny organization, and comparatively modest budget. Its programs last, on average, only three to five years.'
+  quote: 'Over the past 50 years, the Pentagon’s Defense Advanced Research Projects Agency (DARPA) has produced an unparalleled number of breakthroughs. Arguably, it has the longest-standing, most consistent track record of radical invention in history. Its innovations include the internet; RISC computing; global positioning satellites; stealth technology; unmanned aerial vehicles, or “drones”; and micro-electro-mechanical systems (MEMS), which are now used in everything from air bags to ink-jet printers to video games like the Wii. Though the U.\nS. military was the original customer for DARPA’s applications, the agency’s advances have played a central role in creating a host of multibillion-dollar industries. What makes DARPA’s long list of accomplishments even more impressive is the agency’s swiftness, relatively tiny organization, and comparatively modest budget. Its programs last, on average, only three to five years.'
 }, {
   figure: 'Regina E. Dugan',
   mark: '“Special Forces” Innovation: How DARPA Attacks Problems (2013)',
@@ -1852,15 +1852,15 @@ var Regina_E_Dugan = [{
   figure: 'Regina E. Dugan',
   mark: '“Special Forces” Innovation: How DARPA Attacks Problems (2013)',
   quote: 'DARPA was created in 1958, shortly after the Soviet Union launched Sputnik, the first man-made satellite to reach space, sparking a national crisis in the United States. Concern that the Russians had achieved technological superiority led to the formation of the agency. Its founding mission was simple: "to prevent and create strategic surprise.”'
-}]
+}];
 
-var Roger_Smith_executive = [{
+var Roger_Smith = [{
   figure: 'Roger Smith (executive)',
-  mark: 'Roger B. Smith, chairman, General Motors Corporation, at Albion College, Mich. quoted in: U.S. News & World Report Vol92. (1982). p66.',
+  mark: 'Roger B. Smith, chairman, General Motors Corporation, at Albion College, Mich. quoted in: U.\nS. News & World Report Vol92. (1982). p66.',
   quote: 'The world needs specialists and highly trained people with advanced degrees, no question about it. But the world also needs diversity and versatility. It needs people who know as much about our value system as they do about our solar system system.'
 }, {
   figure: 'Roger Smith (executive)',
-  mark: 'R.B. Smith cited in: Lloyd L. Byars (1987) Strategic management: planning and implementation : concepts and cases p150.',
+  mark: 'R.\nB. Smith cited in: Lloyd L. Byars (1987) Strategic management: planning and implementation : concepts and cases p150.',
   quote: 'We hope this car will be less labor intensive, less material intensive, less everything intensive than anything we have done before.'
 }, {
   figure: 'Roger Smith (executive)',
@@ -1868,11 +1868,11 @@ var Roger_Smith_executive = [{
   quote: '[Roger B. Smith] identified the following skills and mental processes required of today’s managers as those acquired and sharpened in the study of the liberal arts.'
 }, {
   figure: 'Roger Smith (executive)',
-  mark: 'Smith cited in: Micheline Maynard (2007) "Roger B. Smith, 82, Ex-Chief of G.M., Dies" in The New York Times 20071201.',
+  mark: 'Smith cited in: Micheline Maynard (2007) "Roger B. Smith, 82, Ex-Chief of G.\nM., Dies" in The New York Times 20071201.',
   quote: 'I don’t expect them to build a big stone monument to me; that’s not my goal in life. I’d like to think that if I did anything extraordinary, it was the work that we did in getting the corporation ready for the 21st century.'
 }, {
   figure: 'Roger Smith (executive)',
-  mark: 'The liberal arts and the art of management (1987). Cited in: "Bachelor of Arts in Liberal Studies: What is Liberal Studies?" on georgetown.edu  about bachelor of arts in liberal studies, 2013.',
+  mark: 'The liberal arts and the art of management (1987). Cited in: "Bachelor of Arts in Liberal Studies: What is Liberal Studies?" on georgetown.\nedu  about bachelor of arts in liberal studies, 2013.',
   quote: 'Liberal Arts may ultimately prove to be the most relevant learning model. People trained in the Liberal Arts learn to tolerate ambiguity and to bring order out of apparent confusion. They have the kind of sideways thinking and cross-classifying habit of mind that comes from learning, among other things, the many different ways of looking at literary works, social systems, chemical processes or languages.'
 }, {
   figure: 'Roger Smith (executive)',
@@ -1882,7 +1882,7 @@ var Roger_Smith_executive = [{
   figure: 'Roger Smith (executive)',
   mark: 'The liberal arts and the art of management (1987). As cited in: Elizabety A Dreyer (1996) "Excellence in the Profession." Theological Education Vol33.. Nr. 1. (Autumn 1996). p11.',
   quote: 'Whether you are carving a statue or reorganizing a corporation, you have a vision of what you want to create, as well as a sense of how to make that vision real by bringing different elements together according to an overall pattern... And just as artists communicate their intent through their works, managers must be able to convey their vision in an inspiring and forceful way - in other words to lead - or else that vision will never be fully realized.'
-}]
+}];
 
 var Steve_Jobs = [{
   figure: 'Steve Jobs',
@@ -1895,7 +1895,7 @@ var Steve_Jobs = [{
 }, {
   figure: 'Steve Jobs',
   mark: '1980s. On Apple\'s lawsuit against him, following his resignation to form NeXT, as quoted in Newsweek (19850930)',
-  quote: 'It is hard to think that a $2 billion company with 4,300-plus people couldn\'t compete with six people in blue jeans.'
+  quote: 'It is hard to think that a $2 billion company with 4,\n300-plus people couldn\'t compete with six people in blue jeans.'
 }, {
   figure: 'Steve Jobs',
   mark: '1980s. An old saying at Apple Computer, attributed to Steve Jobs, meaning that it is important to actually deliver. [1]',
@@ -1926,7 +1926,7 @@ var Steve_Jobs = [{
   quote: 'Woz and I very much liked Bob Dylan\'s poetry, and we spent a lot of time thinking about a lot of that stuff. This was California. You could get LSD fresh made from Stanford. You could sleep on the beach at night with your girlfriend. California has a sense of experimentation and a sense of openness—openness to new possibilities.'
 }, {
   figure: 'Steve Jobs',
-  mark: '1980s. Quoted in Steve Jobs, the Journey Is the Reward (1988) by Jeffrey S. Young  ISBN 155802378X ',
+  mark: '1980s. Quoted in Steve Jobs, the Journey Is the Reward (1988) by Jeffrey S. Young  ISBN 155802378X',
   quote: 'Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.'
 }, {
   figure: 'Steve Jobs',
@@ -1943,7 +1943,7 @@ var Steve_Jobs = [{
 }, {
   figure: 'Steve Jobs',
   mark: '1980s. Playboy interview (1985)',
-  quote: 'Computers are actually pretty simple. We’re sitting here on a bench in this cafe. Let’s assume that you understood only the most rudimentary of directions and you asked how to find the rest room. I would have to describe it to you in very specific and precise instructions. I might say, "Scoot sideways two meters off the bench. Stand erect. Lift left foot. Bend left knee until it is horizontal. Extend left foot and shift weight 300 centimeters forward …" and on and on. If you could interpret all those instructions 100 times faster than any other person in this cafe, you would appear to be a magician: You could run over and grab a milk shake and bring it back and set it on the table and snap your fingers, and I’d think you made the milk shake appear, because it was so fast relative to my perception. That’s exactly what a computer does. It takes these very, very simple-minded instructions — "Go fetch a number, add it to this number, put the result there, perceive if it’s greater than this other number"—but executes them at a rate of, let’s say, 1,000,000 per second. At 1,000,000 per second, the results appear to be magic. … Most people have no concept of how an automatic transmission works, yet they know how to drive a car. You don\'t have to study physics to understand the laws of motion to drive a car. You don\'t have to understand any of this stuff to use Macintosh.'
+  quote: 'Computers are actually pretty simple. We’re sitting here on a bench in this cafe. Let’s assume that you understood only the most rudimentary of directions and you asked how to find the rest room. I would have to describe it to you in very specific and precise instructions. I might say, "Scoot sideways two meters off the bench. Stand erect. Lift left foot. Bend left knee until it is horizontal. Extend left foot and shift weight 300 centimeters forward …" and on and on. If you could interpret all those instructions 100 times faster than any other person in this cafe, you would appear to be a magician: You could run over and grab a milk shake and bring it back and set it on the table and snap your fingers, and I’d think you made the milk shake appear, because it was so fast relative to my perception. That’s exactly what a computer does. It takes these very, very simple-minded instructions — "Go fetch a number, add it to this number, put the result there, perceive if it’s greater than this other number"—but executes them at a rate of, let’s say, 1,\n000,\n000 per second. At 1,\n000,\n000 per second, the results appear to be magic. … Most people have no concept of how an automatic transmission works, yet they know how to drive a car. You don\'t have to study physics to understand the laws of motion to drive a car. You don\'t have to understand any of this stuff to use Macintosh.'
 }, {
   figure: 'Steve Jobs',
   mark: '1980s. Playboy interview (1985)',
@@ -1967,7 +1967,7 @@ var Steve_Jobs = [{
 }, {
   figure: 'Steve Jobs',
   mark: '1990s. Interview Steve Jobs: Visionary Entrepreneur by Santa Clara Valley Historical Association (1994) Steve Jobs: Visionary Entrepreneur, Silicon Valley Historical Association] Steve Jobs: Secrets of Life quote, Santa Clara Valley Historical Association, YouTube]',
-  quote: 'When you grow up you tend to get told that the world is the way it is and your life is just to live your life inside the world. Try not to bash into the walls too much. Try to have a nice family, have fun, save a little money.That\'s a very limited life. Life can be much broader once you discover one simple fact: Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it, you can build your own things that other people can use.'
+  quote: 'When you grow up you tend to get told that the world is the way it is and your life is just to live your life inside the world. Try not to bash into the walls too much. Try to have a nice family, have fun, save a little money.\nThat\'s a very limited life. Life can be much broader once you discover one simple fact: Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it, you can build your own things that other people can use.'
 }, {
   figure: 'Steve Jobs',
   mark: '1990s. The Computerworld Smithsonian Awards Program Oral History Interview, Advice for Future Entrepreneurs (19950420)',
@@ -2034,7 +2034,7 @@ var Steve_Jobs = [{
   quote: 'We have always been shameless about stealing great ideas.'
 }, {
   figure: 'Steve Jobs',
-  mark: '1990s. Steve Jobs, 1996, Fresh Air radio interview by Terry Gross, npr.org, audio 26:30/31:05',
+  mark: '1990s. Steve Jobs, 1996, Fresh Air radio interview by Terry Gross, npr.\norg, audio 26:\n30/31:\n05',
   quote: 'We hired truly great people and gave them the room to do great work. A lot of companies [...] hire people to tell them what to do. We hire people to tell us what to do. We figure we\'re paying them all this money; their job is to figure out what to do and tell us.'
 }, {
   figure: 'Steve Jobs',
@@ -2042,7 +2042,7 @@ var Steve_Jobs = [{
   quote: 'I wish him the best, I really do. I just think he and Microsoft are a bit narrow. He\'d be a broader guy if he had dropped acid once or gone off to an ashram when he was younger.'
 }, {
   figure: 'Steve Jobs',
-  mark: '1990s. 199705, World Wide Developers Conference (online video)52:15/52:22',
+  mark: '1990s. 199705, World Wide Developers Conference (online video)52:\n15/52:\n22',
   quote: '"You‘ve got to start with the customer experience and work backwards to the technology."'
 }, {
   figure: 'Steve Jobs',
@@ -2063,7 +2063,7 @@ var Steve_Jobs = [{
 }, {
   figure: 'Steve Jobs',
   mark: '1990s. Intro of the first iMac computer in Cupertino, California, (19980506)[specific citation needed]',
-  quote: 'iMac is next year\'s computer for $1,299, not last year\'s computer for $999.'
+  quote: 'iMac is next year\'s computer for $1,\n299, not last year\'s computer for $999.'
 }, {
   figure: 'Steve Jobs',
   mark: '1990s. As quoted in BusinessWeek (19980525)',
@@ -2091,7 +2091,7 @@ var Steve_Jobs = [{
 }, {
   figure: 'Steve Jobs',
   mark: '1990s. Rolling Stone interview (1994)',
-  quote: 'Technology is nothing. What\'s important is that you have a faith in people, that they\'re basically good and smart, and if you give them tools, they\'ll do wonderful things with them. It\'s not the tools that you have faith in — tools are just tools. They work, or they don\'t work. It\'s people you have faith in or not. Yeah, sure, I\'m still optimistic I mean, I get pessimistic sometimes but not for long. … The world\'s clearly a better place. Individuals can now do things that only large groups of people with lots of money could do before. What that means is, we have much more opportunity for people to get to the marketplace — not just the marketplace of commerce but the marketplace of ideas. The marketplace of publications, the marketplace of public policy. You name it. We\'ve given individuals and small groups equally powerful tools to what the largest, most heavily funded organizations in the world have. And that trend is going to continue. You can buy for under $10,000 today a computer that is just as powerful, basically, as one anyone in the world can get their hands on.'
+  quote: 'Technology is nothing. What\'s important is that you have a faith in people, that they\'re basically good and smart, and if you give them tools, they\'ll do wonderful things with them. It\'s not the tools that you have faith in — tools are just tools. They work, or they don\'t work. It\'s people you have faith in or not. Yeah, sure, I\'m still optimistic I mean, I get pessimistic sometimes but not for long. … The world\'s clearly a better place. Individuals can now do things that only large groups of people with lots of money could do before. What that means is, we have much more opportunity for people to get to the marketplace — not just the marketplace of commerce but the marketplace of ideas. The marketplace of publications, the marketplace of public policy. You name it. We\'ve given individuals and small groups equally powerful tools to what the largest, most heavily funded organizations in the world have. And that trend is going to continue. You can buy for under $10,\n000 today a computer that is just as powerful, basically, as one anyone in the world can get their hands on.'
 }, {
   figure: 'Steve Jobs',
   mark: '1990s. Rolling Stone interview (1994)',
@@ -2142,15 +2142,15 @@ var Steve_Jobs = [{
   quote: 'Why would I ever want to run Disney? Wouldn\'t it make more sense just to sell them Pixar and retire?'
 }, {
   figure: 'Steve Jobs',
-  mark: '2000s. As quoted in Apple Confidential 2.0: The Definitive History of the World\'s Most Colorful Company (2004) by Owen W. Linzmayer',
+  mark: '2000s. As quoted in Apple Confidential 2.\n0: The Definitive History of the World\'s Most Colorful Company (2004) by Owen W. Linzmayer',
   quote: 'The cure for Apple is not cost-cutting. The cure for Apple is to innovate its way out of its current predicament.'
 }, {
   figure: 'Steve Jobs',
-  mark: '2000s. As quoted in Apple Confidential 2.0: The Definitive History of the World\'s Most Colorful Company (2004) by Owen W. Linzmayer',
+  mark: '2000s. As quoted in Apple Confidential 2.\n0: The Definitive History of the World\'s Most Colorful Company (2004) by Owen W. Linzmayer',
   quote: 'It wasn\'t that Microsoft was so brilliant or clever in copying the Mac, it\'s that the Mac was a sitting duck for 10 years. That\'s Apple\'s problem: Their differentiation evaporated.'
 }, {
   figure: 'Steve Jobs',
-  mark: '2000s. As quoted in Apple Confidential 2.0: The Definitive History of the World\'s Most Colorful Company (2004) by Owen W. Linzmayer',
+  mark: '2000s. As quoted in Apple Confidential 2.\n0: The Definitive History of the World\'s Most Colorful Company (2004) by Owen W. Linzmayer',
   quote: 'I\'m the only person I know that\'s lost a quarter of a billion dollars in one year.... It\'s very character-building.'
 }, {
   figure: 'Steve Jobs',
@@ -2163,7 +2163,7 @@ var Steve_Jobs = [{
 }, {
   figure: 'Steve Jobs',
   mark: '2000s. As quoted in "The Seed of Apple\'s Innovation" in BusinessWeek (20041012)',
-  quote: 'The system is that there is no system. That doesn\'t mean we don\'t have process. Apple is a very disciplined company, and we have great processes. But that\'s not what it\'s about. Process makes you more efficient.  But innovation comes from people meeting up in the hallways or calling each other at 10:30 at night with a new idea, or because they realized something that shoots holes in how we\'ve been thinking about a problem. It\'s ad hoc meetings of six people called by someone who thinks he has figured out the coolest new thing ever and who wants to know what other people think of his idea.  And it comes from saying no to 1,000 things to make sure we don\'t get on the wrong track or try to do too much. We\'re always thinking about new markets we could enter, but it\'s only by saying no that you can concentrate on the things that are really important.'
+  quote: 'The system is that there is no system. That doesn\'t mean we don\'t have process. Apple is a very disciplined company, and we have great processes. But that\'s not what it\'s about. Process makes you more efficient.  But innovation comes from people meeting up in the hallways or calling each other at 10:\n30 at night with a new idea, or because they realized something that shoots holes in how we\'ve been thinking about a problem. It\'s ad hoc meetings of six people called by someone who thinks he has figured out the coolest new thing ever and who wants to know what other people think of his idea.  And it comes from saying no to 1,\n000 things to make sure we don\'t get on the wrong track or try to do too much. We\'re always thinking about new markets we could enter, but it\'s only by saying no that you can concentrate on the things that are really important.'
 }, {
   figure: 'Steve Jobs',
   mark: '2000s. Comparing the progress of Mac OS X and what would eventually become known as Microsoft\'s Vista, at the MacWorld San Francisco keynote address (200501)',
@@ -2251,7 +2251,7 @@ var Steve_Jobs = [{
 }, {
   figure: 'Steve Jobs',
   mark: '2000s. WWDC 2005',
-  quote: 'So Mac OS X is cross-platform by design, right from the very beginning. So Mac OS X is singing on Intel processors, and I\'d just like to show you right now. As a matter of fact... this system I\'ve been using here... Let go have a look... [reveals that the system he had been using for the presentation was running Mac OS X 10.4.1 on a machine using a 3.6 GHz Pentium 4 processor] So.. we\'ve been running on an Intel machine all morning.'
+  quote: 'So Mac OS X is cross-platform by design, right from the very beginning. So Mac OS X is singing on Intel processors, and I\'d just like to show you right now. As a matter of fact... this system I\'ve been using here... Let go have a look... [reveals that the system he had been using for the presentation was running Mac OS X 10.\n4.\n1 on a machine using a 3.\n6 GHz Pentium 4 processor] So.. we\'ve been running on an Intel machine all morning.'
 }, {
   figure: 'Steve Jobs',
   mark: '2000s. WWDC 2005',
@@ -2332,7 +2332,7 @@ var Steve_Jobs = [{
   figure: 'Steve Jobs',
   mark: '2010s. Last words (20111005), as reported by his sister Mona Simpson in her eulogy for her brother on 20111016, at his memorial service at the Memorial Church of Stanford University; presented in the New York Times (20111030) (The words were capitalized in the text.) According to Ms. Simpson, these words were spoken hours before his death, and after "he’d looked at his sister Patty, then for a long time at his children, then at his life’s partner, Laurene, and then over their shoulders past them."',
   quote: 'OH WOW. OH WOW. OH WOW.'
-}]
+}];
 
 var Walt_Disney = [{
   figure: 'Walt Disney',
@@ -2504,7 +2504,7 @@ var Walt_Disney = [{
   quote: 'Animation offers a medium of story telling and visual entertainment which can bring pleasure and information to people of all ages everywhere in the world.'
 }, {
   figure: 'Walt Disney',
-  mark: 'As quoted in "The Movie: Background". Song of the South.net. Retrieved 2007-01-18.',
+  mark: 'As quoted in "The Movie: Background". Song of the South.\nnet. Retrieved 2007-01-18.',
   quote: 'I always felt that Uncle Remus should be played by a living person, as should also the young boy to whom Harris\' old Negro philosopher relates his vivid stories of the Briar Patch. Several tests in previous pictures, especially in The Three Caballeros, were encouraging in the way living action and animation could be dovetailed. Finally, months ago, we \'took our foot in hand,\' in the words of Uncle Remus, and jumped into our most venturesome but also more pleasurable undertaking.'
 }, {
   figure: 'Walt Disney',
@@ -2634,7 +2634,7 @@ var Walt_Disney = [{
   figure: 'Walt Disney',
   mark: 'How to Be Like Walt : Capturing the Magic Every Day of Your Life (2004). Ch15. Walt Lives!, p379',
   quote: 'I believe firmly in the efficacy of religion, in its powerful influence on a person\'s whole life. It helps immeasurably to meet the storms and stress of life and keep you attuned to the Divine inspiration. Without inspiration, we would perish.'
-}]
+}];
 
 const Quotes = {
   Alfred_P_Sloan,
@@ -2644,14 +2644,14 @@ const Quotes = {
   Eric_Schmidt,
   Henry_Ford,
   Henry_J_Heinz,
-  John_Hoover_consultant,
+  John_Hoover,
   Larry_Ellison,
   Nikola_Tesla,
   Reggie_Fils_Aim,
   Regina_E_Dugan,
-  Roger_Smith_executive,
+  Roger_Smith,
   Steve_Jobs,
   Walt_Disney
-}
+};
 
-export { Quotes }
+export { Quotes };

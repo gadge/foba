@@ -36,9 +36,9 @@ var Armand_V_Feigenbaum = [{
   quote: 'Product and service quality can be defined as the total composite product and service characteristics of marketing, engineering, manufacturing, and maintenance through which the product and service in use will meet the expectations of the customer.'
 }, {
   figure: 'Armand V. Feigenbaum',
-  mark: 'Total Quality Control, 1983. Cited in: D.H. Stamatis (1999) TQM Engineering Handbook, p12',
+  mark: 'Total Quality Control, 1983. Cited in: D.\nH. Stamatis (1999) TQM Engineering Handbook, p12',
   quote: 'Total quality control is an effective system for integrating the quality development, quality maintenance, and quality improvement efforts of the various groups in an organization so as to enable production and service at the most economical levels which allow full customer satisfaction.'
-}]
+}];
 
 var Clayton_M_Christensen = [{
   figure: 'Clayton M. Christensen',
@@ -46,7 +46,7 @@ var Clayton_M_Christensen = [{
   quote: 'The technological changes that damage established companies are usually not radically new or difficult from a technological point of view. They do, however, have two important characteristics: First, they typically present a different package of performance attributes—ones that, at least at the outset, are not valued by existing customers. Second, the performance attributes that existing customers do value improve at such a rapid rate that the new technology can later invade those established markets.'
 }, {
   figure: 'Clayton M. Christensen',
-  mark: '1990s. Clayton Christensen and Joseph L. Bower. (1996) "Customer power, strategic investment, and the failure of leading firms", Strategic Management Journal, Vol17. (3), p199 as cited in: C.G. Sandström (2010) A revised perspective on Disruptive Innovation p8',
+  mark: '1990s. Clayton Christensen and Joseph L. Bower. (1996) "Customer power, strategic investment, and the failure of leading firms", Strategic Management Journal, Vol17. (3), p199 as cited in: C.\nG. Sandström (2010) A revised perspective on Disruptive Innovation p8',
   quote: 'We contest the conclusions of scholars such as Tushman and Anderson (1986), who have argued that incumbent firms are most threatened by attacking entrants when the innovation in question destroys, or does not build upon, the competence of the firm. We observe that established firms, though often at great cost, have led their industries in developing critical competence-destroying technologies, when the new technology was needed to meet existing customers’ demands.'
 }, {
   figure: 'Clayton M. Christensen',
@@ -74,7 +74,7 @@ var Clayton_M_Christensen = [{
   quote: 'The concept of the value network — the context within which a firm identifies and responds to customers\' needs, solves problems, procures input, reacts to competitors, and strives for profit — is central to this synthesis.'
 }, {
   figure: 'Clayton M. Christensen',
-  mark: '2000s. Adrian J. Slywotzky, Clayton M. Christensen, Richard S. Tedlow, Nicholas G. Carr (2000) "The future of commerce." Harvard Business Review Vol78.. 1. p39-53. (abstract)',
+  mark: '2000s. Adrian J. Slywotzky, Clayton M. Christensen, Richard S. Tedlow, Nicholas G. Carr (2000) "The future of commerce." Harvard Business Review Vol78.. \n1. p39-53. (abstract)',
   quote: 'Adrian Slywotzky believes the Internet will overturn the inefficient push model of supplier-customer interaction. He predicts that in all sorts of markets, customers will use choiceboards—interactive, on-line systems that let people design their own products by choosing from a menu of attributes, prices, and delivery options. And he explores how the shifting role of the customer—from passive recipient to active designer—will change the way companies compete.'
 }, {
   figure: 'Clayton M. Christensen',
@@ -82,12 +82,12 @@ var Clayton_M_Christensen = [{
   quote: '[There is a distinguishes between] low-end disruption which targets customers who do not need the full performance valued by customers at the high end of the market and "new-market disruption" that targets customers that could previously not be served profitably by the incumbent.'
 }, {
   figure: 'Clayton M. Christensen',
-  mark: '2000s. Johnson & Christensen (2004) Seeing What\'s Next. p302 as cited in: L.M. DeBruhl (2006) Leave No Parent Behind. p9',
+  mark: '2000s. Johnson & Christensen (2004) Seeing What\'s Next. p302 as cited in: L.\nM. DeBruhl (2006) Leave No Parent Behind. p9',
   quote: '[Descriptive research provides] an accurate description or picture of the status or characteristics of a situation or phenomenon.'
 }, {
   figure: 'Clayton M. Christensen',
   mark: '2000s. 2006 interview in Business Week, cited in: Rebutting Clayton Christensen on Apple\'s \'Troubled\' Future in Seeking Alpha (20060111)',
-  quote: 'During the early stages of an industry, when the functionality and reliability of a product isn\'t yet adequate to meet customer\'s needs, a proprietary solution is almost always the right solution -- because it allows you to knit all the pieces together in an optimized way.But once the technology matures and becomes good enough, industry standards emerge. That leads to the standardization of interfaces, which lets companies specialize on pieces of the overall system, and the product becomes modular. At that point, the competitive advantage of the early leader dissipates, and the ability to make money migrates to whoever controls the performance-defining subsystem.In the modular PC world, that meant Microsoft and Intel (NASDAQ:INTC), and the same thing will happen in the iPod world as well. Apple may think the proprietary iPod is their competitive advantage, but it\'s temporary. In the future, what will matter will be the software inside that lets users find exactly the kind of music they want to listen to, when and where they want to, with minimal effort.'
+  quote: 'During the early stages of an industry, when the functionality and reliability of a product isn\'t yet adequate to meet customer\'s needs, a proprietary solution is almost always the right solution -- because it allows you to knit all the pieces together in an optimized way.\nBut once the technology matures and becomes good enough, industry standards emerge. That leads to the standardization of interfaces, which lets companies specialize on pieces of the overall system, and the product becomes modular. At that point, the competitive advantage of the early leader dissipates, and the ability to make money migrates to whoever controls the performance-defining subsystem.\nIn the modular PC world, that meant Microsoft and Intel (NASDAQ:\nINTC), and the same thing will happen in the iPod world as well. Apple may think the proprietary iPod is their competitive advantage, but it\'s temporary. In the future, what will matter will be the software inside that lets users find exactly the kind of music they want to listen to, when and where they want to, with minimal effort.'
 }, {
   figure: 'Clayton M. Christensen',
   mark: '2000s. Rebutting Clayton Christensen on Apple\'s \'Troubled\' Future in Seeking Alpha (20060111)',
@@ -120,7 +120,7 @@ var Clayton_M_Christensen = [{
   figure: 'Clayton M. Christensen',
   mark: '2010s. "Harvard Management Legend Clay Christensen Defends His \'Disruption\' Theory, Explains The Only Way Apple Can Win" in BusinessInsider (20141028)',
   quote: 'All of the points that [Professor Lepore] raised were not just wrong, but they were lies. Ours is the only theory in business that actually has been tested in the marketplace over and over again. ... And for her to take that on, to take me on and the theory on – I don\'t know where the meanness came from.'
-}]
+}];
 
 var Francis_X_Sutton = [{
   figure: 'Francis X. Sutton',
@@ -157,7 +157,7 @@ var Francis_X_Sutton = [{
 }, {
   figure: 'Francis X. Sutton',
   mark: 'The American Business Creed. 1956. p192-3 ; cited in: David C. McClelland (1961), The Archiving Society, p293',
-  quote: 'Viewed schematically, the activities of governments involve first the politician, who buys votes for the party in power; then the impractical theorist in the civil service — usually a professor in disguise — who conceives grandiose and unworkable plans; finally, these are executed and administered by the hidebound bureaucrat. The characteristic vices of these three species of homo politicus differ, , but they share a common feature: the absence of those personal virtues possessed by businessmen. Their heads are neither clear, hard, nor level; none of them is really honest; all of them lack practical imagination and the desire to get things done.Their heads are neither clear, hard, nor level; none of them is really.'
+  quote: 'Viewed schematically, the activities of governments involve first the politician, who buys votes for the party in power; then the impractical theorist in the civil service — usually a professor in disguise — who conceives grandiose and unworkable plans; finally, these are executed and administered by the hidebound bureaucrat. The characteristic vices of these three species of homo politicus differ, , but they share a common feature: the absence of those personal virtues possessed by businessmen. Their heads are neither clear, hard, nor level; none of them is really honest; all of them lack practical imagination and the desire to get things done.\nTheir heads are neither clear, hard, nor level; none of them is really.'
 }, {
   figure: 'Francis X. Sutton',
   mark: 'The American Business Creed. 1956. p194, ; Cited in: Warren J. Samuels. The concepts of major business and labor organizations on the role of government in the economy, Vol1.. University of Wisconsin--Madison, 1957. p168',
@@ -166,7 +166,7 @@ var Francis_X_Sutton = [{
   figure: 'Francis X. Sutton',
   mark: 'The American Business Creed. 1956. p328; Cited in: Scott Andrew Shane (2002), The Foundations of Entrepreneurship - Vol1. . p525',
   quote: 'In contrast to such organizations as governments and universities, the prime criteria of business achievement are relatively definite and tangible. These standards include profitability, percentage control of the market, size of firm, and rate of growth.'
-}]
+}];
 
 var Peter_Drucker = [{
   figure: 'Peter Drucker',
@@ -575,7 +575,7 @@ var Peter_Drucker = [{
 }, {
   figure: 'Peter Drucker',
   mark: '1960s - 1980s. MANAGEMENT: Tasks, Responsibilities, Practices (1973). p539',
-  quote: 'One reason for the tremendous increase in health-care costs in the U.S. is managerial neglect of the "hotel services" by the people who dominate the hospital, such as doctors and nurses.'
+  quote: 'One reason for the tremendous increase in health-care costs in the U.\nS. is managerial neglect of the "hotel services" by the people who dominate the hospital, such as doctors and nurses.'
 }, {
   figure: 'Peter Drucker',
   mark: '1960s - 1980s. MANAGEMENT: Tasks, Responsibilities, Practices (1973). p548',
@@ -607,7 +607,7 @@ var Peter_Drucker = [{
 }, {
   figure: 'Peter Drucker',
   mark: '1960s - 1980s. MANAGEMENT: Tasks, Responsibilities, Practices (1973). p707',
-  quote: 'Financial "synergy"  is a will-o\'-the-wisp.It looks good on paper, but it fails to work out in practice.'
+  quote: 'Financial "synergy"  is a will-o\'-the-wisp.\nIt looks good on paper, but it fails to work out in practice.'
 }, {
   figure: 'Peter Drucker',
   mark: '1960s - 1980s. MANAGEMENT: Tasks, Responsibilities, Practices (1973). p739',
@@ -666,11 +666,11 @@ var Peter_Drucker = [{
   quote: 'Knowing Yourself ...We also seldom know what gifts we are not endowed with. We will have to learn where we belong, what we have to learn to get the full benefit from our strengths, where our weaknesses lie, what our values are. We also have to know ourselves temperamentally: "Do I work well with people, or am I a loner? What am I committed to? And what is my contribution?"'
 }, {
   figure: 'Peter Drucker',
-  mark: '1990s and later. "The way ahead" Economist.com (200111)',
+  mark: '1990s and later. "The way ahead" Economist.\ncom (200111)',
   quote: '...the information revolution. Almost everybody is sure ...that it is proceeding with unprecedented speed; and ...that its effects will be more radical than anything that has gone before. Wrong, and wrong again. Both in its speed and its impact, the information revolution uncannily resembles its two predecessors ...The first industrial revolution, triggered by James Watt\'s improved steam engine in the mid-1770s...did not produce many social and economic changes until the invention of the railroad in 1829 ...Similarly, the invention of the computer in the mid-1940s, ...it was not until 40 years later, with the spread of the Internet in the 1990s, that the information revolution began to bring about big economic and social changes. ...the same emergence of the “super-rich” of their day, characterized both the first and the second industrial revolutions. ...These parallels are close and striking enough to make it almost certain that, as in the earlier industrial revolutions, the main effects of the information revolution on the next society still lie ahead.'
 }, {
   figure: 'Peter Drucker',
-  mark: '1990s and later. "The next society" Economist.com (200111)',
+  mark: '1990s and later. "The next society" Economist.\ncom (200111)',
   quote: 'This new knowledge economy will rely heavily on knowledge workers. ...the most striking growth will be in “knowledge technologists:” computer technicians, software designers, analysts in clinical labs, manufacturing technologists, paralegals. ...They are not, as a rule, much better paid than traditional skilled workers, but they see themselves as “professionals.” Just as unskilled manual workers in manufacturing were the dominant social and political force in the 20th century, knowledge technologists are likely to become the dominant social—-and perhaps also political—-force over the next decades.'
 }, {
   figure: 'Peter Drucker',
@@ -695,7 +695,7 @@ var Peter_Drucker = [{
 }, {
   figure: 'Peter Drucker',
   mark: '1990s and later. Post-Capitalist Society (1993). p3',
-  quote: 'The postwar [WWII] GI Bill of Rights - and the enthusiastic response to  it on the part of America\'s veterans - signaled the shift to the knowledge society. Future historians may consider it the most important event of the twentieth century.We are clearly in the midst of this transformation; indeed, if history is any guide, it will not be completed until 2010 or 2020. But already it has changed the political, economic and moral landscape of the world.'
+  quote: 'The postwar [WWII] GI Bill of Rights - and the enthusiastic response to  it on the part of America\'s veterans - signaled the shift to the knowledge society. Future historians may consider it the most important event of the twentieth century.\nWe are clearly in the midst of this transformation; indeed, if history is any guide, it will not be completed until 2010 or 2020. But already it has changed the political, economic and moral landscape of the world.'
 }, {
   figure: 'Peter Drucker',
   mark: '1990s and later. Post-Capitalist Society (1993). p45',
@@ -724,7 +724,7 @@ var Peter_Drucker = [{
   figure: 'Peter Drucker',
   mark: '1990s and later. Managing in a Time of Great Change (1995). p351',
   quote: 'I would hope that American managers - indeed, managers worldwide - continue to appreciate what I have been saying almost from day one: that management is so much more than exercising rank and privilege, that it is much more than "making deals." Management affects people and their lives.'
-}]
+}];
 
 var W_Edwards_Deming = [{
   figure: 'W. Edwards Deming',
@@ -858,7 +858,7 @@ var W_Edwards_Deming = [{
   figure: 'W. Edwards Deming',
   mark: 'The New Economics for Industry, Government, Education (1993)',
   quote: 'Experience by itself teaches nothing...Without theory, experience has no meaning. Without theory, one has no questions to ask. Hence without theory there is no learning.'
-}]
+}];
 
 const Quotes = {
   Armand_V_Feigenbaum,
@@ -866,6 +866,6 @@ const Quotes = {
   Francis_X_Sutton,
   Peter_Drucker,
   W_Edwards_Deming
-}
+};
 
-export { Quotes }
+export { Quotes };

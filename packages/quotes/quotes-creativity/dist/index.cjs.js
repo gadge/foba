@@ -1,6 +1,6 @@
-'use strict'
+'use strict';
 
-Object.defineProperty(exports, '__esModule', { value: true })
+Object.defineProperty(exports, '__esModule', { value: true });
 
 var Anna_Sui = [{
   figure: 'Anna Sui',
@@ -28,7 +28,7 @@ var Anna_Sui = [{
   quote: 'The sexiest thing about a bikini is that it leaves something to the imagination, which is the best part.'
 }, {
   figure: 'Anna Sui',
-  mark: 'via MBFashionWeek.com. IMG Worldwide. 2015.',
+  mark: 'via MBFashionWeek.\ncom. IMG Worldwide. 2015.',
   quote: 'You have to focus on your dreams, even if they go beyond common sense. How could this young girl from the suburbs of Detroit become a success in New York? It was always that dream.'
 }, {
   figure: 'Anna Sui',
@@ -154,7 +154,7 @@ var Anna_Sui = [{
   figure: 'Anna Sui',
   mark: 'Financial Times Interview (20170714)',
   quote: '...all the formulas have flown out of the window.'
-}]
+}];
 
 var Christian_Dior = [{
   figure: 'Christian Dior',
@@ -218,7 +218,7 @@ var Christian_Dior = [{
   quote: 'Women, with their sure instincts, realized that my intention was to make them not just more beautiful but also happier.'
 }, {
   figure: 'Christian Dior',
-  mark: 'In: Rotunda Rotunda, Volumes 34-36, Royal Ontario Museum, 2001, P.12',
+  mark: 'In: Rotunda Rotunda, Volumes 34-36, Royal Ontario Museum, 2001, P.\n12',
   quote: 'In a machine age, dressmaking is one of the last refuges of the human, the personal, the inimitable.'
 }, {
   figure: 'Christian Dior',
@@ -256,7 +256,7 @@ var Christian_Dior = [{
   figure: 'Christian Dior',
   mark: 'The Little Dictionary of Fashion, 1954. As cited in: Alison Behnke (2012) The Little Black Dress and Zoot Suits, p18',
   quote: 'Many people dismiss haute couture as being something that is only for those who are very wealthy... simplicity, good taste, and grooming are the three fundamentals of good dressing and these do not cost money.'
-}]
+}];
 
 var Coco_Chanel = [{
   figure: 'Coco Chanel',
@@ -338,7 +338,7 @@ var Coco_Chanel = [{
   figure: 'Coco Chanel',
   mark: 'As quoted in Beauty in Bloom : A Collection of Beautiful Inspirations‎ (2009) by Natalie Bloom, p23',
   quote: 'The best colour in the whole world is the one that looks good on you.'
-}]
+}];
 
 var Jonathan_Ive = [{
   figure: 'Jonathan Ive',
@@ -400,49 +400,49 @@ var Jonathan_Ive = [{
   figure: 'Jonathan Ive',
   mark: 'Vanity Fair: "Jonathan Ives Shares Three Lessons He Learned From Steve Jobs" (20141009)',
   quote: 'I think a beautiful product that doesn\'t work very well is ugly.'
-}]
+}];
 
 var Marc_Jacobs = [{
   figure: 'Marc Jacobs',
-  mark: 'Freeman, Hadley (2007). "The geek of chic" TheAge.com.au (accessed 20070419)',
+  mark: 'Freeman, Hadley (2007). "The geek of chic" TheAge.\ncom.\nau (accessed 20070419)',
   quote: 'It\'s the things that aren\'t accepted as conventionally beautiful that I find more attractive.'
 }, {
   figure: 'Marc Jacobs',
-  mark: 'Freeman, Hadley (2007). "The geek of chic" TheAge.com.au (accessed 20070419)',
+  mark: 'Freeman, Hadley (2007). "The geek of chic" TheAge.\ncom.\nau (accessed 20070419)',
   quote: 'I love the gym, but I still want to look a bit awkward at it. I don\'t want to look too on top of it, you know?'
 }, {
   figure: 'Marc Jacobs',
-  mark: 'Larocca, Amy (2005). "Marc Jacobs\' Paradoxial Triumph" NYMag.com (accessed 20070419)',
+  mark: 'Larocca, Amy (2005). "Marc Jacobs\' Paradoxial Triumph" NYMag.\ncom (accessed 20070419)',
   quote: 'Awkwardness gives me great comfort.'
 }, {
   figure: 'Marc Jacobs',
-  mark: 'Larocca, Amy (2005). "Marc Jacobs\' Paradoxial Triumph" NYMag.com (accessed 20070419)',
+  mark: 'Larocca, Amy (2005). "Marc Jacobs\' Paradoxial Triumph" NYMag.\ncom (accessed 20070419)',
   quote: '...People that don’t have any interest in the psychology of nuance, who need everything to be in their face, who don’t want to analyze... those aren’t the people I romanticize about dressing.'
 }, {
   figure: 'Marc Jacobs',
-  mark: 'Clark, Mary (2001). "Index Magazine interview" indexmagazine.com (accessed 20070419)',
+  mark: 'Clark, Mary (2001). "Index Magazine interview" indexmagazine.\ncom (accessed 20070419)',
   quote: 'I\'d like to believe that the women who wear my clothes are not dressing for other people, that they\'re wearing what they like and what suits them. It\'s not a status thing.'
 }, {
   figure: 'Marc Jacobs',
-  mark: 'Jonkers, Gert (2003). "Friendly homosexual fashion designer likes dogs but finds fashionable men terribly unsexy" buttmagazine.com (accessed 20070419)',
+  mark: 'Jonkers, Gert (2003). "Friendly homosexual fashion designer likes dogs but finds fashionable men terribly unsexy" buttmagazine.\ncom (accessed 20070419)',
   quote: 'I don’t believe in fashion dictatorship, and I find that anybody who follows the dictates of fashion is a bit lost. I’m excited by style, not so much by fashion.'
 }, {
   figure: 'Marc Jacobs',
-  mark: 'Jonkers, Gert (2003). "Friendly homosexual fashion designer likes dogs but finds fashionable men terribly unsexy" buttmagazine.com (accessed 20070419)',
+  mark: 'Jonkers, Gert (2003). "Friendly homosexual fashion designer likes dogs but finds fashionable men terribly unsexy" buttmagazine.\ncom (accessed 20070419)',
   quote: 'Clothes to me aren’t sexy. Like, a dress isn’t sexy. Maybe the girl who wears it is sexy.'
 }, {
   figure: 'Marc Jacobs',
-  mark: 'Jonkers, Gert (2003). "Friendly homosexual fashion designer likes dogs but finds fashionable men terribly unsexy" buttmagazine.com (accessed 20070419)',
+  mark: 'Jonkers, Gert (2003). "Friendly homosexual fashion designer likes dogs but finds fashionable men terribly unsexy" buttmagazine.\ncom (accessed 20070419)',
   quote: 'It’s almost the not-knowing that’s sexy. When the look is too contrived... Trying to assimilate a look to be sexy to me is pretty transparent in the first place. So... somebody who just kind of stumbles into a sexy look... who’s not been thinking about fashion at all...'
 }, {
   figure: 'Marc Jacobs',
-  mark: 'Larocca, Amy (2005). "Marc Jacobs\' Paradoxial Triumph" NYMag.com (accessed 20070419)',
+  mark: 'Larocca, Amy (2005). "Marc Jacobs\' Paradoxial Triumph" NYMag.\ncom (accessed 20070419)',
   quote: 'We always say, ‘Gisele’s so hot, how do we break her down?\''
 }, {
   figure: 'Marc Jacobs',
-  mark: 'Larocca, Amy (2005). "Marc Jacobs\' Paradoxial Triumph" NYMag.com (accessed 20070419)',
+  mark: 'Larocca, Amy (2005). "Marc Jacobs\' Paradoxial Triumph" NYMag.\ncom (accessed 20070419)',
   quote: '...Everybody likes sex. The world would be a better place if people just engaged in sex and didn’t worry about it. But what I prefer is that even if someone feels hedonistic, they don’t look it. Curiosity about sex is much more interesting to me than domination. Like, Britney and Paris and Pamela might be someone’s definition of sexy, but they’re not mine. My clothes are not hot. Never. Never.'
-}]
+}];
 
 var Raymond_Loewy = [{
   figure: 'Raymond Loewy',
@@ -472,7 +472,7 @@ var Raymond_Loewy = [{
   figure: 'Raymond Loewy',
   mark: 'Never Leave Well Enough Alone (1951). Ch1',
   quote: 'I never expected that one could fall so completely in love with a nation and a people. I already knew that very soon I would thrill at everything American, love everything American, perhaps blindly, but fervently and forever. I still remember how thrilled I was at the sight of the flag.  After all these years, every time I see the Stars and Stripes in the breeze, I get the same emotional feeling. Aesthetically speaking, it is perfect. One of the outstanding "designs" of all times. It may be that a nation gets the flag it deserves.'
-}]
+}];
 
 var Steven_Spielberg = [{
   figure: 'Steven Spielberg',
@@ -514,15 +514,15 @@ var Steven_Spielberg = [{
   figure: 'Steven Spielberg',
   mark: 'In an interview by the Brazilian magazine Veja (1993). Spielberg adds that so far he has not permitted his young son to watch some of his well-known movies (Jaws, the Indiana Jones series) because of the amount of blood and violence shown.',
   quote: 'Watching violence in movies or TV programs stimulates the spectators to imitate what they see much more than if seen live or on TV news. In movies, violence is filmed with perfect illumination, spectacular scenery, and in slow motion, making it even romantic. However, in the news, the public has a much better perception of how horrible violence can be, and it is used with objectives that do not exist in the movies.'
-}]
+}];
 
 var Tom_Ford = [{
   figure: 'Tom Ford',
-  mark: 'Pang, Jeanine Celeste (200503). Tom Ford Visits Oxford. fashionlines.com. Retrieved on 20160312.',
+  mark: 'Pang, Jeanine Celeste (200503). Tom Ford Visits Oxford. fashionlines.\ncom. Retrieved on 20160312.',
   quote: 'You can only make the slit so much higher, the stiletto so much taller.'
 }, {
   figure: 'Tom Ford',
-  mark: 'Tom Ford Biography. Biography.com. A&E Television Networks. Retrieved on 20160418.',
+  mark: 'Tom Ford Biography. Biography.\ncom. A&E Television Networks. Retrieved on 20160418.',
   quote: 'I guess I\'m hyper-self-conscious about people thinking that I\'m egotistical, but there\'s a difference between being egotistical and knowing your value as a product and an actor. I know my value as a product, and I\'ve divorced myself as a human from myself as a product.'
 }, {
   figure: 'Tom Ford',
@@ -532,15 +532,15 @@ var Tom_Ford = [{
   figure: 'Tom Ford',
   mark: 'Vogue Voices: Tom Ford. Vogue (20140110). Retrieved on 20160418.',
   quote: 'I believe in a parallel universe of image and fantasy that isn\'t so much fantasy as it is forever sealed in films and things that have entertained us for years. This parallel universe has influenced me perhaps even more than the real world or the physical world. Because when I think of certain things, like a beautiful woman, its most likely someone I saw on film... these are things I\'ve been taking from film or television and applying it to real life.'
-}]
+}];
 
 var Yohji_Yamamoto = [{
   figure: 'Yohji Yamamoto',
-  mark: ' Wim Wenders. Notebook on Cities and Clothes (1989). (The above transcription is from Kiyokazu Washida. The Past, the Feminine, the Vain in Talking to Myself (2002), Ch1. Fashion, or the Gaze at the Past).',
+  mark: 'Wim Wenders. Notebook on Cities and Clothes (1989). (The above transcription is from Kiyokazu Washida. The Past, the Feminine, the Vain in Talking to Myself (2002), Ch1. Fashion, or the Gaze at the Past).',
   quote: 'Generally speaking, I am not interested in the future and don\'t believe in it. First, I guess it is true that I don\'t trust the future, but, more to the point, I don\'t even trust the "myself" of tomorrow, nor, for that matter, of the day after. Basically, all I know, and all I am capable of understanding, is the "me" that is here, now, the "me" that has dragged his past with him to this point.'
 }, {
   figure: 'Yohji Yamamoto',
-  mark: ' Kiyokazu Washida. The Past, the Feminine, the Vain in Talking to Myself (2002), Ch2. The Feminine, or the Gap Which Cannot be Filled.',
+  mark: 'Kiyokazu Washida. The Past, the Feminine, the Vain in Talking to Myself (2002), Ch2. The Feminine, or the Gap Which Cannot be Filled.',
   quote: 'I think perfection is ugly. Somewhere in the things humans make, I want to see scars, failure, disorder, distortion. If I can feel those things in works by others, then I like them.'
 }, {
   figure: 'Yohji Yamamoto',
@@ -558,7 +558,7 @@ var Yohji_Yamamoto = [{
   figure: 'Yohji Yamamoto',
   mark: 'Yohji Yamamoto. May I Help You? in Talking to Myself (2002), Ch12. The Expressions "Excuse-me" and "I\'m sorry".',
   quote: 'My whole life is made up of: "I\'m sorry". I feel like I have to apologize to people, to things, to life itself. It\'s like, "I\'m sorry to be here". I don\'t want to disturb anyone. But in my work, in the clothes I create, I\'m actually telling people that I\'m here. So, I guess I\'m disturbing them, after all.'
-}]
+}];
 
 var Yves_Saint_Laurent = [{
   figure: 'Yves Saint-Laurent',
@@ -574,9 +574,9 @@ var Yves_Saint_Laurent = [{
   quote: 'I have often said that I wish I had invented blue jeans: the most spectacular, the most practical, the most relaxed and nonchalant. They have expression, modesty, sex appeal, simplicity - all I hope for in my clothes.'
 }, {
   figure: 'Yves Saint-Laurent',
-  mark: 'Reported in Gaille, Brandon (20130723). "List of 38 Famous Fashion Quotes and Sayings". BrandonGaille.com. Retrieved 20131115.',
+  mark: 'Reported in Gaille, Brandon (20130723). "List of 38 Famous Fashion Quotes and Sayings". BrandonGaille.\ncom. Retrieved 20131115.',
   quote: 'The most beautiful makeup of a woman is passion. But cosmetics are easier to buy.'
-}]
+}];
 
 const Quotes = {
   Anna_Sui,
@@ -589,6 +589,6 @@ const Quotes = {
   Tom_Ford,
   Yohji_Yamamoto,
   Yves_Saint_Laurent
-}
+};
 
-exports.Quotes = Quotes
+exports.Quotes = Quotes;

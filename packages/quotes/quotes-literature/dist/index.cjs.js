@@ -1,6 +1,6 @@
-'use strict'
+'use strict';
 
-Object.defineProperty(exports, '__esModule', { value: true })
+Object.defineProperty(exports, '__esModule', { value: true });
 
 var Aaron_Sorkin = [{
   figure: 'Aaron Sorkin',
@@ -24,13 +24,13 @@ var Aaron_Sorkin = [{
   quote: 'I love writing but I hate starting. The page is awfully white and it says. " You may have fooled some of the people some of the time but those days are over, giftless. I\'m not your agent and I\'m not your mommy, I\'m a white piece of paper, you wanna dance with me?" and I really, really don\'t. I don\'t want any trouble. I\'ll go peaceable-like.'
 }, {
   figure: 'Aaron Sorkin',
-  mark: 'David Marchese (20200301). "Aaron Sorkin on how he would write the Democratic primary for ‘The West Wing.’". New York Times. Retrieved on 20200302. ',
+  mark: 'David Marchese (20200301). "Aaron Sorkin on how he would write the Democratic primary for ‘The West Wing.’". New York Times. Retrieved on 20200302.',
   quote: 'The worst crime you can commit is telling the audience something they already know, in any fashion, even for a moment.'
 }, {
   figure: 'Aaron Sorkin',
-  mark: 'David Marchese (20200301). "Aaron Sorkin on how he would write the Democratic primary for ‘The West Wing.’". New York Times. Retrieved on 20200302. ',
+  mark: 'David Marchese (20200301). "Aaron Sorkin on how he would write the Democratic primary for ‘The West Wing.’". New York Times. Retrieved on 20200302.',
   quote: 'The problem I had when I wrote “The Social Network” was that this thing that’s supposed to bring us closer together is pushing us further apart. It gives everyone the impression that everyone else in the world is having a better time, and that if you are not cataloging your life, then you’re not really living it. People are going to show you only pictures of themselves having a great time at the best party with the coolest people eating, for some reason, avocado toast. They’re also not going to experience empathy. When we’re a little kid on a playground and say something mean to another little kid, we see in their face what we did, and we feel bad because of it. On social media, it’s more like yelling at another driver from your car. People are developing a chemical addiction to their phones. A gambling addict feels that rush of dopamine and serotonin not when they win but when the roulette wheel is spinning. When kids stick their hand in their pocket to get their phone and see if someone has commented on the photo they posted, they get that rush of serotonin and dopamine. It’s a big deal. And now, when we talk about our concerns with Facebook, we’re talking about the power that it has to disseminate misinformation and disinformation. We’re never going to put this genie back in the bottle, but surely we can decide that lies are bad.'
-}]
+}];
 
 var Ernest_Hemingway = [{
   figure: 'Ernest Hemingway',
@@ -55,7 +55,7 @@ var Ernest_Hemingway = [{
 }, {
   figure: 'Ernest Hemingway',
   mark: '"The Age Demanded" in Der Querschnitt (192502); as quoted in Sylvia Beach and the Lost Generation (1983) by Noel Riley Fitch',
-  quote: 'The age demanded that we danceAnd jammed us into iron pants.And in the end the age was handedThe sort of shit that it demanded.'
+  quote: 'The age demanded that we danceAnd jammed us into iron pants.\nAnd in the end the age was handedThe sort of shit that it demanded.'
 }, {
   figure: 'Ernest Hemingway',
   mark: 'Letter (19250515); published in Ernest Hemingway: Selected Letters 1917–1961 (1981) edited by Carlos Baker',
@@ -139,11 +139,11 @@ var Ernest_Hemingway = [{
 }, {
   figure: 'Ernest Hemingway',
   mark: 'Letter (19360112); published in Ernest Hemingway: Selected Letters 1917–1961 (1981) edited by Carlos Baker',
-  quote: 'I\'ve seen a lot of patriots and they all died just like anybody else if it hurt bad enough and once they were dead their patriotism was only good for legends; it was bad for their prose and made them write bad poetry. If you are going to be a great patriot, i.e., loyal to any existing order of government (not one who wishes to destroy the existing for something better), you want to be killed early if your life and works won\'t stink.'
+  quote: 'I\'ve seen a lot of patriots and they all died just like anybody else if it hurt bad enough and once they were dead their patriotism was only good for legends; it was bad for their prose and made them write bad poetry. If you are going to be a great patriot, i.\ne., loyal to any existing order of government (not one who wishes to destroy the existing for something better), you want to be killed early if your life and works won\'t stink.'
 }, {
   figure: 'Ernest Hemingway',
   mark: '"The Snows of Kilimanjaro," first published in Esquire (193608); later published in The Fifth Column and the First Forty-Nine Stories (1938)',
-  quote: 'Kilimanjaro is a snow-covered mountain 19,710 feet high, and is said to be the highest mountain in Africa. Its western summit is called by the Masai "Ngàje Ngài," the House of God. Close to the western summit there is the dried and frozen carcass of a leopard. No one has explained what the leopard was seeking at that altitude.'
+  quote: 'Kilimanjaro is a snow-covered mountain 19,\n710 feet high, and is said to be the highest mountain in Africa. Its western summit is called by the Masai "Ngàje Ngài," the House of God. Close to the western summit there is the dried and frozen carcass of a leopard. No one has explained what the leopard was seeking at that altitude.'
 }, {
   figure: 'Ernest Hemingway',
   mark: '"The Snows of Kilimanjaro," first published in Esquire (193608); later published in The Fifth Column and the First Forty-Nine Stories (1938)',
@@ -163,7 +163,7 @@ var Ernest_Hemingway = [{
 }, {
   figure: 'Ernest Hemingway',
   mark: 'Address, American Writers Congress, New York City (1937). Reprinted in New Masses (19370622)',
-  quote: 'There is only one form of government that cannot produce good writers, and that system is Fascism. For Fascism is a lie told by bullies. A writer who will not lie cannot live or work under Fascism.Because Fascism is a lie, it is condemned to literary sterility. And when it is past, it will have no history, except the bloody history of murder.'
+  quote: 'There is only one form of government that cannot produce good writers, and that system is Fascism. For Fascism is a lie told by bullies. A writer who will not lie cannot live or work under Fascism.\nBecause Fascism is a lie, it is condemned to literary sterility. And when it is past, it will have no history, except the bloody history of murder.'
 }, {
   figure: 'Ernest Hemingway',
   mark: '"On the American Dead in Spain", New Masses (19390214)',
@@ -243,7 +243,7 @@ var Ernest_Hemingway = [{
 }, {
   figure: 'Ernest Hemingway',
   mark: 'Letter (19520221); published in Ernest Hemingway: Selected Letters 1917–1961 (1981) edited by Carlos Baker',
-  quote: 'I am opposed to writing about the private lives of living authors and psychoanalyzing them while they are alive. Criticism is getting all mixed up with a combination of the Junior F.B.I.-men, discards from Freud and Jung and a sort of Columnist peep-hole and missing laundry list school.... Every young English professor sees gold in them dirty sheets now. Imagine what they can do with the soiled sheets of four legal beds by the same writer and you can see why their tongues are slavering.'
+  quote: 'I am opposed to writing about the private lives of living authors and psychoanalyzing them while they are alive. Criticism is getting all mixed up with a combination of the Junior F.\nB.\nI.-men, discards from Freud and Jung and a sort of Columnist peep-hole and missing laundry list school.... Every young English professor sees gold in them dirty sheets now. Imagine what they can do with the soiled sheets of four legal beds by the same writer and you can see why their tongues are slavering.'
 }, {
   figure: 'Ernest Hemingway',
   mark: 'Letter (19520221); published in Ernest Hemingway: Selected Letters 1917–1961 (1981) edited by Carlos Baker',
@@ -282,7 +282,7 @@ var Ernest_Hemingway = [{
   quote: 'Pound\'s crazy. All poets are.... They have to be. You don\'t put a poet like Pound in the loony bin. For history\'s sake we shouldn\'t keep him there.'
 }, {
   figure: 'Ernest Hemingway',
-  mark: 'White, William, ed (1967). By-Line, Ernest Hemingway: Selected Articles and Dispatches of Four Decades by Ernest Hemingway. New York: Charles Scribner\'s Sons. p364. ',
+  mark: 'White, William, ed (1967). By-Line, Ernest Hemingway: Selected Articles and Dispatches of Four Decades by Ernest Hemingway. New York: Charles Scribner\'s Sons. p364.',
   quote: 'It is by riding a bicycle that you learn the contours of a country best, since you have to sweat up the hills and can coast down them. … Thus you remember them as they actually are, while in a motorcar only a high hill impresses you, and you have no such accurate remembrance of country you have driven through as you gain by riding a bicycle.'
 }, {
   figure: 'Ernest Hemingway',
@@ -667,7 +667,7 @@ var Ernest_Hemingway = [{
 }, {
   figure: 'Ernest Hemingway',
   mark: 'Paris Review interview (1958)',
-  quote: 'You can write any time people will leave you alone and not interrupt you. Or rather you can if you will be ruthless enough about it. But the best writing is certainly when you are in love. '
+  quote: 'You can write any time people will leave you alone and not interrupt you. Or rather you can if you will be ruthless enough about it. But the best writing is certainly when you are in love.'
 }, {
   figure: 'Ernest Hemingway',
   mark: 'Paris Review interview (1958)',
@@ -798,7 +798,7 @@ var Ernest_Hemingway = [{
   quote: 'But that story has in it the only constructive thing I ever learned about women - that no matter what happened to them and how they turned, you should try to disregard all that and remember them only as they were on the best day they ever had.'
 }, {
   figure: 'Ernest Hemingway',
-  mark: 'Papa Hemingway (1966). Pt. 3, Ch.12',
+  mark: 'Papa Hemingway (1966). Pt. 3, Ch.\n12',
   quote: 'The worst death for anyone is to lose the center of his being, the thing he really is. Retirement is the filthiest word in the language. Whether by choice or by fate, to retire from what you do - and makes you what you are - is to back up into the grave.'
 }, {
   figure: 'Ernest Hemingway',
@@ -811,7 +811,7 @@ var Ernest_Hemingway = [{
 }, {
   figure: 'Ernest Hemingway',
   mark: 'Islands in the Stream (1970). Pt. 1: Bimini, Section 1 (the opening two paragraphs of the novel)',
-  quote: 'The house was built on the highest part of the narrow tongue of land between the harbor and the open sea. It had lasted through three hurricanes and it was built solid as a ship. It was shaded by tall coconut palms that were bent by the trade wind and on the ocean side you could walk out of the door and down the bluff across the white sand and into the Gulf Stream. The water of the Stream was usually a dark blue when you looked out at it when there was no wind. But when you walked out into it there was just the green light of the water over that floury white sand and you could see the shadow of any big fish a long time before he could ever come in close to the beach.It was a safe and fine place to bathe in the day but it was no place to swim at night. At night the sharks came in close to the beach, hunting at the edge of the Stream, and from the upper porch of the house on quiet nights you could hear the splashing of the fish they hunted and if you went down to the beach you could see the phosphorescent wakes they made in the water. At night the sharks had no fear and everything else feared them. But in the day they stayed out away from the clear white sand and if they did come in you could see their shadows a long way away.'
+  quote: 'The house was built on the highest part of the narrow tongue of land between the harbor and the open sea. It had lasted through three hurricanes and it was built solid as a ship. It was shaded by tall coconut palms that were bent by the trade wind and on the ocean side you could walk out of the door and down the bluff across the white sand and into the Gulf Stream. The water of the Stream was usually a dark blue when you looked out at it when there was no wind. But when you walked out into it there was just the green light of the water over that floury white sand and you could see the shadow of any big fish a long time before he could ever come in close to the beach.\nIt was a safe and fine place to bathe in the day but it was no place to swim at night. At night the sharks came in close to the beach, hunting at the edge of the Stream, and from the upper porch of the house on quiet nights you could hear the splashing of the fish they hunted and if you went down to the beach you could see the phosphorescent wakes they made in the water. At night the sharks had no fear and everything else feared them. But in the day they stayed out away from the clear white sand and if they did come in you could see their shadows a long way away.'
 }, {
   figure: 'Ernest Hemingway',
   mark: 'Islands in the Stream (1970). Pt. 1: Bimini, Section 4',
@@ -831,7 +831,7 @@ var Ernest_Hemingway = [{
 }, {
   figure: 'Ernest Hemingway',
   mark: 'Islands in the Stream (1970). Pt. 2: Cuba (a few paragraphs from the end). The \'boy\' is Thomas Hudson\'s last surviving son, Tom, a fighter pilot who was killed in action.',
-  quote: 'Get it straight. Your boy you lose. Love you lose. Honor has been gone for a long time. Duty you do.Sure and what\'s your duty? What I said I\'d do. And all the other things you said you\'d do?'
+  quote: 'Get it straight. Your boy you lose. Love you lose. Honor has been gone for a long time. Duty you do.\nSure and what\'s your duty? What I said I\'d do. And all the other things you said you\'d do?'
 }, {
   figure: 'Ernest Hemingway',
   mark: 'Islands in the Stream (1970). Pt. 3: At Sea, Section 6',
@@ -839,7 +839,7 @@ var Ernest_Hemingway = [{
 }, {
   figure: 'Ernest Hemingway',
   mark: 'Islands in the Stream (1970). Pt. 3: At Sea, Section 15',
-  quote: 'Well, I know what I have to do, so it is simple. Duty is a wonderful thing. I do not know what I should have done without duty since young Tom died. You could have painted, he told himself. Or you could have done something useful. Maybe, he thought. Duty is simpler.This is useful, he thought. Do not think against it. It helps to get it over with. That\'s all we are working for. Christ knows what there is beyond that.'
+  quote: 'Well, I know what I have to do, so it is simple. Duty is a wonderful thing. I do not know what I should have done without duty since young Tom died. You could have painted, he told himself. Or you could have done something useful. Maybe, he thought. Duty is simpler.\nThis is useful, he thought. Do not think against it. It helps to get it over with. That\'s all we are working for. Christ knows what there is beyond that.'
 }, {
   figure: 'Ernest Hemingway',
   mark: 'Islands in the Stream (1970). Pt. 3: At Sea, Section 17',
@@ -847,7 +847,7 @@ var Ernest_Hemingway = [{
 }, {
   figure: 'Ernest Hemingway',
   mark: 'Islands in the Stream (1970). Pt. 3: At Sea, Section 19',
-  quote: 'Now Tom was - the hell with that, he said to himself. It is something that happens to everybody. I should know about that by now. It is the only thing that is really final, though.How do you know that? he asked himself. Going away can be final. Walking out the door can be final. Any form of real betrayal can be final. Dishonesty can be final. Selling out is final. But you are just talking now. Death is what is really final.'
+  quote: 'Now Tom was - the hell with that, he said to himself. It is something that happens to everybody. I should know about that by now. It is the only thing that is really final, though.\nHow do you know that? he asked himself. Going away can be final. Walking out the door can be final. Any form of real betrayal can be final. Dishonesty can be final. Selling out is final. But you are just talking now. Death is what is really final.'
 }, {
   figure: 'Ernest Hemingway',
   mark: 'Islands in the Stream (1970). Pt. 3: At Sea, Section 21',
@@ -883,7 +883,7 @@ var Ernest_Hemingway = [{
 }, {
   figure: 'Ernest Hemingway',
   mark: 'The Dangerous Summer (1985). Ch9',
-  quote: 'Any man can face death but to be committed to bring it as close as possible while performing certain classic movements and do this again and again and again and then deal it out yourself with a sword to an animal weighing half a ton which you love is more complicated than just facing death. It is facing your performance as a creative artist each day and your necessity to function as a skillful killer. Antonio had to kill quickly and mercifully and still give the bull one full chance at him when he crossed over the horn at least twice a day.Everyone in bullfighting helps everyone else in bullfighting in the ring. In spite of all rivalries and hatreds it is the closest brotherhood there is. Only bullfighters know the risks they run and what the bull can do with his horns to their bodies and their minds.'
+  quote: 'Any man can face death but to be committed to bring it as close as possible while performing certain classic movements and do this again and again and again and then deal it out yourself with a sword to an animal weighing half a ton which you love is more complicated than just facing death. It is facing your performance as a creative artist each day and your necessity to function as a skillful killer. Antonio had to kill quickly and mercifully and still give the bull one full chance at him when he crossed over the horn at least twice a day.\nEveryone in bullfighting helps everyone else in bullfighting in the ring. In spite of all rivalries and hatreds it is the closest brotherhood there is. Only bullfighters know the risks they run and what the bull can do with his horns to their bodies and their minds.'
 }, {
   figure: 'Ernest Hemingway',
   mark: 'The Dangerous Summer (1985). Ch9',
@@ -944,7 +944,7 @@ var Ernest_Hemingway = [{
   figure: 'Ernest Hemingway',
   mark: 'True at First Light (1999). Ch17',
   quote: 'I was as afraid as the next man in my time and maybe more so. But with the years, fear had come to be regarded as a form of stupidity to be classed with overdrafts, acquiring a venereal disease or eating candies. Fear is a child\'s vice and while I loved to feel it approach, as one does with any vice, it was not for grown men and the only thing to be afraid of was the presence of true and imminent danger in a form that you should be aware of and not be a fool if you were responsible for others.'
-}]
+}];
 
 var Guy_de_Maupassant = [{
   figure: 'Guy de Maupassant',
@@ -1025,7 +1025,7 @@ var Guy_de_Maupassant = [{
 }, {
   figure: 'Guy de Maupassant',
   mark: 'Boule de Suif (1880)',
-  quote: 'In the cold light of the morning they almost bore a grudge against the girl for not having secretly sought out the Prussian, that the rest of the party might receive a joyful surprise when they awoke. What more simple?  Besides, who would have been the wiser? She might have saved appearances by telling the officer that she had taken pity on their distress. Such a step would be of so little consequence to her.But no one as yet confessed to such thoughts.'
+  quote: 'In the cold light of the morning they almost bore a grudge against the girl for not having secretly sought out the Prussian, that the rest of the party might receive a joyful surprise when they awoke. What more simple?  Besides, who would have been the wiser? She might have saved appearances by telling the officer that she had taken pity on their distress. Such a step would be of so little consequence to her.\nBut no one as yet confessed to such thoughts.'
 }, {
   figure: 'Guy de Maupassant',
   mark: 'Boule de Suif (1880)',
@@ -1033,7 +1033,7 @@ var Guy_de_Maupassant = [{
 }, {
   figure: 'Guy de Maupassant',
   mark: 'Boule de Suif (1880)',
-  quote: 'They held up to admiration all those women who from time to time have arrested the victorious progress of conquerors, made of their bodies a field of battle, a means of ruling, a weapon; who have vanquished by their heroic caresses hideous or detested beings, and sacrificed their chastity to vengeance and devotion. All was said with due restraint and regard for propriety, the effect heightened now and then by an outburst of forced enthusiasm calculated to excite emulation.A listener would have thought at last that the one role of woman on earth was a perpetual sacrifice of her person, a continual abandonment of herself to the caprices of a hostile soldiery.The two nuns seemed to hear nothing, and to be lost in thought. Boule de Suif also was silent.'
+  quote: 'They held up to admiration all those women who from time to time have arrested the victorious progress of conquerors, made of their bodies a field of battle, a means of ruling, a weapon; who have vanquished by their heroic caresses hideous or detested beings, and sacrificed their chastity to vengeance and devotion. All was said with due restraint and regard for propriety, the effect heightened now and then by an outburst of forced enthusiasm calculated to excite emulation.\nA listener would have thought at last that the one role of woman on earth was a perpetual sacrifice of her person, a continual abandonment of herself to the caprices of a hostile soldiery.\nThe two nuns seemed to hear nothing, and to be lost in thought. Boule de Suif also was silent.'
 }, {
   figure: 'Guy de Maupassant',
   mark: 'Boule de Suif (1880)',
@@ -1082,7 +1082,7 @@ var Guy_de_Maupassant = [{
   figure: 'Guy de Maupassant',
   mark: 'Sur l’eau (1888). Variant translation: Every government has as much of a duty to avoid war as a ship\'s captain has to avoid a shipwreck.',
   quote: 'Any government has as much of a duty to avoid war as a ship\'s captain has to avoid a shipwreck.'
-}]
+}];
 
 var Honor_de_Balzac = [{
   figure: 'Honoré de Balzac',
@@ -1127,7 +1127,7 @@ var Honor_de_Balzac = [{
 }, {
   figure: 'Honoré de Balzac',
   mark: 'You know what my religion is. I am not orthodox, and I do not believe in the Roman Church. I think that if there is a scheme worthy of our kind it is that of human transformations causing the human being to advance toward unknown zones. That is the law of creations inferior to ourselves; it ought to be the law of superior creations. Swedenborgianism, which is only a repetition in the Christian sense of ancient ideas, is my religion, with the addition which I wish to make to it of the incomprehensibility of God.\nLetter to Evelina de Hanska (18370531), translated by Katharine Prescott Wormeley',
-  quote: 'Vous savez quelles sont mes religions.Je ne suis point orthodoxe et ne crois pas à l\'Église romaine. Je trouve que s\'il ya quelque plan digne du sien, ce sont les transformations humaines faisant marcher l\'être vers des zones inconnues.C\'est la loi des créations qui nous sont inférieures: ce doit être la loi des créations supérieures.Le swedenborgisme, qui n\'est qu\'une répétition, dans le sens chrétien, d\'anciennes idées, est ma religion, avec l\'augmentation que j\'y fais de l\'incompréhensibilité de Dieu.'
+  quote: 'Vous savez quelles sont mes religions.\nJe ne suis point orthodoxe et ne crois pas à l\'Église romaine. Je trouve que s\'il ya quelque plan digne du sien, ce sont les transformations humaines faisant marcher l\'être vers des zones inconnues.\nC\'est la loi des créations qui nous sont inférieures: ce doit être la loi des créations supérieures.\nLe swedenborgisme, qui n\'est qu\'une répétition, dans le sens chrétien, d\'anciennes idées, est ma religion, avec l\'augmentation que j\'y fais de l\'incompréhensibilité de Dieu.'
 }, {
   figure: 'Honoré de Balzac',
   mark: 'As routine business must always be dispatched, there is always a fluctuating number of supernumeraries who cannot be dispensed with, and yet are liable to dismissal at a moment\'s notice. All of these naturally are anxious to be "established clerks." And thus Bureaucracy, the giant power wielded by pigmies, came into the world. Possibly Napoleon retarded its influence for a time, for all things and all men were forced to bend to his will; but none the less the heavy curtain of Bureaucracy was drawn between the right thing to be done and the right man to do it. Bureaucracy was definitely organized, however, under a constitutional government with a natural kindness for mediocrity, a predilection for categorical statements and reports, a government as fussy and meddlesome, in short, as a small shopkeeper\'s wife.\nLes Employés [The Government Clerks] (1838), translated by James Waring; also known as Bureaucracy, or, A Civil Service Reformer.',
@@ -1139,7 +1139,7 @@ var Honor_de_Balzac = [{
 }, {
   figure: 'Honoré de Balzac',
   mark: 'What is Art, monsieur, but Nature concentrated?\nIllusions perdues, vol1. Un grand homme de province à Paris, 1re partie [Lost Illusions, vol1. A Distinguished Provincial at Paris, p1. ] (1839), translated by Ellen Marriage, ch1. section 5',
-  quote: 'Qu\'est-ce que l\'Art, monsieur?C\'est la Nature concentrée.'
+  quote: 'Qu\'est-ce que l\'Art, monsieur?\nC\'est la Nature concentrée.'
 }, {
   figure: 'Honoré de Balzac',
   mark: 'Eve and David (Lost Illusions P3. ), Translated by Ellen Marriage.',
@@ -1182,12 +1182,12 @@ var Honor_de_Balzac = [{
   quote: 'Il y a des femmes dont la grossesse fait sourire quelque célibataire sournois.'
 }, {
   figure: 'Honoré de Balzac',
-  mark: 'Physiology of Marriage (1829). Who would not at the present moment wish to retain the persuasion that wives are virtuous? Are they not the supreme flower of the country? Are they not all blooming creatures, fascinating the world by their beauty, their youth, their life and their love?To believe in their virtue is a sort of social religion, for they are the ornament of the world, and form the chief glory of France.\nPart I, Meditation II: Marriage Statistics',
-  quote: 'Qui ne voudrait pas rester persuadé que ces femmes sont vertueuses?Ne sont-elles pas la fleur du pays?Ne sont-elles pas toutes verdissantes, ravissantes, étourdissantes de beauté, de jeunesse, de vie et d\'amour?Croire à leur vertu est une espèce de religion sociale; car elles sont l\'ornement du monde et font la gloire de la France.'
+  mark: 'Physiology of Marriage (1829). Who would not at the present moment wish to retain the persuasion that wives are virtuous? Are they not the supreme flower of the country? Are they not all blooming creatures, fascinating the world by their beauty, their youth, their life and their love?\nTo believe in their virtue is a sort of social religion, for they are the ornament of the world, and form the chief glory of France.\nPart I, Meditation II: Marriage Statistics',
+  quote: 'Qui ne voudrait pas rester persuadé que ces femmes sont vertueuses?\nNe sont-elles pas la fleur du pays?\nNe sont-elles pas toutes verdissantes, ravissantes, étourdissantes de beauté, de jeunesse, de vie et d\'amour?\nCroire à leur vertu est une espèce de religion sociale; car elles sont l\'ornement du monde et font la gloire de la France.'
 }, {
   figure: 'Honoré de Balzac',
   mark: 'Physiology of Marriage (1829). To saunter is a science; it is the gastronomy of the eye. To take a walk is to vegetate; to saunter is to live… To saunter is to enjoy life; it is to indulge the flight of fancy; it is to enjoy the sublime pictures of misery, of love, of joy, of gracious or grotesque physiognomies; it is to pierce with a glance the abysses of a thousand existences; for the young it is to desire all, and to possess all; for the old it is to live the life of the youthful, and to share their passions.\nPart I, Meditation III: Of the Honest Woman',
-  quote: 'Flâner est une science, c\'est la gastronomie de l\'œil.Se promener, c\'est végéter; flâner, c\'est vivre... Flâner, c\'est jouir, c\'est recueillir des traits d\'esprit, c\'est admirer de sublimes tableaux de malheur, d\'amour, de joie, des portraits gracieux ou grotesques; c\'est plonger ses regards au fond de mille existences: jeune, c\'est tout désirer, tout posséder; vieillard, c\'est vivre de la vie des jeunes gens, c\'est épouser leurs passions.'
+  quote: 'Flâner est une science, c\'est la gastronomie de l\'œil.\nSe promener, c\'est végéter; flâner, c\'est vivre... Flâner, c\'est jouir, c\'est recueillir des traits d\'esprit, c\'est admirer de sublimes tableaux de malheur, d\'amour, de joie, des portraits gracieux ou grotesques; c\'est plonger ses regards au fond de mille existences: jeune, c\'est tout désirer, tout posséder; vieillard, c\'est vivre de la vie des jeunes gens, c\'est épouser leurs passions.'
 }, {
   figure: 'Honoré de Balzac',
   mark: 'Physiology of Marriage (1829). Manners are the hypocrisy of nations.\nPart I, Meditation IV: Of the Virtuous Woman, aphorism XVI',
@@ -1226,8 +1226,8 @@ var Honor_de_Balzac = [{
   quote: 'La femme est une propriété que l\'on acquiert par contrat, elle est mobilière, car la possession vaut titre; enfin, la femme n\'est, à proprement parler, qu\'une annexe de l\'homme; or, tranchez, coupez, rognez, elle vous appartient à tous les titres.'
 }, {
   figure: 'Honoré de Balzac',
-  mark: 'Physiology of Marriage (1829). Do not therefore allow yourself to be led astray by the specious good nature of such an institution as that of twin beds.It is the silliest, the most treacherous, the most dangerous in the world. Shame and anathema to him who conceived it.\nPart II, Meditation XVII, The Theory of the Bed, I: Twin Beds',
-  quote: 'Ainsi ne vous laissez jamais séduire par la fausse bonhomie des lits jumeaux.C\'est l\'invention la plus sotte, la plus perfide et la plus dangereuse qui soit au monde. Honte et anathème à qui l\'imagina!'
+  mark: 'Physiology of Marriage (1829). Do not therefore allow yourself to be led astray by the specious good nature of such an institution as that of twin beds.\nIt is the silliest, the most treacherous, the most dangerous in the world. Shame and anathema to him who conceived it.\nPart II, Meditation XVII, The Theory of the Bed, I: Twin Beds',
+  quote: 'Ainsi ne vous laissez jamais séduire par la fausse bonhomie des lits jumeaux.\nC\'est l\'invention la plus sotte, la plus perfide et la plus dangereuse qui soit au monde. Honte et anathème à qui l\'imagina!'
 }, {
   figure: 'Honoré de Balzac',
   mark: 'Physiology of Marriage (1829). To be able to keep a mother-in-law in the country while he lives in Paris, and vice versa, is a piece of good fortune which a husband too rarely meets with.\nPart III, Meditation XXV: Allies, Section II: Of the Mother-in-Law',
@@ -1478,8 +1478,8 @@ var Honor_de_Balzac = [{
   quote: 'Les souffrances disposent à la dévotion, et presque toutes les jeunes filles, poussées par une tendresse instinctive, inclinent au mysticisme, le côté profond de la religion.'
 }, {
   figure: 'Honoré de Balzac',
-  mark: 'Pierrette (1840). Pierrette, like all those who suffer more than they have strength to bear, kept silence.Silence is the only weapon by which such victims can conquer; it baffles the Cossack charges of envy, the savage skirmishings of suspicion; it does at times give victory, crushing and complete, — for what is more complete than silence? it is absolute; it is one of the attributes of infinity.\nCh. VI: An Old Maid\'s Jealousy',
-  quote: 'Pierrette fit comme les gens qui souffrent au delà de leurs forces, elle garda le silence.Ce silence est, pour tous les êtres attaqués, le seul moyen de triompher: il lasse les charges cosaques des envieux, les sauvages escarmouches des ennemis; il donne une victoire écrasante et complète. Quoi de plus complet que le silence?Il est absolu, n\'est-ce pas une des manières d\'être de l\'infini?'
+  mark: 'Pierrette (1840). Pierrette, like all those who suffer more than they have strength to bear, kept silence.\nSilence is the only weapon by which such victims can conquer; it baffles the Cossack charges of envy, the savage skirmishings of suspicion; it does at times give victory, crushing and complete, — for what is more complete than silence? it is absolute; it is one of the attributes of infinity.\nCh. VI: An Old Maid\'s Jealousy',
+  quote: 'Pierrette fit comme les gens qui souffrent au delà de leurs forces, elle garda le silence.\nCe silence est, pour tous les êtres attaqués, le seul moyen de triompher: il lasse les charges cosaques des envieux, les sauvages escarmouches des ennemis; il donne une victoire écrasante et complète. Quoi de plus complet que le silence?\nIl est absolu, n\'est-ce pas une des manières d\'être de l\'infini?'
 }, {
   figure: 'Honoré de Balzac',
   mark: 'Letters of Two Brides (1841-1842). Society bristles with enigmas which look hard to solve. It is a perfect maze of intrigue.\nPart I, ch4',
@@ -1531,7 +1531,7 @@ var Honor_de_Balzac = [{
 }, {
   figure: 'Honoré de Balzac',
   mark: 'Letters of Two Brides (1841-1842). A child is tied to our heart-strings, as the spheres are linked to their creator; we cannot think of God except as a mother\'s heart writ large. It is only in the act of nursing that a woman realizes her motherhood in visible and tangible fashion; it is a joy of every moment.\nPart I, ch31',
-  quote: 'Les mondes doivent se rattacher à Dieu comme un enfant se rattache à toutes les fibres de sa mère: Dieu, c’est un grand cœur de mère.Il n’y a rien de visible, ni de perceptible dans la conception, ni même dans la grossesse; mais être nourrice,... c’est un bonheur de tous les moments.'
+  quote: 'Les mondes doivent se rattacher à Dieu comme un enfant se rattache à toutes les fibres de sa mère: Dieu, c’est un grand cœur de mère.\nIl n’y a rien de visible, ni de perceptible dans la conception, ni même dans la grossesse; mais être nourrice,... c’est un bonheur de tous les moments.'
 }, {
   figure: 'Honoré de Balzac',
   mark: 'Letters of Two Brides (1841-1842). A mother’s happiness is like a beacon, lighting up the future but reflected also on the past in the guise of fond memories.\nPart I, ch31',
@@ -1578,16 +1578,16 @@ var Honor_de_Balzac = [{
   quote: 'En France, et dans la partie la plus grave de l\'histoire moderne, aucune femme, si ce n\'est Brunehault ou Frédégonde, n\'a plus souffert des erreurs populaires que Catherine de Médicis; tandis que Marie de Médicis, dont toutes les actions on été préjudiciables à la France, échappe à la honte qui devrait couvrir son nom... Catherine de Médicis, au contraire, a sauvé la couronne de France; elle a maintenu l\'authorité royale dans des des circonstances au milieur desquelles plus d\'un grand prince aurait succombé.Ayant en tête des factieux et des ambitions comme celles des Guise et de la maison de Bourbon, des hommes commes les deux cardinaux de Lorraine et comme les deux Balafrés, les deux princes de Condé, la reine Jeanne d\'Albret, Henri IV, le connétable de Montmorency, Calvin, les Coligny, Théodore de Bèze, il lui a fallu déployer les plus rares qualités, les plus précieux dons de l\'homme d\'État, sous le feu des railleries de la presse calviniste.'
 }, {
   figure: 'Honoré de Balzac',
-  mark: 'About Catherine de\' Medici (1842). Intro. Power is action, and the elective principle is discussion.There is no policy, no statesmanship possible where discussion is permanent.',
-  quote: 'Le pouvoir est une action, et le principe électif est la discussion.Il n\'y a pas de politique possible avec la discussion en permanence.'
+  mark: 'About Catherine de\' Medici (1842). Intro. Power is action, and the elective principle is discussion.\nThere is no policy, no statesmanship possible where discussion is permanent.',
+  quote: 'Le pouvoir est une action, et le principe électif est la discussion.\nIl n\'y a pas de politique possible avec la discussion en permanence.'
 }, {
   figure: 'Honoré de Balzac',
   mark: 'About Catherine de\' Medici (1842). P1. The Calvinist Martyr. Whoso says "Investigate" says "Revolt." All revolt is either the cloak that hides a prince, or the swaddling-clothes of a new mastery.\nCh. I: A House Which No Longer Exists at the Corner of a Street Which No Longer Exists in a Paris Which No Longer Exists',
-  quote: 'Qui dit examen, dit révolte.Toute révolte est, ou le manteau sous lequel se cache un prince, ou les langes d\'une domination nouvelle.'
+  quote: 'Qui dit examen, dit révolte.\nToute révolte est, ou le manteau sous lequel se cache un prince, ou les langes d\'une domination nouvelle.'
 }, {
   figure: 'Honoré de Balzac',
   mark: 'About Catherine de\' Medici (1842). P1. The Calvinist Martyr. Peter the Hermit, Calvin, and Robespierre, each at an interval of three hundred years and all three from the same region, were, politically speaking, the Archimedean screws of their age, — at each epoch a Thought which found its fulcrum in the self-interest of mankind.\nCh. XIII: Calvin',
-  quote: 'Pierre l\'Ermite, Calvin et Robespierre, chacun à trois cents ans de distance, ces trois Picards ont été, politiquement parlant, des leviers d\'Archimède.C\'était à chaque époque une pensée qui recontrait un point d\'appel dans les intérêts et chez les hommes.'
+  quote: 'Pierre l\'Ermite, Calvin et Robespierre, chacun à trois cents ans de distance, ces trois Picards ont été, politiquement parlant, des leviers d\'Archimède.\nC\'était à chaque époque une pensée qui recontrait un point d\'appel dans les intérêts et chez les hommes.'
 }, {
   figure: 'Honoré de Balzac',
   mark: 'About Catherine de\' Medici (1842). P2. The Ruggieri\'s Secret. It is certain that during the sixteenth century, and the years that preceded and followed it, poisoning was brought to a perfection unknown to modern chemistry, as history itself will prove. Italy, the cradle of modern science, was, at this period, the inventor and mistress of these secrets, many of which are now lost.\nCh. II: Schemes Against Schemes',
@@ -1615,7 +1615,7 @@ var Honor_de_Balzac = [{
 }, {
   figure: 'Honoré de Balzac',
   mark: 'A Bachelor\'s Establishment (1842). A grocer is drawn to his business by an attracting force quite equal to the repelling force which drives artists away from it. We do not sufficiently study the social potentialities which make up the various vocations of life. It would be interesting to know what determines one man to be a stationer rather than a baker; since, in our day, sons are not compelled to follow the calling of their fathers, as they were among the Egyptians.\nCh. I',
-  quote: 'L’épicier est entraîné vers son commerce par une force attractive égale à la force de répulsion qui en éloigne les artistes.On n’a pas assez étudié les forces sociales qui constituent les diverses vocations. Il serait curieux de savoir ce qui détermine un homme à se faire papetier plutôt que boulanger, du moment où les fils ne succèdent pas forcément au métier de leur père comme chez les Egyptiens.'
+  quote: 'L’épicier est entraîné vers son commerce par une force attractive égale à la force de répulsion qui en éloigne les artistes.\nOn n’a pas assez étudié les forces sociales qui constituent les diverses vocations. Il serait curieux de savoir ce qui détermine un homme à se faire papetier plutôt que boulanger, du moment où les fils ne succèdent pas forcément au métier de leur père comme chez les Egyptiens.'
 }, {
   figure: 'Honoré de Balzac',
   mark: 'A Bachelor\'s Establishment (1842). A widow has two tasks before her, whose duties clash: she is a mother, and yet she must exercise paternal authority.\nCh. I',
@@ -1646,8 +1646,8 @@ var Honor_de_Balzac = [{
   quote: 'Un enfant, monsieur, n\'est-il pas l\'image de deux êtres, le fruit de deux sentiments librement confondus?'
 }, {
   figure: 'Honoré de Balzac',
-  mark: 'A Woman of Thirty (1842). A girl\'s coquetry is of the simplest, she thinks that all is said when the veil is laid aside; a woman\'s coquetry is endless, she shrouds herself in veil after veil, she satisfies every demand of man\'s vanity, the novice responds but to one.And there are terrors, fears, and hesitations — trouble and storm in the love of a woman of thirty years, never to be found in a young girl\'s love. At thirty years a woman asks her lover to give her back the esteem she has forfeited for his sake; she lives only for him, her thoughts are full of his future, he must have a great career, she bids him make it glorious; she can obey, entreat, command, humble herself, or rise in pride; times without number she brings comfort when a young girl can only make moan.\nCh. III: At Thirty Years',
-  quote: 'La jeune fille n\'a qu\'une coquetterie, et croit avoir tout dit quand elle a quitté son vêtement; mais la femme en a d\'innombrables et se cache sous mille voiles; enfin elle caresse toutes les vanités, et la novice n\'en flatte qu\'une. Il s\'émeut d\'ailleurs des indécisions, des terreurs, des craintes, des troubles et des orages chez la femme de trente ans, qui ne se rencontrent jamais dans l\'amour d\'une jeune fille.Arrivée à cet âge, la femme demande à un jeune homme de lui restituer l\'estime qu\'elle lui a sacrifiée; elle ne vit que pour lui, s\'occupe de son avenir, lui veut une belle vie, la lui ordonne glorieuse; elle obéit, elle prie et commande, s\'abaisse et s\'élève, et sait consoler en mille occasions, où la jeune fille ne sait que gémir.'
+  mark: 'A Woman of Thirty (1842). A girl\'s coquetry is of the simplest, she thinks that all is said when the veil is laid aside; a woman\'s coquetry is endless, she shrouds herself in veil after veil, she satisfies every demand of man\'s vanity, the novice responds but to one.\nAnd there are terrors, fears, and hesitations — trouble and storm in the love of a woman of thirty years, never to be found in a young girl\'s love. At thirty years a woman asks her lover to give her back the esteem she has forfeited for his sake; she lives only for him, her thoughts are full of his future, he must have a great career, she bids him make it glorious; she can obey, entreat, command, humble herself, or rise in pride; times without number she brings comfort when a young girl can only make moan.\nCh. III: At Thirty Years',
+  quote: 'La jeune fille n\'a qu\'une coquetterie, et croit avoir tout dit quand elle a quitté son vêtement; mais la femme en a d\'innombrables et se cache sous mille voiles; enfin elle caresse toutes les vanités, et la novice n\'en flatte qu\'une. Il s\'émeut d\'ailleurs des indécisions, des terreurs, des craintes, des troubles et des orages chez la femme de trente ans, qui ne se rencontrent jamais dans l\'amour d\'une jeune fille.\nArrivée à cet âge, la femme demande à un jeune homme de lui restituer l\'estime qu\'elle lui a sacrifiée; elle ne vit que pour lui, s\'occupe de son avenir, lui veut une belle vie, la lui ordonne glorieuse; elle obéit, elle prie et commande, s\'abaisse et s\'élève, et sait consoler en mille occasions, où la jeune fille ne sait que gémir.'
 }, {
   figure: 'Honoré de Balzac',
   mark: 'A Woman of Thirty (1842). The sanctity of womanhood is incompatible with social liberty and social claims; and for a woman emancipation means corruption.\nCh. III: At Thirty Years',
@@ -1668,7 +1668,7 @@ var Honor_de_Balzac = [{
   figure: 'Honoré de Balzac',
   mark: 'A Woman of Thirty (1842). Nothing is so discreet as a young face, for nothing is less mobile; it has the serenity, the surface smoothness, and the freshness of a lake. There is no character in women’s faces before the age of thirty.\nCh. VI: The Old Age of a Guilty Mother',
   quote: 'Rien n\'est-il si discret qu\'un jeune visage, parce que rien n\'est plus immobile. La figure d\'une jeune femme a le calme, le poli, la fraîcheur de la surface d\'un lac. La physionomie des femmes ne commence qu\'à trente ans.'
-}]
+}];
 
 var Leo_Tolstoy = [{
   figure: 'Leo Tolstoy',
@@ -1716,7 +1716,7 @@ var Leo_Tolstoy = [{
   quote: 'The more is given the less the people will work for themselves, and the less they work the more their poverty will increase.'
 }, {
   figure: 'Leo Tolstoy',
-  mark: '"Letter to N.N.," quoted by Havelock Ellis in "The New Spirit" (1892) p226',
+  mark: '"Letter to N.\nN.," quoted by Havelock Ellis in "The New Spirit" (1892) p226',
   quote: 'Condemn me if you choose — I do that myself, — but condemn me, and not the path which I am following, and which I point out to those who ask me where, in my opinion, the path is.'
 }, {
   figure: 'Leo Tolstoy',
@@ -2029,7 +2029,7 @@ var Leo_Tolstoy = [{
 }, {
   figure: 'Leo Tolstoy',
   mark: 'What then must we do? (1886)',
-  quote: 'This new fraud is just like the old ones: its essence lies in substituting something external for the use of our own reason and conscience and that of our predecessors: in the Church teaching this external thing was revelation, in the scientific teaching it is observation. The trick played by this science is to destroy man\'s faith in reason and conscience by directing attention to the grossest deviations from the use of human reason and conscience, and having clothed the deception in a scientific theory, to assure them that by acquiring knowledge of external phenomena they will get to know indubitable facts which will reveal to them the law of man\'s life. And the mental demoralization consists in this, that coming to believe that things which should be decided by conscience and reason are decided by observation, these people lose their consciousness of good and evil and become incapable of understanding the expression and definitions of good and evil that have been formed by the whole preceding life of humanity. All this, in their jargon, is conditional and subjective. It must all be abandoned - they say - the truth cannot be understood by one\'s reason, for one may err, but there is another path which is infallible and almost mechanical: one must study facts. And facts must be studied on the basis of the scientists\' science, that is, on the basis of two unfounded propositions: positivism and evolution which are put forward as indubitable truths. And the reigning science, with not less misleading solemnity than the Church, announces that the solution of all questions of life is only possible by the study of the facts of nature, and especially of organisms. A frivolous crowd of youths mastered by the novelty of this authority, which is as yet not merely not destroyed but not even touched by criticism, throws itself into the study of these facts of natural science as the sole path which, according to the assertions of the prevailing doctrine, can lead to the elucidation of the questions of life. But the further these disciples advance in this study the further and further are they removed not only from the possibility but even from the very thought of solving life\'s problems, and the more they become accustomed not so much to observe as to take on trust what they are told of the observations of others (to believe in cells, in protoplasm, in the fourth state of matter,1 &c.), the more and more does the form hide the contents from them; the more and more do they lose consciousness of good and evil and capacity to understand the expressions and definitions of good and evil worked out by the whole preceding life of humanity; the more and more do they adopt the specialized scientific jargon of conventional expressions which have no general human significance; the farther and farther do they wander among the debris of quite unilluminated observations; the more and more do they lose capacity not only to think independently but even to under-stand another man\'s fresh human thought lying outside their Talmud; and, what is most important, they pass their best years in growing unaccustomed to life, that is, to labour, and grow accustomed to consider their condition justified, while they become physically good-for-nothing parasites. And just like the theologians and the Talmudists they completely castrate their brains and become eunuchs of thought. And just like them, to the degree to which they become stupefied, they acquire a self-confidence which deprives them for ever of the possibility of returning to a simple clear and human way of thinking.'
+  quote: 'This new fraud is just like the old ones: its essence lies in substituting something external for the use of our own reason and conscience and that of our predecessors: in the Church teaching this external thing was revelation, in the scientific teaching it is observation. The trick played by this science is to destroy man\'s faith in reason and conscience by directing attention to the grossest deviations from the use of human reason and conscience, and having clothed the deception in a scientific theory, to assure them that by acquiring knowledge of external phenomena they will get to know indubitable facts which will reveal to them the law of man\'s life. And the mental demoralization consists in this, that coming to believe that things which should be decided by conscience and reason are decided by observation, these people lose their consciousness of good and evil and become incapable of understanding the expression and definitions of good and evil that have been formed by the whole preceding life of humanity. All this, in their jargon, is conditional and subjective. It must all be abandoned - they say - the truth cannot be understood by one\'s reason, for one may err, but there is another path which is infallible and almost mechanical: one must study facts. And facts must be studied on the basis of the scientists\' science, that is, on the basis of two unfounded propositions: positivism and evolution which are put forward as indubitable truths. And the reigning science, with not less misleading solemnity than the Church, announces that the solution of all questions of life is only possible by the study of the facts of nature, and especially of organisms. A frivolous crowd of youths mastered by the novelty of this authority, which is as yet not merely not destroyed but not even touched by criticism, throws itself into the study of these facts of natural science as the sole path which, according to the assertions of the prevailing doctrine, can lead to the elucidation of the questions of life. But the further these disciples advance in this study the further and further are they removed not only from the possibility but even from the very thought of solving life\'s problems, and the more they become accustomed not so much to observe as to take on trust what they are told of the observations of others (to believe in cells, in protoplasm, in the fourth state of matter,\n1 &c.), the more and more does the form hide the contents from them; the more and more do they lose consciousness of good and evil and capacity to understand the expressions and definitions of good and evil worked out by the whole preceding life of humanity; the more and more do they adopt the specialized scientific jargon of conventional expressions which have no general human significance; the farther and farther do they wander among the debris of quite unilluminated observations; the more and more do they lose capacity not only to think independently but even to under-stand another man\'s fresh human thought lying outside their Talmud; and, what is most important, they pass their best years in growing unaccustomed to life, that is, to labour, and grow accustomed to consider their condition justified, while they become physically good-for-nothing parasites. And just like the theologians and the Talmudists they completely castrate their brains and become eunuchs of thought. And just like them, to the degree to which they become stupefied, they acquire a self-confidence which deprives them for ever of the possibility of returning to a simple clear and human way of thinking.'
 }, {
   figure: 'Leo Tolstoy',
   mark: 'What then must we do? (1886)',
@@ -2049,7 +2049,7 @@ var Leo_Tolstoy = [{
 }, {
   figure: 'Leo Tolstoy',
   mark: 'What then must we do? (1886)',
-  quote: ' \'BUT science and art! You are denying science and art: that is you are denying that by which humanity lives.\'  People constantly make this rejoinder to me, and they employ: this method in order to reject my arguments without examination.  \'He rejects science and art, he wishes man to revert to a state of savagery - why listen to him or discuss with him?\'  But this is unjust. Not only do I not repudiate science, that is, the reasonable activity of humanity, and art - the expression of that reasonable activity - but it is just on behalf of that reasonable activity and its expression that I speak, only that It may be possible for mankind to escape from the savage state into which it is rapidly lapsing thanks to the false teaching of our time. It is only on that account that I speak as I do.'
+  quote: '\'BUT science and art! You are denying science and art: that is you are denying that by which humanity lives.\'  People constantly make this rejoinder to me, and they employ: this method in order to reject my arguments without examination.  \'He rejects science and art, he wishes man to revert to a state of savagery - why listen to him or discuss with him?\'  But this is unjust. Not only do I not repudiate science, that is, the reasonable activity of humanity, and art - the expression of that reasonable activity - but it is just on behalf of that reasonable activity and its expression that I speak, only that It may be possible for mankind to escape from the savage state into which it is rapidly lapsing thanks to the false teaching of our time. It is only on that account that I speak as I do.'
 }, {
   figure: 'Leo Tolstoy',
   mark: 'What then must we do? (1886)',
@@ -2077,7 +2077,7 @@ var Leo_Tolstoy = [{
 }, {
   figure: 'Leo Tolstoy',
   mark: 'The Slavery of Our Times (1890). Ch8. Slavery Exists Among Us',
-  quote: 'Slavery exists in full vigor, but we do not perceive it, just as in Europe at the end of the Eighteenth Century the slavery of serfdom was not perceived.People of that day thought that the position of men obliged to till the land for their lords, and to obey them, was a natural, inevitable, economic condition of life, and they did not call it slavery.It is the same among us: people of our day consider the position of the laborer to be a natural, inevitable economic condition, and they do not call it slavery. And as, at the end of the Eighteenth Century, the people of Europe began little by little to understand that what formerly seemed a natural and inevitable form of economic life-namely, the position of peasants who were completely in the power of their lords-was wrong, unjust and immoral, and demanded alteration, so now people today are beginning to understand that the position of hired workmen, and of the working classes in general, which formerly seemed quite right and quite normal, is not what it should be, and demands alteration.'
+  quote: 'Slavery exists in full vigor, but we do not perceive it, just as in Europe at the end of the Eighteenth Century the slavery of serfdom was not perceived.\nPeople of that day thought that the position of men obliged to till the land for their lords, and to obey them, was a natural, inevitable, economic condition of life, and they did not call it slavery.\nIt is the same among us: people of our day consider the position of the laborer to be a natural, inevitable economic condition, and they do not call it slavery. And as, at the end of the Eighteenth Century, the people of Europe began little by little to understand that what formerly seemed a natural and inevitable form of economic life-namely, the position of peasants who were completely in the power of their lords-was wrong, unjust and immoral, and demanded alteration, so now people today are beginning to understand that the position of hired workmen, and of the working classes in general, which formerly seemed quite right and quite normal, is not what it should be, and demands alteration.'
 }, {
   figure: 'Leo Tolstoy',
   mark: 'The First Step (1892). Ch7',
@@ -2085,7 +2085,7 @@ var Leo_Tolstoy = [{
 }, {
   figure: 'Leo Tolstoy',
   mark: 'The First Step (1892). Ch8',
-  quote: 'There is a scale of virtues, and it is necessary, if one would mount the higher steps, to begin with the lowest; and the first virtue a man must acquire if he wishes to acquire the others, is that which the ancients called ἐγκράτεια or σωφροσύνη — i.e., self-control or moderation.'
+  quote: 'There is a scale of virtues, and it is necessary, if one would mount the higher steps, to begin with the lowest; and the first virtue a man must acquire if he wishes to acquire the others, is that which the ancients called ἐγκράτεια or σωφροσύνη — i.\ne., self-control or moderation.'
 }, {
   figure: 'Leo Tolstoy',
   mark: 'The First Step (1892). Ch9',
@@ -2114,6 +2114,30 @@ var Leo_Tolstoy = [{
   figure: 'Leo Tolstoy',
   mark: 'The Kingdom of God is Within You (1894). Ch3',
   quote: 'The most difficult subjects can be explained to the most slow-witted man if he has not formed any idea of them already; but the simplest thing cannot be made clear to the most intelligent man if he is firmly persuaded that he knows already, without a shadow of doubt, what is laid before him.'
+}, {
+  figure: 'Leo Tolstoy',
+  mark: 'The Kingdom of God is Within You (1894). Ch4',
+  quote: 'The savage recognizes life only in himself and his personal desires. His interest in life is concentrated on himself alone. The highest happiness for him is the fullest satisfaction of his desires. The motive power of his life is personal enjoyment. His religion consists in propitiating his deity and in worshiping his gods, whom he imagines as persons living only for their personal aims.'
+}, {
+  figure: 'Leo Tolstoy',
+  mark: 'The Kingdom of God is Within You (1894). Ch4',
+  quote: 'The civilized pagan recognizes life not in himself alone, but in societies of men—in the tribe, the clan, the family, the kingdom —and sacrifices his personal good for these societies. The motive power of his life is glory. His religion consists in the exaltation of the glory of those who are allied to him—the founders of his family, his ancestors, his rulers—and in worshiping gods who are exclusively protectors of his clan, his family, his nation, his government'
+}, {
+  figure: 'Leo Tolstoy',
+  mark: 'The Kingdom of God is Within You (1894). Ch4',
+  quote: 'The man who holds the divine theory of life recognizes life not in his own individuality, and not in societies of individualities (in the family, the clan, the nation, the tribe, or the government), but in the eternal undying source of life—in God; and to fulfill the will of God he is ready to sacrifice his individual and family and social welfare. The motor power of his life is love. And his religion is the worship in deed and in truth of the principle of the whole—God.'
+}, {
+  figure: 'Leo Tolstoy',
+  mark: 'The Kingdom of God is Within You (1894). Ch4',
+  quote: 'The whole historic existence of mankind is nothing else than the gradual transition from the personal, animal conception of life to the social conception of life, and from the social conception of life to the divine conception of life.'
+}, {
+  figure: 'Leo Tolstoy',
+  mark: 'The Kingdom of God is Within You (1894). Ch5',
+  quote: 'We are all brothers—and yet every morning a brother or a sister must empty the bedroom slops for me. We are all brothers, but every morning I must have a cigar, a sweetmeat, an ice, and such things, which my brothers and sisters have been wasting their health in manufacturing, and I enjoy these things and demand them...We are all brothers, but I live on a salary paid me for prosecuting, judging, and condemning the thief or the prostitute whose existence the whole tenor of my life tends to bring about, and who I know ought not to be punished but reformed. We are all brothers, but I live on the salary I gain by collecting taxes from needy laborers to be spent on the luxuries of the rich and idle. We are all brothers, but I take a stipend for preaching a false Christian religion, which I do not myself believe in, and which only serve\'s to hinder men from understanding true Christianity. I take a stipend as priest or bishop for deceiving men in the matter of the greatest importance to them. We are all brothers, but I will not give the poor the benefit of my educational, medical, or literary labors except for money. We are all brothers, yet I take a salary for being ready to commit murder, for teaching men to murder, or making firearms, gunpowder, or fortifications.'
+}, {
+  figure: 'Leo Tolstoy',
+  mark: 'The Kingdom of God is Within You (1894). Ch5',
+  quote: 'The whole life of the upper classes is a constant inconsistency. The more delicate a man\'s conscience is, the more painful this contradiction is to him.'
 }, {
   figure: 'Leo Tolstoy',
   mark: 'The Kingdom of God is Within You (1894). Ch12',
@@ -2197,7 +2221,7 @@ var Leo_Tolstoy = [{
 }, {
   figure: 'Leo Tolstoy',
   mark: 'What is Art? (1897)',
-  quote: 'People understand the meaning of eating lies in the nourishment of the body only when they cease to consider that the object of that activity is pleasure. ...People understand the meaning of art only when they cease to consider that the aim of that activity is beauty, i.e., pleasure.'
+  quote: 'People understand the meaning of eating lies in the nourishment of the body only when they cease to consider that the object of that activity is pleasure. ...People understand the meaning of art only when they cease to consider that the aim of that activity is beauty, i.\ne., pleasure.'
 }, {
   figure: 'Leo Tolstoy',
   mark: 'What is Art? (1897)',
@@ -2257,7 +2281,7 @@ var Leo_Tolstoy = [{
 }, {
   figure: 'Leo Tolstoy',
   mark: 'What is Art? (1897)',
-  quote: 'Having acknowledged the measure of the good to be pleasure, i.e., beauty, the European upper classes went back in their comprehension of art to the gross conception of the primitive Greeks which Plato had already condemned. And with this understanding of life, a theory of art was formulated.'
+  quote: 'Having acknowledged the measure of the good to be pleasure, i.\ne., beauty, the European upper classes went back in their comprehension of art to the gross conception of the primitive Greeks which Plato had already condemned. And with this understanding of life, a theory of art was formulated.'
 }, {
   figure: 'Leo Tolstoy',
   mark: 'What is Art? (1897)',
@@ -2353,7 +2377,7 @@ var Leo_Tolstoy = [{
 }, {
   figure: 'Leo Tolstoy',
   mark: 'What is Religion, of What does its Essence Consist? (1902). Ch11',
-  quote: 'This divergence and perversion of the essential question is most striking in what goes today by the name of philosophy. There would seem to be only one question for philosophy to resolve: What must I do? Despite being combined with an enormous amount of unnecessary confusion, answers to the question have at any rate been given within the philosophical tradition on the Christian nations. For example, in Kant´s Critique of Practical Reason, or in Spinoza, Schopenhauer and specially Rousseau.But in more recent times, since Hegel´s assertion that all that exists is reasonable, the question of what one must do has been pushed to the background and philosophy has directed its whole attention to the investigation of things as they are, and to fitting them into a prearranged theory. This was the first step backwards.The second step, degrading human thought yet further, was the acceptance of the struggle for existence as a basic law, simply because that struggle can be observed among animals and plants. According to this theory the destruction of the weakest is a law which should not be opposed. And finally, the third step was taken when the childish originality of Nietzsche´s half-crazed thought, presenting nothing complete or coherent, but only various drafts of immoral and completely unsubstantiated ideas, was accepted by the leading figures as the final word in philosophical science. In reply to the question: what must we do? the answer is now put straightforwardly as: live as you like, without paying attention to the lives of others.If anyone doubted that the Christian world of today has reached a frightful state of torpor and brutalization (not forgetting the recent crimes committed in the Boers and in China, which were defended by the clergy and acclaimed as heroic feats by all the world powers), the extraordinary success of Nietzsche´s works is enough to provide irrefutable proof of this. Some disjointed writings, striving after effect in a most sordid manner, appear, written by a daring, but limited and abnormal German, suffering from power mania. Neither in talent nor in their basic argument to these writings justify public attention. In the days of Kant, Leibniz, or Hume, or even fifty years ago, such writings would not only have received no attention, but they would not even have appeared. But today all the so called educated people are praising the ravings of Mr. N, arguing about him, elucidating him, and countless copies of his works are printed in all languages.'
+  quote: 'This divergence and perversion of the essential question is most striking in what goes today by the name of philosophy. There would seem to be only one question for philosophy to resolve: What must I do? Despite being combined with an enormous amount of unnecessary confusion, answers to the question have at any rate been given within the philosophical tradition on the Christian nations. For example, in Kant´s Critique of Practical Reason, or in Spinoza, Schopenhauer and specially Rousseau.\nBut in more recent times, since Hegel´s assertion that all that exists is reasonable, the question of what one must do has been pushed to the background and philosophy has directed its whole attention to the investigation of things as they are, and to fitting them into a prearranged theory. This was the first step backwards.\nThe second step, degrading human thought yet further, was the acceptance of the struggle for existence as a basic law, simply because that struggle can be observed among animals and plants. According to this theory the destruction of the weakest is a law which should not be opposed. And finally, the third step was taken when the childish originality of Nietzsche´s half-crazed thought, presenting nothing complete or coherent, but only various drafts of immoral and completely unsubstantiated ideas, was accepted by the leading figures as the final word in philosophical science. In reply to the question: what must we do? the answer is now put straightforwardly as: live as you like, without paying attention to the lives of others.\nIf anyone doubted that the Christian world of today has reached a frightful state of torpor and brutalization (not forgetting the recent crimes committed in the Boers and in China, which were defended by the clergy and acclaimed as heroic feats by all the world powers), the extraordinary success of Nietzsche´s works is enough to provide irrefutable proof of this. Some disjointed writings, striving after effect in a most sordid manner, appear, written by a daring, but limited and abnormal German, suffering from power mania. Neither in talent nor in their basic argument to these writings justify public attention. In the days of Kant, Leibniz, or Hume, or even fifty years ago, such writings would not only have received no attention, but they would not even have appeared. But today all the so called educated people are praising the ravings of Mr. N, arguing about him, elucidating him, and countless copies of his works are printed in all languages.'
 }, {
   figure: 'Leo Tolstoy',
   mark: 'What is Religion, of What does its Essence Consist? (1902). Ch11',
@@ -2408,7 +2432,7 @@ var Leo_Tolstoy = [{
   quote: 'As soon as men live entirely in accord with the law of love natural to their hearts and now revealed to them, which excludes all resistance by violence, and therefore hold aloof from all participation in violence — as soon as this happens, not only will hundreds be unable to enslave millions, but not even millions will be able to enslave a single individual.'
 }, {
   figure: 'Leo Tolstoy',
-  mark: 'A Letter to a Hindu (1908). V. "Do not resist the evil-doer" is an allusion to the words of Jesus Christ in Matthew 5:39.',
+  mark: 'A Letter to a Hindu (1908). V. "Do not resist the evil-doer" is an allusion to the words of Jesus Christ in Matthew 5:\n39.',
   quote: 'Do not resist the evil-doer and take no part in doing so, either in the violent deeds of the administration, in the law courts, the collection of taxes, or above all in soldiering, and no one in the world will be able to enslave you.'
 }, {
   figure: 'Leo Tolstoy',
@@ -2513,7 +2537,7 @@ var Leo_Tolstoy = [{
 }, {
   figure: 'Leo Tolstoy',
   mark: 'Path of Life (1909). p110',
-  quote: '“He who exalts himself shall be humbled; and he who humbles himself shall be exalted.” (Matthew 23:12) The person who exalts himself … will be humbled, because a person who considers himself to be good, intelligent, and kind will not even try to become better, smarter, kinder. The humble person will be exalted, because he considers himself bad and will try to become better, kinder, and more reasonable.'
+  quote: '“He who exalts himself shall be humbled; and he who humbles himself shall be exalted.” (Matthew 23:\n12) The person who exalts himself … will be humbled, because a person who considers himself to be good, intelligent, and kind will not even try to become better, smarter, kinder. The humble person will be exalted, because he considers himself bad and will try to become better, kinder, and more reasonable.'
 }, {
   figure: 'Leo Tolstoy',
   mark: 'Path of Life (1909). p206',
@@ -2530,7 +2554,7 @@ var Leo_Tolstoy = [{
   figure: 'Leo Tolstoy',
   mark: 'Path of Life (1909). p210',
   quote: 'People try to do all sorts of clever and difficult things to improve life instead of doing the simplest, easiest thing—refusing to participate in activities that make life bad.'
-}]
+}];
 
 var Lin_Yutang = [{
   figure: 'Lin Yutang',
@@ -2726,12 +2750,12 @@ var Lin_Yutang = [{
   quote: 'The greatest ideal that man can aspire to is not to be a show-case of virtue, but just to be a genial, likable and reasonable human being.'
 }, {
   figure: 'Lin Yutang',
-  mark: 'The Importance of Living (1937). Ch9. The Enjoyment of Living, p249, as quoted in Fred R Shapiro (2006). The Yale Book of Quotations. Yale University Press. p467. ISBN 0-300-10798-6. ',
+  mark: 'The Importance of Living (1937). Ch9. The Enjoyment of Living, p249, as quoted in Fred R Shapiro (2006). The Yale Book of Quotations. Yale University Press. p467. ISBN 0-300-10798-6.',
   quote: 'The Chinese do not draw any distinction between food and medicine.'
 }, {
   figure: 'Lin Yutang',
   mark: 'The Importance of Living (1937). p282',
-  quote: 'By association with nature\'s enormities, a man\'s heart may truly grow big also. There is a way of looking upon a landscape as a moving picture and being satisfied with nothing less big as a moving picture, a way of looking upon tropic clouds over the horizon as the backdrop of a stage and being satisfied with nothing less big as a backdrop, a way of looking upon the mountain forests as a private garden and being satisfied with nothing less as a private garden, a way of listening to the roaring waves as a concert and being satisfied with nothing less as a concert, and a way of looking upon the mountain breeze as an air-cooling system and being satisfied with nothing less as an air-cooling system. So do we become big, even as the earth and firmaments are big. Like the "Big Man" described by Yuan Tsi (A.D. 210-263), one of China\'s first romanticists, we "live in heaven and earth as our house."'
+  quote: 'By association with nature\'s enormities, a man\'s heart may truly grow big also. There is a way of looking upon a landscape as a moving picture and being satisfied with nothing less big as a moving picture, a way of looking upon tropic clouds over the horizon as the backdrop of a stage and being satisfied with nothing less big as a backdrop, a way of looking upon the mountain forests as a private garden and being satisfied with nothing less as a private garden, a way of listening to the roaring waves as a concert and being satisfied with nothing less as a concert, and a way of looking upon the mountain breeze as an air-cooling system and being satisfied with nothing less as an air-cooling system. So do we become big, even as the earth and firmaments are big. Like the "Big Man" described by Yuan Tsi (A.\nD. 210-263), one of China\'s first romanticists, we "live in heaven and earth as our house."'
 }, {
   figure: 'Lin Yutang',
   mark: 'The Importance of Living (1937). p317',
@@ -2752,7 +2776,7 @@ var Lin_Yutang = [{
   figure: 'Lin Yutang',
   mark: 'The Importance of Living (1937). p407',
   quote: 'I feel, like all modern Americans, no consciousness of sin and simply do not believe in it. All I know is that if God loves me only half as much as my mother does, he will not send me to Hell. That is a final fact of my inner consciousness, and for no religion could I deny its truth.'
-}]
+}];
 
 var Nicholas_Sparks = [{
   figure: 'Nicholas Sparks',
@@ -2829,7 +2853,7 @@ var Nicholas_Sparks = [{
 }, {
   figure: 'Nicholas Sparks',
   mark: '2000s. A Bend in the Road (2001). Miss Harkins, Ch13. p139',
-  quote: 'There are ghosts and there is love, And both are present here,To those who listen, this tale will tellThe truth of love and if it\'s near.'
+  quote: 'There are ghosts and there is love, And both are present here,\nTo those who listen, this tale will tellThe truth of love and if it\'s near.'
 }, {
   figure: 'Nicholas Sparks',
   mark: '2000s. A Bend in the Road (2001). Jonah Ryan, Ch37. p336',
@@ -3341,7 +3365,7 @@ var Nicholas_Sparks = [{
 }, {
   figure: 'Nicholas Sparks',
   mark: '2009. The Longest Ride (2013). Ira Levinson, Ch17. p234',
-  quote: 'In this world, after all, I\'ve become more or less invisible...I\'ve become what the young are afraid of becoming, just another member of the nameless elderly, an old and broken man with nothing left to offer to this world.My days are inconsequential, comprising simple moments and even simpler pleasures. I eat and sleep and think of Ruth; I wander the house and stare the the paintings, and in the mornings, I feed the pigeons that gather in my backyard.'
+  quote: 'In this world, after all, I\'ve become more or less invisible...I\'ve become what the young are afraid of becoming, just another member of the nameless elderly, an old and broken man with nothing left to offer to this world.\nMy days are inconsequential, comprising simple moments and even simpler pleasures. I eat and sleep and think of Ruth; I wander the house and stare the the paintings, and in the mornings, I feed the pigeons that gather in my backyard.'
 }, {
   figure: 'Nicholas Sparks',
   mark: '2009. The Longest Ride (2013). Ira Levinson, Ch17. p237',
@@ -3353,7 +3377,7 @@ var Nicholas_Sparks = [{
 }, {
   figure: 'Nicholas Sparks',
   mark: '2009. The Longest Ride (2013). Ira Levinson, Ch28. p320-321',
-  quote: 'I was not meant to be alone. I am not good at it. The years since Ruth\'s passing have ticked by with the kind of desparate silence known only to the elderly. It is a silence underscored by loneliness and the knowledge that the good years are already in the past, coupled with the complications of old age itself.The body is not meant to survive nearly a century. I speak from experience when I say this...'
+  quote: 'I was not meant to be alone. I am not good at it. The years since Ruth\'s passing have ticked by with the kind of desparate silence known only to the elderly. It is a silence underscored by loneliness and the knowledge that the good years are already in the past, coupled with the complications of old age itself.\nThe body is not meant to survive nearly a century. I speak from experience when I say this...'
 }, {
   figure: 'Nicholas Sparks',
   mark: '2009. The Longest Ride (2013). Ira Levinson, Ch28. p325',
@@ -3369,12 +3393,12 @@ var Nicholas_Sparks = [{
 }, {
   figure: 'Nicholas Sparks',
   mark: '2009. The Longest Ride (2013). Daniel McCallum, Ch28. Ira, p335',
-  quote: '[Written on back of photograph of Ruth and Daniel]"Ruth LevinsonThird grade teacher.She believes in me and I can be anything I want when I grow up.I can even change the world."'
+  quote: '[Written on back of photograph of Ruth and Daniel]"Ruth LevinsonThird grade teacher.\nShe believes in me and I can be anything I want when I grow up.\nI can even change the world."'
 }, {
   figure: 'Nicholas Sparks',
   mark: '2009. The Longest Ride (2013). Ira Levinson, Ch28. Ira, p341',
   quote: '"\'If there is a heaven, we will find each other again, for there is no heaven without you.\'"'
-}]
+}];
 
 var Rod_Serling = [{
   figure: 'Rod Serling',
@@ -3450,12 +3474,12 @@ var Rod_Serling = [{
   quote: 'I was a Christmas present that was delivered unwrapped.'
 }, {
   figure: 'Rod Serling',
-  mark: 'Other. Rod Serling:American Masters.',
+  mark: 'Other. Rod Serling:\nAmerican Masters.',
   quote: 'I got the idea for the pilot while walking through an empty lot of a movie studio. There were all the evidences of a community but with no people. I felt at the time a kind of encroaching loneliness, and desolation; a feeling of how nightmarish it would be to wind up in a city with no inhabitants.'
 }, {
   figure: 'Rod Serling',
   mark: 'Other. Rod Serling on Arena, American Masters.',
-  quote: 'I was dealing with a political story where much of the action took place on the floor of the U.S. Senate, and one of the edicts that came down from the Mt. Sinai of advertisers row was that at no time in a political drama must a speech or a character be equated with an existing political party or current political problems. So several million viewers were treated to an incredible display of senators shouting, gesticulating and talking in hieroglyphics, saying not a single thing germaine to the current political scene.'
+  quote: 'I was dealing with a political story where much of the action took place on the floor of the U.\nS. Senate, and one of the edicts that came down from the Mt. Sinai of advertisers row was that at no time in a political drama must a speech or a character be equated with an existing political party or current political problems. So several million viewers were treated to an incredible display of senators shouting, gesticulating and talking in hieroglyphics, saying not a single thing germaine to the current political scene.'
 }, {
   figure: 'Rod Serling',
   mark: 'Other. Rod Serling: American Masters.',
@@ -3496,7 +3520,7 @@ var Rod_Serling = [{
   figure: 'Rod Serling',
   mark: 'Other. "Rod Serling Recalls Planet of the Apes" [2].',
   quote: 'I really can’t claim to being a science-fiction man either. Fantasy was really more my bag. And I’m very much a Johnny-Come-Lately into that. The guys – the really key men – like Asimov, Clarke, Bradbury – they all preceded me by years and years and have a body of literature to show for it. I have nothing but a television show. My only claim is that I put science-fiction and fantasy into a mass media more than any other person.'
-}]
+}];
 
 var Victor_Hugo = [{
   figure: 'Victor Hugo',
@@ -3544,7 +3568,7 @@ var Victor_Hugo = [{
   quote: 'Il y a maintenant en France dans chaque village un flambeau allumé, le maître d\'école, et une bouche qui souffle dessus, le curé.'
 }, {
   figure: 'Victor Hugo',
-  mark: 'I only take a half share in the civil war; I am willing to die, I am not willing to kill.\nHistoire d\'un crime (The History of a Crime) [written 1852, published 1877], Quatrième journée. La victoire, ch2. Les Faits de la nuit. Quartier des Halles. Trans. T.H. Joyce and Arthur Locker',
+  mark: 'I only take a half share in the civil war; I am willing to die, I am not willing to kill.\nHistoire d\'un crime (The History of a Crime) [written 1852, published 1877], Quatrième journée. La victoire, ch2. Les Faits de la nuit. Quartier des Halles. Trans. T.\nH. Joyce and Arthur Locker',
   quote: 'Je n\'entre qu\'à moitié dans la guerre civile. Je veux bien y mourir, je ne veux pas y tuer.'
 }, {
   figure: 'Victor Hugo',
@@ -3588,8 +3612,8 @@ var Victor_Hugo = [{
   quote: 'There shall be no slavery of the mind.'
 }, {
   figure: 'Victor Hugo',
-  mark: 'To rise at six, to sleep at ten,To sup at ten, to dine at six,Make a man live for ten times ten.\nInscription in Hugo\'s dining room, quoted in Gustave Larroumet, La maison de Victor Hugo: Impressions de Guernesey (1895), Ch3',
-  quote: 'Lever à six, coucher à dix,Dîner à dix, souper à six,Font vivre l\'homme dix fois dix.'
+  mark: 'To rise at six, to sleep at ten,\nTo sup at ten, to dine at six,\nMake a man live for ten times ten.\nInscription in Hugo\'s dining room, quoted in Gustave Larroumet, La maison de Victor Hugo: Impressions de Guernesey (1895), Ch3',
+  quote: 'Lever à six, coucher à dix,\nDîner à dix, souper à six,\nFont vivre l\'homme dix fois dix.'
 }, {
   figure: 'Victor Hugo',
   mark: 'The need of the immaterial is the most deeply rooted of all needs. One must have bread; but before bread, one must have the ideal.\n"Les fleurs," (ca. 1860 - 1865), from Oeuvres complètes (1909); published in English as The Memoirs of Victor Hugo, trans. John W. Harding (1899), Ch6. Love in Prison, p2',
@@ -3701,7 +3725,7 @@ var Victor_Hugo = [{
 }, {
   figure: 'Victor Hugo',
   mark: 'Napoleon the Little (1852)',
-  quote: 'Let us have faith. No, let us not be cast down.To despair is to desert.  Let us look to the future.The future,—no one knows what tempests still separate us from port, but the port, the distant and radiant port, is in sight; the future, we repeat, is the republic for all men; let us add, the future is peace with all men.  Conclusion, Part Second, II'
+  quote: 'Let us have faith. No, let us not be cast down.\nTo despair is to desert.  Let us look to the future.\nThe future,—no one knows what tempests still separate us from port, but the port, the distant and radiant port, is in sight; the future, we repeat, is the republic for all men; let us add, the future is peace with all men.  Conclusion, Part Second, II'
 }, {
   figure: 'Victor Hugo',
   mark: 'Napoleon the Little (1852)',
@@ -3776,17 +3800,17 @@ var Victor_Hugo = [{
   quote: 'It is very fortunate that kings cannot err. Hence their contradictions never perplex us.'
 }, {
   figure: 'Victor Hugo',
-  mark: ' Ninety-Three (1874). To put everything in balance is good, to put everything in harmony is better.\nQuatre-vingt-treize (Ninety-Three) (1874), Book VII, Ch5',
+  mark: 'Ninety-Three (1874). To put everything in balance is good, to put everything in harmony is better.\nQuatre-vingt-treize (Ninety-Three) (1874), Book VII, Ch5',
   quote: 'Mettre tout en équilibre, c\'est bien; mettre tout en harmonie, c\'est mieux.'
 }, {
   figure: 'Victor Hugo',
-  mark: ' Ninety-Three (1874). P2. Book 1, Ch2',
+  mark: 'Ninety-Three (1874). P2. Book 1, Ch2',
   quote: 'Cimourdain was a pure-minded but gloomy man. He had "the absolute" within him. He had been a priest, which is a solemn thing. Man may have, like the sky, a dark and impenetrable serenity; that something should have caused night to fall in his soul is all that is required. Priesthood had been the cause of night within Cimourdain. Once a priest, always a priest.  Whatever causes night in our souls may leave stars. Cimourdain was full of virtues and truth, but they shine out of a dark background.'
 }, {
   figure: 'Victor Hugo',
-  mark: ' Ninety-Three (1874). P2. Book 1, Ch2',
+  mark: 'Ninety-Three (1874). P2. Book 1, Ch2',
   quote: 'Cimourdain was one of those men who have a voice within them, and who listen to it. Such men seem absent-minded; they are not; they are all attention.  Cimourdain knew everything and nothing. He knew everything about science, and nothing at all about life. Hence his inflexibility. His eyes were bandaged like Homer\'s Themis. He had the blind certainty of the arrow, which sees only the mark and flies to it. In a revolution, nothing is more terrible than a straight line. Cimourdain went straight ahead, as sure as fate.  Cimourdain believed that, in social geneses, the extreme point is the solid earth; an error peculiar to minds which replace reason with logic.'
-}]
+}];
 
 var William_Shakespeare = [{
   figure: 'William Shakespeare',
@@ -3795,19 +3819,19 @@ var William_Shakespeare = [{
 }, {
   figure: 'William Shakespeare',
   mark: 'The Rape of Lucrece.',
-  quote: 'Time\'s glory is to calm contending kings,To unmask falsehood, and bring truth to light.'
+  quote: 'Time\'s glory is to calm contending kings,\nTo unmask falsehood, and bring truth to light.'
 }, {
   figure: 'William Shakespeare',
   mark: 'The Rape of Lucrece.',
-  quote: 'That deep torture may be called a hell,When more is felt than one hath power to tell.'
+  quote: 'That deep torture may be called a hell,\nWhen more is felt than one hath power to tell.'
 }, {
   figure: 'William Shakespeare',
   mark: 'Sonnets to Sundry Notes of Music, II. Not to be confused with The Sonnets; this poem is not a sonnet',
-  quote: 'On a day — alack the day! —Love, whose month is ever May,Spied a blossom passing fairPlaying in the wanton air'
+  quote: 'On a day — alack the day! —Love, whose month is ever May,\nSpied a blossom passing fairPlaying in the wanton air'
 }, {
   figure: 'William Shakespeare',
   mark: 'The Passionate Pilgrim: A Madrigal; there is some doubt about the authorship of this.',
-  quote: 'Crabbed age and youth cannot live together:Youth is full of pleasure, age is full of care'
+  quote: 'Crabbed age and youth cannot live together:\nYouth is full of pleasure, age is full of care'
 }, {
   figure: 'William Shakespeare',
   mark: 'Shakespeare\'s will',
@@ -3835,7 +3859,7 @@ var William_Shakespeare = [{
 }, {
   figure: 'William Shakespeare',
   mark: 'Romeo and Juliet (1595). Juliet, A2s2.',
-  quote: 'What\'s in a name? That which we call a rose,By any other name would smell as sweet.'
+  quote: 'What\'s in a name? That which we call a rose,\nBy any other name would smell as sweet.'
 }, {
   figure: 'William Shakespeare',
   mark: 'Romeo and Juliet (1595). Juliet, A2s2.',
@@ -3851,7 +3875,7 @@ var William_Shakespeare = [{
 }, {
   figure: 'William Shakespeare',
   mark: 'A Midsummer Night\'s Dream (1595). Helena, A1s1.',
-  quote: 'Love looks not with the eyes, but with the mind,And therefore is wing\'d Cupid painted blind.'
+  quote: 'Love looks not with the eyes, but with the mind,\nAnd therefore is wing\'d Cupid painted blind.'
 }, {
   figure: 'William Shakespeare',
   mark: 'The Merchant of Venice (1596–7). Portia, A1s2.',
@@ -3883,7 +3907,7 @@ var William_Shakespeare = [{
 }, {
   figure: 'William Shakespeare',
   mark: 'Much Ado About Nothing (1598). Balthazar, A2s3.',
-  quote: 'Sigh no more, ladies, sigh no more,Men were deceivers ever;One foot in sea, and one on shore,To one thing constant never.'
+  quote: 'Sigh no more, ladies, sigh no more,\nMen were deceivers ever;\nOne foot in sea, and one on shore,\nTo one thing constant never.'
 }, {
   figure: 'William Shakespeare',
   mark: 'Much Ado About Nothing (1598). Hero, A3s1.',
@@ -3895,11 +3919,11 @@ var William_Shakespeare = [{
 }, {
   figure: 'William Shakespeare',
   mark: 'Julius Caesar (1599). Cassius, A1s2.',
-  quote: 'Men at some time are masters of their fates:The fault, dear Brutus, is not in our stars,But in ourselves, that we are underlings.'
+  quote: 'Men at some time are masters of their fates:\nThe fault, dear Brutus, is not in our stars,\nBut in ourselves, that we are underlings.'
 }, {
   figure: 'William Shakespeare',
   mark: 'Julius Caesar (1599). Caesar, A2s2.',
-  quote: 'Cowards die many times before their deaths;The valiant never taste of death but once.'
+  quote: 'Cowards die many times before their deaths;\nThe valiant never taste of death but once.'
 }, {
   figure: 'William Shakespeare',
   mark: 'Julius Caesar (1599). Antony, A3s1.',
@@ -3907,15 +3931,15 @@ var William_Shakespeare = [{
 }, {
   figure: 'William Shakespeare',
   mark: 'Julius Caesar (1599). Antony, A3s2.',
-  quote: 'Friends, Romans, countrymen, lend me your ears;I come to bury Caesar, not to praise him.The evil that men do lives after them;The good is oft interred with their bones.'
+  quote: 'Friends, Romans, countrymen, lend me your ears;\nI come to bury Caesar, not to praise him.\nThe evil that men do lives after them;\nThe good is oft interred with their bones.'
 }, {
   figure: 'William Shakespeare',
   mark: 'As You Like It (1599–1600). Jaques, A2s7.',
-  quote: 'All the world\'s a stage,And all the men and women merely players:They have their exits and their entrances;And one man in his time plays many parts.'
+  quote: 'All the world\'s a stage,\nAnd all the men and women merely players:\nThey have their exits and their entrances;\nAnd one man in his time plays many parts.'
 }, {
   figure: 'William Shakespeare',
   mark: 'Hamlet (1600–1). Polonius, A1s3.',
-  quote: 'Neither a borrower nor a lender be;For loan oft loses both itself and friend,And borrowing dulls the edge of husbandry.This above all: to thine ownself be true.And it must follow, as the night the day,Thou canst not then be false to any man.'
+  quote: 'Neither a borrower nor a lender be;\nFor loan oft loses both itself and friend,\nAnd borrowing dulls the edge of husbandry.\nThis above all: to thine ownself be true.\nAnd it must follow, as the night the day,\nThou canst not then be false to any man.'
 }, {
   figure: 'William Shakespeare',
   mark: 'Hamlet (1600–1). Polonius, A1s3.',
@@ -3923,7 +3947,7 @@ var William_Shakespeare = [{
 }, {
   figure: 'William Shakespeare',
   mark: 'Hamlet (1600–1). Hamlet, A1s5.',
-  quote: 'The time is out of joint: O cursed spite,That ever I was born to set it right!'
+  quote: 'The time is out of joint: O cursed spite,\nThat ever I was born to set it right!'
 }, {
   figure: 'William Shakespeare',
   mark: 'Hamlet (1600–1). Hamlet, A2s2.',
@@ -3931,7 +3955,7 @@ var William_Shakespeare = [{
 }, {
   figure: 'William Shakespeare',
   mark: 'Hamlet (1600–1). Hamlet, A2s2.',
-  quote: 'What a piece of work is a man!How noble in reason, how infinite in faculty!In form and moving how express and admirable!In action how like an angel,in apprehension how like a god!'
+  quote: 'What a piece of work is a man!How noble in reason, how infinite in faculty!In form and moving how express and admirable!In action how like an angel,\nin apprehension how like a god!'
 }, {
   figure: 'William Shakespeare',
   mark: 'Hamlet (1600–1). Hamlet, A3s1.',
@@ -3967,31 +3991,31 @@ var William_Shakespeare = [{
 }, {
   figure: 'William Shakespeare',
   mark: 'King Lear (1605–6). Lear, A3s2.',
-  quote: 'I am a man,More sinn\'d against than sinning.'
+  quote: 'I am a man,\nMore sinn\'d against than sinning.'
 }, {
   figure: 'William Shakespeare',
   mark: 'Antony and Cleopatra (1606). Enobarbus, A2s2.',
-  quote: 'The barge she sat in, like a burnish\'d throne,Burnt on the water.'
+  quote: 'The barge she sat in, like a burnish\'d throne,\nBurnt on the water.'
 }, {
   figure: 'William Shakespeare',
   mark: 'Macbeth (1606). Macbeth, A1s3.',
-  quote: 'Come what come may,Time and the hour runs through the roughest day.'
+  quote: 'Come what come may,\nTime and the hour runs through the roughest day.'
 }, {
   figure: 'William Shakespeare',
   mark: 'Macbeth (1606). Macbeth, A2s1.',
-  quote: 'Is this a dagger which I see before me,The handle toward my hand?'
+  quote: 'Is this a dagger which I see before me,\nThe handle toward my hand?'
 }, {
   figure: 'William Shakespeare',
   mark: 'Macbeth (1606). Macbeth, A5s5.',
-  quote: 'Tomorrow, and tomorrow, and tomorrow,Creeps in this petty pace from day to day,To the last syllable of recorded time;And all our yesterdays have lighted foolsThe way to dusty death. Out, out, brief candle!Life\'s but a walking shadow, a poor playerThat struts and frets his hour upon the stage,And then is heard no more. It is a taleTold by an idiot, full of sound and fury,Signifying nothing.'
+  quote: 'Tomorrow, and tomorrow, and tomorrow,\nCreeps in this petty pace from day to day,\nTo the last syllable of recorded time;\nAnd all our yesterdays have lighted foolsThe way to dusty death. Out, out, brief candle!Life\'s but a walking shadow, a poor playerThat struts and frets his hour upon the stage,\nAnd then is heard no more. It is a taleTold by an idiot, full of sound and fury,\nSignifying nothing.'
 }, {
   figure: 'William Shakespeare',
   mark: 'Sonnets (1609). XVIII',
-  quote: 'Shall I compare thee to a summer\'s day?Thou art more lovely and more temperate:Rough winds do shake the darling buds of May, And summer\'s lease hath all too short a date'
+  quote: 'Shall I compare thee to a summer\'s day?\nThou art more lovely and more temperate:\nRough winds do shake the darling buds of May, And summer\'s lease hath all too short a date'
 }, {
   figure: 'William Shakespeare',
   mark: 'Sonnets (1609). XVIII',
-  quote: 'So long as men can breathe or eyes can see,So long lives this, and this gives life to thee.'
+  quote: 'So long as men can breathe or eyes can see,\nSo long lives this, and this gives life to thee.'
 }, {
   figure: 'William Shakespeare',
   mark: 'Sonnets (1609). CXVI',
@@ -3999,11 +4023,11 @@ var William_Shakespeare = [{
 }, {
   figure: 'William Shakespeare',
   mark: 'Cymbeline (1610). Guiderius, A4s2.',
-  quote: 'Golden lads and girls all must,As chimney-sweepers, come to dust.'
+  quote: 'Golden lads and girls all must,\nAs chimney-sweepers, come to dust.'
 }, {
   figure: 'William Shakespeare',
   mark: 'The Tempest (1611). Ariel, A1s2.',
-  quote: 'Full fathom five thy father lies;Of his bones are coral made;Those are pearls that were his eyes;Nothing of him that doth fade,But doth suffer a sea-changeInto something rich and strange.'
+  quote: 'Full fathom five thy father lies;\nOf his bones are coral made;\nThose are pearls that were his eyes;\nNothing of him that doth fade,\nBut doth suffer a sea-changeInto something rich and strange.'
 }, {
   figure: 'William Shakespeare',
   mark: 'The Tempest (1611). Trinculo, A2s2.',
@@ -4012,7 +4036,7 @@ var William_Shakespeare = [{
   figure: 'William Shakespeare',
   mark: 'The Tempest (1611). Prospero, A4s1.',
   quote: 'We are such stuffAs dreams are made on; and our little lifeIs rounded with a sleep.'
-}]
+}];
 
 const Quotes = {
   Aaron_Sorkin,
@@ -4025,6 +4049,6 @@ const Quotes = {
   Rod_Serling,
   Victor_Hugo,
   William_Shakespeare
-}
+};
 
-exports.Quotes = Quotes
+exports.Quotes = Quotes;

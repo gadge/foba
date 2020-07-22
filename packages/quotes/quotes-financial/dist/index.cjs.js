@@ -1,8 +1,8 @@
-'use strict'
+'use strict';
 
-Object.defineProperty(exports, '__esModule', { value: true })
+Object.defineProperty(exports, '__esModule', { value: true });
 
-var Aaron_Brown_financial_author = [{
+var Aaron_Brown = [{
   figure: 'Aaron Brown (financial author)',
   mark: 'The Poker Face of Wall Street (2006). Ch1. The Art of Uncalculated Risk, p2',
   quote: 'Other people snap up the riskless profits pretty fast and bid the price of calculable risk opportunities to near their fair values. Things get a lot less crowded if you go for the incalculable risks, leaps of faith that cannot be inspected carefully before takeoff. So that is where you find extraordinary opportunities.'
@@ -62,19 +62,19 @@ var Aaron_Brown_financial_author = [{
   figure: 'Aaron Brown (financial author)',
   mark: 'The Poker Face of Wall Street (2006). Ch9. Who Got Game, p279',
   quote: 'Mathematical theory, tested in practice and constantly retested, is a valuable aid to play. Mathematics alone will blind you and let others rob you.'
-}]
+}];
 
 var Ben_Bernanke = [{
   figure: 'Ben Bernanke',
   mark: '"A Crash Course for Central Bankers," Foreign Policy (September/200010)',
-  quote: 'There’s no denying that a collapse in stock prices today would pose serious macroeconomic challenges for the United States. Consumer spending would slow, and the U.S. economy would become less of a magnet for foreign investors. Economic growth, which in any case has recently been at unsustainable levels, would decline somewhat. History proves, however, that a smart central bank can protect the economy and the financial sector from the nastier side effects of a stock market collapse.'
+  quote: 'There’s no denying that a collapse in stock prices today would pose serious macroeconomic challenges for the United States. Consumer spending would slow, and the U.\nS. economy would become less of a magnet for foreign investors. Economic growth, which in any case has recently been at unsustainable levels, would decline somewhat. History proves, however, that a smart central bank can protect the economy and the financial sector from the nastier side effects of a stock market collapse.'
 }, {
   figure: 'Ben Bernanke',
   mark: '"A Crash Course for Central Bankers," Foreign Policy (September/200010)',
   quote: 'The economic repercussions of a stock market crash depend less on the severity of the crash itself than on the response of economic policymakers, particularly central bankers.'
 }, {
   figure: 'Ben Bernanke',
-  mark: '"Remarks by Governor Ben S. Bernanke at the Conference to Honor Milton Friedman, University of Chicago, Chicago, Illinois," federalreserve.gov (2002-11-08)',
+  mark: '"Remarks by Governor Ben S. Bernanke at the Conference to Honor Milton Friedman, University of Chicago, Chicago, Illinois," federalreserve.\ngov (2002-11-08)',
   quote: 'Let me end my talk by abusing slightly my status as an official representative of the Federal Reserve System. I would like to say to Milton and Anna: Regarding the Great Depression. You\'re right, we did it. We\'re very sorry. But thanks to you, we won\'t do it again.'
 }, {
   figure: 'Ben Bernanke',
@@ -95,34 +95,34 @@ var Ben_Bernanke = [{
 }, {
   figure: 'Ben Bernanke',
   mark: 'The Federal Reserve and the Financial Crisis (2012). Lecture 2: The Federal Reserve after World War II',
-  quote: 'I want to make sure you keep your eyes on the ball, that is, the two basic missions of a central bank. The first is maintaining macroeconomic stability: maintaining stable growth and keeping inflation low and stable. The principal policy tool for maintaining macroeconomic stability is monetary policy. In normal times, the Fed and other central banks use open market operations—purchases and sales of securities in markets—to move interest rates up or down, and in doing so try to create a more stable macroeconomic environment.The second part of a central bank\'s mission is maintaining financial stability. Central banks are focused on trying to ensure that the financial system functions properly, and in particular, they want to prevent, if possible, and if not, to mitigate the effects of a financial crisis or a financial panic.'
+  quote: 'I want to make sure you keep your eyes on the ball, that is, the two basic missions of a central bank. The first is maintaining macroeconomic stability: maintaining stable growth and keeping inflation low and stable. The principal policy tool for maintaining macroeconomic stability is monetary policy. In normal times, the Fed and other central banks use open market operations—purchases and sales of securities in markets—to move interest rates up or down, and in doing so try to create a more stable macroeconomic environment.\nThe second part of a central bank\'s mission is maintaining financial stability. Central banks are focused on trying to ensure that the financial system functions properly, and in particular, they want to prevent, if possible, and if not, to mitigate the effects of a financial crisis or a financial panic.'
 }, {
   figure: 'Ben Bernanke',
   mark: 'The Federal Reserve and the Financial Crisis (2012). Lecture 3: The Federal Reserve\'s Response to the Financial Crisis',
-  quote: 'We did stop the meltdown. We avoided what would have been, I think, a collapse of the global financial system. That was obviously a good thing. But one thing that I was always sure of and the Federal Reserve was always sure of was that a collapse of some of these big financial firms was going to have very serious collateral consequences. There were people arguing even as late as September 2008, “Well, why don\'t you just let the firms collapse? There is a system that can take care of it: bankruptcy. Why don\'t you let them fail?” We never thought that was a good option. Particularly, if the whole system had collapsed, we would have had extraordinarily serious consequences.'
+  quote: 'We did stop the meltdown. We avoided what would have been, I think, a collapse of the global financial system. That was obviously a good thing. But one thing that I was always sure of and the Federal Reserve was always sure of was that a collapse of some of these big financial firms was going to have very serious collateral consequences. There were people arguing even as late as 200809, “Well, why don\'t you just let the firms collapse? There is a system that can take care of it: bankruptcy. Why don\'t you let them fail?” We never thought that was a good option. Particularly, if the whole system had collapsed, we would have had extraordinarily serious consequences.'
 }, {
   figure: 'Ben Bernanke',
   mark: 'The Federal Reserve and the Financial Crisis (2012). Lecture 4: The Aftermath of the Crisis',
   quote: 'Obviously, based on the crisis and what happened and the effects that we\'re still feeling, it\'s now clear that maintaining financial stability is just as an important a responsibility as monetary and economic stability. And indeed, this is, you know, very much a return to the—where the Fed came from in the beginning. Remember the reason that Fed was created was to try to reduce the incidents of financial panics, so financial stability was the original goal of creation of the Fed. So now we sort of come full circle.'
-}]
+}];
 
 var Ben_Horowitz = [{
   figure: 'Ben Horowitz',
-  mark: 'Ben Horowitz, "What’s The Most Difficult CEO Skill? Managing Your Own Psychology," at bhorowitz.com, 20110331.',
-  quote: 'By far the most difficult skill I learned as a C.E.O. was the ability to manage my own psychology. Organizational design, process design, metrics, hiring and firing were all relatively straightforward skills to master compared with keeping my mind in check.'
+  mark: 'Ben Horowitz, "What’s The Most Difficult CEO Skill? Managing Your Own Psychology," at bhorowitz.\ncom, 20110331.',
+  quote: 'By far the most difficult skill I learned as a C.\nE.\nO. was the ability to manage my own psychology. Organizational design, process design, metrics, hiring and firing were all relatively straightforward skills to master compared with keeping my mind in check.'
 }, {
   figure: 'Ben Horowitz',
-  mark: 'Ben Horowitz, "The Fine Line Between Fear and Courage," at bhorowitz.com, 20110807.',
-  quote: 'In life, everybody faces choices between doing what\'s popular, easy, and wrong vs. doing what\'s lonely, difficult, and right. These decisions intensify when you run a company, because the consequences get magnified 1,000 fold. As in life, the excuses for CEOs making the wrong choice are always plentiful.'
+  mark: 'Ben Horowitz, "The Fine Line Between Fear and Courage," at bhorowitz.\ncom, 20110807.',
+  quote: 'In life, everybody faces choices between doing what\'s popular, easy, and wrong vs. doing what\'s lonely, difficult, and right. These decisions intensify when you run a company, because the consequences get magnified 1,\n000 fold. As in life, the excuses for CEOs making the wrong choice are always plentiful.'
 }, {
   figure: 'Ben Horowitz',
-  mark: 'Ben Horowitz in: Ben Parr, "VC Ben Horowitz Says Founders Make Best Startup CEOs," at mashable.com, 2011/10/18',
+  mark: 'Ben Horowitz in: Ben Parr, "VC Ben Horowitz Says Founders Make Best Startup CEOs," at mashable.\ncom, 2011/10/18',
   quote: 'It helps to have founded and run a company if you\'re going to help somebody run a company who is a founder.'
 }, {
   figure: 'Ben Horowitz',
   mark: 'Ben Horowitz in: Maria Bartiromo, "Maria Bartiromo interviews tech investor Ben Horowitz," for USA TODAY, 2/20/2012.',
   quote: 'The important thing about mobile is, everybody has a computer in their pocket. The implications of so many people connected to the Internet all the time from the standpoint of education is incredible.'
-}]
+}];
 
 var Benjamin_Graham = [{
   figure: 'Benjamin Graham',
@@ -131,7 +131,7 @@ var Benjamin_Graham = [{
 }, {
   figure: 'Benjamin Graham',
   mark: 'Storage and Stability (1937). Preface, p. vii',
-  quote: 'The idea of storage as a solution of economic problems at least has the support of common sense.It is diametrically opposed to the topsy-turvy Alice-in-Wonderland reasoning that has marked so much of our depression thinking and policy.'
+  quote: 'The idea of storage as a solution of economic problems at least has the support of common sense.\nIt is diametrically opposed to the topsy-turvy Alice-in-Wonderland reasoning that has marked so much of our depression thinking and policy.'
 }, {
   figure: 'Benjamin Graham',
   mark: 'Storage and Stability (1937). P1Ch1. The Changing Role of Surplus Stocks, p4',
@@ -170,7 +170,7 @@ var Benjamin_Graham = [{
   quote: 'The existence of such a war chest might go far to strengthen our prestige and frighten off any would be assailant.'
 }, {
   figure: 'Benjamin Graham',
-  mark: 'Storage and Stability (1937). P2Ch8. Ultimate Uses of the Stored Units, p103',
+  mark: 'Storage and Stability (1937). P2Ch8. \nUltimate Uses of the Stored Units, p103',
   quote: 'Both a priori reasoning and experience teach us that as as these funds grow larger the geometrical rate of growth by compound interest ultimately defeats itself.'
 }, {
   figure: 'Benjamin Graham',
@@ -295,7 +295,7 @@ var Benjamin_Graham = [{
 }, {
   figure: 'Benjamin Graham',
   mark: 'The Intelligent Investor: The Classic Text on Value Investing (1949). Ch2. The Investor and Stock-Market Fluctuations, p39',
-  quote: 'If General Motors is worth $60 a share to an investor it must be because the full common-stock ownership of this gigantic enterprise as a whole is worth 43 million (shares) times $60, or no less than $2,600 million.'
+  quote: 'If General Motors is worth $60 a share to an investor it must be because the full common-stock ownership of this gigantic enterprise as a whole is worth 43 million (shares) times $60, or no less than $2,\n600 million.'
 }, {
   figure: 'Benjamin Graham',
   mark: 'The Intelligent Investor: The Classic Text on Value Investing (1949). Ch2. The Investor and Stock-Market Fluctuations, p40',
@@ -364,7 +364,7 @@ var Benjamin_Graham = [{
   figure: 'Benjamin Graham',
   mark: 'The Intelligent Investor (1973) (Fourth Revised Edition). Ch20. "Margin of Safety": The Central Concept, p287',
   quote: 'To achieve satisfactory investment results is easier than most people realize; to achieve superior results is harder than it looks.'
-}]
+}];
 
 var Ed_Seykota = [{
   figure: 'Ed Seykota',
@@ -425,12 +425,12 @@ var Ed_Seykota = [{
 }, {
   figure: 'Ed Seykota',
   mark: 'Source: FAQ',
-  quote: 'Our work is not so much to treat or to cure feelings, as to accept and celebrate them.  This is a critical difference.Fundamentalists figure things out and anticipate change. Trend followers join the trend of the moment. Fundamentalists try to solve their feelings. Trend followers join their feelings and observe them evolve and dis-solve.The feelings we accept and enjoy rarely interfere with trading.Trying to treat or cure feelings adds mass.'
+  quote: 'Our work is not so much to treat or to cure feelings, as to accept and celebrate them.  This is a critical difference.\nFundamentalists figure things out and anticipate change. Trend followers join the trend of the moment. Fundamentalists try to solve their feelings. Trend followers join their feelings and observe them evolve and dis-solve.\nThe feelings we accept and enjoy rarely interfere with trading.\nTrying to treat or cure feelings adds mass.'
 }, {
   figure: 'Ed Seykota',
   mark: 'Source: FAQ - Fri, 20031031 Thought Processes',
   quote: 'When a feeling dissolves, it ceases to be your enemy and begins to be one of your allies.'
-}]
+}];
 
 var George_Soros = [{
   figure: 'George Soros',
@@ -447,14 +447,14 @@ var George_Soros = [{
 }, {
   figure: 'George Soros',
   mark: '"The Bubble of American Supremacy" in The Atlantic Monthly (200312), p63 - 66',
-  quote: 'The supremacist ideology of the Bush Administration stands in opposition to the principles of an open society, which recognize that people have different views and that nobody is in possession of the ultimate truth. The supremacist ideology postulates that just because we are stronger than others, we know better and have right on our side. The very first sentence of the September 2002 National Security Strategy (the President\'s annual laying out to Congress of the country\'s security objectives) reads, "The great struggles of the twentieth century between liberty and totalitarianism ended with a decisive victory for the forces of freedom and a single sustainable model for national success: freedom, democracy, and free enterprise." The assumptions behind this statement are false on two counts. First, there is no single sustainable model for national success. Second, the American model, which has indeed been successful, is not available to others, because our success depends greatly on our dominant position at the center of the global capitalist system, and we are not willing to yield it.'
+  quote: 'The supremacist ideology of the Bush Administration stands in opposition to the principles of an open society, which recognize that people have different views and that nobody is in possession of the ultimate truth. The supremacist ideology postulates that just because we are stronger than others, we know better and have right on our side. The very first sentence of the 200209 National Security Strategy (the President\'s annual laying out to Congress of the country\'s security objectives) reads, "The great struggles of the twentieth century between liberty and totalitarianism ended with a decisive victory for the forces of freedom and a single sustainable model for national success: freedom, democracy, and free enterprise." The assumptions behind this statement are false on two counts. First, there is no single sustainable model for national success. Second, the American model, which has indeed been successful, is not available to others, because our success depends greatly on our dominant position at the center of the global capitalist system, and we are not willing to yield it.'
 }, {
   figure: 'George Soros',
   mark: '"How Terrorism\'s Victims Became Perpetrators" (200404)',
-  quote: 'Americans, sadly, are now victims who have turned into perpetrators. Indeed, since September 2001, the war on terror has claimed more innocent victims than those terrorist attacks. This fact is unrecognized at home because the victims of the war on terror are not Americans. But the rest of the world does not draw the same distinction, and world opinion has turned against America.'
+  quote: 'Americans, sadly, are now victims who have turned into perpetrators. Indeed, since 200109, the war on terror has claimed more innocent victims than those terrorist attacks. This fact is unrecognized at home because the victims of the war on terror are not Americans. But the rest of the world does not draw the same distinction, and world opinion has turned against America.'
 }, {
   figure: 'George Soros',
-  mark: 'As quoted in "Great Money Minds" by Chris Stallman at TeenAnalyst.com (20050505)',
+  mark: 'As quoted in "Great Money Minds" by Chris Stallman at TeenAnalyst.\ncom (20050505)',
   quote: 'Markets are constantly in a state of uncertainty and flux and money is made by discounting the obvious and betting on the unexpected.'
 }, {
   figure: 'George Soros',
@@ -474,7 +474,7 @@ var George_Soros = [{
   quote: 'Esperanto was a very useful language, because wherever you went, you found someone to speak with.'
 }, {
   figure: 'George Soros',
-  mark: 'nybooks.com',
+  mark: 'nybooks.\ncom',
   quote: 'So the euro is here to stay, and the arrangements that evolved in response to the crisis have become established as the new order governing the eurozone. This confirms my worst fears. It’s the nightmare I’ve been talking about. I’m hopeful that the Russian invasion of Crimea may serve as a wake-up call. Germany is the only country in a position to change the prevailing order.'
 }, {
   figure: 'George Soros',
@@ -756,7 +756,7 @@ var George_Soros = [{
   figure: 'George Soros',
   mark: 'On China (2019)',
   quote: 'China isn’t the only authoritarian regime in the world, but it’s undoubtedly the wealthiest, strongest and most developed in machine learning and artificial intelligence. This makes Xi Jinping the most dangerous opponent of those who believe in the concept of open society.'
-}]
+}];
 
 var Henry_Kaufman = [{
   figure: 'Henry Kaufman',
@@ -773,7 +773,7 @@ var Henry_Kaufman = [{
 }, {
   figure: 'Henry Kaufman',
   mark: 'Interest Rates, the Markets, and the New Financial World (1986)',
-  quote: 'Often the real value of management decisions does not become apparent until many years later.Perhaps what we should do is try to analyze the impact of decisions in any one period on longer-term performance. In the political arena, for example, why should we emphasize the skill and acumen of national policy-makers only on the new initiatives they introduce and legislate? Sometimes the events that do not materialize are more important than those that do. We should try to ascertain what decisions political leaders are undertaking that will benefit their nations subsequent to their terms in office.'
+  quote: 'Often the real value of management decisions does not become apparent until many years later.\nPerhaps what we should do is try to analyze the impact of decisions in any one period on longer-term performance. In the political arena, for example, why should we emphasize the skill and acumen of national policy-makers only on the new initiatives they introduce and legislate? Sometimes the events that do not materialize are more important than those that do. We should try to ascertain what decisions political leaders are undertaking that will benefit their nations subsequent to their terms in office.'
 }, {
   figure: 'Henry Kaufman',
   mark: 'On Money and Markets (2000)',
@@ -805,7 +805,7 @@ var Henry_Kaufman = [{
 }, {
   figure: 'Henry Kaufman',
   mark: 'On Money and Markets (2000)',
-  quote: 'Billy Salomon... along with Charles Simon and Sidney Homer predicted... that research would become a critical function of the firm. ... Sidney was given a free hand in creating a bond market research operation. Years later, he wrote a... memoir... Fun with Bonds. Sidney was taken into the firm as a general partner when he was nearly 60 years old. ...such a step would be impossible today ...Sidney wrote with great clarity. ...I later came to appreciate his great historical sensibilities when he asked me to review and edit a draft of a book... A History of Interest Rates... covering 40 centuries and 40 nations.When Sidney and I met... he was looking for an assistant to help him build a research department devoted solely to money and bond markets.'
+  quote: 'Billy Salomon... along with Charles Simon and Sidney Homer predicted... that research would become a critical function of the firm. ... Sidney was given a free hand in creating a bond market research operation. Years later, he wrote a... memoir... Fun with Bonds. Sidney was taken into the firm as a general partner when he was nearly 60 years old. ...such a step would be impossible today ...Sidney wrote with great clarity. ...I later came to appreciate his great historical sensibilities when he asked me to review and edit a draft of a book... A History of Interest Rates... covering 40 centuries and 40 nations.\nWhen Sidney and I met... he was looking for an assistant to help him build a research department devoted solely to money and bond markets.'
 }, {
   figure: 'Henry Kaufman',
   mark: 'On Money and Markets (2000)',
@@ -813,7 +813,7 @@ var Henry_Kaufman = [{
 }, {
   figure: 'Henry Kaufman',
   mark: 'On Money and Markets (2000)',
-  quote: 'In 1900, two-thirds of the nation\'s... citizens still lived in rural communities... But that was changing rapidly (by 1920 more than half of all Americans lived in cities), thanks in large part to the explosive growth of manufacturing. ...[T]wo-thirds of the nation\'s output was in manufactured goods, even though manufacturing employed less than a quarter of the work force. The average plant producing petroleum, iron and steel, and textiles (the three leading industries)... were belied by the behemoth factories... Carnegie... christened the new century by selling his sprawling steel interests to J. P. Morgan, who promptly assembled the $1.4 billion United States Steel Corporation in 1901, the nation\'s first billion-dollar industry.Still, American manufacturing was then churning out a tiny fraction—roughly 1 percent...—of what today\'s cleaner and enormously more efficient plants produce.'
+  quote: 'In 1900, two-thirds of the nation\'s... citizens still lived in rural communities... But that was changing rapidly (by 1920 more than half of all Americans lived in cities), thanks in large part to the explosive growth of manufacturing. ...[T]wo-thirds of the nation\'s output was in manufactured goods, even though manufacturing employed less than a quarter of the work force. The average plant producing petroleum, iron and steel, and textiles (the three leading industries)... were belied by the behemoth factories... Carnegie... christened the new century by selling his sprawling steel interests to J. P. Morgan, who promptly assembled the $1.\n4 billion United States Steel Corporation in 1901, the nation\'s first billion-dollar industry.\nStill, American manufacturing was then churning out a tiny fraction—roughly 1 percent...—of what today\'s cleaner and enormously more efficient plants produce.'
 }, {
   figure: 'Henry Kaufman',
   mark: 'On Money and Markets (2000)',
@@ -829,7 +829,7 @@ var Henry_Kaufman = [{
 }, {
   figure: 'Henry Kaufman',
   mark: 'On Money and Markets (2000)',
-  quote: '[D]uring the Progressive Era... the federal government took large strides to regulate corporate America. ...[T]he federal government managed to break up several trusts (including the Northern Securities Company, American Tobacco, and Standard Oil) and to establish the Federal Trade Commission and the Federal Reserve.In our time, business consolidation is evoking no similar reaction.'
+  quote: '[D]uring the Progressive Era... the federal government took large strides to regulate corporate America. ...[T]he federal government managed to break up several trusts (including the Northern Securities Company, American Tobacco, and Standard Oil) and to establish the Federal Trade Commission and the Federal Reserve.\nIn our time, business consolidation is evoking no similar reaction.'
 }, {
   figure: 'Henry Kaufman',
   mark: 'On Money and Markets (2000)',
@@ -858,7 +858,7 @@ var Henry_Kaufman = [{
   figure: 'Henry Kaufman',
   mark: 'On Money and Markets (2000)',
   quote: '[F]inancial markets are... a microcosm of the people and societies they serve. ...The extremes of market movements reflect the extremes of human nature and human emotion—from optimism and elation to pessimism and despair. In financial markets—as in life—rationality prevails most of the time.'
-}]
+}];
 
 var Henry_S_Haskins = [{
   figure: 'Henry S. Haskins',
@@ -1200,7 +1200,7 @@ var Henry_S_Haskins = [{
   figure: 'Henry S. Haskins',
   mark: 'Meditations in Wall Street (1940). p146',
   quote: 'For a competent audience, uncommon men must have other uncommon men.'
-}]
+}];
 
 var Kenneth_Griffin = [{
   figure: 'Kenneth Griffin',
@@ -1246,13 +1246,13 @@ var Kenneth_Griffin = [{
   figure: 'Kenneth Griffin',
   mark: '"A Wishlist for Fixing Wall Street," New York Times (20080513).',
   quote: 'The investment banks should either choose to be regulated as banks or should arrange to conduct their affairs to not require the stop-gap support of the Federal Reserve.'
-}]
+}];
 
 var Mary_Meeker = [{
   figure: 'Mary Meeker',
   mark: 'Newsweek: "Climbing Back Up" (20040829)',
   quote: 'One of the greatest investments of our lifetime has been New York City real estate, and investors made the highest returns when they bought stuff during the 1970s and 1980s when people were getting mugged. The lesson is that you make the most money when you buy stuff that\'s out of consensus.'
-}]
+}];
 
 var Nassim_Nicholas_Taleb = [{
   figure: 'Nassim Nicholas Taleb',
@@ -1401,7 +1401,7 @@ var Nassim_Nicholas_Taleb = [{
 }, {
   figure: 'Nassim Nicholas Taleb',
   mark: 'Fooled by Randomness (2001). Six: Skewness and Symmetry | Almost Everyone is Above Average',
-  quote: 'Sometimes market data becomes a simple trap; it shows you the opposite of its nature... [e.g.,] Currencies that exhibit the largest historical stability... are the most prone to crashes.'
+  quote: 'Sometimes market data becomes a simple trap; it shows you the opposite of its nature... [e.\ng.,] Currencies that exhibit the largest historical stability... are the most prone to crashes.'
 }, {
   figure: 'Nassim Nicholas Taleb',
   mark: 'Fooled by Randomness (2001). Six: Skewness and Symmetry | Almost Everyone is Above Average',
@@ -1429,7 +1429,7 @@ var Nassim_Nicholas_Taleb = [{
 }, {
   figure: 'Nassim Nicholas Taleb',
   mark: 'Fooled by Randomness (2001). Seven: The Problem of Induction | From Bacon to Hume | Neiderhoffer',
-  quote: 'Maximizing the probability of winning does not lead to maximizing the expectation from the game when one\'s strategy may include skewness, i.e., a small chance of a large loss and a large chance of a small win. If you engaged in a Russian Roulette-type strategy... you are likely to show up as the winner in almost all samples—except in the year when you are dead.'
+  quote: 'Maximizing the probability of winning does not lead to maximizing the expectation from the game when one\'s strategy may include skewness, i.\ne., a small chance of a large loss and a large chance of a small win. If you engaged in a Russian Roulette-type strategy... you are likely to show up as the winner in almost all samples—except in the year when you are dead.'
 }, {
   figure: 'Nassim Nicholas Taleb',
   mark: 'Fooled by Randomness (2001). Seven: The Problem of Induction | Sir Karl\'s Promoting Agent | Nobody is Perfect',
@@ -1469,11 +1469,11 @@ var Nassim_Nicholas_Taleb = [{
 }, {
   figure: 'Nassim Nicholas Taleb',
   mark: 'Fooled by Randomness (2001). Nine: It is Easier to Buy and Sell than to Fry an Egg | Fooled by the Numbers | Placebo Investors',
-  quote: 'Let us use 10,000 fictional investment managers... [O]nce a manager has a single bad year, he is thrown out of the sample. ...[T]oss a coin; heads and the manager will make $10,000 over the year, tails and he will lose $10,000. ...We have, in a fair game, 313 managers who made money five years in a row. ...[I]f we throw one of these ...into the real world we would get ...comments on his remarkable style, his incisive mind... His biographer will dwell on ...a great mind in the making. ...[S]hould he stop performing (...his odds ...have stayed at 50%) they would start ...finding fault with his dissipated lifestyle. They will find something he stopped doing, and attribute his failure... The truth ...he simply ran out of luck.'
+  quote: 'Let us use 10,\n000 fictional investment managers... [O]nce a manager has a single bad year, he is thrown out of the sample. ...[T]oss a coin; heads and the manager will make $10,\n000 over the year, tails and he will lose $10,\n000. ...We have, in a fair game, 313 managers who made money five years in a row. ...[I]f we throw one of these ...into the real world we would get ...comments on his remarkable style, his incisive mind... His biographer will dwell on ...a great mind in the making. ...[S]hould he stop performing (...his odds ...have stayed at 50%) they would start ...finding fault with his dissipated lifestyle. They will find something he stopped doing, and attribute his failure... The truth ...he simply ran out of luck.'
 }, {
   figure: 'Nassim Nicholas Taleb',
   mark: 'Fooled by Randomness (2001). Nine: It is Easier to Buy and Sell than to Fry an Egg | Fooled by the Numbers | Ergodicity',
-  quote: 'The information that a person derived some profit in the past... by itself, is neither meaningful nor relevant. We need to know the size of the population from which he came. If the initial population is 10,000 managers, I would ignore the results.'
+  quote: 'The information that a person derived some profit in the past... by itself, is neither meaningful nor relevant. We need to know the size of the population from which he came. If the initial population is 10,\n000 managers, I would ignore the results.'
 }, {
   figure: 'Nassim Nicholas Taleb',
   mark: 'Fooled by Randomness (2001). Nine: It is Easier to Buy and Sell than to Fry an Egg | Comparative Luck | Professor Pearson Goes to Monte Carlo (Literally): Randomness does not Look Random!',
@@ -1545,7 +1545,7 @@ var Nassim_Nicholas_Taleb = [{
 }, {
   figure: 'Nassim Nicholas Taleb',
   mark: 'The Black Swan: The Impact of the Highly Improbable (2007). p127',
-  quote: 'The casino is the only human venture I know where the probabilities are known, Gaussian (i.e., bell-curve), and almost computable.'
+  quote: 'The casino is the only human venture I know where the probabilities are known, Gaussian (i.\ne., bell-curve), and almost computable.'
 }, {
   figure: 'Nassim Nicholas Taleb',
   mark: 'The Black Swan: The Impact of the Highly Improbable (2007). p128',
@@ -2006,7 +2006,7 @@ var Nassim_Nicholas_Taleb = [{
   figure: 'Nassim Nicholas Taleb',
   mark: 'Skin in the Game (2018)',
   quote: 'You can be an intellectual yet still be an idiot. \'Educated philistines\' have been wrong on everything from Stalinism to Iraq to low-carb diets.'
-}]
+}];
 
 var Robert_Haugen = [{
   figure: 'Robert Haugen',
@@ -2060,22 +2060,22 @@ var Robert_Haugen = [{
   figure: 'Robert Haugen',
   mark: 'The Inefficient Stock Market - What Pays Off And Why (1999). Ch15. The Wrong 20-yard Line, p148',
   quote: 'So you see, in the end, it is nearly certain that the power of prediction must triumph over the arrogance of elegance.'
-}]
+}];
 
-var The_Wolf_of_Wall_Street_2013_film = [{
+var The_Wolf_of_Wall_Street = [{
   figure: 'The Wolf of Wall Street (2013 film)',
   mark: '',
   quote: 'Oh my God, the emperor of Fucksville came down from Fucksville to give me a pass! Hey, what are the citizens of Fucksville doing today when their emperor\'s gone? Is it, is it mayhem? Are people looting and raping? What are all the little fuckheads doing while you\'re here?'
-}]
+}];
 
 var Warren_Buffett = [{
   figure: 'Warren Buffett',
   mark: 'Interview in Forbes magazine (19741101)',
-  quote: 'I call investing the greatest business in the world … because you never have to swing. You stand at the plate, the pitcher throws you General Motors at 47! U.S. Steel at 39! and nobody calls a strike on you. There\'s no penalty except opportunity lost. All day you wait for the pitch you like; then when the fielders are asleep, you step up and hit it.'
+  quote: 'I call investing the greatest business in the world … because you never have to swing. You stand at the plate, the pitcher throws you General Motors at 47! U.\nS. Steel at 39! and nobody calls a strike on you. There\'s no penalty except opportunity lost. All day you wait for the pitch you like; then when the fielders are asleep, you step up and hit it.'
 }, {
   figure: 'Warren Buffett',
   mark: 'On being dispassionate and patient in investments, in an interview in Forbes magazine (19741101); he is contrasting soft-drinks to intoxicating beverages in this example; Buffett eventually became a major investor in Coca-Cola.',
-  quote: 'You\'re dealing with a lot of silly people in the marketplace; it\'s like a great big casino and everyone else is boozing. If you can stick with Pepsi, you should be O.K.'
+  quote: 'You\'re dealing with a lot of silly people in the marketplace; it\'s like a great big casino and everyone else is boozing. If you can stick with Pepsi, you should be O.\nK.'
 }, {
   figure: 'Warren Buffett',
   mark: 'Interview in Forbes magazine (19741101)',
@@ -2107,11 +2107,11 @@ var Warren_Buffett = [{
 }, {
   figure: 'Warren Buffett',
   mark: 'As quoted in Warren Buffett Speaks: Wit and Wisdom from the World\'s Greatest Investor (1997) by Janet C. Lowe, p165-166',
-  quote: 'I don\'t have a problem with guilt about money. The way I see it is that my money represents an enormous number of claim checks on society. It is like I have these little pieces of paper that I can turn into consumption. If I wanted to, I could hire 10,000 people to do nothing but paint my picture every day for the rest of my life. And the GNP would go up. But the utility of the product would be zilch, and I would be keeping those 10,000 people from doing AIDS research, or teaching, or nursing. I don\'t do that though. I don\'t use very many of those claim checks. There\'s nothing material I want very much. And I\'m going to give virtually all of those claim checks to charity when my wife and I die.'
+  quote: 'I don\'t have a problem with guilt about money. The way I see it is that my money represents an enormous number of claim checks on society. It is like I have these little pieces of paper that I can turn into consumption. If I wanted to, I could hire 10,\n000 people to do nothing but paint my picture every day for the rest of my life. And the GNP would go up. But the utility of the product would be zilch, and I would be keeping those 10,\n000 people from doing AIDS research, or teaching, or nursing. I don\'t do that though. I don\'t use very many of those claim checks. There\'s nothing material I want very much. And I\'m going to give virtually all of those claim checks to charity when my wife and I die.'
 }, {
   figure: 'Warren Buffett',
   mark: '1997 Berkshire Hathaway Annual Meeting, as quoted in Of Permanent Value : The Story of Warren Buffett, by Andrew Kilpatrick, Vol2. (2007), p1615',
-  quote: 'If you understood a business perfectly and the future of the business, you would need very little in the way of a margin of safety. So, the more vulnerable the business is, assuming you still want to invest in it, the larger margin of safety you\'d need. If you\'re driving a truck across a bridge that says it holds 10,000 pounds and you\'ve got a 9,800 pound vehicle, if the bridge is 6 inches above the crevice it covers, you may feel okay, but if it\'s over the Grand Canyon, you may feel you want a little larger margin of safety...'
+  quote: 'If you understood a business perfectly and the future of the business, you would need very little in the way of a margin of safety. So, the more vulnerable the business is, assuming you still want to invest in it, the larger margin of safety you\'d need. If you\'re driving a truck across a bridge that says it holds 10,\n000 pounds and you\'ve got a 9,\n800 pound vehicle, if the bridge is 6 inches above the crevice it covers, you may feel okay, but if it\'s over the Grand Canyon, you may feel you want a little larger margin of safety...'
 }, {
   figure: 'Warren Buffett',
   mark: 'As quoted in The Money Adventure (1998) by Egbert Sukop, p128',
@@ -2127,7 +2127,7 @@ var Warren_Buffett = [{
 }, {
   figure: 'Warren Buffett',
   mark: 'As quoted in Homespun Wisdom from the "Oracle of Omaha" by Amy Stone in BusinessWeek (19990605)',
-  quote: 'Success in investing doesn\'t correlate with I.Q. once you\'re above the level of 125. Once you have ordinary intelligence, what you need is the temperament to control the urges that get other people into trouble in investing.'
+  quote: 'Success in investing doesn\'t correlate with I.\nQ. once you\'re above the level of 125. Once you have ordinary intelligence, what you need is the temperament to control the urges that get other people into trouble in investing.'
 }, {
   figure: 'Warren Buffett',
   mark: 'As quoted in "Wisdom from the \'Oracle of Omaha\'" by Amy Stone in BusinessWeek (19990605)',
@@ -2174,7 +2174,7 @@ var Warren_Buffett = [{
   quote: 'You know, if I\'m playing bridge and a naked woman walks by, I don\'t ever see her — don\'t test me on that! … You know, I wouldn\'t mind going to jail if I had the right three cell mates, so we could play bridge all the time. … It takes some investment to play it … I mean, you cannot sit down and learn how to play it like most games. … There\'s a lotta lessons in it … you have to look at all the facts. You have to draw inferences from what you\'ve seen, what you\'ve heard. You have to discard improper theories about what the hand had as more evidence comes in sometimes. You have to be open to a possible change of course if you get new information. You have to work with a partner, particularly on defense.'
 }, {
   figure: 'Warren Buffett',
-  mark: 'As quoted in "My $650,100 Lunch with Warren Buffett" by Guy Spier, in TIME (20080630)',
+  mark: 'As quoted in "My $650,\n100 Lunch with Warren Buffett" by Guy Spier, in TIME (20080630)',
   quote: 'People will always try to stop you doing the right thing if it is unconventional.'
 }, {
   figure: 'Warren Buffett',
@@ -2182,12 +2182,12 @@ var Warren_Buffett = [{
   quote: 'You want to be greedy when others are fearful. You want to be fearful when others are greedy. It\'s that simple. … They\'re pretty fearful. In fact, in my adult lifetime, I don\'t think I\'ve ever seen people as fearful economically as they are right now.'
 }, {
   figure: 'Warren Buffett',
-  mark: 'In a panel discussion after the premier of the 2008 documentary I.O.U.S.A.. Panel at the Premier, 0:05:42ff., DVD extras, I.O.U.S.A. (2008)',
+  mark: 'In a panel discussion after the premier of the 2008 documentary I.\nO.\nU.\nS.\nA.. Panel at the Premier, 0:\n05:\n42ff., DVD extras, I.\nO.\nU.\nS.\nA. (2008)',
   quote: 'I try to buy stock in businesses that are so wonderful that an idiot can run them. Because sooner or later, one will.'
 }, {
   figure: 'Warren Buffett',
   mark: 'As quoted in "Rules That Warren Buffett Lives By" by  Stephanie Loiacono at Yahoo Finance (20100223)',
-  quote: 'Rule No.1: Never lose money. Rule No.2: Never forget rule No.1.'
+  quote: 'Rule No.\n1: Never lose money. Rule No.\n2: Never forget rule No.\n1.'
 }, {
   figure: 'Warren Buffett',
   mark: '"My Philanthropic Pledge" at  The Giving Pledge (2010)',
@@ -2195,14 +2195,14 @@ var Warren_Buffett = [{
 }, {
   figure: 'Warren Buffett',
   mark: '"My Philanthropic Pledge" at the  The Giving Pledge (2010)',
-  quote: 'Some material things make my life more enjoyable; many, however, would not. I like having an expensive private plane, but owning a half-dozen homes would be a burden. Too often, a vast collection of possessions ends up possessing its owner. The asset I most value, aside from health, is interesting, diverse, and long-standing friends.  My wealth has come from a combination of living in America, some lucky genes, and compound interest. Both my children and I won what I call the ovarian lottery. (For starters, the odds against my 1930 birth taking place in the U.S. were at least 30 to 1. My being male and white also removed huge obstacles that a majority of Americans then faced.) My luck was accentuated by my living in a market system that sometimes produces distorted results, though overall it serves our country well. I’ve worked in an economy that rewards someone who saves the lives of others on a battlefield with a medal, rewards a great teacher with thank-you notes from parents, but rewards those who can detect the mispricing of securities with sums reaching into the billions. In short, fate’s distribution of long straws is wildly capricious.The reaction of my family and me to our extraordinary good fortune is not guilt, but rather gratitude. Were we to use more than 1% of my claim checks on ourselves, neither our happiness nor our well-being would be enhanced. In contrast, that remaining 99% can have a huge effect on the health and welfare of others. That reality sets an obvious course for me and my family: Keep all we can conceivably need and distribute the rest to society, for its needs. My pledge starts us down that course.'
+  quote: 'Some material things make my life more enjoyable; many, however, would not. I like having an expensive private plane, but owning a half-dozen homes would be a burden. Too often, a vast collection of possessions ends up possessing its owner. The asset I most value, aside from health, is interesting, diverse, and long-standing friends.  My wealth has come from a combination of living in America, some lucky genes, and compound interest. Both my children and I won what I call the ovarian lottery. (For starters, the odds against my 1930 birth taking place in the U.\nS. were at least 30 to 1. My being male and white also removed huge obstacles that a majority of Americans then faced.) My luck was accentuated by my living in a market system that sometimes produces distorted results, though overall it serves our country well. I’ve worked in an economy that rewards someone who saves the lives of others on a battlefield with a medal, rewards a great teacher with thank-you notes from parents, but rewards those who can detect the mispricing of securities with sums reaching into the billions. In short, fate’s distribution of long straws is wildly capricious.\nThe reaction of my family and me to our extraordinary good fortune is not guilt, but rather gratitude. Were we to use more than 1% of my claim checks on ourselves, neither our happiness nor our well-being would be enhanced. In contrast, that remaining 99% can have a huge effect on the health and welfare of others. That reality sets an obvious course for me and my family: Keep all we can conceivably need and distribute the rest to society, for its needs. My pledge starts us down that course.'
 }, {
   figure: 'Warren Buffett',
   mark: 'Interview on CNBC (20110701)',
   quote: 'I could end the deficit in five minutes. You just pass a law that says that any time there\'s a deficit of more than 3% of GDP, all sitting members of Congress are ineligible for re-election.'
 }, {
   figure: 'Warren Buffett',
-  mark: '"Buffett on Bridge" at Buffetcup.com (2013)',
+  mark: '"Buffett on Bridge" at Buffetcup.\ncom (2013)',
   quote: 'The approach and strategies are very similar in that you gather all the information you can and then keep adding to that base of information as things develop. You do whatever the probabilities indicated based on the knowledge that you have at that time, but you are always willing to modify your behaviour or your approach as you get new information. In bridge, you behave in a way that gets the best from your partner. And in business, you behave in the way that gets the best from your managers and your employees.'
 }, {
   figure: 'Warren Buffett',
@@ -2315,7 +2315,7 @@ var Warren_Buffett = [{
 }, {
   figure: 'Warren Buffett',
   mark: 'Letters to Shareholders (1957 - 2012). 2000 Chairman\'s Letter',
-  quote: 'Instead, we try to apply Aesop\'s 2,600-year-old equation to opportunities in which we have reasonable confidence as to how many birds are in the bush and when they will emerge (a formulation that my grandsons would probably update to "A girl in a convertible is worth five in the phonebook.").'
+  quote: 'Instead, we try to apply Aesop\'s 2,\n600-year-old equation to opportunities in which we have reasonable confidence as to how many birds are in the bush and when they will emerge (a formulation that my grandsons would probably update to "A girl in a convertible is worth five in the phonebook.").'
 }, {
   figure: 'Warren Buffett',
   mark: 'Letters to Shareholders (1957 - 2012). 2000 Chairman\'s Letter',
@@ -2383,7 +2383,7 @@ var Warren_Buffett = [{
 }, {
   figure: 'Warren Buffett',
   mark: 'The Superinvestors of Graham-and-Doddsville (Fall, 1984)',
-  quote: '[T]he idea of buying dollar bills for 40 cents takes immediately with people or it doesn\'t take at all. It\'s like an inoculation. ...It doesn\'t seem to be a matter of I.Q. or academic training. It\'s instant recognition, or it\'s nothing.'
+  quote: '[T]he idea of buying dollar bills for 40 cents takes immediately with people or it doesn\'t take at all. It\'s like an inoculation. ...It doesn\'t seem to be a matter of I.\nQ. or academic training. It\'s instant recognition, or it\'s nothing.'
 }, {
   figure: 'Warren Buffett',
   mark: 'The Superinvestors of Graham-and-Doddsville (Fall, 1984)',
@@ -2427,31 +2427,31 @@ var Warren_Buffett = [{
 }, {
   figure: 'Warren Buffett',
   mark: 'Quotes from the press',
-  quote: 'Risk comes from not knowing what you’re doing. "The Three Essential Warren Buffett Quotes To Live By" forbes.com (20 April 2014)'
+  quote: 'Risk comes from not knowing what you’re doing. "The Three Essential Warren Buffett Quotes To Live By" forbes.\ncom (20140420)'
 }, {
   figure: 'Warren Buffett',
   mark: 'Quotes from the press',
-  quote: 'We\'re going to move a lot of crude (oil) in this country, and we have to learn how to do it very safely. "Buffett: Moving Oil By Rail Safely Is A Major Industry Concern" Investing.com (24 April 2014)'
+  quote: 'We\'re going to move a lot of crude (oil) in this country, and we have to learn how to do it very safely. "Buffett: Moving Oil By Rail Safely Is A Major Industry Concern" Investing.\ncom (20140424)'
 }, {
   figure: 'Warren Buffett',
   mark: 'Quotes from the press',
-  quote: 'You can’t make a good deal with a bad person. "23 Quotes from Warren Buffett on Life and Generosity" forbes.com (02 December 2013)'
+  quote: 'You can’t make a good deal with a bad person. "23 Quotes from Warren Buffett on Life and Generosity" forbes.\ncom (20131202)'
 }, {
   figure: 'Warren Buffett',
   mark: 'Quotes from the press',
-  quote: 'Opportunities come infrequently. When it rains gold, put out the bucket, not the thimble. "25 Best Warren Buffett Quotes" The Motley Fool (28 September 2014)'
+  quote: 'Opportunities come infrequently. When it rains gold, put out the bucket, not the thimble. "25 Best Warren Buffett Quotes" The Motley Fool (20140928)'
 }, {
   figure: 'Warren Buffett',
   mark: 'Quotes from the press',
-  quote: 'What counts for most people in investing is not how much they know, but rather how realistically they define what they don\'t know. "The genius of Warren Buffett in 23 quotes" MarketWatch (19 August 2015)'
+  quote: 'What counts for most people in investing is not how much they know, but rather how realistically they define what they don\'t know. "The genius of Warren Buffett in 23 quotes" MarketWatch (20150819)'
 }, {
   figure: 'Warren Buffett',
   mark: 'Quotes from the press',
-  quote: 'I insist on a lot of time being spent, almost every day, to just sit and think. That is very uncommon in American business. I read and think. So I do more reading and thinking, and make less impulse decisions than most people in business. I do it because I like this kind of life. "10 Brilliant Quotes From Warren Buffett, America\'s Second-Richest Person " entrepreneur.com (13 November 2014)'
+  quote: 'I insist on a lot of time being spent, almost every day, to just sit and think. That is very uncommon in American business. I read and think. So I do more reading and thinking, and make less impulse decisions than most people in business. I do it because I like this kind of life. "10 Brilliant Quotes From Warren Buffett, America\'s Second-Richest Person " entrepreneur.\ncom (20141113)'
 }, {
   figure: 'Warren Buffett',
   mark: 'Quotes from the press',
-  quote: 'The best thing that happens to us is when a great company gets into temporary trouble... We want to buy them when they\'re on the operating table. "Homespun Wisdom from the \'Oracle of Omaha\'" Businessweek (5 July 1999)[dead link]'
+  quote: 'The best thing that happens to us is when a great company gets into temporary trouble... We want to buy them when they\'re on the operating table. "Homespun Wisdom from the \'Oracle of Omaha\'" Businessweek (19990705)[dead link]'
 }, {
   figure: 'Warren Buffett',
   mark: 'Rules for success',
@@ -2488,10 +2488,10 @@ var Warren_Buffett = [{
   figure: 'Warren Buffett',
   mark: 'Other',
   quote: 'Confidence comes back one at a time, but fear, is instantaneous.'
-}]
+}];
 
 const Quotes = {
-  Aaron_Brown_financial_author,
+  Aaron_Brown,
   Ben_Bernanke,
   Ben_Horowitz,
   Benjamin_Graham,
@@ -2503,8 +2503,8 @@ const Quotes = {
   Mary_Meeker,
   Nassim_Nicholas_Taleb,
   Robert_Haugen,
-  The_Wolf_of_Wall_Street_2013_film,
+  The_Wolf_of_Wall_Street,
   Warren_Buffett
-}
+};
 
-exports.Quotes = Quotes
+exports.Quotes = Quotes;
