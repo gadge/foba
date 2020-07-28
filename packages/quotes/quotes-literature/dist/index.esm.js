@@ -1,3 +1,5 @@
+import { FlopShuffleMaker } from '@foba/util-quotes';
+
 var Aaron_Sorkin = [{
   figure: 'Aaron Sorkin',
   mark: 'The Colbert Report at 7m35s. Aired 2010/09/30, retrieved 2010/10/16.',
@@ -4046,5 +4048,8 @@ const Quotes = {
   Victor_Hugo,
   William_Shakespeare
 };
+
+FlopShuffleMaker.defineFlopShuffle(Quotes);
+FlopShuffleMaker.defineFlop(Quotes);
 
 export { Quotes };

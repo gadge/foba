@@ -2,6 +2,8 @@
 
 Object.defineProperty(exports, '__esModule', { value: true });
 
+var utilQuotes = require('@foba/util-quotes');
+
 var Aaron_Sorkin = [{
   figure: 'Aaron Sorkin',
   mark: 'The Colbert Report at 7m35s. Aired 2010/09/30, retrieved 2010/10/16.',
@@ -4050,5 +4052,8 @@ const Quotes = {
   Victor_Hugo,
   William_Shakespeare
 };
+
+utilQuotes.FlopShuffleMaker.defineFlopShuffle(Quotes);
+utilQuotes.FlopShuffleMaker.defineFlop(Quotes);
 
 exports.Quotes = Quotes;

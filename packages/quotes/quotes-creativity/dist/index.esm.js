@@ -1,3 +1,5 @@
+import { FlopShuffleMaker } from '@foba/util-quotes';
+
 var Anna_Sui = [{
   figure: 'Anna Sui',
   mark: 'via Gerston, Jill. The Toast of New York: Anna Sui Mixes Grunge With Disco. Los Angeles Times (19921113).',
@@ -574,6 +576,15 @@ var Yves_Saint_Laurent = [{
   quote: 'The most beautiful makeup of a woman is passion. But cosmetics are easier to buy.'
 }];
 
+/**
+ * @property {Function|function(Object):{}} flop
+ * @property {Function|function(Object):{}[]} flopShuffle
+ * @param flop.key
+ * @param flop.size
+ * @param flopShuffle.key
+ * @param flopShuffle.size
+ */
+
 const Quotes = {
   Anna_Sui,
   Christian_Dior,
@@ -586,5 +597,8 @@ const Quotes = {
   Yohji_Yamamoto,
   Yves_Saint_Laurent
 };
+
+FlopShuffleMaker.defineFlopShuffle(Quotes);
+FlopShuffleMaker.defineFlop(Quotes);
 
 export { Quotes };

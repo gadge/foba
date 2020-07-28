@@ -1,3 +1,5 @@
+import { FlopShuffleMaker } from '@foba/util-quotes';
+
 var Alfred_P_Sloan = [{
   figure: 'Alfred P. Sloan',
   mark: 'Alfred P. Sloan in: Industrial Digest and Commidities and Finance, (1925), Vol4.. p16',
@@ -2653,5 +2655,8 @@ const Quotes = {
   Steve_Jobs,
   Walt_Disney
 };
+
+FlopShuffleMaker.defineFlopShuffle(Quotes);
+FlopShuffleMaker.defineFlop(Quotes);
 
 export { Quotes };

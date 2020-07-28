@@ -17,6 +17,7 @@
   "devDependencies": {
     "@analys/crostab": "^0.3.6",
     "@analys/enum-mutabilities": "^0.3.6",
+    "@valjoux/eta": "^0.1.11",
     "@analys/table": "^0.3.6",
     "@aryth/rand": "^0.2.14",
     "@babel/core": "^7.10.5",

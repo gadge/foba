@@ -1,3 +1,5 @@
+import { FlopShuffleMaker } from '@foba/util-quotes';
+
 var Aaron_Brown = [{
   figure: 'Aaron Brown (financial author)',
   mark: 'The Poker Face of Wall Street (2006). Ch1. The Art of Uncalculated Risk, p2',
@@ -2502,5 +2504,8 @@ const Quotes = {
   The_Wolf_of_Wall_Street,
   Warren_Buffett
 };
+
+FlopShuffleMaker.defineFlopShuffle(Quotes);
+FlopShuffleMaker.defineFlop(Quotes);
 
 export { Quotes };

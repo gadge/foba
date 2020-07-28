@@ -2,6 +2,8 @@
 
 Object.defineProperty(exports, '__esModule', { value: true });
 
+var utilQuotes = require('@foba/util-quotes');
+
 var Alfred_P_Sloan = [{
   figure: 'Alfred P. Sloan',
   mark: 'Alfred P. Sloan in: Industrial Digest and Commidities and Finance, (1925), Vol4.. p16',
@@ -2657,5 +2659,8 @@ const Quotes = {
   Steve_Jobs,
   Walt_Disney
 };
+
+utilQuotes.FlopShuffleMaker.defineFlopShuffle(Quotes);
+utilQuotes.FlopShuffleMaker.defineFlop(Quotes);
 
 exports.Quotes = Quotes;

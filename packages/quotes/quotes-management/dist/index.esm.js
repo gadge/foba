@@ -1,3 +1,5 @@
+import { FlopShuffleMaker } from '@foba/util-quotes';
+
 var Armand_V_Feigenbaum = [{
   figure: 'Armand V. Feigenbaum',
   mark: 'Armand V. Feigenbaum in: Industrial Quality Control, Vol14. -15; Vol19. (1957), p6',
@@ -867,5 +869,8 @@ const Quotes = {
   Peter_Drucker,
   W_Edwards_Deming
 };
+
+FlopShuffleMaker.defineFlopShuffle(Quotes);
+FlopShuffleMaker.defineFlop(Quotes);
 
 export { Quotes };

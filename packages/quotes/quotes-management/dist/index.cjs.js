@@ -2,6 +2,8 @@
 
 Object.defineProperty(exports, '__esModule', { value: true });
 
+var utilQuotes = require('@foba/util-quotes');
+
 var Armand_V_Feigenbaum = [{
   figure: 'Armand V. Feigenbaum',
   mark: 'Armand V. Feigenbaum in: Industrial Quality Control, Vol14. -15; Vol19. (1957), p6',
@@ -871,5 +873,8 @@ const Quotes = {
   Peter_Drucker,
   W_Edwards_Deming
 };
+
+utilQuotes.FlopShuffleMaker.defineFlopShuffle(Quotes);
+utilQuotes.FlopShuffleMaker.defineFlop(Quotes);
 
 exports.Quotes = Quotes;

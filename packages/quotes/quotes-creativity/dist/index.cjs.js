@@ -2,6 +2,8 @@
 
 Object.defineProperty(exports, '__esModule', { value: true });
 
+var utilQuotes = require('@foba/util-quotes');
+
 var Anna_Sui = [{
   figure: 'Anna Sui',
   mark: 'via Gerston, Jill. The Toast of New York: Anna Sui Mixes Grunge With Disco. Los Angeles Times (19921113).',
@@ -578,6 +580,15 @@ var Yves_Saint_Laurent = [{
   quote: 'The most beautiful makeup of a woman is passion. But cosmetics are easier to buy.'
 }];
 
+/**
+ * @property {Function|function(Object):{}} flop
+ * @property {Function|function(Object):{}[]} flopShuffle
+ * @param flop.key
+ * @param flop.size
+ * @param flopShuffle.key
+ * @param flopShuffle.size
+ */
+
 const Quotes = {
   Anna_Sui,
   Christian_Dior,
@@ -590,5 +601,8 @@ const Quotes = {
   Yohji_Yamamoto,
   Yves_Saint_Laurent
 };
+
+utilQuotes.FlopShuffleMaker.defineFlopShuffle(Quotes);
+utilQuotes.FlopShuffleMaker.defineFlop(Quotes);
 
 exports.Quotes = Quotes;

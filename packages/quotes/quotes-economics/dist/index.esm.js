@@ -1,3 +1,5 @@
+import { FlopShuffleMaker } from '@foba/util-quotes';
+
 var Douglass_North = [{
   figure: 'Douglass North',
   mark: 'Douglass North, in "Structure and Change in Economic History" (1981), p36',
@@ -2736,5 +2738,8 @@ const Quotes = {
   William_Nordhaus,
   Xavier_Sala_i_Martin
 };
+
+FlopShuffleMaker.defineFlopShuffle(Quotes);
+FlopShuffleMaker.defineFlop(Quotes);
 
 export { Quotes };

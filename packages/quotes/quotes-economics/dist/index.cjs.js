@@ -2,6 +2,8 @@
 
 Object.defineProperty(exports, '__esModule', { value: true });
 
+var utilQuotes = require('@foba/util-quotes');
+
 var Douglass_North = [{
   figure: 'Douglass North',
   mark: 'Douglass North, in "Structure and Change in Economic History" (1981), p36',
@@ -2740,5 +2742,8 @@ const Quotes = {
   William_Nordhaus,
   Xavier_Sala_i_Martin
 };
+
+utilQuotes.FlopShuffleMaker.defineFlopShuffle(Quotes);
+utilQuotes.FlopShuffleMaker.defineFlop(Quotes);
 
 exports.Quotes = Quotes;

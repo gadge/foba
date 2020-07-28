@@ -9,6 +9,14 @@ import Tom_Ford           from '../resources/Tom.Ford'
 import Yohji_Yamamoto     from '../resources/Yohji.Yamamoto'
 import Yves_Saint_Laurent from '../resources/Yves.Saint-Laurent'
 
+/**
+ * @property {Function|function(Object):{}} flop
+ * @property {Function|function(Object):{}[]} flopShuffle
+ * @param flop.key
+ * @param flop.size
+ * @param flopShuffle.key
+ * @param flopShuffle.size
+ */
 export const Quotes = {
   Anna_Sui,
   Christian_Dior,
