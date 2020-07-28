@@ -16,9 +16,9 @@
   },
   "dependencies": {
     "@analys/table-select": "^0.3.6",
-    "@aryth/rand": "0.2.11",
+    "@aryth/rand": "0.2.13",
     "@foba/util": "^0.2.2",
-    "@vect/object-init": "^0.2.6"
+    "@vect/object-init": "^0.2.8"
   },
   "repository": {
     "type": "git",

@@ -1,5 +1,5 @@
 {
-  "name": "@foba/object-string",
+  "name": "@foba/util-quotes",
   "version": "0.2.2",
   "description": "metavariables for testing",
   "main": "dist/index.cjs.js",
@@ -12,12 +12,17 @@
   },
   "scripts": {
     "pub": "npm publish",
-    "test": "node -r @babel/register test/object-number.test.js"
+    "test": "node -r @babel/register test/util.test.js"
   },
   "dependencies": {
-    "@foba/util": "^0.2.2",
-    "@spare/enum-chars": "^0.8.9",
-    "@vect/object-init": "^0.2.8"
+    "@aryth/comparer": "^0.2.13",
+    "@aryth/rand": "^0.2.13",
+    "@typen/enum-data-types": "^0.1.0",
+    "@vect/enum-select-styles": "^0.2.8",
+    "@vect/object-init": "^0.2.8",
+    "@vect/object-select": "^0.2.8",
+    "@vect/vector-merge": "^0.2.8",
+    "@vect/vector-select": "^0.2.8"
   },
   "repository": {
     "type": "git",
