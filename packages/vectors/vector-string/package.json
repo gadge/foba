@@ -1,6 +1,6 @@
 {
   "name": "@foba/vector-string",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "metavariables for testing",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -15,9 +15,9 @@
     "test": "node -r @babel/register test/vector.test.js"
   },
   "dependencies": {
-    "@foba/object-number": "^0.2.4",
-    "@foba/object-string": "^0.2.4",
-    "@foba/util": "^0.2.4"
+    "@foba/object-number": "^0.2.5",
+    "@foba/object-string": "^0.2.5",
+    "@foba/util": "^0.2.5"
   },
   "repository": {
     "type": "git",
