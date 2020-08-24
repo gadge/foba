@@ -18,7 +18,7 @@
     "@analys/table-select": "^0.3.6",
     "@aryth/rand": "0.2.14",
     "@foba/util": "^0.2.5",
-    "@vect/object-init": "^0.2.8"
+    "@vect/object-init": "^0.2.9"
   },
   "repository": {
     "type": "git",

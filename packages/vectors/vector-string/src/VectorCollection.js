@@ -16,7 +16,7 @@ export const VectorCollection = {
   get actors () { return actors },
   get actresses () { return actresses },
   get directors () { return directors },
-  get carPlants () {return Object.keys(CarPlants) },
+  get carPlants () { return Object.keys(CarPlants) },
   get actorBriefs () { return Object.values(FilmActors).map(briefName) },
   get actressBriefs () { return Object.values(FilmActresses).map(briefName) },
   get directorBriefs () { return Object.values(FilmDirectors).map(briefName) },

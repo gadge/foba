@@ -1,6 +1,6 @@
 export { ArmSales } from './resources/ArmSales'
-export { BrentPrices } from './resources/BrentPrices'
-export { CityPopulations } from './resources/CityPopulations'
+export { BrentPrices }    from './resources/BrentPrices'
+export { MegaCities }     from './resources/MegaCities'
 export { MortalityRates } from './resources/MotarlityRates'
 export { PowerCars } from './resources/PowerCars'
 export { Recessions } from './resources/Recessions'

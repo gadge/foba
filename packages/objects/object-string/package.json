@@ -16,8 +16,8 @@
   },
   "dependencies": {
     "@foba/util": "^0.2.5",
-    "@spare/enum-chars": "^0.8.10",
-    "@vect/object-init": "^0.2.8"
+    "@spare/enum-chars": "^0.8.11",
+    "@vect/object-init": "^0.2.9"
   },
   "repository": {
     "type": "git",

@@ -18,10 +18,10 @@
     "@aryth/comparer": "^0.2.14",
     "@aryth/rand": "^0.2.14",
     "@typen/enum-data-types": "^0.1.0",
-    "@vect/enum-select-styles": "^0.2.8",
-    "@vect/object-init": "^0.2.8",
-    "@vect/object-select": "^0.2.8",
-    "@vect/vector-select": "^0.2.8"
+    "@vect/enum-select-styles": "^0.2.9",
+    "@vect/object-init": "^0.2.9",
+    "@vect/object-select": "^0.2.9",
+    "@vect/vector-select": "^0.2.9"
   },
   "repository": {
     "type": "git",

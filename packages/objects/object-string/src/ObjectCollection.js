@@ -1,5 +1,6 @@
 import { FlopShuffleMaker } from '@foba/util'
 import { CarPlants }        from '../resources/CarPlants'
+import { DarkTraits }       from '../resources/DarkTraits'
 import { FilmActors }       from '../resources/FilmActors'
 import { FilmActresses }    from '../resources/FilmActresses'
 import { FilmDirectors }    from '../resources/FilmDirectors'
@@ -17,14 +18,15 @@ import { ShakesQuote }      from '../resources/ShakesQuote'
  * @param flopShuffle.mode
  */
 export const ObjectCollection = {
-  get CarPlants () { return CarPlants },
-  get FilmActors () { return FilmActors },
-  get FilmActresses () { return FilmActresses },
-  get FilmDirectors () { return FilmDirectors },
-  get MilitaryRobots () { return MilitaryRobots },
-  get Pastas () { return Pastas },
-  get MovieQuotes () { return MovieQuotes},
-  get ShakesQuote () {return ShakesQuote},
+  get CarPlants() { return CarPlants },
+  get DarkTraits() { return DarkTraits },
+  get FilmActors() { return FilmActors },
+  get FilmActresses() { return FilmActresses },
+  get FilmDirectors() { return FilmDirectors },
+  get MilitaryRobots() { return MilitaryRobots },
+  get Pastas() { return Pastas },
+  get MovieQuotes() { return MovieQuotes },
+  get ShakesQuote() {return ShakesQuote },
 }
 
 FlopShuffleMaker.defineForObject(ObjectCollection)

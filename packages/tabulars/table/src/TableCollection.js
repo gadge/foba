@@ -1,12 +1,13 @@
-import { FLOP_SHUFFLE } from '@foba/util'
-import { tableShuffle } from '@analys/table-select'
-import { flopKey } from '@aryth/rand'
-import { pair } from '@vect/object-init'
-import { BistroDutyRoster } from '../resources/unreal/BistroDutyRoster'
+import { tableShuffle }      from '@analys/table-select'
+import { flopKey }           from '@aryth/rand'
+import { FLOP_SHUFFLE }      from '@foba/util'
+import { pair }              from '@vect/object-init'
+import { AeroEngineSpecs }   from '../resources/real/AeroEngineSpecs'
 import { ChinaConceptFirms } from '../resources/real/ChinaConceptFirms'
-import { USTechFirms } from '../resources/real/USTechFirms'
-import { TopBoxOffice } from '../resources/real/TopBoxOffice'
-import { AeroEngineSpecs } from '../resources/real/AeroEngineSpecs'
+import { FrontierEconomies } from '../resources/real/FrontierEconomies'
+import { TopBoxOffice }      from '../resources/real/TopBoxOffice'
+import { USTechFirms }       from '../resources/real/USTechFirms'
+import { BistroDutyRoster }  from '../resources/unreal/BistroDutyRoster'
 
 /**
  * @property {Function|function(Object):*[]} flopShuffle
@@ -17,15 +18,16 @@ import { AeroEngineSpecs } from '../resources/real/AeroEngineSpecs'
  * @param flopShuffle.oscillate
  */
 export const TableCollection = {
-  get AeroEngineSpecs () { return AeroEngineSpecs },
-  get BistroDutyRoster () { return BistroDutyRoster },
-  get ChinaConceptFirms () { return ChinaConceptFirms },
-  get TopBoxOffice () { return TopBoxOffice },
-  get USTechFirms () { return USTechFirms },
+  get AeroEngineSpecs() { return AeroEngineSpecs },
+  get BistroDutyRoster() { return BistroDutyRoster },
+  get ChinaConceptFirms() { return ChinaConceptFirms },
+  get TopBoxOffice() { return TopBoxOffice },
+  get USTechFirms() { return USTechFirms },
+  get FrontierEconomies() { return FrontierEconomies },
 }
 
 Reflect.defineProperty(TableCollection, FLOP_SHUFFLE, {
-  value ({ p, h, w, keyed, oscillate = true } = {}) {
+  value({ p, h, w, keyed, oscillate = true } = {}) {
     const key = p ?? flopKey(this)
     const rs = tableShuffle(this[key], { h, w, oscillate })
     return keyed ? pair(key, rs) : rs

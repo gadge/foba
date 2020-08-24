@@ -1,13 +1,13 @@
-import { flopKey } from '@aryth/rand'
-import { pair } from '@vect/object-init'
+import { flopKey }       from '@aryth/rand'
+import { pair }          from '@vect/object-init'
+import { FLOP_SHUFFLE }  from '../resources/functionNames'
 import { shuffleObject } from './shuffleObject'
 import { shuffleVector } from './shuffleVector'
-import { FLOP_SHUFFLE } from '../resources/functionNames'
 
 export class FlopShuffleMaker {
-  static defineForObject (target) {
+  static defineForObject(target) {
     Reflect.defineProperty(target, FLOP_SHUFFLE, {
-      value (options = {}) {
+      value(options = {}) {
         const key = options.p ?? flopKey(this)
         const rs = shuffleObject.call(options, this[key])
         return options.keyed ? pair(key, rs) : rs
@@ -16,9 +16,9 @@ export class FlopShuffleMaker {
     })
   }
 
-  static defineForVector (target) {
+  static defineForVector(target) {
     Reflect.defineProperty(target, FLOP_SHUFFLE, {
-      value (options = {}) {
+      value(options = {}) {
         const key = options.p ?? flopKey(this)
         const rs = shuffleVector.call(options, this[key])
         return options.keyed ? pair(key, rs) : rs

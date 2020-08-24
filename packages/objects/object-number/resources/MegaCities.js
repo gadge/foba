@@ -1,4 +1,4 @@
-export const CityPopulations = {
+export const MegaCities = {
   PearlRiverDelta: 46.7,
   Tokyo: 40.4,
   Shanghai: 33.6,

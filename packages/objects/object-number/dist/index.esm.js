@@ -149,7 +149,7 @@ const BrentPrices = {
   '1987': 18.53
 };
 
-const CityPopulations = {
+const MegaCities = {
   PearlRiverDelta: 46.7,
   Tokyo: 40.4,
   Shanghai: 33.6,
@@ -825,11 +825,11 @@ const Recessions = {
 const ObjectCollection = {
   ArmSales,
   BrentPrices,
-  CityPopulations,
+  MegaCities,
   MortalityRates,
   PowerCars,
   Recessions
 };
 FlopShuffleMaker.defineForObject(ObjectCollection);
 
-export { ArmSales, BrentPrices, CityPopulations, ObjectCollection as Foba, MortalityRates, ObjectCollection, PowerCars, Recessions };
+export { ArmSales, BrentPrices, ObjectCollection as Foba, MegaCities, MortalityRates, ObjectCollection, PowerCars, Recessions };
