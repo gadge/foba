@@ -1,4 +1,4 @@
-import { ArmSales, CityPopulations, MortalityRates, PowerCars, Recessions } from '@foba/object-number'
+import { ArmSales, MegaCities, MortalityRates, PowerCars, Recessions } from '@foba/object-number'
 import {
   CarPlants,
   FilmActors,
@@ -22,7 +22,7 @@ import { FlopShuffleMaker }                                                 from
 export const EntriesCollection = {
   // string - number
   get ArmSales () { return Object.entries(ArmSales) },
-  get CityPopulations () { return Object.entries(CityPopulations) },
+  get MegaCities () { return Object.entries(MegaCities) },
   get MortalityRates () { return Object.entries(MortalityRates) },
   get PowerCars () { return Object.entries(PowerCars) },
   get Recessions () { return Object.entries(Recessions) },

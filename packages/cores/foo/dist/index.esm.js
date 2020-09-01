@@ -1,6 +1,6 @@
 import { CrostabCollection } from '@foba/crostab';
 import { flopKey } from '@aryth/rand';
-import { ArmSales, CityPopulations, MortalityRates, PowerCars, Recessions, ObjectCollection } from '@foba/object-number';
+import { ArmSales, MegaCities, MortalityRates, PowerCars, Recessions, ObjectCollection } from '@foba/object-number';
 import { CarPlants, FilmActors, FilmActresses, FilmDirectors, Pastas, ObjectCollection as ObjectCollection$1 } from '@foba/object-string';
 import { FlopShuffleMaker, sizeOscillator } from '@foba/util';
 export { makeEmbedded } from '@foba/util';
@@ -102,7 +102,7 @@ const VectorCollection = {
   },
 
   get megaCities() {
-    return Object.keys(CityPopulations);
+    return Object.keys(MegaCities);
   },
 
   get deathCauses() {

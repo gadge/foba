@@ -1,4 +1,4 @@
-import { ArmSales, CityPopulations, MortalityRates, PowerCars, Recessions } from '@foba/object-number'
+import { ArmSales, MegaCities, MortalityRates, PowerCars, Recessions } from '@foba/object-number'
 import { CarPlants, FilmActors, FilmActresses, FilmDirectors, Pastas }      from '@foba/object-string'
 import { FlopShuffleMaker }                                                 from '@foba/util'
 import { actors, actresses, directors }                                     from '../resources'
@@ -22,7 +22,7 @@ export const VectorCollection = {
   get directorBriefs () { return Object.values(FilmDirectors).map(briefName) },
   get pastas () { return Object.keys(Pastas) },
   get armDealers () { return Object.keys(ArmSales) },
-  get megaCities () { return Object.keys(CityPopulations) },
+  get megaCities () { return Object.keys(MegaCities) },
   get deathCauses () { return Object.keys(MortalityRates) },
   get powerCars () { return Object.keys(PowerCars) },
   get recessionYears () { return Object.keys(Recessions) },

@@ -21,8 +21,8 @@ const EntriesCollection = {
     return Object.entries(objectNumber.ArmSales);
   },
 
-  get CityPopulations() {
-    return Object.entries(objectNumber.CityPopulations);
+  get MegaCities() {
+    return Object.entries(objectNumber.MegaCities);
   },
 
   get MortalityRates() {

@@ -105,7 +105,7 @@ const VectorCollection = {
   },
 
   get megaCities() {
-    return Object.keys(objectNumber.CityPopulations);
+    return Object.keys(objectNumber.MegaCities);
   },
 
   get deathCauses() {
