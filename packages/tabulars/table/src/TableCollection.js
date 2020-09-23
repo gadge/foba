@@ -1,13 +1,15 @@
-import { tableShuffle }      from '@analys/table-select'
-import { flopKey }           from '@aryth/rand'
-import { FLOP_SHUFFLE }      from '@foba/util'
-import { pair }              from '@vect/object-init'
-import { AeroEngineSpecs }   from '../resources/real/AeroEngineSpecs'
-import { ChinaConceptFirms } from '../resources/real/ChinaConceptFirms'
-import { FrontierEconomies } from '../resources/real/FrontierEconomies'
-import { TopBoxOffice }      from '../resources/real/TopBoxOffice'
-import { USTechFirms }       from '../resources/real/USTechFirms'
-import { BistroDutyRoster }  from '../resources/unreal/BistroDutyRoster'
+import { tableShuffle }          from '@analys/table-select'
+import { flopKey }               from '@aryth/rand'
+import { FLOP_SHUFFLE }          from '@foba/util'
+import { pair }                  from '@vect/object-init'
+import { AeroEngineSpecs }       from '../resources/real/AeroEngineSpecs'
+import { AgeOfEmpiresIIUnits }   from '../resources/real/AgeOfEmpiresIIUnits'
+import { BigMacAdjustedIndexes } from '../resources/real/BigMacAdjustedIndexes'
+import { ChinaConceptFirms }     from '../resources/real/ChinaConceptFirms'
+import { FrontierEconomies }     from '../resources/real/FrontierEconomies'
+import { TopBoxOffice }          from '../resources/real/TopBoxOffice'
+import { USTechFirms }           from '../resources/real/USTechFirms'
+import { BistroDutyRoster }      from '../resources/unreal/BistroDutyRoster'
 
 /**
  * @property {Function|function(Object):*[]} flopShuffle
@@ -23,6 +25,8 @@ export const TableCollection = {
   get ChinaConceptFirms() { return ChinaConceptFirms },
   get TopBoxOffice() { return TopBoxOffice },
   get USTechFirms() { return USTechFirms },
+  get BigMaAdjustedIndexes() {return BigMacAdjustedIndexes},
+  get AgeOfEmpiresIIUnits() {return AgeOfEmpiresIIUnits },
   get FrontierEconomies() { return FrontierEconomies },
 }
 

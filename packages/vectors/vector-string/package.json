@@ -17,6 +17,7 @@
   "dependencies": {
     "@foba/object-number": "^0.2.8",
     "@foba/object-string": "^0.2.8",
+    "@spare/enum-chars": "^0.9.8",
     "@foba/util": "^0.2.8"
   },
   "repository": {

@@ -15,9 +15,9 @@
     "test": "node -r @babel/register test/vector.test.js"
   },
   "dependencies": {
-    "@analys/crostab": "^0.3.9",
-    "@analys/crostab-select": "^0.3.9",
-    "@aryth/rand": "^0.2.14",
+    "@analys/crostab": "^0.4.11",
+    "@analys/crostab-select": "^0.4.11",
+    "@aryth/rand": "^0.3.0",
     "@foba/util": "^0.2.8",
     "@vect/entries-init": "^0.2.9",
     "@vect/object-init": "^0.2.9",

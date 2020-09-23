@@ -15,8 +15,8 @@
     "test": "node -r @babel/register test/foo.test.js"
   },
   "dependencies": {
-    "@aryth/math": "^0.2.14",
-    "@aryth/rand": "^0.2.14",
+    "@aryth/math": "^0.3.0",
+    "@aryth/rand": "^0.3.0",
     "@foba/crostab": "^0.2.8",
     "@foba/object-number": "^0.2.8",
     "@foba/object-string": "^0.2.8",
