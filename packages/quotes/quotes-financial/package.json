@@ -1,6 +1,6 @@
 {
   "name": "@foba/quotes-financial",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "description": "quotes on financial figures",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -15,7 +15,7 @@
     "test": "node test"
   },
   "dependencies": {
-    "@foba/util-quotes": "^0.2.9"
+    "@foba/util-quotes": "^0.2.10"
   },
   "repository": {
     "type": "git",
