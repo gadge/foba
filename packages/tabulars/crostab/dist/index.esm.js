@@ -1,6 +1,6 @@
 import { CrosTab } from '@analys/crostab';
 import { crostabShuffle } from '@analys/crostab-select';
-import { flopKey, randIntBetw, flop } from '@aryth/rand';
+import { flopKey, randBetw, flop } from '@aryth/rand';
 import { FLOP_SHUFFLE } from '@foba/util';
 import { wind } from '@vect/entries-init';
 import { pair } from '@vect/object-init';
@@ -277,6 +277,18 @@ var AgricultureForestryFishingVA = {
 	side: side,
 	banner: banner,
 	matrix: matrix
+};
+
+const AOEIIUnitsAttackByStages = {
+  side: ['Imperial', 'Castle', 'Feudal', 'Dark'],
+  head: ['Barracks', 'Archery Range', 'Stable', 'Siege Workshop'],
+  rows: [[9.8, 10, 10, 31.3], [6.7, 4.7, 7.3, 18], [4.5, 3, 5, NaN], [4, NaN, NaN, NaN]]
+};
+
+const AOEIIUnitsHpByStages = {
+  side: ['Imperial', 'Castle', 'Feudal', 'Dark'],
+  head: ['Barracks', 'Archery Range', 'Stable', 'Siege Workshop'],
+  rows: [[62.5, 45, 118.8, 121.7], [53.3, 40, 86.7, 88.3], [45, 17, 45, NaN], [40, NaN, NaN, NaN]]
 };
 
 var side$1 = [
@@ -3885,6 +3897,14 @@ var UrbanPopulation = {
  */
 
 const CrostabCollection = {
+  get AOEIIUnitsAttackByStages() {
+    return AOEIIUnitsAttackByStages;
+  },
+
+  get AOEIIUnitsHpByStages() {
+    return AOEIIUnitsHpByStages;
+  },
+
   get BigMacIndex() {
     return BigMacIndex;
   },
@@ -3957,7 +3977,7 @@ Reflect.defineProperty(CrostabCollection, 'flopHLookUp', {
     var _crostab$side;
 
     const key = options.p || flopKey(this);
-    const size = options.size || randIntBetw(4, 7);
+    const size = options.size || randBetw(4, 7);
     const crostab = CrosTab.from(this[key]);
     const label = (_crostab$side = crostab.side, flop(_crostab$side));
     const entries = wind(crostab.head, crostab.row(label));

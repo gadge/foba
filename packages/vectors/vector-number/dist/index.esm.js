@@ -186,13 +186,13 @@ const rand = l => ~~(random() * l);
 /**
  * Fisher–Yates shuffle, a.k.a Knuth shuffle
  * @param {Array} ve
- * @param {number} [size] - if omitted, size will be keys.length
+ * @param {number} [size] - if omitted, size will be keys?.length
  * @returns {Array} mutated array
  */
 
 
 const shuffle = function (ve, size) {
-  let l = ve.length;
+  let l = ve === null || ve === void 0 ? void 0 : ve.length;
   const lo = max(0, l - (size !== null && size !== void 0 ? size : l));
 
   while (--l >= lo) swap.call(ve, l, rand(l));
@@ -210,6 +210,7 @@ const rand$1 = l => ~~(random$1() * l);
  * Of [min, max), min is inclusive but max is exclusive.
  * @param {number} lo(inclusive) - int
  * @param {number} hi(exclusive) - int
+ * @deprecated use randIn instead
  * @returns {number} int
  */
 
@@ -220,6 +221,7 @@ const randInt = (lo, hi) => rand$1(hi - lo) + lo;
  * Of [min, max], both min and max are inclusive.
  * @param {number} lo(inclusive) - int
  * @param {number} hi(inclusive) - int
+ * @deprecated use randBetw instead
  * @returns {number} int
  */
 

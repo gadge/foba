@@ -283,6 +283,18 @@ var AgricultureForestryFishingVA = {
 	matrix: matrix
 };
 
+const AOEIIUnitsAttackByStages = {
+  side: ['Imperial', 'Castle', 'Feudal', 'Dark'],
+  head: ['Barracks', 'Archery Range', 'Stable', 'Siege Workshop'],
+  rows: [[9.8, 10, 10, 31.3], [6.7, 4.7, 7.3, 18], [4.5, 3, 5, NaN], [4, NaN, NaN, NaN]]
+};
+
+const AOEIIUnitsHpByStages = {
+  side: ['Imperial', 'Castle', 'Feudal', 'Dark'],
+  head: ['Barracks', 'Archery Range', 'Stable', 'Siege Workshop'],
+  rows: [[62.5, 45, 118.8, 121.7], [53.3, 40, 86.7, 88.3], [45, 17, 45, NaN], [40, NaN, NaN, NaN]]
+};
+
 var side$1 = [
 	"2018",
 	"2017",
@@ -3889,6 +3901,14 @@ var UrbanPopulation = {
  */
 
 const CrostabCollection = {
+  get AOEIIUnitsAttackByStages() {
+    return AOEIIUnitsAttackByStages;
+  },
+
+  get AOEIIUnitsHpByStages() {
+    return AOEIIUnitsHpByStages;
+  },
+
   get BigMacIndex() {
     return BigMacIndex;
   },
@@ -3961,7 +3981,7 @@ Reflect.defineProperty(CrostabCollection, 'flopHLookUp', {
     var _crostab$side;
 
     const key = options.p || rand.flopKey(this);
-    const size = options.size || rand.randIntBetw(4, 7);
+    const size = options.size || rand.randBetw(4, 7);
     const crostab$1 = crostab.CrosTab.from(this[key]);
     const label = (_crostab$side = crostab$1.side, rand.flop(_crostab$side));
     const entries = entriesInit.wind(crostab$1.head, crostab$1.row(label));
