@@ -20,7 +20,7 @@ const FILENAME = 'BigMacAdjustedIndexes'
  * @todo [ip] raw.githubusercontent.com
  * @return {Promise<void>}
  */
-export const saveBigMacIndexes = async () => {
+export const saveBigMacAdjustedIndexes = async () => {
   const fieldMapping = [
     ['date', 'date'],
     ['iso_a3', 'country'],

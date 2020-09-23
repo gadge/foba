@@ -10,6 +10,7 @@ import { AOEIIUnitsAttackByStages } from '../resources/AOEIIUnitsAttackByStages'
 import { AOEIIUnitsHpByStages }     from '../resources/AOEIIUnitsHpByStages'
 import ArmsExports                  from '../resources/ArmsExports'
 import ArmsImports                  from '../resources/ArmsImports'
+import { BigMacAdjustedIndexes }    from '../resources/BigMacAdjustedIndexes'
 import BigMacIndex                  from '../resources/BigMacIndex'
 import ConsumptionExpenditure       from '../resources/ConsumptionExpenditure'
 import Gdp                          from '../resources/Gdp'
@@ -35,6 +36,7 @@ export const CrostabCollection = {
   get AOEIIUnitsAttackByStages() { return AOEIIUnitsAttackByStages },
   get AOEIIUnitsHpByStages() { return AOEIIUnitsHpByStages },
   get BigMacIndex() { return BigMacIndex },
+  get BigMacAdjustedIndexes() { return BigMacAdjustedIndexes },
   get Gdp() { return Gdp },
   get Population() { return Population },
   get RuralPopulation() { return RuralPopulation },

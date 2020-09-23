@@ -1,18 +1,22 @@
-import { saveAgeOfEmpiresIICrosTab } from '@foba/crostab/gulp/gulpfile.AgeOfEmpiresII.crosTab.save'
-import { saveAgeOfEmpiresIIUnits } from '@foba/table/gulp/gulpfile.ageOfEmpiresII.save'
-import { saveBigMacIndexes }       from '@foba/table/gulp/gulpfile.bigMacIndex.save'
+import { saveAgeOfEmpiresIIUnitsCrosTab }   from '@foba/crostab/gulp/gulpfile.AgeOfEmpiresIIUnits.crosTab.save'
+import { saveBigMacAdjustedIndexesCrostab } from '@foba/crostab/gulp/gulpfile.BigMacAdjustedIndexes.crosTab.save'
+import { saveAgeOfEmpiresIIUnits }          from '@foba/table/gulp/gulpfile.ageOfEmpiresIIUnits.save'
+import { saveBigMacAdjustedIndexes }        from '@foba/table/gulp/gulpfile.bigMacAdjustedIndexes.save'
+
 
 import gulp from 'gulp'
 
 
 export {
-  saveBigMacIndexes,
   saveAgeOfEmpiresIIUnits,
-  saveAgeOfEmpiresIICrosTab
+  saveBigMacAdjustedIndexes,
+  saveAgeOfEmpiresIIUnitsCrosTab,
+  saveBigMacAdjustedIndexesCrostab
 }
 
 export default gulp.series(
-  saveBigMacIndexes,
+  saveBigMacAdjustedIndexes,
   saveAgeOfEmpiresIIUnits,
-  saveAgeOfEmpiresIICrosTab
+  saveAgeOfEmpiresIIUnitsCrosTab,
+  saveBigMacAdjustedIndexesCrostab
 )

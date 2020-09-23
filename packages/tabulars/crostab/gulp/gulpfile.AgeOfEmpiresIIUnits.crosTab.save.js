@@ -15,7 +15,8 @@ const RANKED_AGES = ['Dark', 'Feudal', 'Castle', 'Imperial']
 const RANKED_BUILDINGS = ['Barracks', 'Archery Range', 'Stable', 'Siege Workshop']
 const DEST = 'packages/tabulars/crostab/resources'
 const crosTabCollection = {}
-export const saveAgeOfEmpiresIICrosTab = async () => {
+
+export const saveAgeOfEmpiresIIUnitsCrosTab = async () => {
   /** @type {Table} */const table = AgeOfEmpiresIIUnits|> toTable
   table
     .proliferateColumn(
