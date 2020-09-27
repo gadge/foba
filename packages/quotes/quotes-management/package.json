@@ -1,6 +1,6 @@
 {
   "name": "@foba/quotes-management",
-  "version": "0.2.10",
+  "version": "0.3.0",
   "description": "quotes on management",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -15,7 +15,7 @@
     "test": "node test"
   },
   "dependencies": {
-    "@foba/util-quotes": "^0.2.10"
+    "@foba/util-quotes": "^0.3.0"
   },
   "repository": {
     "type": "git",
