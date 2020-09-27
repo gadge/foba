@@ -14,9 +14,9 @@ import { Suffix }                  from '../utils/suffix'
 
 const STATIC = 'packages/tabulars/table/static'
 const RESOURCES = 'packages/tabulars/table/resources/real'
-const FILENAME = 'AgeOfEmpiresIIUnits'
+const FILENAME = 'AoEIIUnits'
 
-export const saveAgeOfEmpiresIIUnits = async () => {
+export const saveAoEIITable = async () => {
   /** @type {Table}  */ const table = await Acq.fetch({
     url: 'https://age-of-empires-2-api.herokuapp.com/api/v1/units',
     prep: ({ units }) => units |> samplesToTable |> toTable

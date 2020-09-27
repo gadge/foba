@@ -18,7 +18,7 @@
     "@foba/object-number": "^0.2.10",
     "@foba/object-string": "^0.2.10",
     "@foba/util": "^0.2.10",
-    "@spare/enum-chars": "^0.9.8"
+    "@spare/enum-chars": "^0.9.9"
   },
   "repository": {
     "type": "git",

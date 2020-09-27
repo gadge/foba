@@ -1,11 +1,16 @@
-import { deca }              from '@spare/deco'
-import { logger, says }      from '@spare/logger'
-import { CrostabCollection } from '../src/CrostabCollection'
+import { deca }                      from '@spare/deco'
+import { decoCrostab, logger, says } from '@spare/logger'
+import { CrostabCollection }         from '../src/CrostabCollection'
 
-CrostabCollection.flopShuffle({
+const sampleCrostab = CrostabCollection.flopShuffle({
   size: 5,
   keyed: true
-}) |> deca({ va: 2 }) |> says['test CrostabCollection']
+})
+
+sampleCrostab |> deca({ va: 2 }) |> says['test CrostabCollection']
+for (let [key, crostab] of Object.entries(sampleCrostab)) {
+  crostab |> decoCrostab |> says[key]
+}
 
 '' |> logger
 

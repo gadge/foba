@@ -1,23 +1,23 @@
-import { toTable }             from '@analys/convert'
-import { MUT }                 from '@analys/enum-mutabilities'
-import { AVERAGE }             from '@analys/enum-pivot-mode'
-import { NUM_ASC, NUM_DESC }   from '@aryth/comparer'
-import { roundD1 }             from '@aryth/math'
-import { esvar }               from '@flua/utils'
-import { Vinylize }            from '@flua/vinylize'
-import { AgeOfEmpiresIIUnits } from '@foba/table/resources/real/AgeOfEmpiresIIUnits'
-import { decoCrostab, says }   from '@spare/logger'
-import { Verse }               from '@spare/verse'
-import { isNumeric }           from '@typen/num-strict'
-import gulp                    from 'gulp'
+import { toTable }           from '@analys/convert'
+import { MUT }               from '@analys/enum-mutabilities'
+import { AVERAGE }           from '@analys/enum-pivot-mode'
+import { NUM_ASC, NUM_DESC } from '@aryth/comparer'
+import { roundD1 }           from '@aryth/math'
+import { esvar }             from '@flua/utils'
+import { Vinylize }          from '@flua/vinylize'
+import { AoEIIUnits }        from '@foba/table/resources/real/AoEIIUnits'
+import { decoCrostab, says } from '@spare/logger'
+import { Verse }             from '@spare/verse'
+import { isNumeric }         from '@typen/num-strict'
+import gulp                  from 'gulp'
 
 const RANKED_AGES = ['Dark', 'Feudal', 'Castle', 'Imperial']
 const RANKED_BUILDINGS = ['Barracks', 'Archery Range', 'Stable', 'Siege Workshop']
 const DEST = 'packages/tabulars/crostab/resources'
 const crosTabCollection = {}
 
-export const saveAgeOfEmpiresIIUnitsCrosTab = async () => {
-  /** @type {Table} */const table = AgeOfEmpiresIIUnits|> toTable
+export const saveAoEIICrostab = async () => {
+  /** @type {Table} */const table = AoEIIUnits|> toTable
   table
     .proliferateColumn(
       [
@@ -28,10 +28,10 @@ export const saveAgeOfEmpiresIIUnitsCrosTab = async () => {
     )
     .sort('ageIndex', NUM_DESC, MUT)
     .sort('buildingIndex', NUM_ASC, MUT)
-  crosTabCollection.AOEIIUnitsAttackByStages = table
+  crosTabCollection['AoEIIUnitsAttackByStages'] = table
     .crosTab({ side: 'age', banner: 'building', field: { attack: AVERAGE } })
     .map(({ value }) => isNumeric(value) ? roundD1(value) : value, MUT)
-  crosTabCollection.AOEIIUnitsHpByStages = table
+  crosTabCollection['AoEIIUnitsHpByStages'] = table
     .crosTab({ side: 'age', banner: 'building', field: { hp: AVERAGE } })
     .map(({ value }) => isNumeric(value) ? roundD1(value) : value, MUT)
 
@@ -42,5 +42,4 @@ export const saveAgeOfEmpiresIIUnitsCrosTab = async () => {
       .p(Verse.crostab(crosTab))
       .asyncPipe(gulp.dest(DEST))
   }
-
 }

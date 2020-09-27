@@ -15,10 +15,14 @@
     "test": "node -r @babel/register test/vector.test.js"
   },
   "dependencies": {
-    "@analys/table-select": "^0.4.11",
+    "@analys/table-select": "^0.4.16",
     "@aryth/rand": "0.3.0",
     "@foba/util": "^0.2.10",
     "@vect/object-init": "^0.2.9"
+  },
+  "devDependencies": {
+    "@valjoux/timestamp-pretty": "^0.2.1",
+    "@volks/worldbank-indicator": "^0.1.8"
   },
   "repository": {
     "type": "git",

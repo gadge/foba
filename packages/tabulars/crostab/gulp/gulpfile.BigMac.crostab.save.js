@@ -12,7 +12,7 @@ import gulp                                     from 'gulp'
 const COUNTRY_LIST = ['USA', 'CHN', 'CAN', 'AUS', 'RUS', 'JPN', 'IND', 'TWN', 'TUR', 'BRA']
 const DEST = 'packages/tabulars/crostab/resources'
 const FILENAME = 'BigMacAdjustedIndexes'
-export const saveBigMacAdjustedIndexesCrostab = async () => {
+export const saveBigMacCrostab = async () => {
   /** @type {Table} */const table = (BigMacAdjustedIndexes|> toTable)
     .proliferateColumn({ key: 'country', to: x => COUNTRY_LIST.indexOf(x), as: 'countryId', }, MUT)
     .sort('countryId', NUM_ASC)

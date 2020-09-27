@@ -3,7 +3,7 @@ import { flopKey }               from '@aryth/rand'
 import { FLOP_SHUFFLE }          from '@foba/util'
 import { pair }                  from '@vect/object-init'
 import { AeroEngineSpecs }       from '../resources/real/AeroEngineSpecs'
-import { AgeOfEmpiresIIUnits }   from '../resources/real/AgeOfEmpiresIIUnits'
+import { AoEIIUnits }            from '../resources/real/AoEIIUnits'
 import { BigMacAdjustedIndexes } from '../resources/real/BigMacAdjustedIndexes'
 import { ChinaConceptFirms }     from '../resources/real/ChinaConceptFirms'
 import { FrontierEconomies }     from '../resources/real/FrontierEconomies'
@@ -26,7 +26,7 @@ export const TableCollection = {
   get TopBoxOffice() { return TopBoxOffice },
   get USTechFirms() { return USTechFirms },
   get BigMaAdjustedIndexes() {return BigMacAdjustedIndexes},
-  get AgeOfEmpiresIIUnits() {return AgeOfEmpiresIIUnits },
+  get AgeOfEmpiresIIUnits() {return AoEIIUnits },
   get FrontierEconomies() { return FrontierEconomies },
 }
 
