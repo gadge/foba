@@ -1,4 +1,4 @@
-import { flopKey, randIntBetw }  from '@aryth/rand'
+import { flopKey, randBetw }  from '@aryth/rand'
 import { FLOP_SHUFFLE }          from '@foba/util'
 import { pair }                  from '@vect/object-init'
 import { absoluteMirror }        from './functions/absoluteMirror'
@@ -23,15 +23,15 @@ export const VectorCollection = {
   nonSquares (l) { return nonSquares(l) },
   absoluteMirror (l, d) { return absoluteMirror(l, d) },
   balanceByCompInterest (l = 6, r, d = 3) {
-    if (!r) r = randIntBetw(1, 30) / 100
+    if (!r) r = randBetw(1, 30) / 100
     return balanceByCompInterest(l, r, d)
   },
   hansenSamuelson (l, { g, c, i, a, b, } = {}, d) {
     let cb, ib
-    if (!a) a = randIntBetw(15, 50) / 100
-    if (!b) b = randIntBetw(30, 80) / 10
-    if (!c) cb = randIntBetw(0, 3), c = cb * 50
-    if (!i) ib = randIntBetw(1, 6), i = ib * 50
+    if (!a) a = randBetw(15, 50) / 100
+    if (!b) b = randBetw(30, 80) / 10
+    if (!c) cb = randBetw(0, 3), c = cb * 50
+    if (!i) ib = randBetw(1, 6), i = ib * 50
     if (!g) g = ~~((cb + ib) / 3) * 50
     return hansenSamuelson(l = 6, { g, c, i, a, b }, d).map(({ y }) => y)
   }

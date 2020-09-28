@@ -18,7 +18,7 @@
     "@analys/table-select": "^0.4.16",
     "@aryth/rand": "0.3.0",
     "@foba/util": "^0.3.0",
-    "@vect/object-init": "^0.2.9"
+    "@vect/object-init": "^0.2.13"
   },
   "devDependencies": {
     "@valjoux/timestamp-pretty": "^0.2.1",

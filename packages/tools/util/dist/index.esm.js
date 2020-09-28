@@ -1,4 +1,4 @@
-import { rand, flopKey, randIntBetw } from '@aryth/rand';
+import { rand, flopKey, randBetw } from '@aryth/rand';
 import { pair } from '@vect/object-init';
 import { RAND, LEAP, HEAD, TAIL } from '@vect/enum-select-styles';
 import { min } from '@aryth/comparer';
@@ -90,7 +90,7 @@ const getKeys = function (o) {
   return (excludes === null || excludes === void 0 ? void 0 : excludes.length) ? keys.filter(p => !excludes.includes(p)) : keys;
 };
 
-const sizeOscillator = (size, stdev = 1) => randIntBetw(size - stdev, size + stdev);
+const sizeOscillator = (size, stdev = 1) => randBetw(size - stdev, size + stdev);
 
 const makeEmbedded = o => {
   const embedded = {};

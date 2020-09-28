@@ -94,7 +94,7 @@ const getKeys = function (o) {
   return (excludes === null || excludes === void 0 ? void 0 : excludes.length) ? keys.filter(p => !excludes.includes(p)) : keys;
 };
 
-const sizeOscillator = (size, stdev = 1) => rand.randIntBetw(size - stdev, size + stdev);
+const sizeOscillator = (size, stdev = 1) => rand.randBetw(size - stdev, size + stdev);
 
 const makeEmbedded = o => {
   const embedded = {};

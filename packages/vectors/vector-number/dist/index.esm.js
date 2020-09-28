@@ -206,6 +206,16 @@ const {
 
 const rand$1 = l => ~~(random$1() * l);
 /**
+ * From [min, max] return a random integer.
+ * Of [min, max], both min and max are inclusive.
+ * @param {number} lo(inclusive) - int
+ * @param {number} hi(inclusive) - int
+ * @returns {number} int
+ */
+
+
+const randBetw = (lo, hi) => rand$1(++hi - lo) + lo;
+/**
  * From [min, max) return a random integer.
  * Of [min, max), min is inclusive but max is exclusive.
  * @param {number} lo(inclusive) - int
@@ -216,17 +226,6 @@ const rand$1 = l => ~~(random$1() * l);
 
 
 const randInt = (lo, hi) => rand$1(hi - lo) + lo;
-/**
- * From [min, max] return a random integer.
- * Of [min, max], both min and max are inclusive.
- * @param {number} lo(inclusive) - int
- * @param {number} hi(inclusive) - int
- * @deprecated use randBetw instead
- * @returns {number} int
- */
-
-
-const randIntBetw = (lo, hi) => rand$1(++hi - lo) + lo;
 
 const flopIndex = ar => rand$1(ar.length);
 
@@ -311,7 +310,7 @@ const VectorCollection = {
   },
 
   balanceByCompInterest(l = 6, r, d = 3) {
-    if (!r) r = randIntBetw(1, 30) / 100;
+    if (!r) r = randBetw(1, 30) / 100;
     return balanceByCompInterest(l, r, d);
   },
 
@@ -323,10 +322,10 @@ const VectorCollection = {
     b
   } = {}, d) {
     let cb, ib;
-    if (!a) a = randIntBetw(15, 50) / 100;
-    if (!b) b = randIntBetw(30, 80) / 10;
-    if (!c) cb = randIntBetw(0, 3), c = cb * 50;
-    if (!i) ib = randIntBetw(1, 6), i = ib * 50;
+    if (!a) a = randBetw(15, 50) / 100;
+    if (!b) b = randBetw(30, 80) / 10;
+    if (!c) cb = randBetw(0, 3), c = cb * 50;
+    if (!i) ib = randBetw(1, 6), i = ib * 50;
     if (!g) g = ~~((cb + ib) / 3) * 50;
     return hansenSamuelson(l = 6, {
       g,

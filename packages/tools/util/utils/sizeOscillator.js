@@ -1,3 +1,3 @@
-import { randIntBetw } from '@aryth/rand'
+import { randBetw } from '@aryth/rand'
 
-export const sizeOscillator = (size, stdev = 1) => randIntBetw(size - stdev, size + stdev)
+export const sizeOscillator = (size, stdev = 1) => randBetw(size - stdev, size + stdev)
