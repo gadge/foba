@@ -1,6 +1,6 @@
 {
   "name": "@foba/foo",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "A debugging tool",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -17,11 +17,11 @@
   "dependencies": {
     "@aryth/math": "^0.3.0",
     "@aryth/rand": "^0.3.0",
-    "@foba/crostab": "^0.3.1",
-    "@foba/object-number": "^0.3.1",
-    "@foba/object-string": "^0.3.1",
-    "@foba/util": "^0.3.1",
-    "@foba/vector": "^0.3.1",
+    "@foba/crostab": "^0.3.2",
+    "@foba/object-number": "^0.3.2",
+    "@foba/object-string": "^0.3.2",
+    "@foba/util": "^0.3.2",
+    "@foba/vector": "^0.3.2",
     "roulett": "^0.1.1"
   },
   "repository": {
