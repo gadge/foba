@@ -20,6 +20,9 @@
     "@foba/crostab": "^0.3.2",
     "@foba/object-number": "^0.3.2",
     "@foba/object-string": "^0.3.2",
+    "@foba/matrix-number": "^0.3.2",
+    "@foba/matrix-string": "^0.3.2",
+    "@vect/object-mapper": "^0.3.0",
     "@foba/util": "^0.3.2",
     "@foba/vector": "^0.3.2",
     "roulett": "^0.1.1"

@@ -1,7 +1,7 @@
+import { flopKey }           from '@aryth/rand'
 import { CrostabCollection } from '@foba/crostab'
-import { flopKey } from '@aryth/rand'
 
-export const crosXMatricesRobust = ({ h, w } = {}) => {
+export const crostabMatrixCollection = ({ h, w } = {}) => {
   let key = CrostabCollection|> flopKey
   const { side, head, rows } = CrostabCollection.flopShuffle({ p: key, h, w })
   return {
@@ -19,6 +19,6 @@ export const crosXMatricesRobust = ({ h, w } = {}) => {
   }
 }
 
-export const CrosXMatricesRobust = crosXMatricesRobust()
+export const CrostabMatrixCollection = crostabMatrixCollection()
 
 

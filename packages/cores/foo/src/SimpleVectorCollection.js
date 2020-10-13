@@ -3,13 +3,13 @@ import { NumberVectorCollection, StringVectorCollection } from '@foba/vector'
 
 const keyed = true
 
-export const simpleVectors = ({ h = 7 } = {}) => {
-  return Object.assign({ empty: [], },
+export const simpleVectorCollection = ({ h = 7 } = {}) =>
+  Object.assign({},
+    { empty: [] },
     NumberVectorCollection.flopShuffle({ size: h |> sizeOscillator, keyed }),
     NumberVectorCollection.flopShuffle({ size: h |> sizeOscillator, keyed }),
     StringVectorCollection.flopShuffle({ size: h |> sizeOscillator, keyed }),
     StringVectorCollection.flopShuffle({ size: h |> sizeOscillator, keyed }),
   )
-}
 
-export const SimpleVectors = simpleVectors()
+export const SimpleVectorCollection = simpleVectorCollection()

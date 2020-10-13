@@ -2,16 +2,16 @@
 
 Object.defineProperty(exports, '__esModule', { value: true });
 
-var crostab = require('@foba/crostab');
 var rand = require('@aryth/rand');
+var crostab = require('@foba/crostab');
 var objectNumber = require('@foba/object-number');
 var objectString = require('@foba/object-string');
 var util = require('@foba/util');
-var roulett = require('roulett');
-var math = require('@aryth/math');
+var matrixNumber = require('@foba/matrix-number');
+var objectMapper = require('@vect/object-mapper');
 var vector = require('@foba/vector');
 
-const crosXMatricesRobust = ({
+const crostabMatrixCollection = ({
   h,
   w
 } = {}) => {
@@ -41,7 +41,7 @@ const crosXMatricesRobust = ({
     rows: rows
   };
 };
-const CrosXMatricesRobust = crosXMatricesRobust();
+const CrostabMatrixCollection = crostabMatrixCollection();
 
 const SP = ' ';
 
@@ -125,37 +125,12 @@ const VectorCollection = {
 };
 util.FlopShuffleMaker.defineForVector(VectorCollection);
 
-const DEFAULT_SIZE = 3;
-const randMatrix = ({
-  h,
-  w,
-  fn
-} = {}) => {
-  let l = (h = h || DEFAULT_SIZE) * (w = w || h);
-  let zigg;
-  fn = fn || (zigg = new roulett.Ziggurat(l, ~~(l * 2 / 3)), () => math.abs(~~zigg.next()));
-  const ar = Array(l),
-        mx = Array(h);
-
-  for (--l; l >= 0; l--) ar[l] = fn(l);
-
-  ar.sort((a, b) => a - b);
-
-  for (let i = 0, j, r; i < h; i++) for (mx[i] = r = Array(w), j = 0; j < w; j++) r[j] = ar[++l];
-
-  return mx;
-};
-
-const simpleMatrices = ({
+const simpleMatrixCollection = ({
   h = 3,
   w = 4,
   fn
 } = {}) => {
-  let matrix = randMatrix({
-    h,
-    w,
-    fn
-  });
+  let matrix = matrixNumber.progressiveRandomMatrix(h, w, fn);
   return {
     emptyMatrix: [[]],
     oneRow: [matrix[0].slice()],
@@ -163,17 +138,17 @@ const simpleMatrices = ({
     simpleMatrix: matrix
   };
 };
-const SimpleMatrices = simpleMatrices();
+const SimpleMatrixCollection = simpleMatrixCollection();
 
-const simpleMatricesRobust = ({
+const modestMatrixCollection = ({
   h = 3,
   w = 4,
   fn
 } = {}) => {
-  var _VectorCollection;
+  var _StringVectorCollecti;
 
   let key;
-  const matrices = simpleMatrices({
+  const matrices = simpleMatrixCollection({
     h,
     w,
     fn
@@ -182,7 +157,7 @@ const simpleMatricesRobust = ({
     null: null,
     undefined: undefined,
     numeric: 0xff,
-    string: key = (_VectorCollection = VectorCollection, rand.flopKey(_VectorCollection)),
+    string: key = (_StringVectorCollecti = VectorCollection, rand.flopKey(_StringVectorCollecti)),
     emptyVector: [],
     emptyEntry: [,],
     stringVector: VectorCollection.flopShuffle({
@@ -193,28 +168,27 @@ const simpleMatricesRobust = ({
     ...matrices
   };
 };
-const SimpleMatricesRobust = simpleMatricesRobust();
+const ModestMatrixCollection = modestMatrixCollection();
 
-const simpleEntries = ({
+const simpleEntriesCollection = ({
   h = 4
 } = {}) => {
   var _h, _h2, _h3;
 
-  const ob = {
-    numeric: Object.entries(objectNumber.ObjectCollection.flopShuffle({
-      size: (_h = h, util.sizeOscillator(_h))
-    })),
-    string: Object.entries(objectString.ObjectCollection.flopShuffle({
-      size: (_h2 = h, util.sizeOscillator(_h2))
-    }))
-  };
-  const another = crostab.CrostabCollection.flopHLookUp({
+  const objectCollection = Object.assign({}, objectNumber.ObjectCollection.flopShuffle({
+    size: (_h = h, util.sizeOscillator(_h)),
+    keyed: true
+  }), objectString.ObjectCollection.flopShuffle({
+    size: (_h2 = h, util.sizeOscillator(_h2)),
+    keyed: true
+  }));
+  objectMapper.mutate(objectCollection, Object.entries);
+  return Object.assign({}, objectCollection, crostab.CrostabCollection.flopHLookUp({
     size: (_h3 = h, util.sizeOscillator(_h3)),
     keyed: true
-  });
-  return Object.assign(ob, another);
+  }));
 };
-const SimpleEntries = simpleEntries();
+const SimpleEntriesCollection = simpleEntriesCollection();
 
 const keyed = true;
 const objectify = entriesByBannerInKeyValue => {
@@ -226,7 +200,7 @@ const objectify = entriesByBannerInKeyValue => {
 
   return oneEntry = {}, oneEntry[k] = o, oneEntry;
 };
-const simpleObjects = ({
+const simpleObjectCollection = ({
   h = 4
 } = {}) => {
   var _h, _h2, _CrostabCollection$fl, _h3;
@@ -244,15 +218,15 @@ const simpleObjects = ({
     keyed
   }), objectify(_CrostabCollection$fl)));
 };
-const SimpleObjects = simpleObjects();
+const SimpleObjectCollection = simpleObjectCollection();
 
 const keyed$1 = true;
-const simpleVectors = ({
+const simpleVectorCollection = ({
   h = 7
 } = {}) => {
   var _h, _h2, _h3, _h4;
 
-  return Object.assign({
+  return Object.assign({}, {
     empty: []
   }, vector.NumberVectorCollection.flopShuffle({
     size: (_h = h, util.sizeOscillator(_h)),
@@ -268,24 +242,17 @@ const simpleVectors = ({
     keyed: keyed$1
   }));
 };
-const SimpleVectors = simpleVectors();
+const SimpleVectorCollection = simpleVectorCollection();
 
-Object.defineProperty(exports, 'makeEmbedded', {
-  enumerable: true,
-  get: function () {
-    return util.makeEmbedded;
-  }
-});
-exports.CrosXMatricesRobust = CrosXMatricesRobust;
-exports.SimpleEntries = SimpleEntries;
-exports.SimpleMatrices = SimpleMatrices;
-exports.SimpleMatricesRobust = SimpleMatricesRobust;
-exports.SimpleObjects = SimpleObjects;
-exports.SimpleVectors = SimpleVectors;
-exports.crosXMatricesRobust = crosXMatricesRobust;
-exports.randMatrix = randMatrix;
-exports.simpleEntries = simpleEntries;
-exports.simpleMatrices = simpleMatrices;
-exports.simpleMatricesRobust = simpleMatricesRobust;
-exports.simpleObjects = simpleObjects;
-exports.simpleVectors = simpleVectors;
+exports.CrostabMatrixCollection = CrostabMatrixCollection;
+exports.ModestMatrixCollection = ModestMatrixCollection;
+exports.SimpleEntriesCollection = SimpleEntriesCollection;
+exports.SimpleMatrixCollection = SimpleMatrixCollection;
+exports.SimpleObjectCollection = SimpleObjectCollection;
+exports.SimpleVectorCollection = SimpleVectorCollection;
+exports.crostabMatrixCollection = crostabMatrixCollection;
+exports.modestMatrixCollection = modestMatrixCollection;
+exports.simpleEntriesCollection = simpleEntriesCollection;
+exports.simpleMatrixCollection = simpleMatrixCollection;
+exports.simpleObjectCollection = simpleObjectCollection;
+exports.simpleVectorCollection = simpleVectorCollection;

@@ -1,5 +1,5 @@
-import { shuffle } from '@vect/vector-select'
-import { randInt } from '@aryth/rand'
+import { randIn }    from '@aryth/rand'
+import { shuffle }   from '@vect/vector-select'
 import { TrimDigit } from '../../utils/td'
 
 const Specials = {
@@ -22,7 +22,7 @@ const Specials = {
   ABSOLUTE_ZERO: -273.15
 }
 
-const randF = () => 2 ** randInt(1, 12) - 1
+const randF = () => 2 ** randIn(1, 12) - 1
 
 export const absoluteMirror = (l = 5, d = 3) => {
   if (l < 4) l = 4

@@ -1,17 +1,18 @@
-import { CrosTab }                  from '@analys/crostab'
-import { crostabShuffle }           from '@analys/crostab-select'
-import { flop, flopKey, randBetw }  from '@aryth/rand'
-import { FinancialAssetsToGDP }     from '@foba/table/static/worldbank/FinancialAssetsToGDP'
-import { FLOP_SHUFFLE }             from '@foba/util'
-import { wind }                     from '@vect/entries-init'
-import { pair }                     from '@vect/object-init'
-import { shuffle }                  from '@vect/vector-select'
-import { AoEIIUnitsAttackByStages } from '../resources/AoEIIUnitsAttackByStages'
-import { AoEIIUnitsHpByStages }     from '../resources/AoEIIUnitsHpByStages'
-import { AreaByCountry }            from '../resources/AreaByCountry'
-import { BigMacAdjustedIndexes }    from '../resources/BigMacAdjustedIndexes'
-import { CountryGDPByYear }         from '../resources/CountryGDPByYear'
-import { MilitaryByCountry2019 }    from '../resources/MilitaryByCountry2019'
+import { CrosTab }                    from '@analys/crostab'
+import { crostabShuffle }             from '@analys/crostab-select'
+import { flop, flopKey, randBetw }    from '@aryth/rand'
+import { FLOP_SHUFFLE }               from '@foba/util'
+import { wind }                       from '@vect/entries-init'
+import { pair }                       from '@vect/object-init'
+import { shuffle }                    from '@vect/vector-select'
+import { AoEIIUnitsAttackByStages }   from '../resources/AoEIIUnitsAttackByStages'
+import { AoEIIUnitsHpByStages }       from '../resources/AoEIIUnitsHpByStages'
+import { AreaByCountry }              from '../resources/AreaByCountry'
+import { BigMacAdjustedIndexes }      from '../resources/BigMacAdjustedIndexes'
+import { CountryGDPByYear }           from '../resources/CountryGDPByYear'
+import { FinancialAssetsToGDPByYear } from '../resources/FinancialAssetsToGDPByYear'
+import { MilitaryByCountry2019 }      from '../resources/MilitaryByCountry2019'
+import { TeachersCountByYear }        from '../resources/TeachersCountByYear'
 
 /**
  * @property {Function|function(Object):*[]} flopHLookUp
@@ -28,8 +29,9 @@ export const CrostabCollection = {
   get BigMacAdjustedIndexes() { return BigMacAdjustedIndexes },
   get AreaByCountry() { return AreaByCountry },
   get CountryGDPByYear() { return CountryGDPByYear },
-  get FinancialAssetsToGDP() { return FinancialAssetsToGDP },
+  get FinancialAssetsToGDPByYear() {return FinancialAssetsToGDPByYear},
   get MilitaryByCountry2019() { return MilitaryByCountry2019 },
+  get TeachersCountByYear() { return TeachersCountByYear }
 }
 
 Reflect.defineProperty(CrostabCollection, FLOP_SHUFFLE, {

@@ -1,12 +1,10 @@
+import { abs }      from '@aryth/math'
 import { Ziggurat } from 'roulett'
-import { abs } from '@aryth/math'
 
-const DEFAULT_SIZE = 3
-
-export const randMatrix = ({ h, w, fn } = {}) => {
-  let l = (h = h || DEFAULT_SIZE) * (w = w || h)
+export const progressiveRandomMatrix = (h, w, fn) => {
+  let l = (h = h ?? 5) * (w = w ?? h)
   let zigg
-  fn = fn || (zigg = new Ziggurat(l, ~~(l * 2 / 3)), () => abs(~~zigg.next()))
+  fn = fn ?? (zigg = new Ziggurat(l, ~~(l * 2 / 3)), () => abs(~~zigg.next()))
   const ar = Array(l), mx = Array(h)
   for (--l; l >= 0; l--) ar[l] = fn(l)
   ar.sort((a, b) => a - b)
@@ -15,5 +13,3 @@ export const randMatrix = ({ h, w, fn } = {}) => {
       r[j] = ar[++l]
   return mx
 }
-
-

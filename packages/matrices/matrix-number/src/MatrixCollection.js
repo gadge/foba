@@ -1,6 +1,9 @@
-import { FlopShuffleMaker }                                            from '@foba/util'
+import { flopKey }                                                     from '@aryth/rand'
+import { FLOP_SHUFFLE }                                                from '@foba/util'
+import { pair }                                                        from '@vect/object-init'
 import { identityMatrix }                                              from './identityMatrix'
 import { lowerPascalMatrix, symmetricPascalMatrix, upperPascalMatrix } from './pascalMatrix'
+import { progressiveRandomMatrix }                                     from './progressiveRandomMatrix'
 import { zigZagMatrix }                                                from './zigZagMatrix'
 
 
@@ -13,14 +16,27 @@ import { zigZagMatrix }                                                from './z
  * @param flopShuffle.mode
  */
 export const MatrixCollection = {
-  identityMatrix(size = 5) { return identityMatrix(size) },
+  identityMatrix(height = 5, width) { return identityMatrix(height, width) },
   upperPascalMatrix(size = 5) { return upperPascalMatrix(size) },
   lowerPascalMatrix(size = 5) { return lowerPascalMatrix(size) },
   symmetricPascalMatrix(size = 5) { return symmetricPascalMatrix(size) },
+  progressiveRandomMatrix(height = 5, width) { return progressiveRandomMatrix(height, width)},
   zigZagMatrix(size = 5) { return zigZagMatrix(size) },
 }
 
-FlopShuffleMaker.defineForVector(MatrixCollection)
+
+Reflect.defineProperty(MatrixCollection, FLOP_SHUFFLE, {
+  value(options = {}) {
+    const p = options.p || flopKey(this)
+    const size = options.size || 6
+    const start = options.start || 0
+    let matrix = start
+      ? this[p].call(null, start + size).slice(-size)
+      : this[p].call(null, size)
+    return options.keyed ? pair(p, matrix) : matrix
+  },
+  enumerable: false
+})
 
 
 

@@ -10,7 +10,7 @@ import {
 
 function * hansenSamuelsonGenerator ({ g, c, i, a, b }, d) {
   /** @type {number} gdp */ let y = 0
-  /** @type {number} consumption of last term*/ let k = 0
+  /** @type {number} consumption of last term */ let k = 0
   /** @type {function} */ const td = TrimDigit(d)
   while (true) {
     y = g + c + i

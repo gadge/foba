@@ -1,14 +1,13 @@
-import { CrostabCollection } from '@foba/crostab';
 import { flopKey } from '@aryth/rand';
+import { CrostabCollection } from '@foba/crostab';
 import { ArmSales, MegaCities, MortalityRates, PowerCars, Recessions, ObjectCollection } from '@foba/object-number';
 import { CarPlants, FilmActors, FilmActresses, FilmDirectors, Pastas, ObjectCollection as ObjectCollection$1 } from '@foba/object-string';
 import { FlopShuffleMaker, sizeOscillator } from '@foba/util';
-export { makeEmbedded } from '@foba/util';
-import { Ziggurat } from 'roulett';
-import { abs } from '@aryth/math';
+import { progressiveRandomMatrix } from '@foba/matrix-number';
+import { mutate } from '@vect/object-mapper';
 import { NumberVectorCollection, StringVectorCollection } from '@foba/vector';
 
-const crosXMatricesRobust = ({
+const crostabMatrixCollection = ({
   h,
   w
 } = {}) => {
@@ -38,7 +37,7 @@ const crosXMatricesRobust = ({
     rows: rows
   };
 };
-const CrosXMatricesRobust = crosXMatricesRobust();
+const CrostabMatrixCollection = crostabMatrixCollection();
 
 const SP = ' ';
 
@@ -122,37 +121,12 @@ const VectorCollection = {
 };
 FlopShuffleMaker.defineForVector(VectorCollection);
 
-const DEFAULT_SIZE = 3;
-const randMatrix = ({
-  h,
-  w,
-  fn
-} = {}) => {
-  let l = (h = h || DEFAULT_SIZE) * (w = w || h);
-  let zigg;
-  fn = fn || (zigg = new Ziggurat(l, ~~(l * 2 / 3)), () => abs(~~zigg.next()));
-  const ar = Array(l),
-        mx = Array(h);
-
-  for (--l; l >= 0; l--) ar[l] = fn(l);
-
-  ar.sort((a, b) => a - b);
-
-  for (let i = 0, j, r; i < h; i++) for (mx[i] = r = Array(w), j = 0; j < w; j++) r[j] = ar[++l];
-
-  return mx;
-};
-
-const simpleMatrices = ({
+const simpleMatrixCollection = ({
   h = 3,
   w = 4,
   fn
 } = {}) => {
-  let matrix = randMatrix({
-    h,
-    w,
-    fn
-  });
+  let matrix = progressiveRandomMatrix(h, w, fn);
   return {
     emptyMatrix: [[]],
     oneRow: [matrix[0].slice()],
@@ -160,17 +134,17 @@ const simpleMatrices = ({
     simpleMatrix: matrix
   };
 };
-const SimpleMatrices = simpleMatrices();
+const SimpleMatrixCollection = simpleMatrixCollection();
 
-const simpleMatricesRobust = ({
+const modestMatrixCollection = ({
   h = 3,
   w = 4,
   fn
 } = {}) => {
-  var _VectorCollection;
+  var _StringVectorCollecti;
 
   let key;
-  const matrices = simpleMatrices({
+  const matrices = simpleMatrixCollection({
     h,
     w,
     fn
@@ -179,7 +153,7 @@ const simpleMatricesRobust = ({
     null: null,
     undefined: undefined,
     numeric: 0xff,
-    string: key = (_VectorCollection = VectorCollection, flopKey(_VectorCollection)),
+    string: key = (_StringVectorCollecti = VectorCollection, flopKey(_StringVectorCollecti)),
     emptyVector: [],
     emptyEntry: [,],
     stringVector: VectorCollection.flopShuffle({
@@ -190,28 +164,27 @@ const simpleMatricesRobust = ({
     ...matrices
   };
 };
-const SimpleMatricesRobust = simpleMatricesRobust();
+const ModestMatrixCollection = modestMatrixCollection();
 
-const simpleEntries = ({
+const simpleEntriesCollection = ({
   h = 4
 } = {}) => {
   var _h, _h2, _h3;
 
-  const ob = {
-    numeric: Object.entries(ObjectCollection.flopShuffle({
-      size: (_h = h, sizeOscillator(_h))
-    })),
-    string: Object.entries(ObjectCollection$1.flopShuffle({
-      size: (_h2 = h, sizeOscillator(_h2))
-    }))
-  };
-  const another = CrostabCollection.flopHLookUp({
+  const objectCollection = Object.assign({}, ObjectCollection.flopShuffle({
+    size: (_h = h, sizeOscillator(_h)),
+    keyed: true
+  }), ObjectCollection$1.flopShuffle({
+    size: (_h2 = h, sizeOscillator(_h2)),
+    keyed: true
+  }));
+  mutate(objectCollection, Object.entries);
+  return Object.assign({}, objectCollection, CrostabCollection.flopHLookUp({
     size: (_h3 = h, sizeOscillator(_h3)),
     keyed: true
-  });
-  return Object.assign(ob, another);
+  }));
 };
-const SimpleEntries = simpleEntries();
+const SimpleEntriesCollection = simpleEntriesCollection();
 
 const keyed = true;
 const objectify = entriesByBannerInKeyValue => {
@@ -223,7 +196,7 @@ const objectify = entriesByBannerInKeyValue => {
 
   return oneEntry = {}, oneEntry[k] = o, oneEntry;
 };
-const simpleObjects = ({
+const simpleObjectCollection = ({
   h = 4
 } = {}) => {
   var _h, _h2, _CrostabCollection$fl, _h3;
@@ -241,15 +214,15 @@ const simpleObjects = ({
     keyed
   }), objectify(_CrostabCollection$fl)));
 };
-const SimpleObjects = simpleObjects();
+const SimpleObjectCollection = simpleObjectCollection();
 
 const keyed$1 = true;
-const simpleVectors = ({
+const simpleVectorCollection = ({
   h = 7
 } = {}) => {
   var _h, _h2, _h3, _h4;
 
-  return Object.assign({
+  return Object.assign({}, {
     empty: []
   }, NumberVectorCollection.flopShuffle({
     size: (_h = h, sizeOscillator(_h)),
@@ -265,6 +238,6 @@ const simpleVectors = ({
     keyed: keyed$1
   }));
 };
-const SimpleVectors = simpleVectors();
+const SimpleVectorCollection = simpleVectorCollection();
 
-export { CrosXMatricesRobust, SimpleEntries, SimpleMatrices, SimpleMatricesRobust, SimpleObjects, SimpleVectors, crosXMatricesRobust, randMatrix, simpleEntries, simpleMatrices, simpleMatricesRobust, simpleObjects, simpleVectors };
+export { CrostabMatrixCollection, ModestMatrixCollection, SimpleEntriesCollection, SimpleMatrixCollection, SimpleObjectCollection, SimpleVectorCollection, crostabMatrixCollection, modestMatrixCollection, simpleEntriesCollection, simpleMatrixCollection, simpleObjectCollection, simpleVectorCollection };

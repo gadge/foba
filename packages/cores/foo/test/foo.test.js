@@ -1,4 +1,4 @@
-import { CrosXMatricesRobust } from '../src/CrosXMatricesRobust'
-import { delogger } from '@spare/deco'
+import { CrostabMatrixCollection } from '../src/CrostabMatrixCollection'
+import { delogger }                from '@spare/deco'
 
-CrosXMatricesRobust |> delogger
+CrostabMatrixCollection |> delogger

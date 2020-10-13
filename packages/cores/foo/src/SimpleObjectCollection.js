@@ -12,7 +12,7 @@ export const objectify = (entriesByBannerInKeyValue) => {
   return (oneEntry = {}, oneEntry[k] = o, oneEntry)
 }
 
-export const simpleObjects = ({ h = 4 } = {}) => {
+export const simpleObjectCollection = ({ h = 4 } = {}) => {
   return Object.assign({ empty: {}, },
     OCN.flopShuffle({ size: h |> sizeOscillator, keyed }),
     OCS.flopShuffle({ size: h |> sizeOscillator, keyed }),
@@ -21,4 +21,4 @@ export const simpleObjects = ({ h = 4 } = {}) => {
   )
 }
 
-export const SimpleObjects = simpleObjects()
+export const SimpleObjectCollection = simpleObjectCollection()
