@@ -1,6 +1,6 @@
 {
   "name": "@foba/matrix-number",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "description": "metavariables for testing",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -15,12 +15,12 @@
     "test": "node -r @babel/register test/vector.test.js"
   },
   "dependencies": {
-    "@foba/util": "^0.3.2",
+    "@foba/util": "^0.4.0",
     "@vect/matrix-algebra": "^0.3.0",
     "@vect/matrix-init": "^0.3.0",
+    "@vect/object-init": "^0.3.0",
     "@vect/swap": "^0.3.0",
-    "@vect/vector-init": "^0.3.0",
-    "@vect/object-init": "^0.3.0"
+    "@vect/vector-init": "^0.3.0"
   },
   "repository": {
     "type": "git",
