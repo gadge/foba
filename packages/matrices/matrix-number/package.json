@@ -16,11 +16,11 @@
   },
   "dependencies": {
     "@foba/util": "^0.4.0",
-    "@vect/matrix-algebra": "^0.3.0",
-    "@vect/matrix-init": "^0.3.0",
-    "@vect/object-init": "^0.3.0",
-    "@vect/swap": "^0.3.0",
-    "@vect/vector-init": "^0.3.0"
+    "@vect/matrix-algebra": "^0.3.4",
+    "@vect/matrix-init": "^0.3.4",
+    "@vect/object-init": "^0.3.4",
+    "@vect/swap": "^0.3.4",
+    "@vect/vector-init": "^0.3.4"
   },
   "repository": {
     "type": "git",

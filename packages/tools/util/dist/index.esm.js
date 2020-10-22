@@ -28,8 +28,12 @@ function shuffleObject(ob) {
   if (mode === LEAP) return leap.call({
     keys
   }, ob, start, size);
-  if (mode === HEAD) return select(ob, keys.slice(0, size));
-  if (mode === TAIL) return select(ob, keys.slice(-size));
+  if (mode === HEAD) return select.call({
+    keys: keys.slice(0, size)
+  }, ob);
+  if (mode === TAIL) return select.call({
+    keys: keys.slice(-size)
+  }, ob);
   return ob;
 }
 

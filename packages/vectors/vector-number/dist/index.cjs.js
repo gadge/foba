@@ -173,12 +173,6 @@ const primes = l => {
 
 const range = l => seq(l, i => i);
 
-const swap = function (i, j) {
-  const temp = this[i];
-  this[i] = this[j];
-  return this[j] = temp;
-};
-
 const max = (a, b) => a > b ? a : b;
 
 const {
@@ -215,6 +209,12 @@ const flopKey = ob => {
   var _Object$keys;
 
   return _Object$keys = Object.keys(ob), flop(_Object$keys);
+};
+
+const swap = function (i, j) {
+  const temp = this[i];
+  this[i] = this[j];
+  return this[j] = temp;
 };
 
 /**

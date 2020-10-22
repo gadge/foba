@@ -32,8 +32,12 @@ function shuffleObject(ob) {
   if (mode === enumSelectStyles.LEAP) return objectSelect.leap.call({
     keys
   }, ob, start, size);
-  if (mode === enumSelectStyles.HEAD) return objectSelect.select(ob, keys.slice(0, size));
-  if (mode === enumSelectStyles.TAIL) return objectSelect.select(ob, keys.slice(-size));
+  if (mode === enumSelectStyles.HEAD) return objectSelect.select.call({
+    keys: keys.slice(0, size)
+  }, ob);
+  if (mode === enumSelectStyles.TAIL) return objectSelect.select.call({
+    keys: keys.slice(-size)
+  }, ob);
   return ob;
 }
 
