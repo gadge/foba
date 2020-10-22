@@ -21,7 +21,7 @@
     "@vect/object-init": "^0.3.4"
   },
   "devDependencies": {
-    "@valjoux/timestamp-pretty": "^0.2.1",
+    "@valjoux/timestamp-pretty": "^0.2.2",
     "@volks/worldbank-indicator": "^0.1.8"
   },
   "repository": {

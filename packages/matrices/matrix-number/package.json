@@ -20,7 +20,9 @@
     "@vect/matrix-init": "^0.3.4",
     "@vect/object-init": "^0.3.4",
     "@vect/swap": "^0.3.4",
-    "@vect/vector-init": "^0.3.4"
+    "@vect/vector-init": "^0.3.4",
+    "@aryth/math": "^0.3.0",
+    "roulett": "^0.1.1"
   },
   "repository": {
     "type": "git",
