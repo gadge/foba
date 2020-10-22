@@ -1,6 +1,6 @@
 {
   "name": "@foba/quotes-literature",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "quotes on literature",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -15,7 +15,7 @@
     "test": "node test"
   },
   "dependencies": {
-    "@foba/util-quotes": "^0.4.0"
+    "@foba/util-quotes": "^0.4.1"
   },
   "repository": {
     "type": "git",

@@ -1,6 +1,6 @@
 {
   "name": "@foba/matrix-string",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "metavariables for testing",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -15,9 +15,9 @@
     "test": "node -r @babel/register test/vector.test.js"
   },
   "dependencies": {
-    "@foba/object-number": "^0.4.0",
-    "@foba/object-string": "^0.4.0",
-    "@foba/util": "^0.4.0"
+    "@foba/object-number": "^0.4.1",
+    "@foba/object-string": "^0.4.1",
+    "@foba/util": "^0.4.1"
   },
   "repository": {
     "type": "git",
