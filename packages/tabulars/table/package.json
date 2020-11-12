@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@valjoux/timestamp-pretty": "^0.2.2",
-    "@volks/worldbank-indicator": "^0.1.8"
+    "@volks/worldbank-indicator": "^0.1.9"
   },
   "repository": {
     "type": "git",

@@ -24,7 +24,7 @@
     "@vect/vector-select": "^0.3.4"
   },
   "devDependencies": {
-    "@volks/worldbank-indicator": "^0.1.8"
+    "@volks/worldbank-indicator": "^0.1.9"
   },
   "repository": {
     "type": "git",
