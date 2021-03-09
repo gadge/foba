@@ -16,8 +16,8 @@ function trimDigit(n) {
 const TrimDigit = d => trimDigit.bind({
   m: 10 ** d
 });
-const td2 = TrimDigit(2);
-const td4 = TrimDigit(4);
+TrimDigit(2);
+TrimDigit(4);
 
 /**
  *
@@ -169,13 +169,11 @@ const primes = l => {
 
 const range = l => seq(l, i => i);
 
-const max = (a, b) => a > b ? a : b;
-
 const {
-  random
+  random: random$1
 } = Math;
 
-const rand = l => ~~(random() * l);
+const rand$1 = l => ~~(random$1() * l);
 /**
  * From [min, max) return a random integer.
  * Of [min, max), min is inclusive but max is exclusive.
@@ -185,7 +183,7 @@ const rand = l => ~~(random() * l);
  */
 
 
-const randIn = (lo, hi) => rand(hi - lo) + lo;
+const randIn = (lo, hi) => rand$1(hi - lo) + lo;
 /**
  * From [min, max] return a random integer.
  * Of [min, max], both min and max are inclusive.
@@ -195,9 +193,9 @@ const randIn = (lo, hi) => rand(hi - lo) + lo;
  */
 
 
-const randBetw = (lo, hi) => rand(++hi - lo) + lo;
+const randBetw = (lo, hi) => rand$1(++hi - lo) + lo;
 
-const flopIndex = ar => rand(ar.length);
+const flopIndex = ar => rand$1(ar.length);
 
 const flop = ar => ar[flopIndex(ar)];
 
@@ -212,6 +210,14 @@ const swap = function (i, j) {
   this[i] = this[j];
   return this[j] = temp;
 };
+
+const max = (a, b) => a > b ? a : b;
+
+const {
+  random
+} = Math;
+
+const rand = l => ~~(random() * l);
 
 /**
  * Fisher–Yates shuffle, a.k.a Knuth shuffle
@@ -320,7 +326,7 @@ const VectorCollection = {
     if (!c) cb = randBetw(0, 3), c = cb * 50;
     if (!i) ib = randBetw(1, 6), i = ib * 50;
     if (!g) g = ~~((cb + ib) / 3) * 50;
-    return hansenSamuelson(l = 6, {
+    return hansenSamuelson(6, {
       g,
       c,
       i,

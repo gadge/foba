@@ -190,7 +190,7 @@ const simpleEntriesCollection = ({
 };
 const SimpleEntriesCollection = simpleEntriesCollection();
 
-const keyed = true;
+const keyed$1 = true;
 const objectify = entriesByBannerInKeyValue => {
   let oneEntry = entriesByBannerInKeyValue;
   const [[k, entries]] = Object.entries(oneEntry),
@@ -209,18 +209,18 @@ const simpleObjectCollection = ({
     empty: {}
   }, objectNumber.ObjectCollection.flopShuffle({
     size: (_h = h, util.sizeOscillator(_h)),
-    keyed
+    keyed: keyed$1
   }), objectString.ObjectCollection.flopShuffle({
     size: (_h2 = h, util.sizeOscillator(_h2)),
-    keyed
+    keyed: keyed$1
   }), (_CrostabCollection$fl = crostab.CrostabCollection.flopHLookUp({
     size: (_h3 = h, util.sizeOscillator(_h3)),
-    keyed
+    keyed: keyed$1
   }), objectify(_CrostabCollection$fl)));
 };
 const SimpleObjectCollection = simpleObjectCollection();
 
-const keyed$1 = true;
+const keyed = true;
 const simpleVectorCollection = ({
   h = 7
 } = {}) => {
@@ -230,16 +230,16 @@ const simpleVectorCollection = ({
     empty: []
   }, vector.NumberVectorCollection.flopShuffle({
     size: (_h = h, util.sizeOscillator(_h)),
-    keyed: keyed$1
+    keyed
   }), vector.NumberVectorCollection.flopShuffle({
     size: (_h2 = h, util.sizeOscillator(_h2)),
-    keyed: keyed$1
+    keyed
   }), vector.StringVectorCollection.flopShuffle({
     size: (_h3 = h, util.sizeOscillator(_h3)),
-    keyed: keyed$1
+    keyed
   }), vector.StringVectorCollection.flopShuffle({
     size: (_h4 = h, util.sizeOscillator(_h4)),
-    keyed: keyed$1
+    keyed
   }));
 };
 const SimpleVectorCollection = simpleVectorCollection();

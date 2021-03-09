@@ -91,7 +91,7 @@ const getKeys = function (o) {
     type
   } = this;
   const keys = Reflect.ownKeys(o).filter(p => typeof o[p] === type);
-  return (excludes === null || excludes === void 0 ? void 0 : excludes.length) ? keys.filter(p => !excludes.includes(p)) : keys;
+  return excludes !== null && excludes !== void 0 && excludes.length ? keys.filter(p => !excludes.includes(p)) : keys;
 };
 
 const sizeOscillator = (size, stdev = 1) => randBetw(size - stdev, size + stdev);
