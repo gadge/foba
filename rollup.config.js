@@ -10,22 +10,6 @@ const { name, dependencies, main, module } = require(process.cwd() + '/package.j
 console.log('Executing', name, decoString(process.cwd()))
 console.log('Dependencies', decoObject(dependencies || {}))
 
-const babelPluginOptions = {
-  babelrc: false,
-  comments: true,
-  sourceMap: true,
-  babelHelpers: 'bundled',
-  exclude: 'node_modules/**',
-  plugins: [
-    ['@babel/plugin-transform-runtime', { helpers: false, }],
-    ['@babel/plugin-proposal-pipeline-operator', { proposal: 'minimal' }],
-    ['@babel/plugin-proposal-nullish-coalescing-operator'],
-    ['@babel/plugin-proposal-class-properties'],
-    ['@babel/plugin-proposal-private-methods'],
-    ['@babel/plugin-proposal-optional-chaining']
-  ]
-}
-
 export default [
   {
     input: 'index.js',
@@ -37,9 +21,26 @@ export default [
     plugins: [
       nodeResolve({ preferBuiltins: true }),
       commonjs({ include: /node_modules/ }),
-      babel(babelPluginOptions),
+      babel({
+        babelrc: false,
+        comments: true,
+        sourceMap: true,
+        exclude: 'node_modules/**',
+        babelHelpers: 'bundled',
+        presets: [
+          [ '@babel/preset-env', { targets: { node: '14' }, loose: true } ]
+        ],
+        plugins: [
+          // [ '@babel/plugin-proposal-optional-chaining' ],
+          // [ '@babel/plugin-proposal-nullish-coalescing-operator' ],
+          [ '@babel/plugin-proposal-pipeline-operator', { proposal: 'minimal' } ],
+          // [ '@babel/plugin-proposal-class-properties', { loose: true } ],
+          // [ '@babel/plugin-proposal-private-methods', { loose: true } ],
+          // [ '@babel/plugin-transform-runtime', { helpers: false, } ]
+        ]
+      }),
       json(),
-      fileInfo()
+      fileInfo(),
     ]
   }
 ]
