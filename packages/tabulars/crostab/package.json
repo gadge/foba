@@ -15,16 +15,16 @@
     "test": "node -r @babel/register test/vector.test.js"
   },
   "dependencies": {
-    "@analys/crostab": "^0.4.23",
-    "@analys/crostab-select": "^0.4.23",
-    "@aryth/rand": "^0.3.3",
+    "@analys/crostab": "^0.5.2",
+    "@analys/crostab-select": "^0.5.2",
+    "@aryth/rand": "^0.3.22",
     "@foba/util": "^0.4.4",
-    "@vect/entries-init": "^0.3.5",
-    "@vect/object-init": "^0.3.5",
-    "@vect/vector-select": "^0.3.5"
+    "@vect/entries-init": "^0.4.4",
+    "@vect/object-init": "^0.4.4",
+    "@vect/vector-select": "^0.4.4"
   },
   "devDependencies": {
-    "@volks/worldbank-indicator": "^0.1.10"
+    "@volks/worldbank-indicator": "^0.1.11"
   },
   "repository": {
     "type": "git",

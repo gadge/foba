@@ -15,14 +15,14 @@
     "test": "node -r @babel/register test/vector.test.js"
   },
   "dependencies": {
-    "@aryth/math": "^0.3.3",
+    "@aryth/math": "^0.3.22",
     "@foba/util": "^0.4.4",
-    "@vect/matrix-algebra": "^0.3.5",
-    "@vect/matrix-init": "^0.3.5",
-    "@vect/object-init": "^0.3.5",
-    "@vect/swap": "^0.3.5",
-    "@vect/vector-init": "^0.3.5",
-    "roulett": "^0.1.1"
+    "@vect/matrix-algebra": "^0.4.4",
+    "@vect/matrix-init": "^0.4.4",
+    "@vect/object-init": "^0.4.4",
+    "@vect/swap": "^0.4.4",
+    "@vect/vector-init": "^0.4.4",
+    "roulett": "^0.1.2"
   },
   "repository": {
     "type": "git",
