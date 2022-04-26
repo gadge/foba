@@ -1,6 +1,6 @@
 {
   "name": "@foba/quotes-creativity",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "quotes on creativity",
   "main": "./dist/index.cjs",
   "exports": {
@@ -18,7 +18,7 @@
     "test": "node test"
   },
   "dependencies": {
-    "@foba/util-quotes": "^0.5.0"
+    "@foba/util-quotes": "^0.5.1"
   },
   "repository": {
     "type": "git",

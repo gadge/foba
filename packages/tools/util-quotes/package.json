@@ -1,6 +1,6 @@
 {
   "name": "@foba/util-quotes",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "metavariables for testing",
   "main": "./dist/index.cjs",
   "exports": {

@@ -1,6 +1,6 @@
 {
   "name": "@foba/table",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "metavariables for testing",
   "main": "./dist/index.cjs",
   "exports": {
@@ -20,7 +20,7 @@
   "dependencies": {
     "@analys/table-select": "^0.5.12",
     "@aryth/rand": "0.5.0",
-    "@foba/util": "^0.5.0",
+    "@foba/util": "^0.5.1",
     "@vect/object-init": "^0.5.8"
   },
   "devDependencies": {
