@@ -2,8 +2,11 @@
   "name": "@foba/quotes-financial",
   "version": "0.5.0",
   "description": "quotes on financial figures",
-  "main": "dist/index.cjs.js",
-  "module": "dist/index.esm.js",
+  "main": "./dist/index.cjs",
+  "exports": {
+    "import": "./dist/index.mjs",
+    "require": "./dist/index.cjs"
+  },
   "files": [
     "dist"
   ],

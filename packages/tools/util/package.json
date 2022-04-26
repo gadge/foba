@@ -2,8 +2,11 @@
   "name": "@foba/util",
   "version": "0.5.0",
   "description": "metavariables for testing",
-  "main": "dist/index.cjs.js",
-  "module": "dist/index.esm.js",
+  "main": "./dist/index.cjs",
+  "exports": {
+    "import": "./dist/index.mjs",
+    "require": "./dist/index.cjs"
+  },
   "files": [
     "dist"
   ],
@@ -15,13 +18,13 @@
     "test": "node -r @babel/register test/util.test.js"
   },
   "dependencies": {
-    "@aryth/comparer": "^0.3.22",
-    "@aryth/rand": "^0.3.22",
-    "@typen/enum-data-types": "^0.1.17",
-    "@vect/enum-select-styles": "^0.4.4",
-    "@vect/object-init": "^0.4.4",
-    "@vect/object-select": "^0.4.4",
-    "@vect/vector-select": "^0.4.4"
+    "@aryth/comparer": "^0.5.0",
+    "@aryth/rand": "^0.5.0",
+    "@typen/enum-data-types": "^0.1.19",
+    "@vect/enum-select-styles": "^0.5.8",
+    "@vect/object-init": "^0.5.8",
+    "@vect/object-select": "^0.5.8",
+    "@vect/vector-select": "^0.5.8"
   },
   "repository": {
     "type": "git",

@@ -2,8 +2,11 @@
   "name": "@foba/crostab",
   "version": "0.5.0",
   "description": "metavariables for testing",
-  "main": "dist/index.cjs.js",
-  "module": "dist/index.esm.js",
+  "main": "./dist/index.cjs",
+  "exports": {
+    "import": "./dist/index.mjs",
+    "require": "./dist/index.cjs"
+  },
   "files": [
     "dist"
   ],
@@ -15,16 +18,16 @@
     "test": "node -r @babel/register test/vector.test.js"
   },
   "dependencies": {
-    "@analys/crostab": "^0.5.2",
-    "@analys/crostab-select": "^0.5.2",
-    "@aryth/rand": "^0.3.22",
+    "@analys/crostab": "^0.5.12",
+    "@analys/crostab-select": "^0.5.12",
+    "@aryth/rand": "^0.5.0",
     "@foba/util": "^0.5.0",
-    "@vect/entries-init": "^0.4.4",
-    "@vect/object-init": "^0.4.4",
-    "@vect/vector-select": "^0.4.4"
+    "@vect/entries-init": "^0.5.8",
+    "@vect/object-init": "^0.5.8",
+    "@vect/vector-select": "^0.5.8"
   },
   "devDependencies": {
-    "@volks/worldbank-indicator": "^0.1.11"
+    "@volks/worldbank-indicator": "^0.1.13"
   },
   "repository": {
     "type": "git",
