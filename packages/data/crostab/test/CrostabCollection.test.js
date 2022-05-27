@@ -1,6 +1,6 @@
 import { deca }                      from '@spare/deco'
 import { decoCrostab, logger, says } from '@spare/logger'
-import { CrostabCollection }         from '../src/CrostabCollection'
+import { CrostabCollection }         from '../index'
 
 const sampleCrostab = CrostabCollection.flopShuffle({
   size: 5,

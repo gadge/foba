@@ -27,7 +27,7 @@ export class TableCollection {
   static BigMaAdjustedIndexes = Table.from(BigMacAdjustedIndexes)
   static AgeOfEmpiresIIUnits = Table.from(AoEIIUnits)
   static FrontierEconomies = Table.from(FrontierEconomies)
-  flopShuffle(options = {}) {
+  static flopShuffle(options = {}) {
     const key = options.p ?? flopKey(TableCollection)
     return options.keyed ? pair(key, TableCollection[key]) : TableCollection[key]
   }
