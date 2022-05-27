@@ -1,6 +1,6 @@
 {
   "name": "@foba/matrix-number",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "description": "metavariables for testing",
   "main": "./dist/index.cjs",
   "exports": {
@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@aryth/math": "^0.5.10",
-    "@foba/util": "^0.5.3",
+    "@foba/util": "^0.5.4",
     "@vect/matrix-algebra": "^0.7.10",
     "@vect/matrix-init": "^0.7.10",
     "@vect/object-init": "^0.7.10",
