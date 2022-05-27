@@ -1,8 +1,8 @@
-import { flopKey }       from '@aryth/rand'
-import { pair }          from '@vect/object-init'
-import { FLOP_SHUFFLE }  from '../resources/functionNames'
-import { shuffleObject } from './shuffleObject'
-import { shuffleVector } from './shuffleVector'
+import { flopKey }                      from '@aryth/rand'
+import { pair }                         from '@vect/object-init'
+import { FLOP_SHUFFLE }                 from '../resources/functionNames'
+import { shuffleObject, shuffleVector } from './FlopShuffle'
+
 
 export class FlopShuffleMaker {
   static defineForObject(target) {
@@ -27,4 +27,6 @@ export class FlopShuffleMaker {
     })
   }
 }
+
+
 
