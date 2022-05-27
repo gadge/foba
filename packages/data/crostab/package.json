@@ -1,6 +1,6 @@
 {
   "name": "@foba/crostab",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "metavariables for testing",
   "main": "./dist/index.cjs",
   "exports": {
@@ -22,7 +22,7 @@
     "@analys/crostab-select": "^0.6.10",
     "@analyz/crostab": "^0.0.3",
     "@aryth/rand": "^0.5.10",
-    "@foba/util": "^0.5.1",
+    "@foba/util": "^0.5.2",
     "@vect/entries-init": "^0.7.10",
     "@vect/object-init": "^0.7.10",
     "@vect/vector-select": "^0.7.10"
