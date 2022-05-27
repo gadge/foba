@@ -17,7 +17,7 @@ export class MatrixCollection {
   static integratedCultureFramework = IntegratedCultureFramework
   static marketingMovement = MarketingMovement
   static countries = Countries
-  flopShuffle(options) { return FlopShuffle.vector(MatrixCollection, options) }
+  static flopShuffle(options) { return FlopShuffle.vector(MatrixCollection, options) }
 }
 
 
