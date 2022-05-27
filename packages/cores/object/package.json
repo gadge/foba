@@ -1,6 +1,6 @@
 {
   "name": "@foba/object",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "description": "metavariables for testing",
   "main": "./dist/index.cjs",
   "exports": {
@@ -18,8 +18,8 @@
     "test": "node -r @babel/register test/object-number.test.js"
   },
   "dependencies": {
-    "@foba/object-number": "^0.5.5",
-    "@foba/object-string": "^0.5.5"
+    "@foba/object-number": "^0.5.6",
+    "@foba/object-string": "^0.5.6"
   },
   "repository": {
     "type": "git",

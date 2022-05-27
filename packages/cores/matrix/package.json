@@ -1,6 +1,6 @@
 {
   "name": "@foba/matrix",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "description": "metavariables for testing",
   "main": "./dist/index.cjs",
   "exports": {
@@ -18,8 +18,8 @@
     "test": "node -r @babel/register test/vector.test.js"
   },
   "dependencies": {
-    "@foba/matrix-number": "^0.5.5",
-    "@foba/matrix-string": "^0.5.5"
+    "@foba/matrix-number": "^0.5.6",
+    "@foba/matrix-string": "^0.5.6"
   },
   "repository": {
     "type": "git",
