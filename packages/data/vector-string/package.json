@@ -1,6 +1,6 @@
 {
   "name": "@foba/vector-string",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "description": "metavariables for testing",
   "main": "./dist/index.cjs",
   "exports": {
@@ -18,9 +18,9 @@
     "test": "node -r @babel/register test/vector.test.js"
   },
   "dependencies": {
-    "@foba/object-number": "^0.5.4",
-    "@foba/object-string": "^0.5.4",
-    "@foba/util": "^0.5.4",
+    "@foba/object-number": "^0.5.5",
+    "@foba/object-string": "^0.5.5",
+    "@foba/util": "^0.5.5",
     "@spare/enum-chars": "^0.14.1"
   },
   "repository": {
@@ -39,5 +39,5 @@
     "url": "https://github.com/hoyeungw/foba"
   },
   "homepage": "https://github.com/hoyeungw/foba#readme",
-  "gitHead": "30477b2f0c54925aa40bcc7121bfe3fb933622ee"
+  "gitHead": "7dd38f656ec946fd57863d4d8ebe7f25b4c11b5f"
 }

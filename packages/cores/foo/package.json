@@ -1,6 +1,6 @@
 {
   "name": "@foba/foo",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "description": "A debugging tool",
   "main": "./dist/index.cjs",
   "exports": {
@@ -20,13 +20,13 @@
   "dependencies": {
     "@aryth/math": "^0.5.10",
     "@aryth/rand": "^0.5.10",
-    "@foba/crostab": "^0.5.4",
-    "@foba/matrix-number": "^0.5.4",
-    "@foba/matrix-string": "^0.5.4",
-    "@foba/object-number": "^0.5.4",
-    "@foba/object-string": "^0.5.4",
-    "@foba/util": "^0.5.4",
-    "@foba/vector": "^0.5.4",
+    "@foba/crostab": "^0.5.5",
+    "@foba/matrix-number": "^0.5.5",
+    "@foba/matrix-string": "^0.5.5",
+    "@foba/object-number": "^0.5.5",
+    "@foba/object-string": "^0.5.5",
+    "@foba/util": "^0.5.5",
+    "@foba/vector": "^0.5.5",
     "@vect/object-mapper": "^0.7.10",
     "roulett": "^0.1.3"
   },
@@ -46,5 +46,5 @@
     "url": "https://github.com/hoyeungw/foba"
   },
   "homepage": "https://github.com/hoyeungw/foba#readme",
-  "gitHead": "30477b2f0c54925aa40bcc7121bfe3fb933622ee"
+  "gitHead": "7dd38f656ec946fd57863d4d8ebe7f25b4c11b5f"
 }
