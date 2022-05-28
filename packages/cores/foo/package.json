@@ -1,6 +1,6 @@
 {
   "name": "@foba/foo",
-  "version": "0.5.6",
+  "version": "0.5.7",
   "description": "A debugging tool",
   "main": "./dist/index.cjs",
   "exports": {
@@ -20,13 +20,13 @@
   "dependencies": {
     "@aryth/math": "^0.6.0",
     "@aryth/rand": "^0.6.0",
-    "@foba/crostab": "^0.5.6",
-    "@foba/matrix-number": "^0.5.6",
-    "@foba/matrix-string": "^0.5.6",
-    "@foba/object-number": "^0.5.6",
-    "@foba/object-string": "^0.5.6",
-    "@foba/util": "^0.5.6",
-    "@foba/vector": "^0.5.6",
+    "@foba/crostab": "^0.5.7",
+    "@foba/matrix-number": "^0.5.7",
+    "@foba/matrix-string": "^0.5.7",
+    "@foba/object-number": "^0.5.7",
+    "@foba/object-string": "^0.5.7",
+    "@foba/util": "^0.5.7",
+    "@foba/vector": "^0.5.7",
     "@vect/object-mapper": "^0.7.11",
     "roulett": "^0.1.3"
   },
