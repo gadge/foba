@@ -18,14 +18,14 @@
     "test": "node -r @babel/register test/vector.test.js"
   },
   "dependencies": {
-    "@analys/crostab": "^0.6.10",
-    "@analys/crostab-select": "^0.6.10",
-    "@analyz/crostab": "^0.0.12",
-    "@aryth/rand": "^0.5.10",
+    "@analys/crostab": "^0.6.14",
+    "@analys/crostab-select": "^0.6.14",
+    "@analyz/crostab": "^0.0.18",
+    "@aryth/rand": "^0.6.0",
     "@foba/util": "^0.5.6",
-    "@vect/entries-init": "^0.7.10",
-    "@vect/object-init": "^0.7.10",
-    "@vect/vector-select": "^0.7.10"
+    "@vect/entries-init": "^0.7.11",
+    "@vect/object-init": "^0.7.11",
+    "@vect/vector-select": "^0.7.11"
   },
   "devDependencies": {
     "@volks/worldbank-indicator": "^0.1.13"
