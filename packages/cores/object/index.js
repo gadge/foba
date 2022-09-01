@@ -1,2 +1,2 @@
-export { ObjectCollection as NumberObjectCollection, Foba as FobaNum } from '@foba/object-number'
-export { ObjectCollection as StringObjectCollection, Foba as FobaStr } from '@foba/object-string'
+export { ObjectCollection as NumberObjects, ObjectCollection as NumberObjectCollection } from '@foba/object-number'
+export { ObjectCollection as StringObjects, ObjectCollection as StringObjectCollection } from '@foba/object-string'

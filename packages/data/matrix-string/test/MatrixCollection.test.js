@@ -1,13 +1,16 @@
-import { decoMatrix, DecoMatrix, logger, says } from '@spare/logger'
-import { MatrixCollection }                     from '../src/MatrixCollection'
+import { decoMatrix }       from '@spare/deco-matrix'
+import { logger }           from '@spare/logger'
+import { MatrixCollection } from '../index'
+import { says }             from '@spare/xr'
 
-MatrixCollection.flopShuffle({
-  size: 5,
-  keyed: false
-}) |> decoMatrix |> says['test MatrixCollection']
+{
+  const [ key, matrix ] = MatrixCollection.flopShuffle({ size: 5, entry: true })
+  matrix |> decoMatrix |> says[key]
+}
 
 '' |> logger
 
-MatrixCollection.flopShuffle({
-  size: 10
-}) |> DecoMatrix() |> says['test MatrixCollection']
+{
+  const [ key, matrix ] = MatrixCollection.flopShuffle({ size: 10, entry: true })
+  matrix |> decoMatrix |> says[key]
+}

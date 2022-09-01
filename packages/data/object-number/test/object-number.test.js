@@ -1,4 +1,6 @@
-import { delogger } from '@spare/deco'
-import { ObjectCollection } from '../src/ObjectCollection'
+import { deco }             from '@spare/deco'
+import { ObjectCollection } from '../index.js'
 
-ObjectCollection.flopShuffle({ size: 5, keyed: true }) |> delogger
+const ob = ObjectCollection.flopShuffle({ entry: true })
+
+deco(ob, { vert: 2 }) |> console.log

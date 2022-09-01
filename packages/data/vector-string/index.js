@@ -1,14 +1,12 @@
-export {
-  actors,
-  actresses,
-  directors
-} from './resources'
+export { actors, actresses, directors } from './resources'
 
-import { ArmSales, MegaCities, MortalityRates, PowerCars, Recessions } from '@foba/object-number'
-import { CarPlants, FilmActors, FilmActresses, FilmDirectors, Pastas } from '@foba/object-string'
-import { FlopShuffle }                                                 from '@foba/util'
 import { actors, actresses, directors }                                from './resources'
 import { briefName }                                                   from './src/briefName'
+import { ArmSales, MegaCities, MortalityRates, PowerCars, Recessions } from '@foba/object-number'
+import { CarPlants, FilmActors, FilmActresses, FilmDirectors, Pastas } from '@foba/object-string'
+
+import { shuffle } from '@vect/vector-select'
+import { flopKey } from '@aryth/rand'
 
 export class VectorCollection {
   static actors = actors
@@ -24,5 +22,9 @@ export class VectorCollection {
   static deathCauses = Object.keys(MortalityRates)
   static powerCars = Object.keys(PowerCars)
   static recessionYears = Object.keys(Recessions)
-  static flopShuffle(options) { return FlopShuffle.vector(VectorCollection, options)}
+  static flopShuffle({ key, size = 6, entry = false } = {}) {
+    key = key ?? flopKey(VectorCollection)
+    const vector = shuffle(VectorCollection[key], size)
+    return entry ? [ key, vector ] : vector
+  }
 }

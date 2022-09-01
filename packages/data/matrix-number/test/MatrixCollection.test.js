@@ -1,13 +1,16 @@
-import { decoMatrix, logger, says } from '@spare/logger'
-import { MatrixCollection }         from '../index'
+import { decoMatrix }       from '@spare/deco-matrix'
+import { logger }           from '@spare/logger'
+import { MatrixCollection } from '../index'
+import { says }             from '@spare/xr'
 
-
-for (let [ key, matrix ] of Object.entries(MatrixCollection.flopShuffle({size: 5, keyed: true}))) {
+{
+  const [ key, matrix ] = MatrixCollection.flopShuffle({ size: 5, entry: true })
   matrix |> decoMatrix |> says[key]
 }
 
 '' |> logger
 
-for (let [ key, matrix ] of Object.entries(MatrixCollection.flopShuffle({size: 10, keyed: true}))) {
+{
+  const [ key, matrix ] = MatrixCollection.flopShuffle({ size: 10, entry: true })
   matrix |> decoMatrix |> says[key]
 }

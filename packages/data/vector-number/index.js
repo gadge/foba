@@ -6,8 +6,7 @@ export { primes }                from './src/primes'
 export { range }                 from './src/range'
 export { absoluteMirror }        from './src/absoluteMirror'
 
-import { randBetw }              from '@aryth/rand'
-import { FlopShuffle }           from '@foba/util'
+import { flopKey, randBetw }     from '@aryth/rand'
 import { absoluteMirror }        from './src/absoluteMirror'
 import { balanceByCompInterest } from './src/balanceByCompInterest'
 import { fibonacci }             from './src/fibonacci'
@@ -42,5 +41,9 @@ export class VectorCollection {
     if (!g) g = ~~((cb + ib) / 3) * 50
     return hansenSamuelson(l = 6, { g, c, i, a, b }, d).map(({ y }) => y)
   }
-  static flopShuffle(options) { return FlopShuffle.numericVector(VectorCollection, options) }
+  static flopShuffle({ key, size = 6, entry = false } = {}) {
+    key = key ?? flopKey(VectorCollection)
+    const vector = VectorCollection[key](size)
+    return entry ? [ key, vector ] : vector
+  }
 }

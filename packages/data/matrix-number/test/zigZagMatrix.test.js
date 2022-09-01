@@ -1,9 +1,5 @@
-import { decoMatrix, logger } from '@spare/logger'
-import { zigZagMatrix }       from '../src/zigZagMatrix'
+import { decoMatrix }   from '@spare/deco-matrix'
+import { zigZagMatrix } from '../src/zigZagMatrix'
 
-export const test = () => {
-  const mx = zigZagMatrix(5)
-  mx |> decoMatrix |> logger
-}
-
-test()
+const matrix = zigZagMatrix(5)
+matrix |> decoMatrix |> console.log

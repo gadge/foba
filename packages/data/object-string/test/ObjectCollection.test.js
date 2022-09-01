@@ -1,14 +1,6 @@
-import { ObjectCollection } from '../src/ObjectCollection'
-import { deca }                     from '@spare/deco'
-import { decoObject, logger, says } from '@spare/logger'
+import { deco }             from '@spare/deco'
+import { ObjectCollection } from '../index.js'
 
-ObjectCollection.flopShuffle({
-  size: 5,
-  keyed: true
-}) |> deca({ va: 2 }) |> says['test ObjectCollection']
+const ob = ObjectCollection.flopShuffle({ entry: true })
 
-'' |> logger
-
-ObjectCollection.flopShuffle({
-  size: 10
-}) |> decoObject |> says['test ObjectCollection']
+deco(ob, { vert: 2 }) |> console.log

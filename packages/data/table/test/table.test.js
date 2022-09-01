@@ -1,8 +1,12 @@
-import { TopBoxOffice } from '../resources/real/TopBoxOffice'
-import { DecoTable, decoTable, delogger, logger } from '@spare/logger'
-import { TableCollection } from '../src/TableCollection'
+import { decoTable }       from '@spare/deco-table'
+import { TableCollection } from '../index.js'
 
-TopBoxOffice |> decoTable |> logger
-const table = TableCollection.flopShuffle({ p: 'AeroEngineSpecs' })
-table |> delogger
-table|> DecoTable({ abstract: String }) |> logger
+{
+  const table = TableCollection.flopShuffle()
+  table|> decoTable |> console.log
+}
+
+{
+  const table = TableCollection.flopShuffle({ key: 'AeroEngineSpecs' })
+  table|> decoTable |> console.log
+}

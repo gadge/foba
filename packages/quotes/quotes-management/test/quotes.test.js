@@ -1,5 +1,9 @@
-import { delogger } from '@spare/deco'
-import { Quotes }   from '../index'
+import { NORSE, ROCOCCO, SUBTLE } from '@palett/presets'
+import { Deco }                   from '@spare/deco'
+import { Quotes }                 from '../index'
 
-Quotes.flop() |> delogger
-Quotes.flopShuffle() |> delogger
+const deco = Deco({ broad: true, pres: { str: SUBTLE, pos: ROCOCCO, neg: NORSE } })
+
+Quotes.flop() |> deco |> console.log
+
+Quotes.flopShuffle() |> deco |> console.log

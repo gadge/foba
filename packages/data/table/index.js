@@ -1,6 +1,5 @@
 import { Table }                 from '@analyz/table'
 import { flopKey }               from '@aryth/rand'
-import { pair }                  from '@vect/object-init'
 import { AeroEngineSpecs }       from './resources/real/AeroEngineSpecs'
 import { AoEIIUnits }            from './resources/real/AoEIIUnits'
 import { BigMacAdjustedIndexes } from './resources/real/BigMacAdjustedIndexes'
@@ -27,9 +26,9 @@ export class TableCollection {
   static BigMaAdjustedIndexes = Table.from(BigMacAdjustedIndexes)
   static AgeOfEmpiresIIUnits = Table.from(AoEIIUnits)
   static FrontierEconomies = Table.from(FrontierEconomies)
-  static flopShuffle(options = {}) {
-    const key = options.p ?? flopKey(TableCollection)
-    return options.keyed ? pair(key, TableCollection[key]) : TableCollection[key]
+  static flopShuffle({ key, entry = false } = {}) {
+    const table = TableCollection[key = key ?? flopKey(TableCollection)]
+    return entry ? [ key, table ] : table
   }
 }
 

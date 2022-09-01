@@ -3,7 +3,7 @@ export { lowerPascalMatrix, upperPascalMatrix, symmetricPascalMatrix } from './s
 export { zigZagMatrix }                                                from './src/zigZagMatrix'
 export { progressiveRandomMatrix }                                     from './src/progressiveRandomMatrix'
 
-import { FlopShuffle }                                                 from '@foba/util'
+import { flopKey }                                                     from '@aryth/rand'
 import { identityMatrix }                                              from './src/identityMatrix'
 import { lowerPascalMatrix, symmetricPascalMatrix, upperPascalMatrix } from './src/pascalMatrix'
 import { progressiveRandomMatrix }                                     from './src/progressiveRandomMatrix'
@@ -24,7 +24,11 @@ export class MatrixCollection {
   static symmetricPascalMatrix = (size = 5) => { return symmetricPascalMatrix(size) }
   static progressiveRandomMatrix = (height = 5, width) => { return progressiveRandomMatrix(height, width)}
   static zigZagMatrix = (size = 5) => { return zigZagMatrix(size) }
-  static flopShuffle(options) { return FlopShuffle.numericVector(MatrixCollection, options) }
+  static flopShuffle({ key, size = 6, entry = false } = {}) {
+    key = key ?? flopKey(MatrixCollection)
+    const matrix = MatrixCollection[key](size, size)
+    return entry ? [ key, matrix ] : matrix
+  }
 }
 
 

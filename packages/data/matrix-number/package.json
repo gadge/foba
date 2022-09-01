@@ -18,13 +18,14 @@
     "test": "node -r @babel/register test/vector.test.js"
   },
   "dependencies": {
-    "@aryth/math": "^0.6.0",
+    "@aryth/math": "^0.6.8",
+    "@aryth/rand": "^0.6.8",
     "@foba/util": "^0.5.7",
-    "@vect/matrix-algebra": "^0.7.11",
-    "@vect/matrix-init": "^0.7.11",
-    "@vect/object-init": "^0.7.11",
+    "@vect/matrix-algebra": "^0.7.16",
+    "@vect/matrix-init": "^0.7.16",
+    "@vect/object-init": "^0.7.16",
     "@vect/swap": "^0.6.13",
-    "@vect/vector-init": "^0.7.11",
+    "@vect/vector-init": "^0.7.16",
     "roulett": "^0.1.3"
   },
   "repository": {

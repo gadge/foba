@@ -1,8 +1,9 @@
 export { ArmSales, BrentPrices, MegaCities, MortalityRates, PowerCars, Recessions } from './resources'
 
-import { FlopShuffle }                                                              from '@foba/util'
 import { ArmSales, BrentPrices, MegaCities, MortalityRates, PowerCars, Recessions } from './resources'
 
+import { flopKey, rand } from '@aryth/rand'
+import { swap }          from '@vect/vector-index'
 
 export class ObjectCollection {
   static ArmSales = ArmSales
@@ -11,8 +12,13 @@ export class ObjectCollection {
   static MortalityRates = MortalityRates
   static PowerCars = PowerCars
   static Recessions = Recessions
-  /** @param {{[p],[size],[start],[keyed],[mode]}} options */
-  static flopShuffle(options) { return FlopShuffle.object(ObjectCollection, options)}
+  static flopShuffle({ key, size = 6, entry = false } = {}) {
+    key = key ?? flopKey(ObjectCollection)
+    const raw = ObjectCollection[key], ks = Object.keys(raw)
+    let ob = {}, hi = ks?.length, k
+    while (--size >= 0) ob[k = swap.call(ks, rand(--hi), hi)] = raw[k]
+    return entry ? [ key, ob ] : ob
+  }
 }
 
 

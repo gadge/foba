@@ -20,12 +20,12 @@
   "dependencies": {
     "@analys/crostab": "^0.6.14",
     "@analys/crostab-select": "^0.6.14",
-    "@analyz/crostab": "^0.0.18",
-    "@aryth/rand": "^0.6.0",
+    "@analyz/crostab": "^0.1.0",
+    "@aryth/rand": "^0.6.8",
     "@foba/util": "^0.5.7",
-    "@vect/entries-init": "^0.7.11",
-    "@vect/object-init": "^0.7.11",
-    "@vect/vector-select": "^0.7.11"
+    "@vect/entries-init": "^0.7.16",
+    "@vect/object-init": "^0.7.16",
+    "@vect/vector-select": "^0.7.15"
   },
   "devDependencies": {
     "@volks/worldbank-indicator": "^0.1.13"

@@ -1,6 +1,7 @@
 export { CompanyBrandTypes, Countries, IntegratedCultureFramework, MarketingMovement } from './resources'
 
-import { FlopShuffle }                                                                 from '@foba/util'
+import { flopKey }                                                                     from '@aryth/rand'
+import { shuffle }                                                                     from '@vect/vector-select'
 import { CompanyBrandTypes, Countries, IntegratedCultureFramework, MarketingMovement } from './resources'
 
 
@@ -17,7 +18,11 @@ export class MatrixCollection {
   static integratedCultureFramework = IntegratedCultureFramework
   static marketingMovement = MarketingMovement
   static countries = Countries
-  static flopShuffle(options) { return FlopShuffle.vector(MatrixCollection, options) }
+  static flopShuffle({ key, size = 6, entry = false } = {}) {
+    key = key ?? flopKey(MatrixCollection)
+    const matrix = shuffle(MatrixCollection[key], size)
+    return entry ? [ key, matrix ] : matrix
+  }
 }
 
 

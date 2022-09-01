@@ -1,6 +1,7 @@
+import { flopKey }                                                                                               from '@aryth/rand'
 import { ArmSales, BrentPrices, MegaCities, MortalityRates, PowerCars, Recessions, }                             from '@foba/object-number'
 import { CarPlants, FilmActors, FilmActresses, FilmDirectors, MilitaryRobots, MovieQuotes, Pastas, ShakesQuote } from '@foba/object-string'
-import { FlopShuffle }                                                                                           from '@foba/util'
+import { shuffle }                                                                                               from '@vect/vector-select'
 
 /**
  * @property {Function|function(Object):*[]} flopShuffle
@@ -27,5 +28,9 @@ export class EntriesCollection {
   static MovieQuotes = Object.entries(MovieQuotes)
   static ShakesQuote = Object.entries(ShakesQuote)
 
-  static flopShuffle(options) { return FlopShuffle.vector(EntriesCollection, options) }
+  static flopShuffle({ key, size = 6, entry = false } = {}) {
+    key = key ?? flopKey(EntriesCollection)
+    const vector = shuffle(EntriesCollection[key], size)
+    return entry ? [ key, vector ] : vector
+  }
 }

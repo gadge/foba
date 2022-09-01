@@ -31,10 +31,9 @@ export class CrostabCollection {
   static MilitaryByCountry2019 = Crostab.from(MilitaryByCountry2019)
   static TeachersCountByYear = Crostab.from(TeachersCountByYear)
 
-  static flopShuffle(options = {}) {
-    const key = options.p ?? flopKey(CrostabCollection)
-    const crostab = CrostabCollection[key]
-    return options.keyed ? pair(key, crostab) : crostab
+  static flopShuffle({ key, entry = false } = {}) {
+    const table = CrostabCollection[key = key ?? flopKey(CrostabCollection)]
+    return entry ? [ key, table ] : table
   }
   static flopHLookUp(options = {}) {
     const key = options.p ?? flopKey(CrostabCollection)
@@ -46,6 +45,8 @@ export class CrostabCollection {
       ? pair(`${key}_${x}`, shuffle(entries, size))
       : shuffle(entries, size)
   }
+
+
 }
 
 
