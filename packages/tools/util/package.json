@@ -1,6 +1,6 @@
 {
   "name": "@foba/util",
-  "version": "0.5.7",
+  "version": "0.6.0",
   "description": "metavariables for testing",
   "main": "./dist/index.cjs",
   "exports": {

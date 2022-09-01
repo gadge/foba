@@ -1,6 +1,6 @@
 {
   "name": "@foba/vector-number",
-  "version": "0.5.7",
+  "version": "0.6.0",
   "description": "metavariables for testing",
   "main": "./dist/index.cjs",
   "exports": {
@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@aryth/rand": "^0.6.8",
-    "@foba/util": "^0.5.7"
+    "@foba/util": "^0.6.0"
   },
   "repository": {
     "type": "git",
