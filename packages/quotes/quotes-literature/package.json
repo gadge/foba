@@ -1,6 +1,6 @@
 {
   "name": "@foba/quotes-literature",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "quotes on literature",
   "main": "./dist/index.cjs",
   "exports": {
@@ -18,7 +18,7 @@
     "test": "node test"
   },
   "dependencies": {
-    "@foba/util-quotes": "^0.6.0"
+    "@foba/util-quotes": "^0.6.1"
   },
   "repository": {
     "type": "git",
